@@ -1,1 +1,352 @@
-
+[
+    {
+        "title": "A genome-scale CRISPRi perturbation atlas of human induced pluripotent stem cells",
+        "source": "Nature Biotechnology",
+        "url": "https://www.nature.com/articles/s41587-026-03199-w",
+        "published_at": "2026-07-01 19:44",
+        "topic": "Genomics & Sequencing"
+    },
+    {
+        "title": "Editor’s pick: Liberate Bio",
+        "source": "Nature Biotechnology",
+        "url": "https://www.nature.com/articles/s41587-026-03201-5",
+        "published_at": "2026-07-01 19:44",
+        "topic": "Peer-Reviewed Research"
+    },
+    {
+        "title": "Editor’s pick: Trogenix",
+        "source": "Nature Biotechnology",
+        "url": "https://www.nature.com/articles/s41587-026-03200-6",
+        "published_at": "2026-07-01 19:44",
+        "topic": "Peer-Reviewed Research"
+    },
+    {
+        "title": "Prime editing for precise genome engineering and modulation of fungal metabolism",
+        "source": "Nature Biotechnology",
+        "url": "https://www.nature.com/articles/s41587-026-03202-4",
+        "published_at": "2026-07-01 19:44",
+        "topic": "Genomics & Sequencing"
+    },
+    {
+        "title": "A retargeted recombinase for precise insertion of large DNA",
+        "source": "Nature Biotechnology",
+        "url": "https://www.nature.com/articles/s41587-026-03198-x",
+        "published_at": "2026-07-01 19:44",
+        "topic": "Peer-Reviewed Research"
+    },
+    {
+        "title": "Experiment-guided AlphaFold3 resolves measurement-consistent protein ensembles",
+        "source": "Nature Biotechnology",
+        "url": "https://www.nature.com/articles/s41587-026-03166-5",
+        "published_at": "2026-07-01 19:44",
+        "topic": "Protein Engineering"
+    },
+    {
+        "title": "Retargeted serine integrases for one-step, precise integration of large DNA sequences in human cells",
+        "source": "Nature Biotechnology",
+        "url": "https://www.nature.com/articles/s41587-026-03186-1",
+        "published_at": "2026-07-01 19:44",
+        "topic": "Peer-Reviewed Research"
+    },
+    {
+        "title": "Mapping the spatial landscape of extracellular vesicles in tissues with Spatial-EV-seq",
+        "source": "Nature Biotechnology",
+        "url": "https://www.nature.com/articles/s41587-026-03206-0",
+        "published_at": "2026-07-01 19:44",
+        "topic": "Peer-Reviewed Research"
+    },
+    {
+        "title": "In Huntington’s Mouse, Optogenetic Activation of VIP Neurons Restores Brain Function",
+        "source": "GEN (Genetic Engineering & Biotechnology News)",
+        "url": "https://www.genengnews.com/topics/translational-medicine/in-huntingtons-mouse-optogenetic-activation-of-vip-neurons-restores-brain-function/",
+        "published_at": "2026-07-01 18:56",
+        "topic": "Biotech Innovation & Methods"
+    },
+    {
+        "title": "Biological Order Emerges from Tissue Boundaries, Drives Embryo Development",
+        "source": "GEN (Genetic Engineering & Biotechnology News)",
+        "url": "https://www.genengnews.com/topics/drug-discovery/biological-order-emerges-from-tissue-boundaries-drives-embryo-development/",
+        "published_at": "2026-07-01 18:47",
+        "topic": "Biotech Innovation & Methods"
+    },
+    {
+        "title": "Digitize or Fall Behind",
+        "source": "GEN (Genetic Engineering & Biotechnology News)",
+        "url": "https://www.genengnews.com/topics/bioprocessing/digitize-or-fall-behind/",
+        "published_at": "2026-07-01 16:00",
+        "topic": "Biotech Innovation & Methods"
+    },
+    {
+        "title": "Standardizing Personalized CRISPR Gene-Editing Therapies",
+        "source": "GEN (Genetic Engineering & Biotechnology News)",
+        "url": "https://www.genengnews.com/topics/bioprocessing/standardizing-personalized-crispr-gene-editing-therapies/",
+        "published_at": "2026-07-01 16:00",
+        "topic": "Biotech Innovation & Methods"
+    },
+    {
+        "title": "Blueprint to Fill the Manufacturing Talent Gap",
+        "source": "GEN (Genetic Engineering & Biotechnology News)",
+        "url": "https://www.genengnews.com/topics/bioprocessing/a-blueprint-to-fill-the-manufacturing-talent-gap/",
+        "published_at": "2026-07-01 16:00",
+        "topic": "Biotech Innovation & Methods"
+    },
+    {
+        "title": "Trait Combining Key to More Effective Vector Production Hosts",
+        "source": "GEN (Genetic Engineering & Biotechnology News)",
+        "url": "https://www.genengnews.com/topics/bioprocessing/combining-traits-is-the-key-to-more-effective-vector-production-hosts/",
+        "published_at": "2026-07-01 16:00",
+        "topic": "Genomics & Sequencing"
+    },
+    {
+        "title": "Cytiva Completes Doubling of Utah Site’s Liquid Media Production Capacity",
+        "source": "GEN (Genetic Engineering & Biotechnology News)",
+        "url": "https://www.genengnews.com/topics/bioprocessing/cytiva-completes-doubling-of-utah-sites-liquid-media-production-capacity/",
+        "published_at": "2026-06-30 21:56",
+        "topic": "Biotech Innovation & Methods"
+    },
+    {
+        "title": "Scientists discover a completely different way to fight viruses",
+        "source": "ScienceDaily Biotech",
+        "url": "https://www.sciencedaily.com/releases/2026/06/260630020534.htm",
+        "published_at": "2026-06-30 20:18",
+        "topic": "Research Summaries"
+    },
+    {
+        "title": "Claude Science Is Here, Antibiotics Designed by Text Prompt Among Applications",
+        "source": "GEN (Genetic Engineering & Biotechnology News)",
+        "url": "https://www.genengnews.com/topics/artificial-intelligence/claude-science-is-here-antibiotics-designed-by-text-prompt-among-applications/",
+        "published_at": "2026-06-30 18:11",
+        "topic": "Biotech Innovation & Methods"
+    },
+    {
+        "title": "iPSC-Derived Retinal Endothelial Cells Offer Platform for Studying Diseases",
+        "source": "GEN (Genetic Engineering & Biotechnology News)",
+        "url": "https://www.genengnews.com/topics/translational-medicine/ipsc-derived-retinal-endothelial-cells-offer-platform-for-studying-diseases/",
+        "published_at": "2026-06-30 17:22",
+        "topic": "Stem Cells & Regenerative Med"
+    },
+    {
+        "title": "New Agentic Capabilities for Tasks Across the Complete Research Workflow",
+        "source": "GEN (Genetic Engineering & Biotechnology News)",
+        "url": "https://www.genengnews.com/topics/artificial-intelligence/new-agentic-capabilities-for-tasks-across-the-complete-research-workflow/",
+        "published_at": "2026-06-30 12:00",
+        "topic": "Biotech Innovation & Methods"
+    },
+    {
+        "title": "Why South Africa’s leopards shrank to half their normal size",
+        "source": "ScienceDaily Biotech",
+        "url": "https://www.sciencedaily.com/releases/2026/06/260623083113.htm",
+        "published_at": "2026-06-24 12:00",
+        "topic": "Genomics & Sequencing"
+    },
+    {
+        "title": "Scientists finally solved how H5N1 bird flu hid in dairy cows",
+        "source": "ScienceDaily Biotech",
+        "url": "https://www.sciencedaily.com/releases/2026/06/260620100315.htm",
+        "published_at": "2026-06-23 14:31",
+        "topic": "Genomics & Sequencing"
+    },
+    {
+        "title": "Scientists just discovered how queen bees are really made",
+        "source": "ScienceDaily Biotech",
+        "url": "https://www.sciencedaily.com/releases/2026/06/260623083101.htm",
+        "published_at": "2026-06-23 12:31",
+        "topic": "Research Summaries"
+    },
+    {
+        "title": "The secret language behind animal cooperation",
+        "source": "ScienceDaily Biotech",
+        "url": "https://www.sciencedaily.com/releases/2026/06/260619101328.htm",
+        "published_at": "2026-06-20 05:23",
+        "topic": "Research Summaries"
+    },
+    {
+        "title": "This giant tropical fruit could help reverse gum disease damage",
+        "source": "ScienceDaily Biotech",
+        "url": "https://www.sciencedaily.com/releases/2026/06/260618041508.htm",
+        "published_at": "2026-06-19 05:59",
+        "topic": "Research Summaries"
+    },
+    {
+        "title": "Scientists found a way to explain bird flocks that “defy” Newton’s third law",
+        "source": "ScienceDaily Biotech",
+        "url": "https://www.sciencedaily.com/releases/2026/06/260615033843.htm",
+        "published_at": "2026-06-16 11:28",
+        "topic": "Research Summaries"
+    },
+    {
+        "title": "Scientists turned red lettuce green and something surprising happened",
+        "source": "ScienceDaily Biotech",
+        "url": "https://www.sciencedaily.com/releases/2026/06/260614011854.htm",
+        "published_at": "2026-06-15 08:57",
+        "topic": "Genomics & Sequencing"
+    },
+    {
+        "title": "The ocean's health may depend on a tiny microbe inside fish",
+        "source": "ScienceDaily Biotech",
+        "url": "https://www.sciencedaily.com/releases/2026/05/260530053414.htm",
+        "published_at": "2026-05-31 11:52",
+        "topic": "Genomics & Sequencing"
+    },
+    {
+        "title": "MIT scientists discover amino acid that helps the gut heal itself",
+        "source": "ScienceDaily Biotech",
+        "url": "https://www.sciencedaily.com/releases/2026/05/260520233223.htm",
+        "published_at": "2026-05-21 04:40",
+        "topic": "Stem Cells & Regenerative Med"
+    },
+    {
+        "title": "A rare cancer-fighting plant compound has been decoded",
+        "source": "ScienceDaily Biotech",
+        "url": "https://www.sciencedaily.com/releases/2026/05/260512213836.htm",
+        "published_at": "2026-05-13 01:45",
+        "topic": "Research Summaries"
+    },
+    {
+        "title": "Scientists say this algae could remove microplastics from drinking water",
+        "source": "ScienceDaily Biotech",
+        "url": "https://www.sciencedaily.com/releases/2026/05/260511213201.htm",
+        "published_at": "2026-05-12 11:16",
+        "topic": "Research Summaries"
+    },
+    {
+        "title": "Scientists successfully transfer longevity gene and extend lifespan",
+        "source": "ScienceDaily Biotech",
+        "url": "https://www.sciencedaily.com/releases/2026/05/260510030948.htm",
+        "published_at": "2026-05-10 11:27",
+        "topic": "Research Summaries"
+    },
+    {
+        "title": "What scientists found inside coral reefs could change the future of medicine",
+        "source": "ScienceDaily Biotech",
+        "url": "https://www.sciencedaily.com/releases/2026/05/260506225229.htm",
+        "published_at": "2026-05-08 04:10",
+        "topic": "Research Summaries"
+    },
+    {
+        "title": "Scientists find natural compounds that hit COVID-19 from every angle",
+        "source": "ScienceDaily Biotech",
+        "url": "https://www.sciencedaily.com/releases/2026/05/260506225217.htm",
+        "published_at": "2026-05-08 01:39",
+        "topic": "Research Summaries"
+    },
+    {
+        "title": "Scientists accidentally discover DNA that breaks the rules of life",
+        "source": "ScienceDaily Biotech",
+        "url": "https://www.sciencedaily.com/releases/2026/05/260507024045.htm",
+        "published_at": "2026-05-07 07:01",
+        "topic": "Genomics & Sequencing"
+    },
+    {
+        "title": "Scientists boost strawberry flavor and nutrition without changing growth",
+        "source": "ScienceDaily Biotech",
+        "url": "https://www.sciencedaily.com/releases/2026/05/260504023855.htm",
+        "published_at": "2026-05-05 22:25",
+        "topic": "Research Summaries"
+    },
+    {
+        "title": "Don’t toss cannabis leaves: Scientists found rare compounds with medical potential",
+        "source": "ScienceDaily Biotech",
+        "url": "https://www.sciencedaily.com/releases/2026/05/260501002156.htm",
+        "published_at": "2026-05-01 04:36",
+        "topic": "Research Summaries"
+    },
+    {
+        "title": "Scientists stunned as bacteria rewire DNA machinery to shape cells",
+        "source": "ScienceDaily Biotech",
+        "url": "https://www.sciencedaily.com/releases/2026/04/260420014733.htm",
+        "published_at": "2026-04-20 10:18",
+        "topic": "Research Summaries"
+    },
+    {
+        "title": "Light makes plants stronger but also holds them back",
+        "source": "ScienceDaily Biotech",
+        "url": "https://www.sciencedaily.com/releases/2026/04/260413043123.htm",
+        "published_at": "2026-04-13 12:52",
+        "topic": "Research Summaries"
+    },
+    {
+        "title": "Life on Mars? Tiny cells just survived shock waves and toxic soil",
+        "source": "ScienceDaily Biotech",
+        "url": "https://www.sciencedaily.com/releases/2026/04/260411022033.htm",
+        "published_at": "2026-04-12 07:00",
+        "topic": "Research Summaries"
+    },
+    {
+        "title": "Dragonflies can see a color humans can’t and it could change medicine",
+        "source": "ScienceDaily Biotech",
+        "url": "https://www.sciencedaily.com/releases/2026/04/260409101059.htm",
+        "published_at": "2026-04-09 14:10",
+        "topic": "Research Summaries"
+    },
+    {
+        "title": "Your DNA has a secret “second code” that decides which genes get silenced",
+        "source": "ScienceDaily Biotech",
+        "url": "https://www.sciencedaily.com/releases/2026/04/260408225946.htm",
+        "published_at": "2026-04-09 08:32",
+        "topic": "Research Summaries"
+    },
+    {
+        "title": "Scientists just uncovered the secret behind nature’s “proton highway”",
+        "source": "ScienceDaily Biotech",
+        "url": "https://www.sciencedaily.com/releases/2026/04/260407193915.htm",
+        "published_at": "2026-04-08 02:20",
+        "topic": "Research Summaries"
+    },
+    {
+        "title": "Scientists discover hidden “winds” inside cells that could explain cancer spread",
+        "source": "ScienceDaily Biotech",
+        "url": "https://www.sciencedaily.com/releases/2026/03/260331001102.htm",
+        "published_at": "2026-04-01 10:32",
+        "topic": "Research Summaries"
+    },
+    {
+        "title": "Scientists uncovered the nutrients bees were missing — Colonies surged 15-fold",
+        "source": "ScienceDaily Biotech",
+        "url": "https://www.sciencedaily.com/releases/2026/03/260327000518.htm",
+        "published_at": "2026-03-27 04:17",
+        "topic": "Research Summaries"
+    },
+    {
+        "title": "What you do in midlife could reveal how long you’ll live",
+        "source": "ScienceDaily Biotech",
+        "url": "https://www.sciencedaily.com/releases/2026/03/260325005914.htm",
+        "published_at": "2026-03-26 11:18",
+        "topic": "Research Summaries"
+    },
+    {
+        "title": "Scientists found a bug that generates its own heat in freezing cold",
+        "source": "ScienceDaily Biotech",
+        "url": "https://www.sciencedaily.com/releases/2026/03/260326011455.htm",
+        "published_at": "2026-03-26 05:26",
+        "topic": "Research Summaries"
+    },
+    {
+        "title": "Hidden antibiotics in river fish spark new food safety fears",
+        "source": "ScienceDaily Biotech",
+        "url": "https://www.sciencedaily.com/releases/2026/03/260321012638.htm",
+        "published_at": "2026-03-22 00:48",
+        "topic": "Research Summaries"
+    },
+    {
+        "title": "Scientists discover tiny rocket engines inside malaria parasites",
+        "source": "ScienceDaily Biotech",
+        "url": "https://www.sciencedaily.com/releases/2026/03/260318033111.htm",
+        "published_at": "2026-03-19 11:19",
+        "topic": "Research Summaries"
+    },
+    {
+        "title": "Scientists recreated a dinosaur nest to solve a 70-million-year-old mystery",
+        "source": "ScienceDaily Biotech",
+        "url": "https://www.sciencedaily.com/releases/2026/03/260319005102.htm",
+        "published_at": "2026-03-19 04:58",
+        "topic": "Research Summaries"
+    },
+    {
+        "title": "Scientists just discovered bull sharks have friends",
+        "source": "ScienceDaily Biotech",
+        "url": "https://www.sciencedaily.com/releases/2026/03/260317064436.htm",
+        "published_at": "2026-03-18 01:20",
+        "topic": "Research Summaries"
+    }
+]
