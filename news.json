@@ -1,1 +1,240 @@
-{}
+[
+    {
+        "title": "Merck scraps a Phase 2 Alzheimer's asset from partner Neuphoria",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/merck-scraps-a-phase-2-alzheimers-asset-from-partner-neuphoria/",
+        "published_at": "2026-07-01 18:13",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "FDA warns Genzyme's Irish site over quality questions",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-warns-genzymes-irish-site-over-quality-questions/",
+        "published_at": "2026-07-01 18:07",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "WuXi AppTec seeks injunction over China military list",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/wuxi-apptec-files-injunction-over-china-military-list/",
+        "published_at": "2026-07-01 17:52",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "FDA approves Orca Bio’s cell therapy to improve transplant outcomes",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-approves-orca-bios-cell-therapy-to-improve-transplant-outcomes/",
+        "published_at": "2026-07-01 15:44",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "BridgeBio adds $1B as it prepares three more drug launches",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/bridgebio-adds-1b-as-it-prepares-three-more-drug-launches/",
+        "published_at": "2026-07-01 14:29",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Ipsen to buy Swiss biotech Memo Therapeutics in potential $800M deal",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/ipsen-memo-acquisition-rare-disease-virus-deal/824207/",
+        "published_at": "2026-07-01 13:51",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "92Bio revives a T cell engager it had transferred to Amgen",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/92bio-revives-a-t-cell-engager-it-had-transferred-to-amgen/",
+        "published_at": "2026-07-01 13:30",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Angitia ends Phase 3 in disc disease; Abivax targets $800M on colitis data",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/angitia-ends-phase-3-in-disc-disease-abivax-raises-800m-on-colitis-data/",
+        "published_at": "2026-07-01 13:29",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Ipsen to scoop up Memo Therapeutics and its kidney infection drug",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/ipsen-to-scoop-up-memo-therapeutics-and-its-kidney-infection-drug/",
+        "published_at": "2026-07-01 11:12",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "A June flourish lifts biotech megaround tally in first half of 2026",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/with-a-june-flourish-biotech-megarounds-rebound-in-first-half-of-2026/",
+        "published_at": "2026-07-01 11:00",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Ipsen’s $450M blood cancer drug; FDA selects first cohort for “pre-check” pilot program",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/ipsen-kartos-acquisition-astrazeneca-beone-fda/823954/",
+        "published_at": "2026-06-30 20:57",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "FDA reviewers oppose allowing seven peptides for compounding",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-reviewers-oppose-allowing-seven-peptides-for-compounding/",
+        "published_at": "2026-06-30 17:16",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Anthropic debuts Claude Science, an AI product for bioscience",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/anthropic-debuts-claude-science-an-ai-product-for-bioscience/",
+        "published_at": "2026-06-30 17:15",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Eli Lilly, Fujifilm among seven selected for FDA’s PreCheck pilot",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/eli-lilly-fujifilm-among-seven-selected-for-fdas-precheck-pilot/",
+        "published_at": "2026-06-30 17:12",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "AbbVie and Genmab's latest win brings Epkinly closer to label expansion",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/abbvie-and-genmabs-latest-win-brings-epkinly-closer-to-label-expansion/",
+        "published_at": "2026-06-30 16:49",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Abivax aims to set cancer concerns with ulcerative colitis drug to rest",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/abivax-aims-to-set-cancer-concerns-with-ulcerative-colitis-drug-to-rest/",
+        "published_at": "2026-06-30 15:38",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Viridian may have edge over Amgen in eye drug showdown, analysts argue",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/thyroid-eye-disease-market-expands-approval-lumvoa-viridian/824069/",
+        "published_at": "2026-06-30 15:33",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Health AI caution crosses into confidence",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/health-ai-caution-crosses-into-confidence/",
+        "published_at": "2026-06-30 15:09",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "FDA's acting director of cell and gene therapies to leave position",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fdas-acting-director-of-cell-and-gene-therapies-to-leave-position/",
+        "published_at": "2026-06-30 14:47",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Sarepta's FDA decision date; Flare gets Anna Protopapas as CEO",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/sareptas-fda-decision-date-flare-gets-anna-protopapas-as-ceo/",
+        "published_at": "2026-06-30 14:43",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Beeline ups its Series A round for immune drug work",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/beeline-series-a-extension-bain-bristol-myers/824091/",
+        "published_at": "2026-06-30 14:22",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Top FDA gene and cell therapy regulator to step down",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/top-fda-gene-cell-therapy-regulator-step-down/824093/",
+        "published_at": "2026-06-30 13:48",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Nominations are open for the 2026 Endpoints 11 awards",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/nominations-are-open-for-the-2026-endpoints-11-awards/",
+        "published_at": "2026-06-30 13:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "How mental health chatbots are trained on therapy sessions",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/how-mental-health-chatbots-are-trained-on-therapy-sessions/",
+        "published_at": "2026-06-30 13:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Unicycive gets second CRL for kidney drug as manufacturing woes continue",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/unicycive-gets-second-crl-for-kidney-drug-as-manufacturing-woes-continue/",
+        "published_at": "2026-06-30 12:55",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Sanofi’s Lumizyme successor passes Phase 3 test in babies with Pompe disease",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/sanofis-lumizyme-successor-passes-phase-3-test-in-babies-with-pompe-disease/",
+        "published_at": "2026-06-30 11:08",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Beeline adds $126M to Bain-backed immunology pipeline from Bristol Myers",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/beeline-adds-126m-to-bain-backed-immunology-pipeline-from-bristol-myers/",
+        "published_at": "2026-06-30 11:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "BeOne’s Brukinsa succeeds in frontline mantle cell lymphoma study",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/beones-brukinsa-succeeds-in-frontline-mantle-cell-lymphoma-study/",
+        "published_at": "2026-06-30 10:00",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "House China panel probes Bristol Myers, Pfizer on use of trial sites",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/house-china-panel-probes-bristol-myers-about-use-of-china-trial-sites/",
+        "published_at": "2026-06-30 10:00",
+        "category": "Vaccines & mRNA"
+    },
+    {
+        "title": "Theravance, after clinical setbacks, agrees to $929M buyout",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/theravance-clinical-setback-929-million-buyout/823952/",
+        "published_at": "2026-06-29 12:42",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "10 clinical trials to watch in the second half of 2026",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/biotech-pharma-clinical-trials-watch-2026/808255/",
+        "published_at": "2026-06-29 11:00",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "FDA accepts Replimune filing; Merck KGaA drops $11B on life sciences services",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/revolution-replimune-lilly-otsuka-definium-merck-biotech-news/823768/",
+        "published_at": "2026-06-26 15:53",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "At BIO, tension over China biotech deal regulation looms",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/bio-2026-us-china-biotech-competition/823723/",
+        "published_at": "2026-06-26 15:49",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Alkermes’ incoming CEO has a plan to outplay Lilly and Takeda",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/alkermes-blair-jackson-narcolepsy-drug-orexin-ceo-succession/823893/",
+        "published_at": "2026-06-26 13:46",
+        "category": "Mergers & Acquisitions"
+    }
+]
