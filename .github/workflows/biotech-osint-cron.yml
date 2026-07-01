@@ -2,46 +2,37 @@ name: Biotech OSINT Data Updater
 
 on:
   schedule:
-    # سيتم تشغيل السكريبت تلقائياً كل ساعة (0 * * * *)
-    # يمكنك تعديله ليعمل كل 5 دقائق مثلاً إذا أردت سرعة أكبر كالتالي: */5 * * * *
-    # ملاحظة: جيتهاب قد يتأخر قليلاً في تشغيل المهام المجانية دقيقة أو دقيقتين وهذا طبيعي
     - cron: '0 * * * *'
-  workflow_dispatch: # تتيح لك زر لتشغيل السكريبت يدوياً في أي وقت للتجربة
+  workflow_dispatch:
 
 jobs:
   update-data:
     runs-on: ubuntu-latest
 
     steps:
-    # 1. نسخ ملفات المستودع لداخل سيرفر جيتهاب
     - name: Checkout Repository
       uses: actions/checkout@v4
 
-    # 2. إعداد بيئة بايثون داخل السيرفر
     - name: Set up Python
-      uses: actions/checkout@v4
+      uses: actions/setup-python@v4
       with:
         python-version: '3.10'
 
-    # 3. تثبيت المكتبة اللازمة للجلب والتفكيك (feedparser)
     - name: Install Dependencies
       run: |
         python -m pip install --upgrade pip
         pip install feedparser
 
-    # 4. تشغيل سكريبت الأخبار وسكريبت المقالات
     - name: Run Fetch Scripts
       run: |
-        python fetch_news.py
+        python news-fetch.py
         python fetch_articles.py
 
-    # 5. رفع ملفات الـ JSON المحدثة إلى المستودع تلقائياً
     - name: Commit and Push Updates
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
         
-        # التحقق مما إذا كانت هناك تغييرات فعلاً لتفادي حدوث خطأ عند عدم وجود أخبار جديدة
         git add news.json articles.json
         if git diff --staged --quiet; then
           echo "No new updates found."
