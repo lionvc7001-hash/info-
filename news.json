@@ -1,5 +1,19 @@
 [
     {
+        "title": "When clinical AI gets real",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/when-clinical-ai-gets-real/",
+        "published_at": "2026-07-03 01:59",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Scribe Therapeutics files for IPO in test of appetite for early-stage biotechs",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/scribe-therapeutics-files-for-ipo-in-test-of-appetite-for-early-stage-biotechs/",
+        "published_at": "2026-07-02 22:20",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
         "title": "Sandoz launches direct-to-consumer platform with growth disorder drug",
         "source": "Endpoints News",
         "url": "https://endpoints.news/sandoz-launches-direct-to-consumer-platform-with-growth-disorder-drug/",
@@ -200,20 +214,6 @@
         "source": "Endpoints News",
         "url": "https://endpoints.news/fda-reviewers-oppose-allowing-seven-peptides-for-compounding/",
         "published_at": "2026-06-30 17:16",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Anthropic debuts Claude Science, an AI product for bioscience",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/anthropic-debuts-claude-science-an-ai-product-for-bioscience/",
-        "published_at": "2026-06-30 17:15",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Eli Lilly, Fujifilm among seven selected for FDA’s PreCheck pilot",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/eli-lilly-fujifilm-among-seven-selected-for-fdas-precheck-pilot/",
-        "published_at": "2026-06-30 17:12",
         "category": "FDA & Regulatory"
     },
     {
