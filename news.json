@@ -1,5 +1,75 @@
 [
     {
+        "title": "CMS proposes 340B cuts",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/cms-proposes-340b-cuts/",
+        "published_at": "2026-07-06 18:25",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "FDA approves 23 new drugs in first half, overcoming staff-cut concerns",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-approves-23-new-drugs-in-first-half-overcoming-staff-cut-concerns/",
+        "published_at": "2026-07-06 17:27",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "New CDER appointment elevates longtime GLP-1 reviewer",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/new-cder-appointment-elevates-longtime-glp-1-reviewer/",
+        "published_at": "2026-07-06 17:05",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Bristol Myers details Krazati confirmatory study failure in colorectal cancer",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/bristol-myers-details-krazati-confirmatory-study-failure-in-colorectal-cancer/",
+        "published_at": "2026-07-06 14:59",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Roche aims to bolster breast cancer pipeline with early-stage Astex deal",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/roche-aims-to-bolster-breast-cancer-pipeline-with-early-stage-astex-deal/",
+        "published_at": "2026-07-06 14:53",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Apogee details path to $10.9B AbbVie deal; UK starts drug pricing pilot",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/apogee-details-path-to-10-9b-abbvie-deal-uk-starts-drug-pricing-pilot/",
+        "published_at": "2026-07-06 14:46",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Gene editing developer Scribe plots an IPO",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/scribe-gene-editing-ipo-listing/824469/",
+        "published_at": "2026-07-06 14:45",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Cancer, immune drugmakers dominate VC funding so far in 2026",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/cancer-immune-venture-funding-2026/824250/",
+        "published_at": "2026-07-06 13:19",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Salk Institute’s president on NIH cuts, ‘all in’ on AI, and the Year of the Brain",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/salk-institutes-president-on-nih-cuts-all-in-on-ai-and-the-year-of-the-brain/",
+        "published_at": "2026-07-06 13:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Beyond Boston: Unlikely cities stake biotech claims",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/unlikely-biotech-hubs-boston-vegas-oklahoma-pennsylvania/824445/",
+        "published_at": "2026-07-06 12:56",
+        "category": "Clinical Trials & R&D"
+    },
+    {
         "title": "Novartis commits $1.1B upfront to take Myricx Bio and its next-gen ADC platform",
         "source": "Endpoints News",
         "url": "https://endpoints.news/novartis-commits-1-1b-upfront-to-take-myricx-bio-and-its-next-gen-adc-platform/",
@@ -133,27 +203,6 @@
         "category": "Clinical Trials"
     },
     {
-        "title": "FDA warns Genzyme's Irish site over quality questions",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-warns-genzymes-irish-site-over-quality-questions/",
-        "published_at": "2026-07-01 18:07",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "WuXi AppTec seeks injunction over China military list",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/wuxi-apptec-files-injunction-over-china-military-list/",
-        "published_at": "2026-07-01 17:52",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "FDA approves Orca Bio’s cell therapy to improve transplant outcomes",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-approves-orca-bios-cell-therapy-to-improve-transplant-outcomes/",
-        "published_at": "2026-07-01 15:44",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
         "title": "BridgeBio gets funding for drug launch; United buys into cell therapy",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/bridgebio-united-thymmune-otsuka-fda-casgevy/824197/",
@@ -161,32 +210,11 @@
         "category": "Gene Editing & CRISPR"
     },
     {
-        "title": "BridgeBio adds $1B as it prepares three more drug launches",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/bridgebio-adds-1b-as-it-prepares-three-more-drug-launches/",
-        "published_at": "2026-07-01 14:29",
-        "category": "Mergers & Acquisitions"
-    },
-    {
         "title": "Ipsen to buy Swiss biotech Memo Therapeutics in potential $800M deal",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/ipsen-memo-acquisition-rare-disease-virus-deal/824207/",
         "published_at": "2026-07-01 13:51",
         "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "92Bio revives a T cell engager it had transferred to Amgen",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/92bio-revives-a-t-cell-engager-it-had-transferred-to-amgen/",
-        "published_at": "2026-07-01 13:30",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Angitia ends Phase 3 in disc disease; Abivax targets $800M on colitis data",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/angitia-ends-phase-3-in-disc-disease-abivax-raises-800m-on-colitis-data/",
-        "published_at": "2026-07-01 13:29",
-        "category": "Clinical Trials"
     },
     {
         "title": "5 FDA decisions to watch in the third quarter of 2026",
@@ -203,38 +231,10 @@
         "category": "Immunotherapy & Oncology"
     },
     {
-        "title": "Ipsen to scoop up Memo Therapeutics and its kidney infection drug",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/ipsen-to-scoop-up-memo-therapeutics-and-its-kidney-infection-drug/",
-        "published_at": "2026-07-01 11:12",
-        "category": "Mergers & Acquisitions"
-    },
-    {
         "title": "Ipsen’s $450M blood cancer drug; FDA selects first cohort for “pre-check” pilot program",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/ipsen-kartos-acquisition-astrazeneca-beone-fda/823954/",
         "published_at": "2026-06-30 20:57",
         "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Viridian may have edge over Amgen in eye drug showdown, analysts argue",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/thyroid-eye-disease-market-expands-approval-lumvoa-viridian/824069/",
-        "published_at": "2026-06-30 15:33",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "These biotechs just landed big fundraising hauls. Here’s what they pitched to investors.",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/biotech-large-haul-fundraising-drug-pharma/824183/",
-        "published_at": "2026-06-30 14:56",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Beeline ups its Series A round for immune drug work",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/beeline-series-a-extension-bain-bristol-myers/824091/",
-        "published_at": "2026-06-30 14:22",
-        "category": "Mergers & Acquisitions"
     }
 ]
