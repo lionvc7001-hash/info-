@@ -1,5 +1,61 @@
 [
     {
+        "title": "HHS lays groundwork for new FDA rule on releasing the CRLs",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/hhs-lays-groundwork-for-new-fda-rule-on-releasing-the-crls/",
+        "published_at": "2026-07-08 16:04",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "AstraZeneca, GSK intensify China ties with Sino Biopharm deals",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/astrazeneca-gsk-china-biotech-deals-sinopharm/824679/",
+        "published_at": "2026-07-08 15:58",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Sanofi offers to end disparaging claims against CSL flu shot in Europe",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/sanofi-offers-to-end-disparaging-claims-against-csl-flu-shot-in-europe/",
+        "published_at": "2026-07-08 15:13",
+        "category": "Vaccines & mRNA"
+    },
+    {
+        "title": "Novartis cuts New Jersey jobs; OTR, LG Chem explore China cancer drugs",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/novartis-cuts-new-jersey-jobs-otr-lg-chem-explore-china-cancer-drugs/",
+        "published_at": "2026-07-08 14:30",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Biohaven looks to take on Lilly in the muscle-sparing obesity space",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/biohaven-looks-to-take-on-lilly-in-the-muscle-sparing-obesity-space/",
+        "published_at": "2026-07-08 14:26",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Prime wins gene editing dispute; Saol claims latest post-Makary FDA reversal",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/prime-beam-aatd-saol-fda-ema-daraxonrasib-cyllene/824574/",
+        "published_at": "2026-07-08 13:07",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Sino Biopharm hooks AstraZeneca, GSK for separate respiratory partnerships",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/sino-biopharm-hooks-astrazeneca-gsk-for-separate-respiratory-partnerships/",
+        "published_at": "2026-07-08 10:56",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Satellos gives early look at Duchenne pill in adults ahead of key data in children",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/satellos-early-look-at-duchenne-pill-in-adults-ahead-of-key-data-in-children/",
+        "published_at": "2026-07-08 10:30",
+        "category": "Clinical Trials"
+    },
+    {
         "title": "Vertex's Crinetics deal points to big ambitions for cystic fibrosis leader",
         "source": "Endpoints News",
         "url": "https://endpoints.news/vertexs-crinetics-deal-points-to-big-ambitions-for-cystic-fibrosis-leader/",
@@ -82,6 +138,13 @@
         "url": "https://endpoints.news/how-digital-health-companies-are-planning-to-conquer-cms-access/",
         "published_at": "2026-07-07 13:00",
         "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Vera Therapeutics wins FDA nod for closely watched kidney disease drug",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/vera-fda-approve-trutakna-IgAN-kidney-disease-atacicept/824620/",
+        "published_at": "2026-07-07 11:47",
+        "category": "FDA & Regulatory"
     },
     {
         "title": "French gene therapy biotech gets €33M to follow Krystal's blueprint",
@@ -173,68 +236,5 @@
         "url": "https://www.biopharmadive.com/news/unlikely-biotech-hubs-boston-vegas-oklahoma-pennsylvania/824445/",
         "published_at": "2026-07-06 12:56",
         "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Novartis commits $1.1B upfront to take Myricx Bio and its next-gen ADC platform",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/novartis-commits-1-1b-upfront-to-take-myricx-bio-and-its-next-gen-adc-platform/",
-        "published_at": "2026-07-06 10:46",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Anthropic launches Claude Science; House China panel probes trial sites; and more",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/anthropic-launches-claude-science-house-china-panel-probes-trial-sites-and-more/",
-        "published_at": "2026-07-04 10:00",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "When clinical AI gets real",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/when-clinical-ai-gets-real/",
-        "published_at": "2026-07-03 01:59",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Scribe Therapeutics files for IPO in test of appetite for early-stage biotechs",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/scribe-therapeutics-files-for-ipo-in-test-of-appetite-for-early-stage-biotechs/",
-        "published_at": "2026-07-02 22:20",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Sandoz launches direct-to-consumer platform with growth disorder drug",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/sandoz-launches-direct-to-consumer-platform-with-growth-disorder-drug/",
-        "published_at": "2026-07-02 17:35",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "After landmark deal, AstraZeneca goes to CSPC again in up to $1.7B pact",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/after-landmark-deal-astrazeneca-goes-to-cspc-again-in-up-to-1-7b-pact/",
-        "published_at": "2026-07-02 17:06",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "A PureTech startup banks $180M for a new IPF drug",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/celea-puretech-idiopathic-pulmonary-fibrosis-raise/824330/",
-        "published_at": "2026-07-02 15:04",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Roche KRAS drug succeeds in head-to-head lung cancer study",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/roche-kras-lung-cancer-data-head-to-head/824344/",
-        "published_at": "2026-07-02 14:19",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "BridgeBio gets funding for drug launch; United buys into cell therapy",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/bridgebio-united-thymmune-otsuka-fda-casgevy/824197/",
-        "published_at": "2026-07-01 15:29",
-        "category": "Gene Editing & CRISPR"
     }
 ]
