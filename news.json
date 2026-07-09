@@ -1,6 +1,69 @@
 [
     {
-        "title": "AstraZeneca sinks on unexpected heart drug trial failure",
+        "title": "GSK ends brain drug alliance with Alector",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/gsk-alector-deal-end-terminate-brain-drugs-neuroscience/824815/",
+        "published_at": "2026-07-09 15:45",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "FDA quietly stops releasing CRLs",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-quietly-stops-releasing-crls/",
+        "published_at": "2026-07-09 15:05",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "The biggest health tech stories of 2026 — so far",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/the-biggest-health-tech-stories-of-2026-so-far/",
+        "published_at": "2026-07-09 14:52",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Ipsen succeeds in migraine trials; Tarsus buys iRenix for $75M upfront",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/ipsen-succeeds-in-migraine-trials-tarsus-buys-irenix-for-75m-upfront/",
+        "published_at": "2026-07-09 14:36",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Eli Lilly dominates first-half biotech acquisitions, with no sign of slowing down",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/eli-lilly-dominates-first-half-biotech-acquisitions-with-no-sign-of-slowing/",
+        "published_at": "2026-07-09 14:00",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Catalent to divest UK site; Rottendorf, Evonik announce manufacturing builds",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/catalent-to-divest-uk-site-rottendorf-evonik-announce-manufacturing-builds/",
+        "published_at": "2026-07-09 13:43",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "HHS plan to speed drug research won’t remove ‘self-inflicted’ delays",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/hhss-plan-speed-drug-rd-pharma-ai-drug/824759/",
+        "published_at": "2026-07-09 12:40",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "AstraZeneca, Ionis drug fails big heart disease study in major setback",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/astrazeneca-ionis-eplontersen-ttr-cardiomyopathy-study-results-failure/824799/",
+        "published_at": "2026-07-09 11:54",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "GSK walks away from Alector pact as immuno-neurology bet fizzles",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/gsk-walks-away-from-alector-pact-as-immuno-neurology-bet-fizzles/",
+        "published_at": "2026-07-09 10:51",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Updated: AstraZeneca sinks on unexpected heart drug trial failure",
         "source": "Endpoints News",
         "url": "https://endpoints.news/astrazeneca-sinks-on-unexpected-heart-drug-trial-failure/",
         "published_at": "2026-07-09 07:58",
@@ -14,7 +77,7 @@
         "category": "Gene Editing & CRISPR"
     },
     {
-        "title": "HHS lays groundwork for new FDA rule on releasing the CRLs",
+        "title": "HHS lays groundwork for new FDA rule on releasing CRLs",
         "source": "Endpoints News",
         "url": "https://endpoints.news/hhs-lays-groundwork-for-new-fda-rule-on-releasing-the-crls/",
         "published_at": "2026-07-08 16:04",
@@ -168,73 +231,10 @@
         "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "Vertex makes $10B deal for commercial endocrinology biotech Crinetics",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/vertex-makes-10b-deal-for-commercial-endocrinology-biotech-crinetics/",
-        "published_at": "2026-07-06 20:27",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "CMS proposes 340B cuts",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/cms-proposes-340b-cuts/",
-        "published_at": "2026-07-06 18:25",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "FDA approves 23 new drugs in first half, overcoming staff-cut concerns",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-approves-23-new-drugs-in-first-half-overcoming-staff-cut-concerns/",
-        "published_at": "2026-07-06 17:27",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "New CDER appointment elevates longtime GLP-1 reviewer",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/new-cder-appointment-elevates-longtime-glp-1-reviewer/",
-        "published_at": "2026-07-06 17:05",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Bristol Myers details Krazati confirmatory study failure in colorectal cancer",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/bristol-myers-details-krazati-confirmatory-study-failure-in-colorectal-cancer/",
-        "published_at": "2026-07-06 14:59",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Roche aims to bolster breast cancer pipeline with early-stage Astex deal",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/roche-aims-to-bolster-breast-cancer-pipeline-with-early-stage-astex-deal/",
-        "published_at": "2026-07-06 14:53",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
         "title": "Gene editing developer Scribe plots an IPO",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/scribe-gene-editing-ipo-listing/824469/",
         "published_at": "2026-07-06 14:45",
         "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Novartis to acquire ADC developer in a deal worth up to $1.5B",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/novartis-acquire-adc-developer-myricx-deal-15b/824450/",
-        "published_at": "2026-07-06 13:42",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Cancer, immune drugmakers dominate VC funding so far in 2026",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/cancer-immune-venture-funding-2026/824250/",
-        "published_at": "2026-07-06 13:19",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Beyond Boston: Unlikely cities stake biotech claims",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/unlikely-biotech-hubs-boston-vegas-oklahoma-pennsylvania/824445/",
-        "published_at": "2026-07-06 12:56",
-        "category": "Clinical Trials & R&D"
     }
 ]
