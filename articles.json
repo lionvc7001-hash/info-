@@ -1,352 +1,240 @@
 [
     {
-        "title": "A genome-scale CRISPRi perturbation atlas of human induced pluripotent stem cells",
-        "source": "Nature Biotechnology",
-        "url": "https://www.nature.com/articles/s41587-026-03199-w",
-        "published_at": "2026-07-01 19:44",
-        "topic": "Genomics & Sequencing"
+        "title": "Roche scraps two Ionis-partnered Huntington’s drugs",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/roche-tominersen-rg6496-huntington-end-development/824844/",
+        "published_at": "2026-07-09 20:53",
+        "category": "Clinical Trials"
     },
     {
-        "title": "Editor’s pick: Liberate Bio",
-        "source": "Nature Biotechnology",
-        "url": "https://www.nature.com/articles/s41587-026-03201-5",
-        "published_at": "2026-07-01 19:44",
-        "topic": "Peer-Reviewed Research"
+        "title": "ARPA-H bookmarks $160M for custom gene editing treatments. Is it enough?",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/arpa-h-bookmarks-160m-for-custom-gene-editing-treatments-is-it-enough/",
+        "published_at": "2026-07-09 19:20",
+        "category": "Gene Editing & CRISPR"
     },
     {
-        "title": "Editor’s pick: Trogenix",
-        "source": "Nature Biotechnology",
-        "url": "https://www.nature.com/articles/s41587-026-03200-6",
-        "published_at": "2026-07-01 19:44",
-        "topic": "Peer-Reviewed Research"
+        "title": "HHS advances plan to pay out Covid-19 vaccine injury claims",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/hhs-advances-plan-to-pay-out-covid-19-vaccine-injury-claims/",
+        "published_at": "2026-07-09 18:58",
+        "category": "Vaccines & mRNA"
     },
     {
-        "title": "Prime editing for precise genome engineering and modulation of fungal metabolism",
-        "source": "Nature Biotechnology",
-        "url": "https://www.nature.com/articles/s41587-026-03202-4",
-        "published_at": "2026-07-01 19:44",
-        "topic": "Genomics & Sequencing"
+        "title": "Roche ends work on tominersen after decade of trials, as well as early-stage Huntington’s asset",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/roche-ends-work-on-tominersen-after-decade-of-trials-as-well-as-early-stage-huntingtons-asset/",
+        "published_at": "2026-07-09 18:17",
+        "category": "Clinical Trials"
     },
     {
-        "title": "A retargeted recombinase for precise insertion of large DNA",
-        "source": "Nature Biotechnology",
-        "url": "https://www.nature.com/articles/s41587-026-03198-x",
-        "published_at": "2026-07-01 19:44",
-        "topic": "Peer-Reviewed Research"
+        "title": "UK price watchdog recommends against Amgen's Lumakras in lung cancer",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/uk-price-watchdog-recommends-against-amgens-lumakras-in-lung-cancer/",
+        "published_at": "2026-07-09 17:52",
+        "category": "Immunotherapy & Oncology"
     },
     {
-        "title": "Experiment-guided AlphaFold3 resolves measurement-consistent protein ensembles",
-        "source": "Nature Biotechnology",
-        "url": "https://www.nature.com/articles/s41587-026-03166-5",
-        "published_at": "2026-07-01 19:44",
-        "topic": "Protein Engineering"
+        "title": "FDA criticizes Lundbeck for now-deleted webpages on migraine treatment",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-criticizes-lundbeck-for-now-deleted-webpages-on-migraine-treatment/",
+        "published_at": "2026-07-09 17:50",
+        "category": "Clinical Trials"
     },
     {
-        "title": "Retargeted serine integrases for one-step, precise integration of large DNA sequences in human cells",
-        "source": "Nature Biotechnology",
-        "url": "https://www.nature.com/articles/s41587-026-03186-1",
-        "published_at": "2026-07-01 19:44",
-        "topic": "Peer-Reviewed Research"
+        "title": "GSK ends brain drug alliance with Alector",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/gsk-alector-deal-end-terminate-brain-drugs-neuroscience/824815/",
+        "published_at": "2026-07-09 15:45",
+        "category": "Mergers & Acquisitions"
     },
     {
-        "title": "Mapping the spatial landscape of extracellular vesicles in tissues with Spatial-EV-seq",
-        "source": "Nature Biotechnology",
-        "url": "https://www.nature.com/articles/s41587-026-03206-0",
-        "published_at": "2026-07-01 19:44",
-        "topic": "Peer-Reviewed Research"
+        "title": "FDA quietly stops releasing CRLs",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-quietly-stops-releasing-crls/",
+        "published_at": "2026-07-09 15:05",
+        "category": "FDA & Regulatory"
     },
     {
-        "title": "In Huntington’s Mouse, Optogenetic Activation of VIP Neurons Restores Brain Function",
-        "source": "GEN (Genetic Engineering & Biotechnology News)",
-        "url": "https://www.genengnews.com/topics/translational-medicine/in-huntingtons-mouse-optogenetic-activation-of-vip-neurons-restores-brain-function/",
-        "published_at": "2026-07-01 18:56",
-        "topic": "Biotech Innovation & Methods"
+        "title": "The biggest health tech stories of 2026 — so far",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/the-biggest-health-tech-stories-of-2026-so-far/",
+        "published_at": "2026-07-09 14:52",
+        "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "Biological Order Emerges from Tissue Boundaries, Drives Embryo Development",
-        "source": "GEN (Genetic Engineering & Biotechnology News)",
-        "url": "https://www.genengnews.com/topics/drug-discovery/biological-order-emerges-from-tissue-boundaries-drives-embryo-development/",
-        "published_at": "2026-07-01 18:47",
-        "topic": "Biotech Innovation & Methods"
+        "title": "Ipsen succeeds in migraine trials; Tarsus buys iRenix for $75M upfront",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/ipsen-succeeds-in-migraine-trials-tarsus-buys-irenix-for-75m-upfront/",
+        "published_at": "2026-07-09 14:36",
+        "category": "Clinical Trials"
     },
     {
-        "title": "Digitize or Fall Behind",
-        "source": "GEN (Genetic Engineering & Biotechnology News)",
-        "url": "https://www.genengnews.com/topics/bioprocessing/digitize-or-fall-behind/",
-        "published_at": "2026-07-01 16:00",
-        "topic": "Biotech Innovation & Methods"
+        "title": "Eli Lilly dominates first-half biotech acquisitions, with no sign of slowing down",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/eli-lilly-dominates-first-half-biotech-acquisitions-with-no-sign-of-slowing/",
+        "published_at": "2026-07-09 14:00",
+        "category": "Mergers & Acquisitions"
     },
     {
-        "title": "Standardizing Personalized CRISPR Gene-Editing Therapies",
-        "source": "GEN (Genetic Engineering & Biotechnology News)",
-        "url": "https://www.genengnews.com/topics/bioprocessing/standardizing-personalized-crispr-gene-editing-therapies/",
-        "published_at": "2026-07-01 16:00",
-        "topic": "Biotech Innovation & Methods"
+        "title": "Catalent to divest UK site; Rottendorf, Evonik announce manufacturing builds",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/catalent-to-divest-uk-site-rottendorf-evonik-announce-manufacturing-builds/",
+        "published_at": "2026-07-09 13:43",
+        "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "Blueprint to Fill the Manufacturing Talent Gap",
-        "source": "GEN (Genetic Engineering & Biotechnology News)",
-        "url": "https://www.genengnews.com/topics/bioprocessing/a-blueprint-to-fill-the-manufacturing-talent-gap/",
-        "published_at": "2026-07-01 16:00",
-        "topic": "Biotech Innovation & Methods"
+        "title": "HHS plan to speed drug research won’t remove ‘self-inflicted’ delays",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/hhss-plan-speed-drug-rd-pharma-ai-drug/824759/",
+        "published_at": "2026-07-09 12:40",
+        "category": "Clinical Trials"
     },
     {
-        "title": "Trait Combining Key to More Effective Vector Production Hosts",
-        "source": "GEN (Genetic Engineering & Biotechnology News)",
-        "url": "https://www.genengnews.com/topics/bioprocessing/combining-traits-is-the-key-to-more-effective-vector-production-hosts/",
-        "published_at": "2026-07-01 16:00",
-        "topic": "Genomics & Sequencing"
+        "title": "AstraZeneca, Ionis drug fails big heart disease study in major setback",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/astrazeneca-ionis-eplontersen-ttr-cardiomyopathy-study-results-failure/824799/",
+        "published_at": "2026-07-09 11:54",
+        "category": "Clinical Trials & R&D"
     },
     {
-        "title": "Cytiva Completes Doubling of Utah Site’s Liquid Media Production Capacity",
-        "source": "GEN (Genetic Engineering & Biotechnology News)",
-        "url": "https://www.genengnews.com/topics/bioprocessing/cytiva-completes-doubling-of-utah-sites-liquid-media-production-capacity/",
-        "published_at": "2026-06-30 21:56",
-        "topic": "Biotech Innovation & Methods"
+        "title": "GSK walks away from Alector pact as immuno-neurology bet fizzles",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/gsk-walks-away-from-alector-pact-as-immuno-neurology-bet-fizzles/",
+        "published_at": "2026-07-09 10:51",
+        "category": "Mergers & Acquisitions"
     },
     {
-        "title": "Scientists discover a completely different way to fight viruses",
-        "source": "ScienceDaily Biotech",
-        "url": "https://www.sciencedaily.com/releases/2026/06/260630020534.htm",
-        "published_at": "2026-06-30 20:18",
-        "topic": "Research Summaries"
+        "title": "Updated: AstraZeneca sinks on unexpected heart drug trial failure",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/astrazeneca-sinks-on-unexpected-heart-drug-trial-failure/",
+        "published_at": "2026-07-09 07:58",
+        "category": "Clinical Trials"
     },
     {
-        "title": "Claude Science Is Here, Antibiotics Designed by Text Prompt Among Applications",
-        "source": "GEN (Genetic Engineering & Biotechnology News)",
-        "url": "https://www.genengnews.com/topics/artificial-intelligence/claude-science-is-here-antibiotics-designed-by-text-prompt-among-applications/",
-        "published_at": "2026-06-30 18:11",
-        "topic": "Biotech Innovation & Methods"
+        "title": "Prime Medicine wins spat with Beam Therapeutics over AATD candidate",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/prime-medicine-wins-spat-with-beam-therapeutics-over-aatd-candidate/",
+        "published_at": "2026-07-08 17:52",
+        "category": "Gene Editing & CRISPR"
     },
     {
-        "title": "iPSC-Derived Retinal Endothelial Cells Offer Platform for Studying Diseases",
-        "source": "GEN (Genetic Engineering & Biotechnology News)",
-        "url": "https://www.genengnews.com/topics/translational-medicine/ipsc-derived-retinal-endothelial-cells-offer-platform-for-studying-diseases/",
-        "published_at": "2026-06-30 17:22",
-        "topic": "Stem Cells & Regenerative Med"
+        "title": "HHS lays groundwork for new FDA rule on releasing CRLs",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/hhs-lays-groundwork-for-new-fda-rule-on-releasing-the-crls/",
+        "published_at": "2026-07-08 16:04",
+        "category": "FDA & Regulatory"
     },
     {
-        "title": "New Agentic Capabilities for Tasks Across the Complete Research Workflow",
-        "source": "GEN (Genetic Engineering & Biotechnology News)",
-        "url": "https://www.genengnews.com/topics/artificial-intelligence/new-agentic-capabilities-for-tasks-across-the-complete-research-workflow/",
-        "published_at": "2026-06-30 12:00",
-        "topic": "Biotech Innovation & Methods"
+        "title": "AstraZeneca, GSK intensify China ties with Sino Biopharm deals",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/astrazeneca-gsk-china-biotech-deals-sinopharm/824679/",
+        "published_at": "2026-07-08 15:58",
+        "category": "Mergers & Acquisitions"
     },
     {
-        "title": "Why South Africa’s leopards shrank to half their normal size",
-        "source": "ScienceDaily Biotech",
-        "url": "https://www.sciencedaily.com/releases/2026/06/260623083113.htm",
-        "published_at": "2026-06-24 12:00",
-        "topic": "Genomics & Sequencing"
+        "title": "Sanofi offers to end disparaging claims against CSL flu shot in Europe",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/sanofi-offers-to-end-disparaging-claims-against-csl-flu-shot-in-europe/",
+        "published_at": "2026-07-08 15:13",
+        "category": "Vaccines & mRNA"
     },
     {
-        "title": "Scientists finally solved how H5N1 bird flu hid in dairy cows",
-        "source": "ScienceDaily Biotech",
-        "url": "https://www.sciencedaily.com/releases/2026/06/260620100315.htm",
-        "published_at": "2026-06-23 14:31",
-        "topic": "Genomics & Sequencing"
+        "title": "Novartis cuts New Jersey jobs; OTR, LG Chem explore China cancer drugs",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/novartis-cuts-new-jersey-jobs-otr-lg-chem-explore-china-cancer-drugs/",
+        "published_at": "2026-07-08 14:30",
+        "category": "Immunotherapy & Oncology"
     },
     {
-        "title": "Scientists just discovered how queen bees are really made",
-        "source": "ScienceDaily Biotech",
-        "url": "https://www.sciencedaily.com/releases/2026/06/260623083101.htm",
-        "published_at": "2026-06-23 12:31",
-        "topic": "Research Summaries"
+        "title": "Biohaven looks to take on Lilly in the muscle-sparing obesity space",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/biohaven-looks-to-take-on-lilly-in-the-muscle-sparing-obesity-space/",
+        "published_at": "2026-07-08 14:26",
+        "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "The secret language behind animal cooperation",
-        "source": "ScienceDaily Biotech",
-        "url": "https://www.sciencedaily.com/releases/2026/06/260619101328.htm",
-        "published_at": "2026-06-20 05:23",
-        "topic": "Research Summaries"
+        "title": "Prime wins gene editing dispute; Saol claims latest post-Makary FDA reversal",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/prime-beam-aatd-saol-fda-ema-daraxonrasib-cyllene/824574/",
+        "published_at": "2026-07-08 13:07",
+        "category": "Gene Editing & CRISPR"
     },
     {
-        "title": "This giant tropical fruit could help reverse gum disease damage",
-        "source": "ScienceDaily Biotech",
-        "url": "https://www.sciencedaily.com/releases/2026/06/260618041508.htm",
-        "published_at": "2026-06-19 05:59",
-        "topic": "Research Summaries"
+        "title": "Sino Biopharm hooks AstraZeneca, GSK for separate respiratory partnerships",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/sino-biopharm-hooks-astrazeneca-gsk-for-separate-respiratory-partnerships/",
+        "published_at": "2026-07-08 10:56",
+        "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "Scientists found a way to explain bird flocks that “defy” Newton’s third law",
-        "source": "ScienceDaily Biotech",
-        "url": "https://www.sciencedaily.com/releases/2026/06/260615033843.htm",
-        "published_at": "2026-06-16 11:28",
-        "topic": "Research Summaries"
+        "title": "Satellos gives early look at Duchenne pill in adults ahead of key data in children",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/satellos-early-look-at-duchenne-pill-in-adults-ahead-of-key-data-in-children/",
+        "published_at": "2026-07-08 10:30",
+        "category": "Clinical Trials"
     },
     {
-        "title": "Scientists turned red lettuce green and something surprising happened",
-        "source": "ScienceDaily Biotech",
-        "url": "https://www.sciencedaily.com/releases/2026/06/260614011854.htm",
-        "published_at": "2026-06-15 08:57",
-        "topic": "Genomics & Sequencing"
+        "title": "Vertex's Crinetics deal points to big ambitions for cystic fibrosis leader",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/vertexs-crinetics-deal-points-to-big-ambitions-for-cystic-fibrosis-leader/",
+        "published_at": "2026-07-07 18:47",
+        "category": "Mergers & Acquisitions"
     },
     {
-        "title": "The ocean's health may depend on a tiny microbe inside fish",
-        "source": "ScienceDaily Biotech",
-        "url": "https://www.sciencedaily.com/releases/2026/05/260530053414.htm",
-        "published_at": "2026-05-31 11:52",
-        "topic": "Genomics & Sequencing"
+        "title": "Tampa General kicks off legal fight over Lilly's 340B restrictions",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/tampa-general-kicks-off-legal-fight-over-lillys-340b-restrictions/",
+        "published_at": "2026-07-07 18:22",
+        "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "MIT scientists discover amino acid that helps the gut heal itself",
-        "source": "ScienceDaily Biotech",
-        "url": "https://www.sciencedaily.com/releases/2026/05/260520233223.htm",
-        "published_at": "2026-05-21 04:40",
-        "topic": "Stem Cells & Regenerative Med"
+        "title": "Vera's IgAN approval kicks off competition with Otsuka",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/veras-igan-approval-kicks-off-competition-with-otsuka/",
+        "published_at": "2026-07-07 18:10",
+        "category": "FDA & Regulatory"
     },
     {
-        "title": "A rare cancer-fighting plant compound has been decoded",
-        "source": "ScienceDaily Biotech",
-        "url": "https://www.sciencedaily.com/releases/2026/05/260512213836.htm",
-        "published_at": "2026-05-13 01:45",
-        "topic": "Research Summaries"
+        "title": "Oberland pours up to $400M into MeiraGTx eye gene therapies",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/meiragtx-oberland-royalty-financing-eye-gene-therapy/824567/",
+        "published_at": "2026-07-07 16:17",
+        "category": "Mergers & Acquisitions"
     },
     {
-        "title": "Scientists say this algae could remove microplastics from drinking water",
-        "source": "ScienceDaily Biotech",
-        "url": "https://www.sciencedaily.com/releases/2026/05/260511213201.htm",
-        "published_at": "2026-05-12 11:16",
-        "topic": "Research Summaries"
+        "title": "Kailera says obesity pill succeeds in late-stage trial in China",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/kailera-hengrui-obesity-pill-china-study-results/824570/",
+        "published_at": "2026-07-07 15:59",
+        "category": "Clinical Trials"
     },
     {
-        "title": "Scientists successfully transfer longevity gene and extend lifespan",
-        "source": "ScienceDaily Biotech",
-        "url": "https://www.sciencedaily.com/releases/2026/05/260510030948.htm",
-        "published_at": "2026-05-10 11:27",
-        "topic": "Research Summaries"
+        "title": "Compass Pathways touts durability data for psilocybin drug in depression ahead of year-end filing",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/compass-touts-durability-data-for-psilocybin-drug-in-depression-ahead-of-year-end-filing/",
+        "published_at": "2026-07-07 15:27",
+        "category": "Clinical Trials"
     },
     {
-        "title": "What scientists found inside coral reefs could change the future of medicine",
-        "source": "ScienceDaily Biotech",
-        "url": "https://www.sciencedaily.com/releases/2026/05/260506225229.htm",
-        "published_at": "2026-05-08 04:10",
-        "topic": "Research Summaries"
+        "title": "Hengrui, Kailera's GLP-1 pill posts encouraging efficacy but high side effect rates in late-stage China trials",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/hengrui-kaileras-glp-1-pill-posts-encouraging-efficacy-but-high-side-effect-rates-in-late-stage-china-trials/",
+        "published_at": "2026-07-07 15:25",
+        "category": "Clinical Trials"
     },
     {
-        "title": "Scientists find natural compounds that hit COVID-19 from every angle",
-        "source": "ScienceDaily Biotech",
-        "url": "https://www.sciencedaily.com/releases/2026/05/260506225217.htm",
-        "published_at": "2026-05-08 01:39",
-        "topic": "Research Summaries"
+        "title": "Vertex to acquire Crinetics in $10B foray into endocrine disease drugs",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/vertex-crinetics-acquire-deal-palsonify-acromegaly/824545/",
+        "published_at": "2026-07-07 13:39",
+        "category": "Mergers & Acquisitions"
     },
     {
-        "title": "Scientists accidentally discover DNA that breaks the rules of life",
-        "source": "ScienceDaily Biotech",
-        "url": "https://www.sciencedaily.com/releases/2026/05/260507024045.htm",
-        "published_at": "2026-05-07 07:01",
-        "topic": "Genomics & Sequencing"
-    },
-    {
-        "title": "Scientists boost strawberry flavor and nutrition without changing growth",
-        "source": "ScienceDaily Biotech",
-        "url": "https://www.sciencedaily.com/releases/2026/05/260504023855.htm",
-        "published_at": "2026-05-05 22:25",
-        "topic": "Research Summaries"
-    },
-    {
-        "title": "Don’t toss cannabis leaves: Scientists found rare compounds with medical potential",
-        "source": "ScienceDaily Biotech",
-        "url": "https://www.sciencedaily.com/releases/2026/05/260501002156.htm",
-        "published_at": "2026-05-01 04:36",
-        "topic": "Research Summaries"
-    },
-    {
-        "title": "Scientists stunned as bacteria rewire DNA machinery to shape cells",
-        "source": "ScienceDaily Biotech",
-        "url": "https://www.sciencedaily.com/releases/2026/04/260420014733.htm",
-        "published_at": "2026-04-20 10:18",
-        "topic": "Research Summaries"
-    },
-    {
-        "title": "Light makes plants stronger but also holds them back",
-        "source": "ScienceDaily Biotech",
-        "url": "https://www.sciencedaily.com/releases/2026/04/260413043123.htm",
-        "published_at": "2026-04-13 12:52",
-        "topic": "Research Summaries"
-    },
-    {
-        "title": "Life on Mars? Tiny cells just survived shock waves and toxic soil",
-        "source": "ScienceDaily Biotech",
-        "url": "https://www.sciencedaily.com/releases/2026/04/260411022033.htm",
-        "published_at": "2026-04-12 07:00",
-        "topic": "Research Summaries"
-    },
-    {
-        "title": "Dragonflies can see a color humans can’t and it could change medicine",
-        "source": "ScienceDaily Biotech",
-        "url": "https://www.sciencedaily.com/releases/2026/04/260409101059.htm",
-        "published_at": "2026-04-09 14:10",
-        "topic": "Research Summaries"
-    },
-    {
-        "title": "Your DNA has a secret “second code” that decides which genes get silenced",
-        "source": "ScienceDaily Biotech",
-        "url": "https://www.sciencedaily.com/releases/2026/04/260408225946.htm",
-        "published_at": "2026-04-09 08:32",
-        "topic": "Research Summaries"
-    },
-    {
-        "title": "Scientists just uncovered the secret behind nature’s “proton highway”",
-        "source": "ScienceDaily Biotech",
-        "url": "https://www.sciencedaily.com/releases/2026/04/260407193915.htm",
-        "published_at": "2026-04-08 02:20",
-        "topic": "Research Summaries"
-    },
-    {
-        "title": "Scientists discover hidden “winds” inside cells that could explain cancer spread",
-        "source": "ScienceDaily Biotech",
-        "url": "https://www.sciencedaily.com/releases/2026/03/260331001102.htm",
-        "published_at": "2026-04-01 10:32",
-        "topic": "Research Summaries"
-    },
-    {
-        "title": "Scientists uncovered the nutrients bees were missing — Colonies surged 15-fold",
-        "source": "ScienceDaily Biotech",
-        "url": "https://www.sciencedaily.com/releases/2026/03/260327000518.htm",
-        "published_at": "2026-03-27 04:17",
-        "topic": "Research Summaries"
-    },
-    {
-        "title": "What you do in midlife could reveal how long you’ll live",
-        "source": "ScienceDaily Biotech",
-        "url": "https://www.sciencedaily.com/releases/2026/03/260325005914.htm",
-        "published_at": "2026-03-26 11:18",
-        "topic": "Research Summaries"
-    },
-    {
-        "title": "Scientists found a bug that generates its own heat in freezing cold",
-        "source": "ScienceDaily Biotech",
-        "url": "https://www.sciencedaily.com/releases/2026/03/260326011455.htm",
-        "published_at": "2026-03-26 05:26",
-        "topic": "Research Summaries"
-    },
-    {
-        "title": "Hidden antibiotics in river fish spark new food safety fears",
-        "source": "ScienceDaily Biotech",
-        "url": "https://www.sciencedaily.com/releases/2026/03/260321012638.htm",
-        "published_at": "2026-03-22 00:48",
-        "topic": "Research Summaries"
-    },
-    {
-        "title": "Scientists discover tiny rocket engines inside malaria parasites",
-        "source": "ScienceDaily Biotech",
-        "url": "https://www.sciencedaily.com/releases/2026/03/260318033111.htm",
-        "published_at": "2026-03-19 11:19",
-        "topic": "Research Summaries"
-    },
-    {
-        "title": "Scientists recreated a dinosaur nest to solve a 70-million-year-old mystery",
-        "source": "ScienceDaily Biotech",
-        "url": "https://www.sciencedaily.com/releases/2026/03/260319005102.htm",
-        "published_at": "2026-03-19 04:58",
-        "topic": "Research Summaries"
-    },
-    {
-        "title": "Scientists just discovered bull sharks have friends",
-        "source": "ScienceDaily Biotech",
-        "url": "https://www.sciencedaily.com/releases/2026/03/260317064436.htm",
-        "published_at": "2026-03-18 01:20",
-        "topic": "Research Summaries"
+        "title": "Vera Therapeutics wins FDA nod for closely watched kidney disease drug",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/vera-fda-approve-trutakna-IgAN-kidney-disease-atacicept/824620/",
+        "published_at": "2026-07-07 11:47",
+        "category": "FDA & Regulatory"
     }
 ]
