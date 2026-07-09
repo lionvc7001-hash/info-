@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BioWire — Biotech & Pharma Intelligence</title>
+<meta name="description" content="A real-time feed of breaking biotech and pharmaceutical news and analysis.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Fraunces:opsz,wght@9..144,500;9..144,600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="#" aria-label="BENews home">
+        <span class="brand-mark">🧬</span>
+        <span class="brand-text">BE <span class="accent"> News</span></span>
+      </a>
+
+      <div class="search-wrap">
+        <svg class="search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+          <circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="2"/>
+          <path d="M21 21L16.65 16.65" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        </svg>
+        <input id="searchInput" type="search" placeholder="Search headlines, sources, topics…" aria-label="Search the feed">
+      </div>
+
+      <div class="header-actions">
+        <span id="lastUpdated" class="last-updated" aria-live="polite"></span>
+        <button id="refreshBtn" class="icon-btn" type="button" title="Refresh feed" aria-label="Refresh feed">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M21 12a9 9 0 1 1-2.64-6.36M21 4v5h-5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+        <button id="themeToggle" class="icon-btn" type="button" title="Toggle theme" aria-label="Toggle light and dark theme">
+          <span id="themeIcon">☀️</span>
+        </button>
+      </div>
+    </div>
+
+    <div class="filter-bar">
+      <div class="tabs" id="viewTabs" role="tablist">
+        <button class="tab active" data-view="all" role="tab" aria-selected="true">All</button>
+        <button class="tab" data-view="news" role="tab" aria-selected="false">🔥 Breaking News</button>
+        <button class="tab" data-view="articles" role="tab" aria-selected="false">📚 Articles</button>
+        <button class="tab" data-view="saved" role="tab" aria-selected="false">★ Saved <span id="savedCount" class="count-pill">0</span></button>
+      </div>
+
+      <div class="filter-right">
+        <div class="chip-row" id="categoryChips" aria-label="Filter by topic"></div>
+        <select id="sortSelect" class="sort-select" aria-label="Sort order">
+          <option value="newest">Newest first</option>
+          <option value="oldest">Oldest first</option>
+          <option value="source">Source A–Z</option>
+        </select>
+      </div>
+    </div>
+  </header>
+
+  <!-- MAIN -->
+  <main class="container">
+
+    <section id="featuredWrap" class="featured-wrap hidden">
+      <div class="section-label">Top Story</div>
+      <article id="featured" class="featured"></article>
+    </section>
+
+    <div class="results-meta">
+      <span id="resultsCount"></span>
+      <span id="demoBadge" class="demo-badge hidden">Showing sample data — connect articles.json &amp; news.json for live content</span>
+    </div>
+
+    <div id="skeletonGrid" class="feed-grid" aria-hidden="true"></div>
+
+    <div id="feedGrid" class="feed-grid hidden"></div>
+
+    <div id="emptyState" class="empty-state hidden">
+      <div class="empty-icon">🔍</div>
+      <h3>No results found</h3>
+      <p>Try a different search term or clear your filters.</p>
+      <button id="clearFiltersBtn" class="btn-ghost" type="button">Clear filters</button>
+    </div>
+
+    <div id="errorState" class="error-state hidden">
+      <div class="empty-icon">⚠️</div>
+      <h3>Couldn't load the feed</h3>
+      <p>Make sure <code>articles.json</code> and <code>news.json</code> are reachable from this page.</p>
+      <button id="retryBtn" class="btn-primary" type="button">Retry</button>
+    </div>
+
+  </main>
+
+  <footer class="site-footer">
+    <p>BioWire aggregates biotechnology and pharmaceutical news for research and educational purposes.</p>
+  </footer>
+
+  <!-- Article detail modal -->
+  <div id="modalOverlay" class="modal-overlay hidden">
+    <div class="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+      <button id="modalClose" class="modal-close" type="button" aria-label="Close">✕</button>
+      <div id="modalMeta" class="modal-meta"></div>
+      <h2 id="modalTitle" class="modal-title"></h2>
+      <p id="modalDate" class="modal-date"></p>
+      <a id="modalLink" href="#" target="_blank" rel="noopener" class="btn-primary">Read full story →</a>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
