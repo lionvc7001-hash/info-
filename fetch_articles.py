@@ -41,7 +41,7 @@ def determine_precise_category(title, summary, default_cat):
             
     return default_cat
 
-def fetch_osint_news():
+def fetch_osint_articles():
     all_news = []
     
     for source_name, config in FEED_SOURCES.items():
@@ -55,6 +55,8 @@ def fetch_osint_news():
             
             html = urllib.request.urlopen(req, timeout=15).read()
             feed = feedparser.parse(html)
+            
+            print(f"[+] Found {len(feed.entries)} entries from {source_name}")
             
             for entry in feed.entries:
                 title = entry.get("title", "")
@@ -96,11 +98,11 @@ def fetch_osint_news():
         if len(unique_news) >= 50:
             break
 
-    # حفظ النتيجة في ملف news.json
-    with open("news.json", "w", encoding="utf-8") as f:
+    # حفظ النتيجة في ملف articles.json
+    with open("articles.json", "w", encoding="utf-8") as f:
         json.dump(unique_news, f, ensure_ascii=False, indent=4)
         
-    print(f"[+] Done! Saved {len(unique_news)} unique news items to news.json")
+    print(f"[+] Done! Saved {len(unique_news)} unique articles to articles.json")
 
 if __name__ == "__main__":
-    fetch_osint_news()
+    fetch_osint_articles()
