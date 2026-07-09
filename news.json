@@ -1,5 +1,47 @@
 [
     {
+        "title": "Roche scraps two Ionis-partnered Huntington’s drugs",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/roche-tominersen-rg6496-huntington-end-development/824844/",
+        "published_at": "2026-07-09 20:53",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "ARPA-H bookmarks $160M for custom gene editing treatments. Is it enough?",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/arpa-h-bookmarks-160m-for-custom-gene-editing-treatments-is-it-enough/",
+        "published_at": "2026-07-09 19:20",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "HHS advances plan to pay out Covid-19 vaccine injury claims",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/hhs-advances-plan-to-pay-out-covid-19-vaccine-injury-claims/",
+        "published_at": "2026-07-09 18:58",
+        "category": "Vaccines & mRNA"
+    },
+    {
+        "title": "Roche ends work on tominersen after decade of trials, as well as early-stage Huntington’s asset",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/roche-ends-work-on-tominersen-after-decade-of-trials-as-well-as-early-stage-huntingtons-asset/",
+        "published_at": "2026-07-09 18:17",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "UK price watchdog recommends against Amgen's Lumakras in lung cancer",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/uk-price-watchdog-recommends-against-amgens-lumakras-in-lung-cancer/",
+        "published_at": "2026-07-09 17:52",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "FDA criticizes Lundbeck for now-deleted webpages on migraine treatment",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-criticizes-lundbeck-for-now-deleted-webpages-on-migraine-treatment/",
+        "published_at": "2026-07-09 17:50",
+        "category": "Clinical Trials"
+    },
+    {
         "title": "GSK ends brain drug alliance with Alector",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/gsk-alector-deal-end-terminate-brain-drugs-neuroscience/824815/",
@@ -182,27 +224,6 @@
         "category": "Clinical Trials"
     },
     {
-        "title": "Novartis, Vertex and Ipsen extend pharma M&A spree from 2026's first half",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/novartis-vertex-and-ipsen-extend-pharma-ma-spree-from-2026s-first-half/",
-        "published_at": "2026-07-07 14:54",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "MeiraGTx strikes royalty deal; Fore's 2023 Series D continues",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/meiragtx-strikes-royalty-deal-fores-2023-series-d-continues/",
-        "published_at": "2026-07-07 14:38",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Conquering Medicare's ACCESS program",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/conquering-medicares-access-program/",
-        "published_at": "2026-07-07 13:43",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
         "title": "Vertex to acquire Crinetics in $10B foray into endocrine disease drugs",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/vertex-crinetics-acquire-deal-palsonify-acromegaly/824545/",
@@ -210,31 +231,10 @@
         "category": "Mergers & Acquisitions"
     },
     {
-        "title": "How digital health companies are planning to conquer CMS ACCESS",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/how-digital-health-companies-are-planning-to-conquer-cms-access/",
-        "published_at": "2026-07-07 13:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
         "title": "Vera Therapeutics wins FDA nod for closely watched kidney disease drug",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/vera-fda-approve-trutakna-IgAN-kidney-disease-atacicept/824620/",
         "published_at": "2026-07-07 11:47",
         "category": "FDA & Regulatory"
-    },
-    {
-        "title": "French gene therapy biotech gets €33M to follow Krystal's blueprint",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/french-gene-therapy-biotech-gets-e33m-to-follow-krystals-blueprint/",
-        "published_at": "2026-07-07 05:30",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Gene editing developer Scribe plots an IPO",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/scribe-gene-editing-ipo-listing/824469/",
-        "published_at": "2026-07-06 14:45",
-        "category": "Gene Editing & CRISPR"
     }
 ]
