@@ -1,5 +1,61 @@
 [
     {
+        "title": "FDA adds 100+ new CDER employees in a quarter for first time since late 2024",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-adds-100-new-cder-employees-in-a-quarter-for-first-time-since-late-2024/",
+        "published_at": "2026-07-10 16:58",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "US biotechs turn secretive as they fear competition from rising Chinese industry",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/us-biotechs-turn-secretive-as-they-fear-competition-from-rising-chinese-industry/",
+        "published_at": "2026-07-10 16:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "GSK, Hansoh ADC extends survival in lung cancer study",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/gsk-hansoh-china-adc-ris-rez-lung-cancer-results/824931/",
+        "published_at": "2026-07-10 15:42",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "German lawmakers pass cost-saving bill that drugmakers say will drive them out",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/german-lawmakers-pass-cost-saving-bill-that-drugmakers-say-will-drive-them-out/",
+        "published_at": "2026-07-10 15:35",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Hansoh meets Phase 3 SCLC goal; FDA approves Sanofi on-body injector",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/hansoh-meets-phase-3-sclc-goal-fda-approves-sanofi-on-body-injector/",
+        "published_at": "2026-07-10 14:35",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "ARPA-H puts $160M into bespoke drug therapies; Biohaven switches up scientific leadership",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/biohaven-arpa-thrive-tarsus-ipsen-dysport-scipher/824825/",
+        "published_at": "2026-07-10 12:04",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "The data that led Cellular Intelligence to pick up Novo's Parkinson's stem cell therapy",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/the-data-that-led-cellular-intelligence-to-pick-up-novos-parkinsons-stem-cell-therapy/",
+        "published_at": "2026-07-10 11:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Pfizer appoints obesity discovery head; AI startup Xaira makes leadership adjustments",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/pfizer-appoints-obesity-discovery-head-ai-startup-xaira-makes-leadership-adjustments/",
+        "published_at": "2026-07-10 11:00",
+        "category": "Vaccines & mRNA"
+    },
+    {
         "title": "Roche scraps two Ionis-partnered Huntington’s drugs",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/roche-tominersen-rg6496-huntington-end-development/824844/",
@@ -35,7 +91,7 @@
         "category": "Immunotherapy & Oncology"
     },
     {
-        "title": "FDA criticizes Lundbeck for now-deleted webpages on migraine treatment",
+        "title": "FDA criticizes Lundbeck for webpages on migraine treatment Vyepti",
         "source": "Endpoints News",
         "url": "https://endpoints.news/fda-criticizes-lundbeck-for-now-deleted-webpages-on-migraine-treatment/",
         "published_at": "2026-07-09 17:50",
@@ -168,34 +224,6 @@
         "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "Satellos gives early look at Duchenne pill in adults ahead of key data in children",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/satellos-early-look-at-duchenne-pill-in-adults-ahead-of-key-data-in-children/",
-        "published_at": "2026-07-08 10:30",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Vertex's Crinetics deal points to big ambitions for cystic fibrosis leader",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/vertexs-crinetics-deal-points-to-big-ambitions-for-cystic-fibrosis-leader/",
-        "published_at": "2026-07-07 18:47",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Tampa General kicks off legal fight over Lilly's 340B restrictions",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/tampa-general-kicks-off-legal-fight-over-lillys-340b-restrictions/",
-        "published_at": "2026-07-07 18:22",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Vera's IgAN approval kicks off competition with Otsuka",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/veras-igan-approval-kicks-off-competition-with-otsuka/",
-        "published_at": "2026-07-07 18:10",
-        "category": "FDA & Regulatory"
-    },
-    {
         "title": "Oberland pours up to $400M into MeiraGTx eye gene therapies",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/meiragtx-oberland-royalty-financing-eye-gene-therapy/824567/",
@@ -208,33 +236,5 @@
         "url": "https://www.biopharmadive.com/news/kailera-hengrui-obesity-pill-china-study-results/824570/",
         "published_at": "2026-07-07 15:59",
         "category": "Clinical Trials"
-    },
-    {
-        "title": "Compass Pathways touts durability data for psilocybin drug in depression ahead of year-end filing",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/compass-touts-durability-data-for-psilocybin-drug-in-depression-ahead-of-year-end-filing/",
-        "published_at": "2026-07-07 15:27",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Hengrui, Kailera's GLP-1 pill posts encouraging efficacy but high side effect rates in late-stage China trials",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/hengrui-kaileras-glp-1-pill-posts-encouraging-efficacy-but-high-side-effect-rates-in-late-stage-china-trials/",
-        "published_at": "2026-07-07 15:25",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Vertex to acquire Crinetics in $10B foray into endocrine disease drugs",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/vertex-crinetics-acquire-deal-palsonify-acromegaly/824545/",
-        "published_at": "2026-07-07 13:39",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Vera Therapeutics wins FDA nod for closely watched kidney disease drug",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/vera-fda-approve-trutakna-IgAN-kidney-disease-atacicept/824620/",
-        "published_at": "2026-07-07 11:47",
-        "category": "FDA & Regulatory"
     }
 ]
