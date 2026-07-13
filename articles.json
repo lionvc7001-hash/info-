@@ -1,5 +1,54 @@
 [
     {
+        "title": "FDA proposes rule to simplify drugmakers' factory registrations",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-proposes-rule-to-simplify-drugmakers-factory-registrations/",
+        "published_at": "2026-07-13 17:03",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Q32 bounces back to claim study success for alopecia drug",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/q32-bempikibart-alopecia-areata-signal-study-results/825045/",
+        "published_at": "2026-07-13 16:03",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Health tech funding rises to $7.4B in the first half of 2026",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/health-tech-funding-rises-to-7-4b-in-the-first-half-of-2026/",
+        "published_at": "2026-07-13 16:00",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Agenus surges on study pivot; Apnimed lines up an IPO",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/agenus-surges-on-study-pivot-apnimed-lines-up-an-ipo/825023/",
+        "published_at": "2026-07-13 15:46",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Busy M&A activity sets tone as biopharma earnings season kicks off",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/busy-ma-activity-sets-tone-as-biopharma-earnings-season-kicks-off/",
+        "published_at": "2026-07-13 14:38",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Tris Pharma's CRL for narcolepsy drug; Agenus abandons Phase 3 CRC trial",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/tris-pharmas-crl-for-narcolepsy-drug-agenus-abandons-phase-3-crc-trial/",
+        "published_at": "2026-07-13 14:30",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Biotech startup funding gap widens despite rebound in VC investment",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/biotech-venture-capital-funding-2026-first-half/824881/",
+        "published_at": "2026-07-13 10:47",
+        "category": "Mergers & Acquisitions"
+    },
+    {
         "title": "[Podcast] From Protocol to Patient: Inside Clinical Supply with Almac Clinical Services",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/spons/podcast-from-protocol-to-patient-inside-clinical-supply-with-almac-clini/815692/",
@@ -187,54 +236,5 @@
         "url": "https://www.biopharmadive.com/news/astrazeneca-ionis-eplontersen-ttr-cardiomyopathy-study-results-failure/824799/",
         "published_at": "2026-07-09 11:54",
         "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "GSK walks away from Alector pact as immuno-neurology bet fizzles",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/gsk-walks-away-from-alector-pact-as-immuno-neurology-bet-fizzles/",
-        "published_at": "2026-07-09 10:51",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Updated: AstraZeneca sinks on unexpected heart drug trial failure",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/astrazeneca-sinks-on-unexpected-heart-drug-trial-failure/",
-        "published_at": "2026-07-09 07:58",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Prime Medicine wins spat with Beam Therapeutics over AATD candidate",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/prime-medicine-wins-spat-with-beam-therapeutics-over-aatd-candidate/",
-        "published_at": "2026-07-08 17:52",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "HHS lays groundwork for new FDA rule on releasing CRLs",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/hhs-lays-groundwork-for-new-fda-rule-on-releasing-the-crls/",
-        "published_at": "2026-07-08 16:04",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "AstraZeneca, GSK intensify China ties with Sino Biopharm deals",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/astrazeneca-gsk-china-biotech-deals-sinopharm/824679/",
-        "published_at": "2026-07-08 15:58",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Prime wins gene editing dispute; Saol claims latest post-Makary FDA reversal",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/prime-beam-aatd-saol-fda-ema-daraxonrasib-cyllene/824574/",
-        "published_at": "2026-07-08 13:07",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Oberland pours up to $400M into MeiraGTx eye gene therapies",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/meiragtx-oberland-royalty-financing-eye-gene-therapy/824567/",
-        "published_at": "2026-07-07 16:17",
-        "category": "Mergers & Acquisitions"
     }
 ]
