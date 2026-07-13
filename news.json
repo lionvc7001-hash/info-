@@ -1,5 +1,26 @@
 [
     {
+        "title": "Cayman court says Apple Tree general partner should lose control of venture fund",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/cayman-court-says-apple-tree-general-partner-should-lose-control-of-venture-fund/",
+        "published_at": "2026-07-13 19:53",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "FDA finalizes guidance on psychedelics, plans broader hearing",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-finalizes-guidance-on-psychedelics-plans-broader-hearing/",
+        "published_at": "2026-07-13 18:52",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Freenome colorectal cancer test data improve on earlier results",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/freenome-colorectal-cancer-test-data-improve-on-earlier-results/825085/",
+        "published_at": "2026-07-13 18:35",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
         "title": "FDA proposes rule to simplify drugmakers' factory registrations",
         "source": "Endpoints News",
         "url": "https://endpoints.news/fda-proposes-rule-to-simplify-drugmakers-factory-registrations/",
@@ -210,31 +231,10 @@
         "category": "Clinical Trials"
     },
     {
-        "title": "Eli Lilly dominates first-half biotech acquisitions, with no sign of slowing down",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/eli-lilly-dominates-first-half-biotech-acquisitions-with-no-sign-of-slowing/",
-        "published_at": "2026-07-09 14:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Catalent to divest UK site; Rottendorf, Evonik announce manufacturing builds",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/catalent-to-divest-uk-site-rottendorf-evonik-announce-manufacturing-builds/",
-        "published_at": "2026-07-09 13:43",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
         "title": "HHS plan to speed drug research won’t remove ‘self-inflicted’ delays",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/hhss-plan-speed-drug-rd-pharma-ai-drug/824759/",
         "published_at": "2026-07-09 12:40",
         "category": "Clinical Trials"
-    },
-    {
-        "title": "AstraZeneca, Ionis drug fails big heart disease study in major setback",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/astrazeneca-ionis-eplontersen-ttr-cardiomyopathy-study-results-failure/824799/",
-        "published_at": "2026-07-09 11:54",
-        "category": "Clinical Trials & R&D"
     }
 ]
