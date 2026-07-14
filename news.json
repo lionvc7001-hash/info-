@@ -1,5 +1,61 @@
 [
     {
+        "title": "Judge orders Apple Tree partner to forfeit oversight of venture fund",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/apple-tree-partners-cayman-ruling-seth-harrison-startups/825172/",
+        "published_at": "2026-07-14 16:20",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Fresh off buyout, Akero execs reunite to advance long-acting psoriasis pill",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/avere-nextcure-merger-hansoh-china-il23-psoriasis/825151/",
+        "published_at": "2026-07-14 16:00",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "A health tech workaround is under fire",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/a-health-tech-workaround-is-under-fire/",
+        "published_at": "2026-07-14 15:20",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Erasca's $550M offering; Summit sells an antibiotic",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/erascas-550m-offering-summit-sells-an-antibiotic/",
+        "published_at": "2026-07-14 15:09",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Chai Discovery gets $400M, tripling valuation from seven months ago",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/chai-discovery-gets-400m-tripling-valuation-from-seven-months-ago/",
+        "published_at": "2026-07-14 14:39",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Draig bags another $65M to speed testing of brain drugs",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/draig-series-b-ampa-gaba-depression-drugs/825072/",
+        "published_at": "2026-07-14 13:59",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Biogen's tau drug reports mixed Alzheimer's results, as low dose performs better",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/biogens-tau-drug-reports-mixed-alzheimers-results-as-low-dose-performs-better/",
+        "published_at": "2026-07-14 13:15",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Biogen data highlight promise, questions surrounding tau-targeting Alzheimer’s drugs",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/biogen-alzheimers-diranersen-aaic-celia-results-tau/825145/",
+        "published_at": "2026-07-14 13:15",
+        "category": "Clinical Trials & R&D"
+    },
+    {
         "title": "Draig nets $65M to advance depression drug aimed at rebuilding synapses",
         "source": "Endpoints News",
         "url": "https://endpoints.news/draig-nets-65m-to-advance-depression-drug-aimed-at-rebuilding-synapses/",
@@ -175,66 +231,10 @@
         "category": "Clinical Trials"
     },
     {
-        "title": "ARPA-H puts $160M into bespoke drug therapies; Biohaven switches up scientific leadership",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/biohaven-arpa-thrive-tarsus-ipsen-dysport-scipher/824825/",
-        "published_at": "2026-07-10 12:04",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
         "title": "The data that led Cellular Intelligence to pick up Novo's Parkinson's stem cell therapy",
         "source": "Endpoints News",
         "url": "https://endpoints.news/the-data-that-led-cellular-intelligence-to-pick-up-novos-parkinsons-stem-cell-therapy/",
         "published_at": "2026-07-10 11:00",
         "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Pfizer appoints obesity discovery head; AI startup Xaira makes leadership adjustments",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/pfizer-appoints-obesity-discovery-head-ai-startup-xaira-makes-leadership-adjustments/",
-        "published_at": "2026-07-10 11:00",
-        "category": "Vaccines & mRNA"
-    },
-    {
-        "title": "Roche scraps two Ionis-partnered Huntington’s drugs",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/roche-tominersen-rg6496-huntington-end-development/824844/",
-        "published_at": "2026-07-09 20:53",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "ARPA-H bookmarks $160M for custom gene editing treatments. Is it enough?",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/arpa-h-bookmarks-160m-for-custom-gene-editing-treatments-is-it-enough/",
-        "published_at": "2026-07-09 19:20",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "HHS advances plan to pay out Covid-19 vaccine injury claims",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/hhs-advances-plan-to-pay-out-covid-19-vaccine-injury-claims/",
-        "published_at": "2026-07-09 18:58",
-        "category": "Vaccines & mRNA"
-    },
-    {
-        "title": "Roche ends work on tominersen after decade of trials, as well as early-stage Huntington’s asset",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/roche-ends-work-on-tominersen-after-decade-of-trials-as-well-as-early-stage-huntingtons-asset/",
-        "published_at": "2026-07-09 18:17",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "GSK ends brain drug alliance with Alector",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/gsk-alector-deal-end-terminate-brain-drugs-neuroscience/824815/",
-        "published_at": "2026-07-09 15:45",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "HHS plan to speed drug research won’t remove ‘self-inflicted’ delays",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/hhss-plan-speed-drug-rd-pharma-ai-drug/824759/",
-        "published_at": "2026-07-09 12:40",
-        "category": "Clinical Trials"
     }
 ]
