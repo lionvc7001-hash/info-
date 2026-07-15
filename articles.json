@@ -1,5 +1,19 @@
 [
     {
+        "title": "FDA acting chief walks back Makary's practice of policymaking through journals",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-acting-chief-walks-back-makarys-practice-of-policymaking-through-journals/",
+        "published_at": "2026-07-15 19:21",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Senate committee questions CDC pick on political interference over vaccines",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/senate-committee-questions-cdc-pick-on-political-interference-over-vaccines/",
+        "published_at": "2026-07-15 18:46",
+        "category": "Vaccines & mRNA"
+    },
+    {
         "title": "J&J restructures pharma manufacturing footprint at cost of up to $750M",
         "source": "Endpoints News",
         "url": "https://endpoints.news/jj-restructures-pharma-manufacturing-footprint-at-cost-of-up-to-750m/",
@@ -217,24 +231,10 @@
         "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "FDA finalizes guidance on psychedelics, plans broader hearing",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-finalizes-guidance-on-psychedelics-plans-broader-hearing/",
-        "published_at": "2026-07-13 18:52",
-        "category": "FDA & Regulatory"
-    },
-    {
         "title": "Freenome colorectal cancer test data improve on earlier results",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/freenome-colorectal-cancer-test-data-improve-on-earlier-results/825085/",
         "published_at": "2026-07-13 18:35",
         "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "FDA proposes rule to simplify drugmakers' factory registrations",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-proposes-rule-to-simplify-drugmakers-factory-registrations/",
-        "published_at": "2026-07-13 17:03",
-        "category": "FDA & Regulatory"
     }
 ]
