@@ -1,5 +1,68 @@
 [
     {
+        "title": "J&J restructures pharma manufacturing footprint at cost of up to $750M",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/jj-restructures-pharma-manufacturing-footprint-at-cost-of-up-to-750m/",
+        "published_at": "2026-07-15 16:48",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Eli Lilly invests in Oura to support patients on GLP-1 drugs",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/eli-lilly-invests-in-oura-to-support-patients-on-glp-1-drugs/",
+        "published_at": "2026-07-15 16:33",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Celcuity gains FDA approval for closely-watched breast cancer drug",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/celcuity-fda-approve-revtorpyk-breast-cancer/825280/",
+        "published_at": "2026-07-15 16:18",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Merck ADC, in China study, shows potential to replace chemo in lung cancer",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/merck-sac-tmt-lung-cancer-optitrop-lung06-results/825277/",
+        "published_at": "2026-07-15 15:41",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Braveheart, Attovia join next wave of biotech IPOs",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/attovia-braveheart-biotech-ipo-filings-2026/825293/",
+        "published_at": "2026-07-15 15:34",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Radiopharma maker AdvanCell hauls in $315M for Pluvicto challenger",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/radiopharma-maker-advancell-hauls-in-315m-for-pluvicto-challenger/",
+        "published_at": "2026-07-15 15:25",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "J&J touts Icotyde prescriptions, but not sales, in first full quarter",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/jj-touts-icotyde-prescriptions-but-not-sales-in-first-full-quarter/",
+        "published_at": "2026-07-15 14:35",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "J&J dips despite upbeat outlook; AstraZeneca, Spero cut China deals",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/jnj-earnings-astrazeneca-spero-china-chai-advancell-summit/825208/",
+        "published_at": "2026-07-15 13:18",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Nava Therapeutics emerges with $89M for lipid nanoparticles",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/nava-therapeutics-emerges-with-89m-for-lipid-nanoparticles/",
+        "published_at": "2026-07-15 13:00",
+        "category": "Mergers & Acquisitions"
+    },
+    {
         "title": "Braveheart files for IPO to fund Phase 3 of Hengrui's Cytokinetics rival",
         "source": "Endpoints News",
         "url": "https://endpoints.news/braveheart-files-for-ipo-to-fund-phase-3-of-hengruis-cytokinetics-rival/",
@@ -172,69 +235,6 @@
         "source": "Endpoints News",
         "url": "https://endpoints.news/fda-proposes-rule-to-simplify-drugmakers-factory-registrations/",
         "published_at": "2026-07-13 17:03",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Q32 bounces back to claim study success for alopecia drug",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/q32-bempikibart-alopecia-areata-signal-study-results/825045/",
-        "published_at": "2026-07-13 16:03",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Health tech funding rises to $7.4B in the first half of 2026",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/health-tech-funding-rises-to-7-4b-in-the-first-half-of-2026/",
-        "published_at": "2026-07-13 16:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Agenus surges on study pivot; Apnimed lines up an IPO",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/agenus-surges-on-study-pivot-apnimed-lines-up-an-ipo/825023/",
-        "published_at": "2026-07-13 15:46",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Busy M&A activity sets tone as biopharma earnings season kicks off",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/busy-ma-activity-sets-tone-as-biopharma-earnings-season-kicks-off/",
-        "published_at": "2026-07-13 14:38",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Tris Pharma's CRL for narcolepsy drug; Agenus abandons Phase 3 CRC trial",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/tris-pharmas-crl-for-narcolepsy-drug-agenus-abandons-phase-3-crc-trial/",
-        "published_at": "2026-07-13 14:30",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Biotech startup funding gap widens despite rebound in VC investment",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/biotech-venture-capital-funding-2026-first-half/824881/",
-        "published_at": "2026-07-13 10:47",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "[Podcast] From Protocol to Patient: Inside Clinical Supply with Almac Clinical Services",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/spons/podcast-from-protocol-to-patient-inside-clinical-supply-with-almac-clini/815692/",
-        "published_at": "2026-07-12 13:36",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Deals, deals, deals; Biohaven takes on Eli Lilly; and more",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/deals-deals-deals-biohaven-takes-on-eli-lilly-and-more/",
-        "published_at": "2026-07-11 10:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Apnimed files for IPO as FDA reviews its sleep apnea drug",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/apnimed-files-for-ipo-as-fda-reviews-its-sleep-apnea-drug/",
-        "published_at": "2026-07-10 21:23",
         "category": "FDA & Regulatory"
     }
 ]
