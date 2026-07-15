@@ -1,5 +1,33 @@
 [
     {
+        "title": "Braveheart files for IPO to fund Phase 3 of Hengrui's Cytokinetics rival",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/braveheart-files-for-ipo-to-fund-phase-3-of-hengruis-cytokinetics-rival/",
+        "published_at": "2026-07-15 12:52",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Insilico, Bora Pharma reveal plans for AI-driven manufacturing company",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/insilico-bora-pharma-reveal-plans-for-ai-driven-manufacturing-company/",
+        "published_at": "2026-07-15 12:30",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Veradermics declares first efficacy win in women for hair loss drug",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/veradermics-declares-first-efficacy-win-in-women-for-hair-loss-drug/",
+        "published_at": "2026-07-15 11:04",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "I&I startup Attovia files to go public as biotech listings momentum builds",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/ii-startup-attovia-files-to-go-public-as-biotech-listings-momentum-builds/",
+        "published_at": "2026-07-15 07:46",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
         "title": "CVS Caremark reaches settlement with FTC over insulin suit",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/cvs-caremark-ftc-settlement-insulin-suit/825248/",
@@ -208,33 +236,5 @@
         "url": "https://endpoints.news/apnimed-files-for-ipo-as-fda-reviews-its-sleep-apnea-drug/",
         "published_at": "2026-07-10 21:23",
         "category": "FDA & Regulatory"
-    },
-    {
-        "title": "FDA returns to releasing pharma rejection letters with 14 new CRLs",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-returns-to-releasing-pharma-rejection-letters-with-14-new-crls/",
-        "published_at": "2026-07-10 18:18",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "FDA rejects Hengrui-Elevar liver cancer drug combo for third time",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-rejects-hengrui-elevar-liver-cancer-drug-combo-for-third-time/",
-        "published_at": "2026-07-10 17:42",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "CDER adds 100+ new employees in a quarter for first time since late 2024",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-adds-100-new-cder-employees-in-a-quarter-for-first-time-since-late-2024/",
-        "published_at": "2026-07-10 16:58",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "US biotechs turn secretive as they fear competition from rising Chinese industry",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/us-biotechs-turn-secretive-as-they-fear-competition-from-rising-chinese-industry/",
-        "published_at": "2026-07-10 16:00",
-        "category": "Pharma & FDA Regulatory"
     }
 ]
