@@ -1,5 +1,19 @@
 [
     {
+        "title": "Midsize biotechs press White House to drop CMS pricing rules",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/midsize-biotechs-press-white-house-to-drop-cms-pricing-rules/",
+        "published_at": "2026-07-17 18:42",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Celcuity got its cancer drug approved. Then its stock dipped",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/celcuity-got-its-cancer-drug-approved-then-its-stock-dipped/",
+        "published_at": "2026-07-17 18:03",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
         "title": "Jasper gets a lifeline in merger with immune drugmaker Kira",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/jasper-kira-merger-mirador-immune-drugs/825533/",
@@ -28,11 +42,11 @@
         "category": "Gene Editing & CRISPR"
     },
     {
-        "title": "Tagrisso-chasing BlossomHill enters Nasdaq queue as biotech IPOs flourish",
+        "title": "Updated: BlossomHill and Latigo join flourishing IPO queue with cancer, pain drugs",
         "source": "Endpoints News",
         "url": "https://endpoints.news/tagrisso-chasing-blossomhill-enters-nasdaq-queue-as-biotech-ipos-flourish/",
         "published_at": "2026-07-17 13:54",
-        "category": "Pharma & FDA Regulatory"
+        "category": "Immunotherapy & Oncology"
     },
     {
         "title": "GSK shelves cough drug acquired in $2B deal",
@@ -221,20 +235,6 @@
         "source": "Endpoints News",
         "url": "https://endpoints.news/insilico-bora-pharma-reveal-plans-for-ai-driven-manufacturing-company/",
         "published_at": "2026-07-15 12:30",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Veradermics declares first efficacy win in women for hair loss drug",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/veradermics-declares-first-efficacy-win-in-women-for-hair-loss-drug/",
-        "published_at": "2026-07-15 11:04",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "I&I startup Attovia files to go public as biotech listings momentum builds",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/ii-startup-attovia-files-to-go-public-as-biotech-listings-momentum-builds/",
-        "published_at": "2026-07-15 07:46",
         "category": "Pharma & FDA Regulatory"
     }
 ]
