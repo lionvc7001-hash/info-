@@ -1,5 +1,54 @@
 [
     {
+        "title": "Jasper gets a lifeline in merger with immune drugmaker Kira",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/jasper-kira-merger-mirador-immune-drugs/825533/",
+        "published_at": "2026-07-17 15:54",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "GSK plans large study to see if shingles vaccine can prevent dementia",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/gsk-plans-large-study-to-see-if-shingles-vaccine-can-prevent-dementia/",
+        "published_at": "2026-07-17 14:52",
+        "category": "Vaccines & mRNA"
+    },
+    {
+        "title": "Dimerix buys a kidney injury drug; Arpeggio appears to be winding down",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/dimerix-buys-a-kidney-injury-drug-arpeggio-appears-to-be-winding-down/",
+        "published_at": "2026-07-17 14:41",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Arbutus, Sanofi escalate mRNA patent fights; InnoCare’s TYK2 contender advances",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/arbutus-sanofi-mrna-insmed-innocare-tyk2-chai-argenx/825420/",
+        "published_at": "2026-07-17 14:07",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Tagrisso-chasing BlossomHill enters Nasdaq queue as biotech IPOs flourish",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/tagrisso-chasing-blossomhill-enters-nasdaq-queue-as-biotech-ipos-flourish/",
+        "published_at": "2026-07-17 13:54",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "GSK shelves cough drug acquired in $2B deal",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/gsk-camlipixant-cough-drug-shelved/825530/",
+        "published_at": "2026-07-17 13:21",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "How well are AI-discovered drugs faring in the clinic?",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/ai-drug-discovery-insilico-recursion-verge/825367/",
+        "published_at": "2026-07-17 13:00",
+        "category": "Clinical Trials & R&D"
+    },
+    {
         "title": "GSK drops Phase 3 chronic cough drug in a blow to $2B Bellus Health buyout",
         "source": "Endpoints News",
         "url": "https://endpoints.news/gsk-drops-phase-3-chronic-cough-drug-in-a-blow-to-2b-bellus-health-buyout/",
@@ -154,13 +203,6 @@
         "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "J&J dips despite upbeat outlook; AstraZeneca, Spero cut China deals",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/jnj-earnings-astrazeneca-spero-china-chai-advancell-summit/825208/",
-        "published_at": "2026-07-15 13:18",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
         "title": "Nava Therapeutics emerges with $89M for lipid nanoparticles",
         "source": "Endpoints News",
         "url": "https://endpoints.news/nava-therapeutics-emerges-with-89m-for-lipid-nanoparticles/",
@@ -194,47 +236,5 @@
         "url": "https://endpoints.news/ii-startup-attovia-files-to-go-public-as-biotech-listings-momentum-builds/",
         "published_at": "2026-07-15 07:46",
         "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "CVS Caremark reaches settlement with FTC over insulin suit",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/cvs-caremark-ftc-settlement-insulin-suit/825248/",
-        "published_at": "2026-07-14 20:49",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Celcuity wins approval for breast cancer drug Revtorpyk",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/celcuity-wins-approval-for-breast-cancer-drug-revtorpyk/",
-        "published_at": "2026-07-14 20:43",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "What's next for BINSA, the House bill restricting China deals",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/whats-next-for-binsa-the-house-bill-restricting-china-deals/",
-        "published_at": "2026-07-14 19:41",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Post-Hoc Live: What’s making biotech IPOs work again?",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/post-hoc-live-whats-making-biotech-ipos-work-again/",
-        "published_at": "2026-07-14 18:31",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Judge orders Apple Tree partner to forfeit oversight of venture fund",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/apple-tree-partners-cayman-ruling-seth-harrison-startups/825172/",
-        "published_at": "2026-07-14 16:20",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Fresh off buyout, Akero execs reunite to advance long-acting psoriasis pill",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/avere-nextcure-merger-hansoh-china-il23-psoriasis/825151/",
-        "published_at": "2026-07-14 16:00",
-        "category": "Mergers & Acquisitions"
     }
 ]
