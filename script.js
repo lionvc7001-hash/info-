@@ -14,9 +14,11 @@
 
   // ---------- State ----------
   let allItems = [];        // combined, normalized news + articles
+  let researchers = [];
+  let researchersPromise;
   let savedIds = new Set(); // in-memory bookmarks (session only)
   let state = {
-    view: "all",            // all | news | articles | saved
+    view: "all",            // all | news | articles | saved | researchers
     category: "all",
     sort: "newest",
     query: ""
@@ -108,8 +110,9 @@
       });
       btn.classList.add("active");
       btn.setAttribute("aria-selected", "true");
-      state.view = btn.dataset.view;
-      render();
+      state.view = btn.dataset.view.trim();
+      if (state.view === "researchers") loadResearchers();
+      else render();
     });
 
     sortSelect.addEventListener("change", (e) => {
@@ -175,6 +178,33 @@
     demoBadge.classList.toggle("hidden", !usingDemoData);
     hideLoading();
     render();
+  }
+
+  async function loadResearchers() {
+    if (researchers.length) {
+      render();
+      return;
+    }
+
+    if (!researchersPromise) {
+      researchersPromise = fetch("figures.json")
+        .then(res => {
+          if (!res.ok) throw new Error("Bad response");
+          return res.json();
+        })
+        .then(data => {
+          researchers = Array.isArray(data) ? data : [];
+        })
+        .catch(err => {
+          console.warn("Researchers unavailable:", err.message);
+          researchers = [];
+        });
+    }
+
+    showLoading();
+    await researchersPromise;
+    hideLoading();
+    if (state.view === "researchers") render();
   }
 
   function makeId(item) {
@@ -245,7 +275,15 @@
   }
 
   function render() {
-    savedCount.textContent = savedIds.size;
+    if (savedCount) savedCount.textContent = savedIds.size;
+
+    const isResearchersView = state.view === "researchers";
+    categoryChips.closest(".filter-right").classList.toggle("hidden", isResearchersView);
+    if (isResearchersView) {
+      renderResearchers();
+      return;
+    }
+    feedGrid.className = "feed-grid";
 
     const items = getFiltered();
     resultsCount.textContent = `${items.length} ${items.length === 1 ? "result" : "results"}`;
@@ -270,9 +308,88 @@
     }
   }
 
+  function renderResearchers() {
+    featuredWrap.classList.add("hidden");
+    emptyState.classList.add("hidden");
+    errorState.classList.add("hidden");
+
+    const query = state.query;
+    const matches = researchers.filter(person => !query || [
+      person.name, person.country, person.speciality, person.primary_affiliation
+    ].some(value => (value || "").toLowerCase().includes(query)));
+
+    resultsCount.textContent = `${matches.length} top ${matches.length === 1 ? "researcher" : "researchers"}`;
+    demoBadge.classList.add("hidden");
+    feedGrid.className = "researcher-grid";
+    feedGrid.innerHTML = "";
+    feedGrid.classList.toggle("hidden", matches.length === 0);
+
+    if (!matches.length) {
+      emptyState.classList.remove("hidden");
+      return;
+    }
+
+    matches.forEach((person, index) => feedGrid.appendChild(createResearcherCard(person, index)));
+  }
+
+  function createResearcherCard(person, index) {
+    const card = document.createElement("article");
+    const fallback = `https://ui-avatars.com/api/?name=${encodeURIComponent(person.name || "Researcher")}&background=5b8cff&color=fff&size=256&bold=true`;
+    card.className = "researcher-card";
+    card.innerHTML = `
+      <div class="researcher-rank" aria-label="Rank ${index + 1}">#${index + 1}</div>
+      <div class="researcher-profile">
+        <img class="researcher-photo" src="${fallback}" alt="Portrait of ${escapeHtml(person.name || "researcher")}" data-fallback="${fallback}">
+        <div>
+          <h3>${escapeHtml(person.name || "Unknown researcher")}</h3>
+          <p class="researcher-country"><span aria-hidden="true">${countryFlag(person.country)}</span> ${escapeHtml(person.country || "Unknown country")}</p>
+        </div>
+      </div>
+      <p class="researcher-speciality">${escapeHtml(person.speciality || "Biotechnology")}</p>
+      <p class="researcher-affiliation">${escapeHtml(cleanAffiliation(person.primary_affiliation))}</p>
+      <div class="researcher-stats">
+        <span><strong>${escapeHtml(person.d_index || "—")}</strong>D-index</span>
+        <span><strong>${escapeHtml(person.citations || "—")}</strong>Citations</span>
+        <span><strong>${escapeHtml(person.publications || "—")}</strong>Papers</span>
+      </div>
+    `;
+    const photo = card.querySelector(".researcher-photo");
+    photo.addEventListener("error", () => { photo.src = photo.dataset.fallback; }, { once: true });
+    fetchResearcherPhoto(person.name, photo);
+    return card;
+  }
+
+  async function fetchResearcherPhoto(name, image) {
+    if (!name || !image) return;
+    try {
+      const response = await fetch(`https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(name)}`);
+      if (!response.ok) return;
+      const profile = await response.json();
+      const photoUrl = profile.thumbnail && profile.thumbnail.source;
+      if (photoUrl) image.src = photoUrl;
+    } catch (_) {
+      // The generated initials avatar remains in place when a portrait is unavailable.
+    }
+  }
+
+  function cleanAffiliation(affiliation = "") {
+    return affiliation.replace(/\s+/g, " ").replace(/,\s*[^,]+$/, "").trim();
+  }
+
+  function countryFlag(country = "") {
+    const codes = {
+      "United States": "US", "United Kingdom": "GB", France: "FR", Germany: "DE", Canada: "CA",
+      China: "CN", Japan: "JP", Italy: "IT", Spain: "ES", Netherlands: "NL", Switzerland: "CH",
+      Belgium: "BE", Sweden: "SE", Denmark: "DK", Australia: "AU", Israel: "IL", India: "IN",
+      Singapore: "SG", "South Korea": "KR", Brazil: "BR", Austria: "AT", Finland: "FI", Norway: "NO"
+    };
+    const code = codes[country];
+    return code ? [...code].map(char => String.fromCodePoint(127397 + char.charCodeAt(0))).join("") : "🌍";
+  }
+
   function renderFeatured(item) {
     featuredEl.innerHTML = `
-      <div class="featured-media">${item.type === "news" ? "🔥" : "📚"}</div>
+      <div class="featured-media"><img src="earth.jpg" alt="Featured image" class="featured-image"></div>
       <div class="featured-body">
         <div class="pill-group">
           <span class="pill source">${escapeHtml(item.source || "Unknown")}</span>

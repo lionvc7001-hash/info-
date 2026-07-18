@@ -1,0 +1,902 @@
+[
+  {
+    "name": "Guido Kroemer",
+    "country": "France",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "307",
+    "citations": "421,961",
+    "publications": "1,759",
+    "primary_affiliation": "Universit\u00e9 Paris Cit\u00e9,                         France"
+  },
+  {
+    "name": "Solomon H. Snyder",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "283",
+    "citations": "285,393",
+    "publications": "1,312",
+    "primary_affiliation": "Johns Hopkins University School of Medicine,                         United States"
+  },
+  {
+    "name": "Matthias Mann",
+    "country": "Germany",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "269",
+    "citations": "364,647",
+    "publications": "1,348",
+    "primary_affiliation": "Max Planck Institute of Biochemistry,                         Germany"
+  },
+  {
+    "name": "Robert J. Lefkowitz",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "262",
+    "citations": "210,984",
+    "publications": "936",
+    "primary_affiliation": "Duke University,                         United States"
+  },
+  {
+    "name": "Rob Knight",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "258",
+    "citations": "449,341",
+    "publications": "1,453",
+    "primary_affiliation": "University of California, San Diego,                         United States"
+  },
+  {
+    "name": "Eric N. Olson",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "249",
+    "citations": "213,344",
+    "publications": "933",
+    "primary_affiliation": "The University of Texas Southwestern Medical Center,                         United States"
+  },
+  {
+    "name": "Irving L. Weissman",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "248",
+    "citations": "263,961",
+    "publications": "1,344",
+    "primary_affiliation": "Stanford University,                         United States"
+  },
+  {
+    "name": "Joseph L. Goldstein",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "243",
+    "citations": "222,187",
+    "publications": "576",
+    "primary_affiliation": "The University of Texas Southwestern Medical Center,                         United States"
+  },
+  {
+    "name": "Michael S. Brown",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "240",
+    "citations": "220,295",
+    "publications": "569",
+    "primary_affiliation": "The University of Texas Southwestern Medical Center,                         United States"
+  },
+  {
+    "name": "Gad Getz",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "238",
+    "citations": "433,721",
+    "publications": "715",
+    "primary_affiliation": "Broad Institute,                         United States"
+  },
+  {
+    "name": "Gordon B. Mills",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "238",
+    "citations": "320,649",
+    "publications": "1,574",
+    "primary_affiliation": "Oregon Health & Science University,                         United States"
+  },
+  {
+    "name": "Craig B. Thompson",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "238",
+    "citations": "272,544",
+    "publications": "653",
+    "primary_affiliation": "Memorial Sloan Kettering Cancer Center,                         United States"
+  },
+  {
+    "name": "John C. Reed",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "236",
+    "citations": "250,545",
+    "publications": "1,061",
+    "primary_affiliation": "Johnson & Johnson (United States),                         United States"
+  },
+  {
+    "name": "Rakesh K. Jain",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "232",
+    "citations": "260,370",
+    "publications": "1,501",
+    "primary_affiliation": "Harvard University,                         United States"
+  },
+  {
+    "name": "Thomas C. S\u00fcdhof",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "232",
+    "citations": "180,026",
+    "publications": "755",
+    "primary_affiliation": "Stanford University,                         United States"
+  },
+  {
+    "name": "Ruedi Aebersold",
+    "country": "Switzerland",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "224",
+    "citations": "215,883",
+    "publications": "1,077",
+    "primary_affiliation": "ETH Zurich,                         Switzerland"
+  },
+  {
+    "name": "Douglas R. Green",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "222",
+    "citations": "239,071",
+    "publications": "811",
+    "primary_affiliation": "St. Jude Children's Research Hospital,                         United States"
+  },
+  {
+    "name": "Steven P. Gygi",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "220",
+    "citations": "206,814",
+    "publications": "859",
+    "primary_affiliation": "Harvard University,                         United States"
+  },
+  {
+    "name": "John R. Yates",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "220",
+    "citations": "189,031",
+    "publications": "1,209",
+    "primary_affiliation": "Scripps Research Institute,                         United States"
+  },
+  {
+    "name": "Eric R. Kandel",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "219",
+    "citations": "166,763",
+    "publications": "666",
+    "primary_affiliation": "Columbia University,                         United States"
+  },
+  {
+    "name": "Ralph Weissleder",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "218",
+    "citations": "192,405",
+    "publications": "1,155",
+    "primary_affiliation": "Harvard University,                         United States"
+  },
+  {
+    "name": "Joan Massagu\u00e9",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "216",
+    "citations": "231,430",
+    "publications": "481",
+    "primary_affiliation": "Memorial Sloan Kettering Cancer Center,                         United States"
+  },
+  {
+    "name": "Frank J. Gonzalez",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "213",
+    "citations": "171,964",
+    "publications": "1,349",
+    "primary_affiliation": "National Institutes of Health,                         United States"
+  },
+  {
+    "name": "Barry Halliwell",
+    "country": "Singapore",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "212",
+    "citations": "259,323",
+    "publications": "781",
+    "primary_affiliation": "National University of Singapore,                         Singapore"
+  },
+  {
+    "name": "Tak W. Mak",
+    "country": "Canada",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "209",
+    "citations": "178,850",
+    "publications": "1,388",
+    "primary_affiliation": "Princess Margaret Cancer Centre,                         Canada"
+  },
+  {
+    "name": "Russel J. Reiter",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "209",
+    "citations": "161,166",
+    "publications": "1,424",
+    "primary_affiliation": "The University of Texas Health Science Center at San Antonio,                         United States"
+  },
+  {
+    "name": "Timothy A. Springer",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "204",
+    "citations": "170,414",
+    "publications": "804",
+    "primary_affiliation": "Boston Children's Hospital,                         United States"
+  },
+  {
+    "name": "Jan-\u00c5ke Gustafsson",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "203",
+    "citations": "182,936",
+    "publications": "1,725",
+    "primary_affiliation": "University of Houston,                         United States"
+  },
+  {
+    "name": "Bruce M. Spiegelman",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "202",
+    "citations": "240,884",
+    "publications": "495",
+    "primary_affiliation": "Harvard University,                         United States"
+  },
+  {
+    "name": "Nahum Sonenberg",
+    "country": "Canada",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "202",
+    "citations": "157,767",
+    "publications": "915",
+    "primary_affiliation": "McGill University,                         Canada"
+  },
+  {
+    "name": "Johan Auwerx",
+    "country": "Switzerland",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "200",
+    "citations": "151,839",
+    "publications": "771",
+    "primary_affiliation": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne,                         Switzerland"
+  },
+  {
+    "name": "Roderick T. Bronson",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "200",
+    "citations": "150,614",
+    "publications": "739",
+    "primary_affiliation": "Harvard University,                         United States"
+  },
+  {
+    "name": "Jeffrey I. Gordon",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "199",
+    "citations": "289,086",
+    "publications": "648",
+    "primary_affiliation": "Washington University in St. Louis,                         United States"
+  },
+  {
+    "name": "Derek R. Lovley",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "198",
+    "citations": "139,933",
+    "publications": "654",
+    "primary_affiliation": "University of Massachusetts Amherst,                         United States"
+  },
+  {
+    "name": "Erkki Ruoslahti",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "196",
+    "citations": "157,348",
+    "publications": "653",
+    "primary_affiliation": "Sanford Burnham Prebys Medical Discovery Institute,                         United States"
+  },
+  {
+    "name": "Ian A. Wilson",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "196",
+    "citations": "145,556",
+    "publications": "1,573",
+    "primary_affiliation": "Scripps Research Institute,                         United States"
+  },
+  {
+    "name": "Joseph Schlessinger",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "195",
+    "citations": "160,231",
+    "publications": "665",
+    "primary_affiliation": "Yale University,                         United States"
+  },
+  {
+    "name": "Stanley B. Prusiner",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "194",
+    "citations": "135,161",
+    "publications": "804",
+    "primary_affiliation": "University of California, San Francisco,                         United States"
+  },
+  {
+    "name": "Napoleone Ferrara",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "193",
+    "citations": "205,442",
+    "publications": "523",
+    "primary_affiliation": "University of California, San Diego,                         United States"
+  },
+  {
+    "name": "Donald E. Ingber",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "193",
+    "citations": "153,320",
+    "publications": "676",
+    "primary_affiliation": "Harvard University,                         United States"
+  },
+  {
+    "name": "George D. Yancopoulos",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "193",
+    "citations": "148,964",
+    "publications": "527",
+    "primary_affiliation": "Regeneron (United States),                         United States"
+  },
+  {
+    "name": "Ronald G. Crystal",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "193",
+    "citations": "124,808",
+    "publications": "1,153",
+    "primary_affiliation": "Cornell University,                         United States"
+  },
+  {
+    "name": "Andrew P. McMahon",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "190",
+    "citations": "126,598",
+    "publications": "452",
+    "primary_affiliation": "University of Southern California,                         United States"
+  },
+  {
+    "name": "Peter G. Schultz",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "189",
+    "citations": "129,797",
+    "publications": "900",
+    "primary_affiliation": "Scripps Research Institute,                         United States"
+  },
+  {
+    "name": "Michael P. Lisanti",
+    "country": "United Kingdom",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "189",
+    "citations": "128,498",
+    "publications": "665",
+    "primary_affiliation": "University of Salford,                         United Kingdom"
+  },
+  {
+    "name": "Yuh Nung Jan",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "189",
+    "citations": "104,398",
+    "publications": "500",
+    "primary_affiliation": "University of California, San Francisco,                         United States"
+  },
+  {
+    "name": "Lily Yeh Jan",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "189",
+    "citations": "102,892",
+    "publications": "519",
+    "primary_affiliation": "University of California, San Francisco,                         United States"
+  },
+  {
+    "name": "Robert Huber",
+    "country": "Germany",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "188",
+    "citations": "134,536",
+    "publications": "929",
+    "primary_affiliation": "University of Duisburg-Essen,                         Germany"
+  },
+  {
+    "name": "Don W. Cleveland",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "188",
+    "citations": "124,575",
+    "publications": "481",
+    "primary_affiliation": "University of California, San Diego,                         United States"
+  },
+  {
+    "name": "David Eisenberg",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "187",
+    "citations": "163,068",
+    "publications": "927",
+    "primary_affiliation": "Harvard University,                         United States"
+  },
+  {
+    "name": "Marc W. Kirschner",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "187",
+    "citations": "146,071",
+    "publications": "480",
+    "primary_affiliation": "Harvard University,                         United States"
+  },
+  {
+    "name": "Richard D. Palmiter",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "187",
+    "citations": "121,569",
+    "publications": "569",
+    "primary_affiliation": "University of Washington,                         United States"
+  },
+  {
+    "name": "Lance A. Liotta",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "186",
+    "citations": "146,462",
+    "publications": "1,009",
+    "primary_affiliation": "George Mason University,                         United States"
+  },
+  {
+    "name": "Josef M. Penninger",
+    "country": "Canada",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "185",
+    "citations": "169,041",
+    "publications": "802",
+    "primary_affiliation": "University of British Columbia,                         Canada"
+  },
+  {
+    "name": "Philip Cohen",
+    "country": "United Kingdom",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "184",
+    "citations": "161,058",
+    "publications": "601",
+    "primary_affiliation": "University of Dundee,                         United Kingdom"
+  },
+  {
+    "name": "Stuart L. Schreiber",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "184",
+    "citations": "160,849",
+    "publications": "944",
+    "primary_affiliation": "Harvard University,                         United States"
+  },
+  {
+    "name": "James M. Wilson",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "183",
+    "citations": "111,574",
+    "publications": "1,125",
+    "primary_affiliation": "University of Pennsylvania,                         United States"
+  },
+  {
+    "name": "David J. Mooney",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "182",
+    "citations": "137,867",
+    "publications": "885",
+    "primary_affiliation": "Harvard University,                         United States"
+  },
+  {
+    "name": "Christopher K. Glass",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "181",
+    "citations": "163,776",
+    "publications": "541",
+    "primary_affiliation": "University of California, San Diego,                         United States"
+  },
+  {
+    "name": "Alisdair R. Fernie",
+    "country": "Germany",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "181",
+    "citations": "124,238",
+    "publications": "1,640",
+    "primary_affiliation": "Max Planck Institute of Molecular Plant Physiology,                         Germany"
+  },
+  {
+    "name": "Bernard Henrissat",
+    "country": "Denmark",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "180",
+    "citations": "165,887",
+    "publications": "1,027",
+    "primary_affiliation": "Technical University of Denmark,                         Denmark"
+  },
+  {
+    "name": "George Perry",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "179",
+    "citations": "123,242",
+    "publications": "1,232",
+    "primary_affiliation": "The University of Texas at San Antonio,                         United States"
+  },
+  {
+    "name": "Willy Verstraete",
+    "country": "Belgium",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "176",
+    "citations": "115,807",
+    "publications": "1,041",
+    "primary_affiliation": "Ghent University,                         Belgium"
+  },
+  {
+    "name": "Peter Smith",
+    "country": "United Kingdom",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "175",
+    "citations": "145,484",
+    "publications": "1,842",
+    "primary_affiliation": "University of Aberdeen,                         United Kingdom"
+  },
+  {
+    "name": "Peter Vandenabeele",
+    "country": "Belgium",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "175",
+    "citations": "145,261",
+    "publications": "785",
+    "primary_affiliation": "Ghent University,                         Belgium"
+  },
+  {
+    "name": "Chris Sander",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "174",
+    "citations": "211,792",
+    "publications": "632",
+    "primary_affiliation": "Harvard University,                         United States"
+  },
+  {
+    "name": "Claudiu T. Supuran",
+    "country": "Italy",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "173",
+    "citations": "143,151",
+    "publications": "2,157",
+    "primary_affiliation": "University of Florence,                         Italy"
+  },
+  {
+    "name": "Pier Paolo Pandolfi",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "173",
+    "citations": "131,293",
+    "publications": "619",
+    "primary_affiliation": "Beth Israel Deaconess Medical Center,                         United States"
+  },
+  {
+    "name": "Vishva M. Dixit",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "172",
+    "citations": "150,054",
+    "publications": "396",
+    "primary_affiliation": "Genentech,                         United States"
+  },
+  {
+    "name": "Rudolf Amann",
+    "country": "Germany",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "172",
+    "citations": "121,723",
+    "publications": "514",
+    "primary_affiliation": "Max Planck Institute for Marine Microbiology,                         Germany"
+  },
+  {
+    "name": "Tomas Ganz",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "172",
+    "citations": "111,525",
+    "publications": "578",
+    "primary_affiliation": "University of California, Los Angeles,                         United States"
+  },
+  {
+    "name": "Stephen R. Quake",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "171",
+    "citations": "127,326",
+    "publications": "634",
+    "primary_affiliation": "Stanford University,                         United States"
+  },
+  {
+    "name": "Susumu Tonegawa",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "171",
+    "citations": "116,440",
+    "publications": "429",
+    "primary_affiliation": "MIT,                         United States"
+  },
+  {
+    "name": "Shuh Narumiya",
+    "country": "Japan",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "171",
+    "citations": "106,244",
+    "publications": "813",
+    "primary_affiliation": "Kyoto University,                         Japan"
+  },
+  {
+    "name": "Michael E. Greenberg",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "170",
+    "citations": "158,925",
+    "publications": "330",
+    "primary_affiliation": "Harvard University,                         United States"
+  },
+  {
+    "name": "Jens Nielsen",
+    "country": "Sweden",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "170",
+    "citations": "138,541",
+    "publications": "1,861",
+    "primary_affiliation": "Chalmers University of Technology,                         Sweden"
+  },
+  {
+    "name": "Kai Simons",
+    "country": "Germany",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "170",
+    "citations": "133,573",
+    "publications": "449",
+    "primary_affiliation": "Lipotype,                         Germany"
+  },
+  {
+    "name": "Randal J. Kaufman",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "170",
+    "citations": "124,239",
+    "publications": "547",
+    "primary_affiliation": "Sanford Burnham Prebys Medical Discovery Institute,                         United States"
+  },
+  {
+    "name": "Martin A. Nowak",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "169",
+    "citations": "141,966",
+    "publications": "545",
+    "primary_affiliation": "Harvard University,                         United States"
+  },
+  {
+    "name": "Severine Vermeire",
+    "country": "Belgium",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "169",
+    "citations": "120,193",
+    "publications": "1,410",
+    "primary_affiliation": "KU Leuven,                         Belgium"
+  },
+  {
+    "name": "Michael R. Hayden",
+    "country": "Canada",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "169",
+    "citations": "105,199",
+    "publications": "992",
+    "primary_affiliation": "University of British Columbia,                         Canada"
+  },
+  {
+    "name": "Benjamin F. Cravatt",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "169",
+    "citations": "98,222",
+    "publications": "759",
+    "primary_affiliation": "Scripps Research Institute,                         United States"
+  },
+  {
+    "name": "Helmut Sies",
+    "country": "Germany",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "168",
+    "citations": "133,137",
+    "publications": "766",
+    "primary_affiliation": "Heinrich Heine University D\u00fcsseldorf,                         Germany"
+  },
+  {
+    "name": "Vladimir N. Uversky",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "167",
+    "citations": "135,601",
+    "publications": "1,328",
+    "primary_affiliation": "University of South Florida,                         United States"
+  },
+  {
+    "name": "Peter Kraft",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "167",
+    "citations": "116,169",
+    "publications": "868",
+    "primary_affiliation": "Harvard University,                         United States"
+  },
+  {
+    "name": "Pietro De Camilli",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "167",
+    "citations": "88,274",
+    "publications": "454",
+    "primary_affiliation": "Yale University,                         United States"
+  },
+  {
+    "name": "Daniel J. Klionsky",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "166",
+    "citations": "166,100",
+    "publications": "738",
+    "primary_affiliation": "University of Michigan\u2013Ann Arbor,                         United States"
+  },
+  {
+    "name": "Simon C. Watkins",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "166",
+    "citations": "103,171",
+    "publications": "1,010",
+    "primary_affiliation": "University of Pittsburgh,                         United States"
+  },
+  {
+    "name": "Melitta Schachner",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "166",
+    "citations": "97,205",
+    "publications": "982",
+    "primary_affiliation": "Rutgers, The State University of New Jersey,                         United States"
+  },
+  {
+    "name": "Valina L. Dawson",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "165",
+    "citations": "118,544",
+    "publications": "519",
+    "primary_affiliation": "Johns Hopkins University School of Medicine,                         United States"
+  },
+  {
+    "name": "Robert Huber",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "165",
+    "citations": "105,218",
+    "publications": "1,028",
+    "primary_affiliation": "Agricultural & Applied Economics Association,                         United States"
+  },
+  {
+    "name": "Curtis C. Harris",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "164",
+    "citations": "120,914",
+    "publications": "817",
+    "primary_affiliation": "National Institutes of Health,                         United States"
+  },
+  {
+    "name": "F. Peter Guengerich",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "164",
+    "citations": "107,431",
+    "publications": "1,073",
+    "primary_affiliation": "Vanderbilt University,                         United States"
+  },
+  {
+    "name": "Michel Goedert",
+    "country": "United Kingdom",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "163",
+    "citations": "115,343",
+    "publications": "527",
+    "primary_affiliation": "MRC Laboratory of Molecular Biology,                         United Kingdom"
+  },
+  {
+    "name": "jeffrey a whitsett",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "163",
+    "citations": "91,122",
+    "publications": "788",
+    "primary_affiliation": "Cincinnati Children's Hospital Medical Center,                         United States"
+  },
+  {
+    "name": "James J. Collins",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "162",
+    "citations": "125,268",
+    "publications": "593",
+    "primary_affiliation": "MIT,                         United States"
+  },
+  {
+    "name": "Dario R. Alessi",
+    "country": "United Kingdom",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "162",
+    "citations": "108,187",
+    "publications": "391",
+    "primary_affiliation": "University of Dundee,                         United Kingdom"
+  },
+  {
+    "name": "Robert H. Brown",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "162",
+    "citations": "101,535",
+    "publications": "1,202",
+    "primary_affiliation": "University of Massachusetts Chan Medical School,                         United States"
+  },
+  {
+    "name": "Chi-Huey Wong",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "162",
+    "citations": "92,620",
+    "publications": "1,102",
+    "primary_affiliation": "Scripps Research Institute,                         United States"
+  },
+  {
+    "name": "Marc Tessier-Lavigne",
+    "country": "United States",
+    "speciality": "Biotechnology - Biology",
+    "d_index": "162",
+    "citations": "90,169",
+    "publications": "361",
+    "primary_affiliation": "Xaira Therapeutics,                         United States"
+  }
+]

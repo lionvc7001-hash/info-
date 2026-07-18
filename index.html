@@ -40,11 +40,21 @@
     </div>
 
     <div class="filter-bar">
-      <div class="tabs" id="viewTabs" role="tablist">
-        <button class="tab active" data-view="all" role="tab" aria-selected="true">All</button>
-        <button class="tab" data-view="news" role="tab" aria-selected="false">🔥 Breaking News</button>
-        <button class="tab" data-view="articles" role="tab" aria-selected="false">📚 Articles</button>
-        <button class="tab" data-view="saved" role="tab" aria-selected="false">★ Saved <span id="savedCount" class="count-pill">0</span></button>
+      <div class="view-nav">
+        <div class="tabs" id="viewTabs" role="tablist">
+          <!-- <button class="tab active" data-view="all" role="tab" aria-selected="true">All</button> -->
+          <button class="tab" data-view="news" role="tab" aria-selected="false">Breaking News</button>
+          <button class="tab" data-view="articles" role="tab" aria-selected="false">Articles</button>
+          <button class="tab" data-view="researchers" role="tab" aria-selected="false">Top Researchers</button>
+        </div>
+        <button id="quizBtn" class="quiz-btn" type="button" aria-label="Open the biotech knowledge quiz">
+          <svg class="quiz-btn-icon" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+            <path d="M12 2.75 13.86 8.14 19.25 10 13.86 11.86 12 17.25 10.14 11.86 4.75 10l5.39-1.86L12 2.75Z" fill="currentColor"/>
+            <path d="m18.2 15.3.8 2.2 2.2.8-2.2.8-.8 2.2-.8-2.2-2.2-.8 2.2-.8.8-2.2Z" fill="currentColor" opacity=".8"/>
+          </svg>
+          <span>Knowledge Quiz</span>
+          <span class="quiz-btn-arrow" aria-hidden="true">→</span>
+        </button>
       </div>
 
       <div class="filter-right">
@@ -60,6 +70,8 @@
 
   <!-- MAIN -->
   <main class="container">
+
+    <section id="quizView" class="quiz-view hidden" aria-live="polite"></section>
 
     <section id="featuredWrap" class="featured-wrap hidden">
       <div class="section-label">Top Story</div>
@@ -107,5 +119,6 @@
   </div>
 
   <script src="script.js"></script>
+  <script src="quiz.js"></script>
 </body>
 </html>

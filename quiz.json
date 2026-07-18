@@ -1,0 +1,119 @@
+```json
+{
+  "title": "Biology Quiz",
+  "category": "Biology",
+  "difficulty": "Easy",
+  "questions": [
+    {
+      "number": 1,
+      "question": "What is the basic unit of life?",
+      "choices": [
+        "Cell",
+        "Atom",
+        "Tissue",
+        "Organ"
+      ],
+      "correctChoice": 1
+    },
+    {
+      "number": 2,
+      "question": "Which organ pumps blood throughout the human body?",
+      "choices": [
+        "Liver",
+        "Lung",
+        "Heart",
+        "Kidney"
+      ],
+      "correctChoice": 3
+    },
+    {
+      "number": 3,
+      "question": "What is the process by which plants make their own food?",
+      "choices": [
+        "Respiration",
+        "Photosynthesis",
+        "Digestion",
+        "Fermentation"
+      ],
+      "correctChoice": 2
+    },
+    {
+      "number": 4,
+      "question": "Which molecule carries genetic information?",
+      "choices": [
+        "Protein",
+        "RNA",
+        "DNA",
+        "Glucose"
+      ],
+      "correctChoice": 3
+    },
+    {
+      "number": 5,
+      "question": "Which blood cells help fight infections?",
+      "choices": [
+        "Red blood cells",
+        "White blood cells",
+        "Platelets",
+        "Plasma"
+      ],
+      "correctChoice": 2
+    },
+    {
+      "number": 6,
+      "question": "Which organ is primarily responsible for filtering blood?",
+      "choices": [
+        "Heart",
+        "Kidney",
+        "Brain",
+        "Stomach"
+      ],
+      "correctChoice": 2
+    },
+    {
+      "number": 7,
+      "question": "What gas do humans inhale for respiration?",
+      "choices": [
+        "Carbon dioxide",
+        "Nitrogen",
+        "Oxygen",
+        "Hydrogen"
+      ],
+      "correctChoice": 3
+    },
+    {
+      "number": 8,
+      "question": "Which kingdom do mushrooms belong to?",
+      "choices": [
+        "Plantae",
+        "Animalia",
+        "Protista",
+        "Fungi"
+      ],
+      "correctChoice": 4
+    },
+    {
+      "number": 9,
+      "question": "What is the largest organ in the human body?",
+      "choices": [
+        "Liver",
+        "Skin",
+        "Lung",
+        "Brain"
+      ],
+      "correctChoice": 2
+    },
+    {
+      "number": 10,
+      "question": "Which part of the cell contains the genetic material?",
+      "choices": [
+        "Nucleus",
+        "Cytoplasm",
+        "Cell membrane",
+        "Mitochondrion"
+      ],
+      "correctChoice": 1
+    }
+  ]
+}
+```
