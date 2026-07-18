@@ -52,8 +52,8 @@
             <path d="M12 2.75 13.86 8.14 19.25 10 13.86 11.86 12 17.25 10.14 11.86 4.75 10l5.39-1.86L12 2.75Z" fill="currentColor"/>
             <path d="m18.2 15.3.8 2.2 2.2.8-2.2.8-.8 2.2-.8-2.2-2.2-.8 2.2-.8.8-2.2Z" fill="currentColor" opacity=".8"/>
           </svg>
-          <span>Knowledge Quiz</span>
-          <span class="quiz-btn-arrow" aria-hidden="true">→</span>
+          <span>BIO Quiz</span>
+          <span class="quiz-btn-arrow" aria-hidden="true"></span>
         </button>
       </div>
 
@@ -67,6 +67,13 @@
       </div>
     </div>
   </header>
+
+  <aside class="news-headline" aria-label="News headline">
+    <div class="news-headline-inner">
+      <span id="dailyDate" class="news-headline-label">Today</span>
+      <p id="dailyDescription" aria-live="polite">Loading today’s fact…</p>
+    </div>
+  </aside>
 
   <!-- MAIN -->
   <main class="container">
@@ -119,6 +126,7 @@
   </div>
 
   <script src="script.js"></script>
+  <script src="day.js"></script>
   <script src="quiz.js"></script>
 </body>
 </html>
