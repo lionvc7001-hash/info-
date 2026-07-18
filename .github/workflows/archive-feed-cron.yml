@@ -24,7 +24,7 @@ jobs:
         pip install feedparser
 
     - name: Run Archive Feed Script
-      run: python archive_feed.py
+      run: python archive_feeds.py
 
     - name: Commit and Push Updates
       run: |
