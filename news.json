@@ -1,5 +1,33 @@
 [
     {
+        "title": "Tempus to buy cancer test-maker Personalis for $1.5B",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/tempus-to-buy-cancer-test-maker-personalis-for-15b/825698/",
+        "published_at": "2026-07-20 18:38",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "UnitedHealth Group lays out progress in AI push",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/unitedhealth-group-lays-out-progress-in-ai-push/",
+        "published_at": "2026-07-20 17:20",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "House lawmakers back trade probe of China biotech, sequencing",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/house-lawmakers-back-trade-probe-of-china-biotech-sequencing/",
+        "published_at": "2026-07-20 17:06",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Samsung Bio to step into peptides in $1.8B buy for PolyPeptide",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/samsung-bio-to-step-into-peptides-in-1-8b-buy-for-polypeptide/",
+        "published_at": "2026-07-20 16:18",
+        "category": "Mergers & Acquisitions"
+    },
+    {
         "title": "Pain drugmaker Latigo outlines plans to go public",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/latigo-ipo-pain-drug-ion-channel-nasdaq-ltgo/825660/",
@@ -168,13 +196,6 @@
         "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "Veradermics keeps ‘momentum going’ as baldness drug helps women with hair loss",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/veradermics-oral-minoxidil-female-pattern-hair-loss-results/825389/",
-        "published_at": "2026-07-16 15:19",
-        "category": "Clinical Trials"
-    },
-    {
         "title": "Kelun pads efficacy profile of Merck-partnered ADC; Europe will have to wait for Boehringer's Hernexeos",
         "source": "Endpoints News",
         "url": "https://endpoints.news/kelun-pads-efficacy-profile-of-merck-partnered-adc-europe-will-have-to-wait-for-boehringers-hernexeos/",
@@ -215,26 +236,5 @@
         "url": "https://endpoints.news/merck-beats-astrazeneca-to-first-approval-for-first-pcsk9-pill/",
         "published_at": "2026-07-16 10:45",
         "category": "FDA & Regulatory"
-    },
-    {
-        "title": "FDA acting chief walks back Makary's practice of policymaking through journals",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-acting-chief-walks-back-makarys-practice-of-policymaking-through-journals/",
-        "published_at": "2026-07-15 19:21",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Senate committee questions CDC pick on political interference over vaccines",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/senate-committee-questions-cdc-pick-on-political-interference-over-vaccines/",
-        "published_at": "2026-07-15 18:46",
-        "category": "Vaccines & mRNA"
-    },
-    {
-        "title": "J&J restructures pharma manufacturing footprint at cost of up to $750M",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/jj-restructures-pharma-manufacturing-footprint-at-cost-of-up-to-750m/",
-        "published_at": "2026-07-15 16:48",
-        "category": "Mergers & Acquisitions"
     }
 ]
