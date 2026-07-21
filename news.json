@@ -1,5 +1,40 @@
 [
     {
+        "title": "Novo sues Lilly over 'deceptive' ads comparing GLP-1 drug doses",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/novo-sues-lilly-over-deceptive-ads-comparing-glp-1-drug-doses/",
+        "published_at": "2026-07-21 18:57",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Indian generic drugmaker gets FDA warning over clinical study consent",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/indian-generic-drugmaker-gets-fda-warning-over-clinical-study-consent/",
+        "published_at": "2026-07-21 17:22",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "FDA plans to name permanent center heads alongside FDA chief",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-plans-to-name-permanent-center-heads-alongside-fda-chief/",
+        "published_at": "2026-07-21 16:56",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Agios scraps sickle cell drug",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/agios-sickle-cell-drug-development-end-tebapivat/825756/",
+        "published_at": "2026-07-21 16:07",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Novo sues Lilly, alleging ‘misleading’ advertising of obesity drugs",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/novo-lilly-lawsuit-obesity-drug-glp1-marketing/825772/",
+        "published_at": "2026-07-21 15:45",
+        "category": "Clinical Trials & R&D"
+    },
+    {
         "title": "Novartis CEO says latest China deals are just following the science",
         "source": "Endpoints News",
         "url": "https://endpoints.news/novartis-ceo-says-latest-china-deals-are-just-following-the-science/",
@@ -196,45 +231,10 @@
         "category": "Gene Editing & CRISPR"
     },
     {
-        "title": "GSK shelves cough drug acquired in $2B deal",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/gsk-camlipixant-cough-drug-shelved/825530/",
-        "published_at": "2026-07-17 13:21",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "How well are AI-discovered drugs faring in the clinic?",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/ai-drug-discovery-insilico-recursion-verge/825367/",
-        "published_at": "2026-07-17 13:00",
-        "category": "Clinical Trials & R&D"
-    },
-    {
         "title": "GSK drops Phase 3 chronic cough drug in a blow to $2B Bellus Health buyout",
         "source": "Endpoints News",
         "url": "https://endpoints.news/gsk-drops-phase-3-chronic-cough-drug-in-a-blow-to-2b-bellus-health-buyout/",
         "published_at": "2026-07-17 11:05",
         "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Zealand Pharma gets its US marketing leader from Lilly; Bexorg turns to Biohaven for CSO hire",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/zealand-pharma-gets-its-us-marketing-leader-from-lilly-bexorg-turns-to-biohaven-for-cso-hire/",
-        "published_at": "2026-07-17 11:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Mirador unveils part of pipeline with drug from Kira to rival Tavneos",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/mirador-unveils-part-of-pipeline-with-drug-from-kira-to-rival-tavneos/",
-        "published_at": "2026-07-16 21:47",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "What health system execs are talking about",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/what-health-system-execs-are-talking-about/",
-        "published_at": "2026-07-16 16:10",
-        "category": "Pharma & FDA Regulatory"
     }
 ]
