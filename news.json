@@ -1,5 +1,54 @@
 [
     {
+        "title": "Novartis CEO says latest China deals are just following the science",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/novartis-ceo-says-latest-china-deals-are-just-following-the-science/",
+        "published_at": "2026-07-21 15:41",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Gilead and Merck provide HIV data; Dimension Capital announces $800M fund",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/gilead-and-merck-provide-hiv-data-dimension-capital-announces-800m-fund/",
+        "published_at": "2026-07-21 15:30",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Agios’ second shot at sickle cell disease falls short",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/agios-second-shot-at-sickle-cell-disease-falls-short/",
+        "published_at": "2026-07-21 15:14",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Novartis climbs on upbeat drug sales as key readouts loom",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/novartis-earnings-2q-2026-drug-sales/825746/",
+        "published_at": "2026-07-21 14:53",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Notes from a peptide meetup",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/notes-from-a-peptide-meetup/",
+        "published_at": "2026-07-21 14:44",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Broad Institute launches Center for Therapeutic Genetics for rare diseases",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/broad-institute-launches-center-for-therapeutic-genetics-for-rare-diseases/",
+        "published_at": "2026-07-21 12:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "A-Alpha Bio starts AI antibody data consortium with GSK, Boltz",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/a-alpha-bio-starts-ai-antibody-data-consortium-with-gsk-boltz/",
+        "published_at": "2026-07-21 11:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
         "title": "Tempus to acquire cancer test maker Personalis for $1.5B",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/tempus-to-acquire-cancer-test-maker-personalis-for-15b/825698/",
@@ -182,59 +231,10 @@
         "category": "Mergers & Acquisitions"
     },
     {
-        "title": "Lilly to buy AtaiBeckley for $2.8B, further validating psychedelics",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/lilly-ataibeckley-psychedelics-acquisition-deal-mebufotenin-depression/825425/",
-        "published_at": "2026-07-16 16:19",
-        "category": "Mergers & Acquisitions"
-    },
-    {
         "title": "What health system execs are talking about",
         "source": "Endpoints News",
         "url": "https://endpoints.news/what-health-system-execs-are-talking-about/",
         "published_at": "2026-07-16 16:10",
         "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Kelun pads efficacy profile of Merck-partnered ADC; Europe will have to wait for Boehringer's Hernexeos",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/kelun-pads-efficacy-profile-of-merck-partnered-adc-europe-will-have-to-wait-for-boehringers-hernexeos/",
-        "published_at": "2026-07-16 15:18",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Q&A: Betty Tijms wants to stop treating Alzheimer’s as a single disease",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/qa-betty-tijms-believes-its-time-to-stop-treating-alzheimers-as-a-single-disease/",
-        "published_at": "2026-07-16 14:53",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "US drug shortages rise for third straight quarter, hurt by lone suppliers",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/us-drug-shortages-rise-for-third-straight-quarter-hurt-by-lone-suppliers/",
-        "published_at": "2026-07-16 14:13",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Updated: Sanofi, Arbutus file separate suits against mRNA vaccine makers over LNP tech patents",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/sanofi-sues-pfizer-moderna-over-tech-used-in-mrna-vaccines/",
-        "published_at": "2026-07-16 11:35",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Lilly bets $2.8B upfront on psychedelics in deal to buy AtaiBeckley",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/lilly-bets-2-8b-upfront-on-psychedelics-in-deal-to-buy-ataibeckley/",
-        "published_at": "2026-07-16 11:09",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Updated: Merck beats AstraZeneca to approval for first PCSK9 pill",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/merck-beats-astrazeneca-to-first-approval-for-first-pcsk9-pill/",
-        "published_at": "2026-07-16 10:45",
-        "category": "FDA & Regulatory"
     }
 ]
