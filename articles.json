@@ -1,5 +1,82 @@
 [
     {
+        "title": "Arrowhead hits ‘best-case scenario’ with latest results for fat-lowering drug",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/arrowhead-plozasiran-results-triglyceride-severe-data-trials/825909/",
+        "published_at": "2026-07-22 16:01",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Arrowhead’s gene silencer competitive with Ionis’ in triglyceride disease",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/arrowheads-gene-silencer-competitive-with-ionis-in-triglyceride-disease/",
+        "published_at": "2026-07-22 15:32",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Trump threatens tariffs on imported generic drugs",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/trump-tariffs-generic-drugs-pharmaceuticals-impact/825879/",
+        "published_at": "2026-07-22 14:59",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Mentari adds $200M to migraine mission; Royalty's latest ATTR-CM deal",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/mentari-adds-200m-to-migraine-mission-royaltys-latest-attr-cm-deal/",
+        "published_at": "2026-07-22 14:17",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Q&A: Lilly returns to neuropsych and looks ahead to Alzheimer's prevention",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/qa-lilly-returns-to-neuropsych-and-looks-ahead-to-alzheimers-prevention/",
+        "published_at": "2026-07-22 14:00",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Summit counters PD-1/VEGF skeptics; Celldex drug fails skin disease study",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/summit-ivonescimab-celldex-gilead-merck-hiv-kaveri-jupiter/825817/",
+        "published_at": "2026-07-22 13:33",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Crystalys gets $130M to take Sobi-rivaling gout drug to market",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/crystalys-gets-130m-for-phase-3-tests-of-sobi-rivaling-gout-drug/",
+        "published_at": "2026-07-22 12:00",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Crystalys nets $130M more to push gout drug through late-stage tests",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/crystalys-gout-dotinurad-series-b-venture-financing/825697/",
+        "published_at": "2026-07-22 12:00",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Summit reports two-year survival data for Western patients, though context lacking",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/summit-reports-two-year-survival-data-for-western-patients-though-context-lacking/",
+        "published_at": "2026-07-22 11:37",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Celldex scraps antibody in prurigo nodularis after Phase 2 flop",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/celldex-scraps-antibody-in-prurigo-nodularis-after-phase-2-flop/",
+        "published_at": "2026-07-22 10:49",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Biopharma dealmaking in 2026: The recovery gathers speed in Q2",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/biopharma-dealmaking-in-2026-the-recovery-gathers-speed-in-q2/",
+        "published_at": "2026-07-22 10:45",
+        "category": "Mergers & Acquisitions"
+    },
+    {
         "title": "Vertex was only bidder for Crinetics in year's second-highest M&A premium",
         "source": "Endpoints News",
         "url": "https://endpoints.news/vertex-was-only-bidder-for-crinetics-in-years-second-highest-ma-premium/",
@@ -68,6 +145,13 @@
         "url": "https://endpoints.news/agios-second-shot-at-sickle-cell-disease-falls-short/",
         "published_at": "2026-07-21 15:14",
         "category": "Clinical Trials"
+    },
+    {
+        "title": "Dimension restocks with $800M to capitalize on AI’s ‘rapid ascent’",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/dimension-biotech-startups-third-fund-tech-ai/825748/",
+        "published_at": "2026-07-21 15:05",
+        "category": "Mergers & Acquisitions"
     },
     {
         "title": "Novartis climbs on upbeat drug sales as key readouts loom",
@@ -152,89 +236,5 @@
         "url": "https://endpoints.news/jj-abbvie-said-to-have-also-looked-at-ataibeckley-before-lillys-2-8b-deal/",
         "published_at": "2026-07-20 15:03",
         "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Bristol Myers to build ‘powerful’ AI factory; Samsung Biologics bids for peptide maker",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/bristol-myers-nvidia-samsung-polypeptide-apitegromab-fabhalta-dimerix/825619/",
-        "published_at": "2026-07-20 12:54",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "[Podcast] From Protocol to Patient: Inside Clinical Supply with Almac Clinical Services",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/spons/podcast-from-protocol-to-patient-inside-clinical-supply-with-almac-clini/815692/",
-        "published_at": "2026-07-20 12:00",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "UK biotech VC funding rebounds and reaches record high",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/uk-biotech-vc-funding-rebounds-and-reaches-record-high/",
-        "published_at": "2026-07-20 11:23",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Bristol Myers, Nvidia say they'll build 'most powerful' AI supercomputer in pharma",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/bristol-myers-nvidia-say-theyll-build-most-powerful-ai-supercomputer-in-pharma/",
-        "published_at": "2026-07-20 10:59",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Biogen’s mixed Alzheimer’s data; Two new startups launch; and more",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/biogens-mixed-alzheimers-data-two-new-startups-launch-and-more/",
-        "published_at": "2026-07-18 10:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Midsized biotechs press White House to drop CMS pricing rules",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/midsize-biotechs-press-white-house-to-drop-cms-pricing-rules/",
-        "published_at": "2026-07-17 18:42",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Celcuity got its cancer drug approved. Then its stock dipped",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/celcuity-got-its-cancer-drug-approved-then-its-stock-dipped/",
-        "published_at": "2026-07-17 18:03",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Jasper gets a lifeline in merger with immune drugmaker Kira",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/jasper-kira-merger-mirador-immune-drugs/825533/",
-        "published_at": "2026-07-17 15:54",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "GSK plans large study to see if shingles vaccine can prevent dementia",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/gsk-plans-large-study-to-see-if-shingles-vaccine-can-prevent-dementia/",
-        "published_at": "2026-07-17 14:52",
-        "category": "Vaccines & mRNA"
-    },
-    {
-        "title": "Dimerix buys a kidney injury drug; Arpeggio appears to be winding down",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/dimerix-buys-a-kidney-injury-drug-arpeggio-appears-to-be-winding-down/",
-        "published_at": "2026-07-17 14:41",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Arbutus, Sanofi escalate mRNA patent fights; InnoCare’s TYK2 contender advances",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/arbutus-sanofi-mrna-insmed-innocare-tyk2-chai-argenx/825420/",
-        "published_at": "2026-07-17 14:07",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Compounders maintain a firm grip on the GLP-1 market",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/compounders-glp1-issues-for-big-pharma-gallup/825627/",
-        "published_at": "2026-07-17 13:29",
-        "category": "Gene Editing & CRISPR"
     }
 ]
