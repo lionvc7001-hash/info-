@@ -1,5 +1,40 @@
 [
     {
+        "title": "Vertex was sole bidder in high-premium Crinetics acquisition",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/vertex-crinetics-acquisition-deal-bidder-process/825952/",
+        "published_at": "2026-07-22 20:48",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "GSK lung cancer drug gets speedy approval following $10.6B deal",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/gsk-nuvalent-jideytro-fda-approve-ros1-lung-cancer/825967/",
+        "published_at": "2026-07-22 20:30",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "FDA swiftly puts Makary era in the rearview mirror",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-swiftly-puts-makary-era-in-the-rearview-mirror/",
+        "published_at": "2026-07-22 19:02",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Former FDA cancer chief Pazdur says the agency should restructure",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/former-fda-cancer-chief-pazdur-says-the-agency-should-restructure/",
+        "published_at": "2026-07-22 18:46",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "FDA approves Nuvalent's cancer drug, a week after GSK closed $10.6B buyout",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-approves-nuvalents-cancer-drug-a-week-after-gsk-closed-10-6b-buyout/",
+        "published_at": "2026-07-22 18:21",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
         "title": "Arrowhead hits ‘best-case scenario’ with latest results for fat-lowering drug",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/arrowhead-plozasiran-results-triglyceride-severe-data-trials/825909/",
@@ -182,13 +217,6 @@
         "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "Tempus to acquire cancer test maker Personalis for $1.5B",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/tempus-to-acquire-cancer-test-maker-personalis-for-15b/825698/",
-        "published_at": "2026-07-20 18:38",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
         "title": "UnitedHealth Group lays out progress in AI push",
         "source": "Endpoints News",
         "url": "https://endpoints.news/unitedhealth-group-lays-out-progress-in-ai-push/",
@@ -207,34 +235,6 @@
         "source": "Endpoints News",
         "url": "https://endpoints.news/samsung-bio-to-step-into-peptides-in-1-8b-buy-for-polypeptide/",
         "published_at": "2026-07-20 16:18",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Pain drugmaker Latigo outlines plans to go public",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/latigo-ipo-pain-drug-ion-channel-nasdaq-ltgo/825660/",
-        "published_at": "2026-07-20 15:57",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Anthropic's life sciences plans: Mystery programs, Nobel hires, M&A and big ambition",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/anthropics-life-sciences-plans-mystery-programs-nobel-hires-ma-and-big-ambition/",
-        "published_at": "2026-07-20 15:37",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Scribe's $96M IPO; Scholar Rock awaits site classification for apitegromab",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/scribes-96m-ipo-scholar-rock-awaits-site-classification-for-apitegromab/",
-        "published_at": "2026-07-20 15:20",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "J&J, AbbVie said to have also looked at AtaiBeckley before Lilly’s $2.8B deal",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/jj-abbvie-said-to-have-also-looked-at-ataibeckley-before-lillys-2-8b-deal/",
-        "published_at": "2026-07-20 15:03",
         "category": "Mergers & Acquisitions"
     }
 ]
