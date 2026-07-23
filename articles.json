@@ -1,5 +1,75 @@
 [
     {
+        "title": "Sartorius reduces revenue by €26M to refund Trump tariffs to customers",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/sartorius-reduces-revenue-by-e26m-to-refund-trump-tariffs-to-customers/",
+        "published_at": "2026-07-23 16:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Lilly, with new data, to seek FDA approval of obesity drug retatrutide",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/lilly-retatrutide-fda-application-obesity-drug-results/825987/",
+        "published_at": "2026-07-23 15:41",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Merck CEO cautions Congress on imposing limits on Chinese dealmaking",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/merck-ceo-cautions-congress-on-imposing-limits-on-chinese-dealmaking/",
+        "published_at": "2026-07-23 14:53",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Scancell plans Neuphoria merger; AstraZeneca wins EU nod for cancer drug",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/scancell-plans-neuphoria-merger-astrazeneca-wins-eu-nod-for-cancer-drug/",
+        "published_at": "2026-07-23 14:47",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Biogen counts on drugs from Apellis deal to patch Leqembi's slow sales",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/biogen-counts-on-drugs-from-apellis-deal-to-patch-leqembis-slow-sales/",
+        "published_at": "2026-07-23 14:00",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "What’s behind the proposed pullback on remote patient monitoring",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/whats-behind-the-proposed-pullback-on-remote-patient-monitoring/",
+        "published_at": "2026-07-23 13:56",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Repligen’s $1.5B buy for BioLife; BeOne’s $300M US expansion",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/repligens-1-5b-buy-for-biolife-beones-300m-us-expansion/",
+        "published_at": "2026-07-23 13:01",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Lilly's triple agonist heads to regulators after two more Phase 3 obesity wins",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/lillys-triple-agonist-heads-to-regulators-after-two-more-phase-3-obesity-wins/",
+        "published_at": "2026-07-23 11:11",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Roche says it is thoughtful on token use for AI, shelves a drug from Carmot buy",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/roche-says-it-is-thoughtful-on-token-use-for-ai-shelves-a-drug-from-carmot-buy/",
+        "published_at": "2026-07-23 11:03",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Exclusive: Obesity biotech Verdiva hires ex-Metsera CMO as crucial readouts near",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/obesity-biotech-verdiva-hires-ex-metsera-cmo-as-crucial-readouts-approach/",
+        "published_at": "2026-07-23 10:30",
+        "category": "Mergers & Acquisitions"
+    },
+    {
         "title": "Teladoc is moving beyond its single-visit roots with new launch",
         "source": "Endpoints News",
         "url": "https://endpoints.news/teladoc-is-moving-beyond-its-single-visit-roots-with-new-launch/",
@@ -147,13 +217,6 @@
         "category": "FDA & Regulatory"
     },
     {
-        "title": "FDA plans to name permanent center heads alongside FDA chief",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-plans-to-name-permanent-center-heads-alongside-fda-chief/",
-        "published_at": "2026-07-21 16:56",
-        "category": "FDA & Regulatory"
-    },
-    {
         "title": "Agios scraps sickle cell drug",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/agios-sickle-cell-drug-development-end-tebapivat/825756/",
@@ -168,73 +231,10 @@
         "category": "Clinical Trials & R&D"
     },
     {
-        "title": "Novartis CEO says latest China deals are just following the science",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/novartis-ceo-says-latest-china-deals-are-just-following-the-science/",
-        "published_at": "2026-07-21 15:41",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Gilead and Merck provide HIV data; Dimension Capital announces $800M fund",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/gilead-and-merck-provide-hiv-data-dimension-capital-announces-800m-fund/",
-        "published_at": "2026-07-21 15:30",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Agios’ second shot at sickle cell disease falls short",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/agios-second-shot-at-sickle-cell-disease-falls-short/",
-        "published_at": "2026-07-21 15:14",
-        "category": "Clinical Trials"
-    },
-    {
         "title": "Dimension restocks with $800M to capitalize on AI’s ‘rapid ascent’",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/dimension-biotech-startups-third-fund-tech-ai/825748/",
         "published_at": "2026-07-21 15:05",
         "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Novartis climbs on upbeat drug sales as key readouts loom",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/novartis-earnings-2q-2026-drug-sales/825746/",
-        "published_at": "2026-07-21 14:53",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Notes from a peptide meetup",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/notes-from-a-peptide-meetup/",
-        "published_at": "2026-07-21 14:44",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Broad Institute launches Center for Therapeutic Genetics for rare diseases",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/broad-institute-launches-center-for-therapeutic-genetics-for-rare-diseases/",
-        "published_at": "2026-07-21 12:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "A-Alpha Bio starts AI antibody data consortium with GSK, Boltz",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/a-alpha-bio-starts-ai-antibody-data-consortium-with-gsk-boltz/",
-        "published_at": "2026-07-21 11:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "UnitedHealth Group lays out progress in AI push",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/unitedhealth-group-lays-out-progress-in-ai-push/",
-        "published_at": "2026-07-20 17:20",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "House lawmakers back trade probe of China biotech, sequencing",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/house-lawmakers-back-trade-probe-of-china-biotech-sequencing/",
-        "published_at": "2026-07-20 17:06",
-        "category": "Gene Editing & CRISPR"
     }
 ]
