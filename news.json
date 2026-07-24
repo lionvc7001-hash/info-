@@ -1,5 +1,26 @@
 [
     {
+        "title": "Gene editor Scribe starts second-half IPO spree with $129M listing",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/gene-editor-scribe-starts-second-half-ipo-spree-with-129m-listing/",
+        "published_at": "2026-07-24 02:01",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Scribe secures $129M in a rare gene editing IPO",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/scribe-ipo-price-gene-editing-biotech-pcsk9-lpa/825933/",
+        "published_at": "2026-07-24 01:18",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "FDA panel endorses broader use of certain peptides",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/fda-peptides-advisory-committee-vote-bpc-kpv-tb-mots/826062/",
+        "published_at": "2026-07-24 00:50",
+        "category": "FDA & Regulatory"
+    },
+    {
         "title": "FDA adcomm votes in favor of lifting restrictions on popular wellness peptide BPC-157",
         "source": "Endpoints News",
         "url": "https://endpoints.news/fda-adcomm-votes-in-favor-of-lifting-restrictions-on-popular-wellness-peptide-bpc-157/",
@@ -210,31 +231,10 @@
         "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "Trump pledges new tariffs on generic drugs not made in the US",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/trump-pledges-new-tariffs-for-generic-drugs-not-made-in-the-us/",
-        "published_at": "2026-07-22 00:38",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
         "title": "Agios scraps sickle cell drug",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/agios-sickle-cell-drug-development-end-tebapivat/825756/",
         "published_at": "2026-07-21 16:07",
         "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Novo sues Lilly, alleging ‘misleading’ advertising of obesity drugs",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/novo-lilly-lawsuit-obesity-drug-glp1-marketing/825772/",
-        "published_at": "2026-07-21 15:45",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Dimension restocks with $800M to capitalize on AI’s ‘rapid ascent’",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/dimension-biotech-startups-third-fund-tech-ai/825748/",
-        "published_at": "2026-07-21 15:05",
-        "category": "Mergers & Acquisitions"
     }
 ]
