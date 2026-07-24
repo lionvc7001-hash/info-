@@ -1,5 +1,47 @@
 [
     {
+        "title": "Biogen’s Alzheimer’s data spur excitement, confusion about tau-targeting drugs",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/biogens-alzheimers-data-spur-excitement-confusion-about-tau-targeting-drugs/",
+        "published_at": "2026-07-24 14:30",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Novo asks court to block Lilly ads; Merck strikes HIV PrEP deal",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/novo-asks-court-to-block-lilly-ads-merck-strikes-hiv-prep-deal/",
+        "published_at": "2026-07-24 14:08",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "CHMP recommends Minoryx’s ALD drug, rejects Zevra’s Meplyffa",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/chmp-recommends-minoryxs-ald-drug-rejects-zevras-meplyffa/",
+        "published_at": "2026-07-24 13:23",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Novo escalates legal fight with Lilly; J&J reinforces ‘dominance’ in multiple myeloma",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/novo-lawsuit-talvey-tecvayli-daraxonrasib-etcamah-ehlers-formation/825993/",
+        "published_at": "2026-07-24 13:00",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Michael Ehlers joins Formation Bio to lead R&D; Black Diamond co-founder dies at 67",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/michael-ehlers-joins-formation-bio-to-lead-r-black-diamond-co-founder-dies-at-67/",
+        "published_at": "2026-07-24 11:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Sanofi nixes Kymab-originated OX40L antibody in atopic dermatitis",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/sanofi-nixes-kymab-originated-ox40l-antibody-in-atopic-dermatitis/",
+        "published_at": "2026-07-24 10:34",
+        "category": "FDA & Regulatory"
+    },
+    {
         "title": "Gene editor Scribe starts second-half IPO spree with $129M listing",
         "source": "Endpoints News",
         "url": "https://endpoints.news/gene-editor-scribe-starts-second-half-ipo-spree-with-129m-listing/",
@@ -189,52 +231,10 @@
         "category": "Clinical Trials & R&D"
     },
     {
-        "title": "Crystalys gets $130M to take Sobi-rivaling gout drug to market",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/crystalys-gets-130m-for-phase-3-tests-of-sobi-rivaling-gout-drug/",
-        "published_at": "2026-07-22 12:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
         "title": "Crystalys nets $130M more to push gout drug through late-stage tests",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/crystalys-gout-dotinurad-series-b-venture-financing/825697/",
         "published_at": "2026-07-22 12:00",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Summit reports two-year survival data for Western patients, though context lacking",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/summit-reports-two-year-survival-data-for-western-patients-though-context-lacking/",
-        "published_at": "2026-07-22 11:37",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Celldex scraps antibody in prurigo nodularis after Phase 2 flop",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/celldex-scraps-antibody-in-prurigo-nodularis-after-phase-2-flop/",
-        "published_at": "2026-07-22 10:49",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Biopharma dealmaking in 2026: The recovery gathers speed in Q2",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/biopharma-dealmaking-in-2026-the-recovery-gathers-speed-in-q2/",
-        "published_at": "2026-07-22 10:45",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Vertex was only bidder for Crinetics in year's second-highest M&A premium",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/vertex-was-only-bidder-for-crinetics-in-years-second-highest-ma-premium/",
-        "published_at": "2026-07-22 10:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Agios scraps sickle cell drug",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/agios-sickle-cell-drug-development-end-tebapivat/825756/",
-        "published_at": "2026-07-21 16:07",
         "category": "Clinical Trials & R&D"
     }
 ]
