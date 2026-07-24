@@ -1,5 +1,26 @@
 [
     {
+        "title": "Amgen shares new Tavneos analysis in effort to resolve FDA dispute",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/amgen-shares-new-tavneos-analysis-in-effort-to-resolve-fda-dispute/",
+        "published_at": "2026-07-24 18:07",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Sanofi halts development of troubled immune drug in eczema",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/sanofi-amlitelimab-atopic-dermatitis-eczema-shelved/826132/",
+        "published_at": "2026-07-24 15:35",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Ipsen’s Bylvay fails key trial in children with rare liver disease",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/ipsens-bylvay-fails-key-trial-in-children-with-rare-liver-disease/",
+        "published_at": "2026-07-24 15:32",
+        "category": "Clinical Trials"
+    },
+    {
         "title": "Biogen’s Alzheimer’s data spur excitement, confusion about tau-targeting drugs",
         "source": "Endpoints News",
         "url": "https://endpoints.news/biogens-alzheimers-data-spur-excitement-confusion-about-tau-targeting-drugs/",
@@ -63,7 +84,7 @@
         "category": "FDA & Regulatory"
     },
     {
-        "title": "FDA adcomm votes in favor of lifting restrictions on popular wellness peptide BPC-157",
+        "title": "Updated: FDA adcomm backs popular wellness peptides, despite staff concerns",
         "source": "Endpoints News",
         "url": "https://endpoints.news/fda-adcomm-votes-in-favor-of-lifting-restrictions-on-popular-wellness-peptide-bpc-157/",
         "published_at": "2026-07-23 18:34",
@@ -210,31 +231,10 @@
         "category": "Clinical Trials & R&D"
     },
     {
-        "title": "Mentari adds $200M to migraine mission; Royalty's latest ATTR-CM deal",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/mentari-adds-200m-to-migraine-mission-royaltys-latest-attr-cm-deal/",
-        "published_at": "2026-07-22 14:17",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Q&A: Lilly returns to neuropsych and looks ahead to Alzheimer's prevention",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/qa-lilly-returns-to-neuropsych-and-looks-ahead-to-alzheimers-prevention/",
-        "published_at": "2026-07-22 14:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
         "title": "Summit counters PD-1/VEGF skeptics; Celldex drug fails skin disease study",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/summit-ivonescimab-celldex-gilead-merck-hiv-kaveri-jupiter/825817/",
         "published_at": "2026-07-22 13:33",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Crystalys nets $130M more to push gout drug through late-stage tests",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/crystalys-gout-dotinurad-series-b-venture-financing/825697/",
-        "published_at": "2026-07-22 12:00",
         "category": "Clinical Trials & R&D"
     }
 ]
