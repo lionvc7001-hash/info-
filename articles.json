@@ -1,5 +1,110 @@
 [
     {
+        "title": "MapLight dives despite positive data for schizophrenia drug",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/maplight-schizophrenia-results-stock-biotech-trial-data/826216/",
+        "published_at": "2026-07-27 16:12",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Argenx to acquire Forte in $2.2B deal for ‘differentiated’ immune drug",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/argenx-acquire-forte-biosciences-immune-drug-CD122/826221/",
+        "published_at": "2026-07-27 15:46",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Yarrow to begin trading as it targets Graves; FDA approves Otsuka's ADHD pill",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/yarrow-to-begin-trading-as-it-targets-graves-fda-approves-otsukas-adhd-pill/",
+        "published_at": "2026-07-27 15:40",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "MapLight’s schizophrenia drug dampens once-daily hopes despite Phase 2 win",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/maplights-schizophrenia-drug-dampens-once-daily-hopes-despite-phase-2-win/",
+        "published_at": "2026-07-27 15:17",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "FDA scientists question Capricor data; Legend CEO steps down",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/legend-ceo-astrazeneca-adc-outlook-lytenava-simtriyo/826211/",
+        "published_at": "2026-07-27 15:00",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Sarepta, in search of a turnaround, taps ex-AbbVie exec Severino as CEO",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/sarepta-mike-severino-ceo-change-doug-ingram/826219/",
+        "published_at": "2026-07-27 14:16",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Legend CEO Ying Huang resigns; Carvykti chief named interim leader",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/legend-ceo-ying-huang-resigns-carvykti-chief-named-interim-leader/",
+        "published_at": "2026-07-27 13:38",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Sarepta turns to Michael Severino as CEO, looking to move past recent turmoil",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/sarepta-turns-to-michael-severino-as-ceo/",
+        "published_at": "2026-07-27 12:30",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "[Podcast] (Season 2) The Progress Profile: Alzheimer’s Research in Focus",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/spons/podcast-season-2-the-progress-profile-alzheimers-research-in-focus/822189/",
+        "published_at": "2026-07-27 12:00",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "[Podcast] From Protocol to Patient: Inside Clinical Supply with Almac Clinical Services",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/spons/podcast-from-protocol-to-patient-inside-clinical-supply-with-almac-clini/815692/",
+        "published_at": "2026-07-27 12:00",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "AstraZeneca looks to AI to ease risk in late-stage trials, speed up filings",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/astrazeneca-looks-to-ai-to-ease-risk-in-late-stage-trials-speed-up-filings/",
+        "published_at": "2026-07-27 11:08",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Updated: AstraZeneca sees blockbuster sales for Claudin 18.2 ADC but Ultomiris flops in rare disease",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/astrazenecas-pipeline-struggles-continue-as-it-reports-disappointing-data-in-cancer-rare-disease/",
+        "published_at": "2026-07-27 11:03",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Schrödinger debuts AI agent Bunsen to use its physics software",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/schrodinger-debuts-ai-agent-bunsen-to-use-its-physics-software/",
+        "published_at": "2026-07-27 11:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Argenx to pick up autoimmune biotech Forte Biosciences for $2.2B",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/argenx-to-pick-up-autoimmune-biotech-forte-biosciences-for-2-2b/",
+        "published_at": "2026-07-27 10:46",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "From confidence to capital: Positioning biotech for the next growth cycle",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/spons/from-confidence-to-capital-positioning-biotech-for-the-next-growth-cycle/825612/",
+        "published_at": "2026-07-27 09:00",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
         "title": "Anthropic’s life science plans; Novartis CEO on China deals; and more",
         "source": "Endpoints News",
         "url": "https://endpoints.news/anthropics-life-science-plans-novartis-ceo-on-china-deals-and-more/",
@@ -84,13 +189,6 @@
         "category": "Gene Editing & CRISPR"
     },
     {
-        "title": "FDA panel endorses broader use of certain peptides",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/fda-peptides-advisory-committee-vote-bpc-kpv-tb-mots/826062/",
-        "published_at": "2026-07-24 00:50",
-        "category": "FDA & Regulatory"
-    },
-    {
         "title": "Updated: FDA adcomm backs popular wellness peptides, despite staff concerns",
         "source": "Endpoints News",
         "url": "https://endpoints.news/fda-adcomm-votes-in-favor-of-lifting-restrictions-on-popular-wellness-peptide-bpc-157/",
@@ -110,13 +208,6 @@
         "url": "https://endpoints.news/sartorius-reduces-revenue-by-e26m-to-refund-trump-tariffs-to-customers/",
         "published_at": "2026-07-23 16:00",
         "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Lilly, with new data, to seek FDA approval of obesity drug retatrutide",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/lilly-retatrutide-fda-application-obesity-drug-results/825987/",
-        "published_at": "2026-07-23 15:41",
-        "category": "FDA & Regulatory"
     },
     {
         "title": "Merck CEO cautions Congress on imposing limits on Chinese dealmaking",
@@ -145,96 +236,5 @@
         "url": "https://endpoints.news/whats-behind-the-proposed-pullback-on-remote-patient-monitoring/",
         "published_at": "2026-07-23 13:56",
         "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Repligen’s $1.5B buy for BioLife; BeOne’s $300M US expansion",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/repligens-1-5b-buy-for-biolife-beones-300m-us-expansion/",
-        "published_at": "2026-07-23 13:01",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Lilly's triple agonist heads to regulators after two more Phase 3 obesity wins",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/lillys-triple-agonist-heads-to-regulators-after-two-more-phase-3-obesity-wins/",
-        "published_at": "2026-07-23 11:11",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Roche says it is thoughtful on token use for AI, shelves a drug from Carmot buy",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/roche-says-it-is-thoughtful-on-token-use-for-ai-shelves-a-drug-from-carmot-buy/",
-        "published_at": "2026-07-23 11:03",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Exclusive: Obesity biotech Verdiva hires ex-Metsera CMO as crucial readouts near",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/obesity-biotech-verdiva-hires-ex-metsera-cmo-as-crucial-readouts-approach/",
-        "published_at": "2026-07-23 10:30",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Teladoc is moving beyond its single-visit roots with new launch",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/teladoc-is-moving-beyond-its-single-visit-roots-with-new-launch/",
-        "published_at": "2026-07-23 10:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Vertex was sole bidder in high-premium Crinetics acquisition",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/vertex-crinetics-acquisition-deal-bidder-process/825952/",
-        "published_at": "2026-07-22 20:48",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "GSK lung cancer drug gets speedy approval following $10.6B deal",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/gsk-nuvalent-jideytro-fda-approve-ros1-lung-cancer/825967/",
-        "published_at": "2026-07-22 20:30",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "FDA swiftly puts Makary era in the rearview mirror",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-swiftly-puts-makary-era-in-the-rearview-mirror/",
-        "published_at": "2026-07-22 19:02",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Former FDA cancer chief Pazdur says the agency should restructure",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/former-fda-cancer-chief-pazdur-says-the-agency-should-restructure/",
-        "published_at": "2026-07-22 18:46",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "FDA approves Nuvalent's cancer drug, a week after GSK closed $10.6B buyout",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-approves-nuvalents-cancer-drug-a-week-after-gsk-closed-10-6b-buyout/",
-        "published_at": "2026-07-22 18:21",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Arrowhead hits ‘best-case scenario’ with latest results for fat-lowering drug",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/arrowhead-plozasiran-results-triglyceride-severe-data-trials/825909/",
-        "published_at": "2026-07-22 16:01",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Trump threatens tariffs on imported generic drugs",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/trump-tariffs-generic-drugs-pharmaceuticals-impact/825879/",
-        "published_at": "2026-07-22 14:59",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Summit counters PD-1/VEGF skeptics; Celldex drug fails skin disease study",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/summit-ivonescimab-celldex-gilead-merck-hiv-kaveri-jupiter/825817/",
-        "published_at": "2026-07-22 13:33",
-        "category": "Clinical Trials & R&D"
     }
 ]
