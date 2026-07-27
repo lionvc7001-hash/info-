@@ -1,5 +1,33 @@
 [
     {
+        "title": "Virginia federal judge says FDA should reconsider mifepristone restrictions",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/virginia-federal-judge-says-fda-should-reconsider-mifepristone-restrictions/",
+        "published_at": "2026-07-27 18:39",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "The patent cliff is looming and CDMOs need to be prepared, Fujifilm CEO says",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/the-patent-cliff-is-looming-and-cdmos-need-to-be-prepared-fujifilm-ceo-says/",
+        "published_at": "2026-07-27 18:30",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Capricor's DMD therapy lacks efficacy, FDA says ahead of adcomm",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/capricors-dmd-therapy-lacks-efficacy-fda-says-ahead-of-adcomm/",
+        "published_at": "2026-07-27 17:40",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Six wellness peptides win backing from FDA advisory committee",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/six-wellness-peptides-win-backing-from-fda-advisory-committee/",
+        "published_at": "2026-07-27 17:21",
+        "category": "Clinical Trials"
+    },
+    {
         "title": "MapLight dives despite positive data for schizophrenia drug",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/maplight-schizophrenia-results-stock-biotech-trial-data/826216/",
@@ -77,7 +105,7 @@
         "category": "Clinical Trials"
     },
     {
-        "title": "Updated: AstraZeneca sees blockbuster sales for Claudin 18.2 ADC but Ultomiris flops in rare disease",
+        "title": "Updated: AstraZeneca foresees blockbuster sales for Claudin 18.2 ADC, but Ultomiris flops in rare disease",
         "source": "Endpoints News",
         "url": "https://endpoints.news/astrazenecas-pipeline-struggles-continue-as-it-reports-disappointing-data-in-cancer-rare-disease/",
         "published_at": "2026-07-27 11:03",
@@ -207,34 +235,6 @@
         "source": "Endpoints News",
         "url": "https://endpoints.news/sartorius-reduces-revenue-by-e26m-to-refund-trump-tariffs-to-customers/",
         "published_at": "2026-07-23 16:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Merck CEO cautions Congress on imposing limits on Chinese dealmaking",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/merck-ceo-cautions-congress-on-imposing-limits-on-chinese-dealmaking/",
-        "published_at": "2026-07-23 14:53",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Scancell plans Neuphoria merger; AstraZeneca wins EU nod for cancer drug",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/scancell-plans-neuphoria-merger-astrazeneca-wins-eu-nod-for-cancer-drug/",
-        "published_at": "2026-07-23 14:47",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Biogen counts on drugs from Apellis deal to patch Leqembi's slow sales",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/biogen-counts-on-drugs-from-apellis-deal-to-patch-leqembis-slow-sales/",
-        "published_at": "2026-07-23 14:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "What’s behind the proposed pullback on remote patient monitoring",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/whats-behind-the-proposed-pullback-on-remote-patient-monitoring/",
-        "published_at": "2026-07-23 13:56",
         "category": "Pharma & FDA Regulatory"
     }
 ]
