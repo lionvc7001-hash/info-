@@ -1,5 +1,82 @@
 [
     {
+        "title": "GSK prepares for patent cliff with $2.5B cost-cutting plan",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/gsk-restructuring-layoffs-cost-cuts-2q26-earnings/826351/",
+        "published_at": "2026-07-28 16:02",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Oak Hill Bio merges with RA Capital SPAC; InnoCare's TYK2 drug hits in Phase 3",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/oak-hill-bio-merges-with-ra-capital-spac-innocares-tyk2-drug-hits-in-phase-3/",
+        "published_at": "2026-07-28 15:17",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "FDA staff say Replimune's melanoma trial failed to prove RP1 works",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-staff-say-replimunes-melanoma-trial-failed-to-prove-rp1-works/",
+        "published_at": "2026-07-28 15:05",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "The future of gray-market peptides",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/the-future-of-gray-market-peptides/",
+        "published_at": "2026-07-28 14:24",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Alnylam's stock is down 30% despite a booming biotech market. Here's why.",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/alnylams-stock-is-down-30-despite-a-booming-biotech-market-heres-why/",
+        "published_at": "2026-07-28 14:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Mirae raises $5.4M to turn patient texts into data for doctors",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/mirae-raises-5-4m-to-turn-patient-texts-into-data-for-doctors/",
+        "published_at": "2026-07-28 13:15",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Claris collects $118M to take eye drop into pivotal testing next year",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/claris-collects-118m-to-take-eye-drop-into-pivotal-testing-next-year/",
+        "published_at": "2026-07-28 12:00",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "The FDA was all in on AI. Will that change?",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/AI-guidance-in-question-FDA/826217/",
+        "published_at": "2026-07-28 12:00",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "An eye drug biotech banks $118M and stocks its executive suite",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/claris-series-b-limbal-stem-cell-deficiency/826263/",
+        "published_at": "2026-07-28 12:00",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Updated: GSK reveals three-year blueprint to cut costs and propel R&D",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/gsk-to-kickstart-three-year-plan-to-save-cash-takes-1-33b-hit-on-cough-trial-failure/",
+        "published_at": "2026-07-28 11:35",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Updated: Altimmune’s GLP-1-based shot cuts drinking in patients with alcoholism",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/altimmunes-glp-1-based-shot-cuts-drinking-in-patients-with-alcoholism/",
+        "published_at": "2026-07-28 11:00",
+        "category": "Clinical Trials"
+    },
+    {
         "title": "Virginia federal judge says FDA should reconsider mifepristone restrictions",
         "source": "Endpoints News",
         "url": "https://endpoints.news/virginia-federal-judge-says-fda-should-reconsider-mifepristone-restrictions/",
@@ -147,13 +224,6 @@
         "category": "FDA & Regulatory"
     },
     {
-        "title": "Sanofi halts development of troubled immune drug in eczema",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/sanofi-amlitelimab-atopic-dermatitis-eczema-shelved/826132/",
-        "published_at": "2026-07-24 15:35",
-        "category": "FDA & Regulatory"
-    },
-    {
         "title": "Ipsen’s Bylvay fails key trial in children with rare liver disease",
         "source": "Endpoints News",
         "url": "https://endpoints.news/ipsens-bylvay-fails-key-trial-in-children-with-rare-liver-disease/",
@@ -165,76 +235,6 @@
         "source": "Endpoints News",
         "url": "https://endpoints.news/biogens-alzheimers-data-spur-excitement-confusion-about-tau-targeting-drugs/",
         "published_at": "2026-07-24 14:30",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Novo asks court to block Lilly ads; Merck strikes HIV PrEP deal",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/novo-asks-court-to-block-lilly-ads-merck-strikes-hiv-prep-deal/",
-        "published_at": "2026-07-24 14:08",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "CHMP recommends Minoryx’s ALD drug, rejects Zevra’s Meplyffa",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/chmp-recommends-minoryxs-ald-drug-rejects-zevras-meplyffa/",
-        "published_at": "2026-07-24 13:23",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Novo escalates legal fight with Lilly; J&J reinforces ‘dominance’ in multiple myeloma",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/novo-lawsuit-talvey-tecvayli-daraxonrasib-etcamah-ehlers-formation/825993/",
-        "published_at": "2026-07-24 13:00",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Michael Ehlers joins Formation Bio to lead R&D; Black Diamond co-founder dies at 67",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/michael-ehlers-joins-formation-bio-to-lead-r-black-diamond-co-founder-dies-at-67/",
-        "published_at": "2026-07-24 11:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Sanofi nixes Kymab-originated OX40L antibody in atopic dermatitis",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/sanofi-nixes-kymab-originated-ox40l-antibody-in-atopic-dermatitis/",
-        "published_at": "2026-07-24 10:34",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Gene editor Scribe starts second-half IPO spree with $129M listing",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/gene-editor-scribe-starts-second-half-ipo-spree-with-129m-listing/",
-        "published_at": "2026-07-24 02:01",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Scribe secures $129M in a rare gene editing IPO",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/scribe-ipo-price-gene-editing-biotech-pcsk9-lpa/825933/",
-        "published_at": "2026-07-24 01:18",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Updated: FDA adcomm backs popular wellness peptides, despite staff concerns",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-adcomm-votes-in-favor-of-lifting-restrictions-on-popular-wellness-peptide-bpc-157/",
-        "published_at": "2026-07-23 18:34",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "FDA to end pilot aimed at preventing production issues",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-to-end-pilot-aimed-at-preventing-production-issues/",
-        "published_at": "2026-07-23 18:24",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Sartorius reduces revenue by €26M to refund Trump tariffs to customers",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/sartorius-reduces-revenue-by-e26m-to-refund-trump-tariffs-to-customers/",
-        "published_at": "2026-07-23 16:00",
         "category": "Pharma & FDA Regulatory"
     }
 ]
