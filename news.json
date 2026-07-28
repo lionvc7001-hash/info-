@@ -1,5 +1,26 @@
 [
     {
+        "title": "FDA reminds investors about the risks of advisory panels",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-reminds-investors-about-the-risks-of-advisory-panels/",
+        "published_at": "2026-07-28 19:08",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "J&J proposes $5.5B talc settlement",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/jj-proposes-5-5b-talc-settlement/",
+        "published_at": "2026-07-28 18:33",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "FDA offers updated guidance for generics of weight loss blockbusters",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-offers-updated-guidance-for-generics-of-weight-loss-blockbusters/",
+        "published_at": "2026-07-28 18:08",
+        "category": "FDA & Regulatory"
+    },
+    {
         "title": "GSK prepares for patent cliff with $2.5B cost-cutting plan",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/gsk-restructuring-layoffs-cost-cuts-2q26-earnings/826351/",
@@ -215,26 +236,5 @@
         "url": "https://endpoints.news/anthropics-life-science-plans-novartis-ceo-on-china-deals-and-more/",
         "published_at": "2026-07-25 10:00",
         "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Amgen shares new Tavneos analysis in effort to resolve FDA dispute",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/amgen-shares-new-tavneos-analysis-in-effort-to-resolve-fda-dispute/",
-        "published_at": "2026-07-24 18:07",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Ipsen’s Bylvay fails key trial in children with rare liver disease",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/ipsens-bylvay-fails-key-trial-in-children-with-rare-liver-disease/",
-        "published_at": "2026-07-24 15:32",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Biogen’s Alzheimer’s data spur excitement, confusion about tau-targeting drugs",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/biogens-alzheimers-data-spur-excitement-confusion-about-tau-targeting-drugs/",
-        "published_at": "2026-07-24 14:30",
-        "category": "Pharma & FDA Regulatory"
     }
 ]
