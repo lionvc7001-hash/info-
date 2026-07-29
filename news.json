@@ -1,5 +1,47 @@
 [
     {
+        "title": "FTC sues Hims for sharing sensitive health information, billing practices",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/ftc-sues-hims-for-sharing-sensitive-health-information-billing-practices/",
+        "published_at": "2026-07-29 19:48",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "US releases $600M in funding for global health group Gavi",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/us-releases-600m-in-funding-for-global-health-group-gavi/",
+        "published_at": "2026-07-29 19:14",
+        "category": "Vaccines & mRNA"
+    },
+    {
+        "title": "FDA, Capricor battle over DMD cell therapy's efficacy at adcomm",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-capricor-battle-over-dmd-cell-therapys-efficacy-at-adcomm/",
+        "published_at": "2026-07-29 18:11",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Teva is confident it has time to brace for tariffs on non-US generics",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/teva-is-confident-it-has-time-to-brace-for-tariffs-on-non-us-generics/",
+        "published_at": "2026-07-29 17:27",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "NYU's Neil Vasan departs as acting chair of FDA's cancer drug advisory panel",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/nyus-neil-vasan-departs-as-acting-chair-of-fdas-cancer-drug-advisory-panel/",
+        "published_at": "2026-07-29 17:02",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Caldera, Vidya add to recent flurry of biotech mergers",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/caldera-vidya-public-biotech-reverse-merger-deal/826462/",
+        "published_at": "2026-07-29 16:07",
+        "category": "Mergers & Acquisitions"
+    },
+    {
         "title": "AbCellera, Vertex partner on next-gen T-cell engagers",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/abcellera-vertex-partnership-next-gen-t-cell-engagers/826471/",
@@ -21,9 +63,9 @@
         "category": "Immunotherapy & Oncology"
     },
     {
-        "title": "FDA reviewers criticize Replimune data; ProMIS climbs on Alzheimer’s drug data",
+        "title": "FDA reviewers criticize Replimune drug; ProMIS climbs on Alzheimer’s data",
         "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/fda-reviewers-criticize-replimune-data-promis-climbs-on-alzheimers-drug-d/826349/",
+        "url": "https://www.biopharmadive.com/news/fda-reviewers-criticize-replimune-drug-promis-climbs-on-alzheimers-data/826349/",
         "published_at": "2026-07-29 15:00",
         "category": "FDA & Regulatory"
     },
@@ -175,13 +217,6 @@
         "category": "Clinical Trials"
     },
     {
-        "title": "Six wellness peptides win backing from FDA advisory committee",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/six-wellness-peptides-win-backing-from-fda-advisory-committee/",
-        "published_at": "2026-07-27 17:21",
-        "category": "Clinical Trials"
-    },
-    {
         "title": "MapLight dives despite positive data for schizophrenia drug",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/maplight-schizophrenia-results-stock-biotech-trial-data/826216/",
@@ -196,45 +231,10 @@
         "category": "Mergers & Acquisitions"
     },
     {
-        "title": "Yarrow to begin trading as it targets Graves; FDA approves Otsuka's ADHD pill",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/yarrow-to-begin-trading-as-it-targets-graves-fda-approves-otsukas-adhd-pill/",
-        "published_at": "2026-07-27 15:40",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "MapLight’s schizophrenia drug dampens once-daily hopes despite Phase 2 win",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/maplights-schizophrenia-drug-dampens-once-daily-hopes-despite-phase-2-win/",
-        "published_at": "2026-07-27 15:17",
-        "category": "Clinical Trials"
-    },
-    {
         "title": "FDA scientists question Capricor data; Legend CEO steps down",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/legend-ceo-astrazeneca-adc-outlook-lytenava-simtriyo/826211/",
         "published_at": "2026-07-27 15:00",
         "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Sarepta, in search of a turnaround, taps ex-AbbVie exec Severino as CEO",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/sarepta-mike-severino-ceo-change-doug-ingram/826219/",
-        "published_at": "2026-07-27 14:16",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Legend CEO Ying Huang resigns; Carvykti chief named interim leader",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/legend-ceo-ying-huang-resigns-carvykti-chief-named-interim-leader/",
-        "published_at": "2026-07-27 13:38",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Sarepta turns to Michael Severino as CEO, looking to move past recent turmoil",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/sarepta-turns-to-michael-severino-as-ceo/",
-        "published_at": "2026-07-27 12:30",
-        "category": "Gene Editing & CRISPR"
     }
 ]
