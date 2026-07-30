@@ -1,5 +1,33 @@
 [
     {
+        "title": "Alnylam plunges as earnings deliver ‘one-two punch’",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/alnylam-earnings-stock-amvuttra-onpattro-sales-pfizer-ionis/826654/",
+        "published_at": "2026-07-30 20:12",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Regeneron, Sanofi tease potential expanded collaboration for Dupixent follow-ons",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/regeneron-sanofi-tease-potential-expanded-collaboration-for-dupixent-follow-ons/",
+        "published_at": "2026-07-30 19:22",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Replimune defends melanoma drug decisions to FDA advisory panel",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/replimune-defends-melanoma-drug-decisions-to-fda-advisory-panel/",
+        "published_at": "2026-07-30 19:11",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "First round of Trump's 100% pharma tariffs won't start Friday as planned",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/first-round-of-trumps-100-pharma-tariffs-wont-start-friday-as-planned/",
+        "published_at": "2026-07-30 17:37",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
         "title": "FTC sues Hims & Hers over alleged privacy violations, deceptive billing practices",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/ftc-sues-hims-hers-alleged-privacy-violations-deceptive-billing/826612/",
@@ -203,38 +231,10 @@
         "category": "Mergers & Acquisitions"
     },
     {
-        "title": "Former Recursion CEO Chris Gibson joins Dimension as operating partner",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/exclusive-former-recursion-ceo-chris-gibson-joins-vc-firm-dimension-as-operating-partner/",
-        "published_at": "2026-07-29 11:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Leqembi records best quarter since launch as Biogen raises underlying guidance",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/leqembi-records-best-quarter-since-launch-as-biogen-raises-guidance/",
-        "published_at": "2026-07-29 10:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "FDA reminds investors about the risks of advisory panels",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-reminds-investors-about-the-risks-of-advisory-panels/",
-        "published_at": "2026-07-28 19:08",
-        "category": "FDA & Regulatory"
-    },
-    {
         "title": "GSK prepares for patent cliff with $2.5B cost-cutting plan",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/gsk-restructuring-layoffs-cost-cuts-2q26-earnings/826351/",
         "published_at": "2026-07-28 16:02",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "An eye drug biotech banks $118M and stocks its executive suite",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/claris-series-b-limbal-stem-cell-deficiency/826263/",
-        "published_at": "2026-07-28 12:00",
         "category": "Clinical Trials & R&D"
     }
 ]
