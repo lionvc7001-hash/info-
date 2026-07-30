@@ -1,5 +1,19 @@
 [
     {
+        "title": "Capricor Duchenne cell therapy voted down by FDA panel",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/capricor-fda-vote-deramiocel-duchenne-cardiomyopathy/826465/",
+        "published_at": "2026-07-29 21:31",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "MapLight CEO on what investors missed in the biotech’s schizophrenia data",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/maplight-ceo-kroeger-schizophrenia-drug-trial-data-investors/826530/",
+        "published_at": "2026-07-29 21:22",
+        "category": "Clinical Trials & R&D"
+    },
+    {
         "title": "FTC sues Hims for sharing sensitive health information, billing practices",
         "source": "Endpoints News",
         "url": "https://endpoints.news/ftc-sues-hims-for-sharing-sensitive-health-information-billing-practices/",
@@ -14,7 +28,7 @@
         "category": "Vaccines & mRNA"
     },
     {
-        "title": "FDA, Capricor battle over DMD cell therapy's efficacy at adcomm",
+        "title": "Updated: FDA adcomm votes down Capricor's DMD therapy over efficacy",
         "source": "Endpoints News",
         "url": "https://endpoints.news/fda-capricor-battle-over-dmd-cell-therapys-efficacy-at-adcomm/",
         "published_at": "2026-07-29 18:11",
@@ -222,19 +236,5 @@
         "url": "https://www.biopharmadive.com/news/maplight-schizophrenia-results-stock-biotech-trial-data/826216/",
         "published_at": "2026-07-27 16:12",
         "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Argenx to acquire Forte in $2.2B deal for ‘differentiated’ immune drug",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/argenx-acquire-forte-biosciences-immune-drug-CD122/826221/",
-        "published_at": "2026-07-27 15:46",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "FDA scientists question Capricor data; Legend CEO steps down",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/legend-ceo-astrazeneca-adc-outlook-lytenava-simtriyo/826211/",
-        "published_at": "2026-07-27 15:00",
-        "category": "FDA & Regulatory"
     }
 ]
