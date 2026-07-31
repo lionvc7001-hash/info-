@@ -1,5 +1,26 @@
 [
     {
+        "title": "Chasing Vertex, Latigo reports non-opioid pain drug succeeds in key trial",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/chasing-vertex-latigo-reports-non-opioid-pain-drug-succeeds-in-key-trial/",
+        "published_at": "2026-07-31 07:24",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Apnimed raises $192M IPO for potential 2027 sleep apnea drug launch",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/apnimed-raises-192m-ipo-for-potential-2027-sleep-apnea-drug-launch/",
+        "published_at": "2026-07-31 07:18",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Replimune melanoma drug wins support of FDA panel",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/replimune-rp1-fda-vote-advisory-committee-melanoma-drug/826619/",
+        "published_at": "2026-07-30 21:25",
+        "category": "FDA & Regulatory"
+    },
+    {
         "title": "Alnylam plunges as earnings deliver ‘one-two punch’",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/alnylam-earnings-stock-amvuttra-onpattro-sales-pfizer-ionis/826654/",
@@ -14,7 +35,7 @@
         "category": "Mergers & Acquisitions"
     },
     {
-        "title": "Replimune defends melanoma drug decisions to FDA advisory panel",
+        "title": "Replimune scores win as FDA advisors back melanoma treatment",
         "source": "Endpoints News",
         "url": "https://endpoints.news/replimune-defends-melanoma-drug-decisions-to-fda-advisory-panel/",
         "published_at": "2026-07-30 19:11",
@@ -215,26 +236,5 @@
         "url": "https://www.biopharmadive.com/news/fda-reviewers-criticize-replimune-drug-promis-climbs-on-alzheimers-data/826349/",
         "published_at": "2026-07-29 15:00",
         "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Two biotechs sign reverse mergers to advance I&I drug, BTK inhibitor",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/two-biotechs-sign-reverse-mergers-to-advance-ii-drug-btk-inhibitor/",
-        "published_at": "2026-07-29 14:46",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "AI doctor Doctronic buys Summer Health, expanding into pediatric care",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/ai-doctor-doctronic-buys-summer-health-expanding-into-pediatric-care/",
-        "published_at": "2026-07-29 12:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "GSK prepares for patent cliff with $2.5B cost-cutting plan",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/gsk-restructuring-layoffs-cost-cuts-2q26-earnings/826351/",
-        "published_at": "2026-07-28 16:02",
-        "category": "Clinical Trials & R&D"
     }
 ]
