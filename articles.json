@@ -1,5 +1,26 @@
 [
     {
+        "title": "Pharma groups back changes to 340B rebate pilot",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/pharma-groups-back-changes-to-340b-rebate-pilot/",
+        "published_at": "2026-07-31 17:22",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Moderna's norovirus vaccine readout is delayed because of too few infections",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/modernas-norovirus-vaccine-readout-is-delayed-because-of-too-few-infections/",
+        "published_at": "2026-07-31 16:36",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Novo setback casts doubt on a new way to treat heart disease",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/novo-nordik-ziltivekimab-zeus-study-results-corvidia/826695/",
+        "published_at": "2026-07-31 16:11",
+        "category": "Clinical Trials"
+    },
+    {
         "title": "Novo Nordisk rocked by late-stage cardiovascular drug failure",
         "source": "Endpoints News",
         "url": "https://endpoints.news/novo-nordisk-rocked-by-late-stage-cardiovascular-drug-failure/",
@@ -203,20 +224,6 @@
         "category": "Clinical Trials & R&D"
     },
     {
-        "title": "FTC sues Hims for sharing sensitive health information, billing practices",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/ftc-sues-hims-for-sharing-sensitive-health-information-billing-practices/",
-        "published_at": "2026-07-29 19:48",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "US releases $600M in funding for global health group Gavi",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/us-releases-600m-in-funding-for-global-health-group-gavi/",
-        "published_at": "2026-07-29 19:14",
-        "category": "Vaccines & mRNA"
-    },
-    {
         "title": "Caldera, Vidya add to recent flurry of biotech mergers",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/caldera-vidya-public-biotech-reverse-merger-deal/826462/",
@@ -228,13 +235,6 @@
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/abcellera-vertex-partnership-next-gen-t-cell-engagers/826471/",
         "published_at": "2026-07-29 15:40",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Earnings roundup: Biogen’s ‘resiliency,’ AstraZeneca’s growth pitch and GSK’s oncology push",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/biogen-astrazeneca-gsk-2q26-earnings-analysis/826386/",
-        "published_at": "2026-07-29 15:13",
         "category": "Immunotherapy & Oncology"
     }
 ]
