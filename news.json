@@ -1,5 +1,26 @@
 [
     {
+        "title": "Novo Nordisk rocked by late-stage cardiovascular drug failure",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/novo-nordisk-rocked-by-late-stage-cardiovascular-drug-failure/",
+        "published_at": "2026-07-31 15:35",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Sanofi to ‘rebuild trust’ with Regeneron; Apnimed adds to string of ‘upsized’ biotech IPOs",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/sanofi-bristol-myers-apnimed-relation-therapeutics/826559/",
+        "published_at": "2026-07-31 15:06",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Ratio collects $70M for its radiopharmaceutical trials; Vogenx plans $67M IPO",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/ratio-collects-70m-for-its-radiopharmaceutical-trials-vogenx-plans-67m-ipo/",
+        "published_at": "2026-07-31 14:59",
+        "category": "Mergers & Acquisitions"
+    },
+    {
         "title": "Ionis' top scientist Frank Bennett to retire; Recursion selects its first AI chief",
         "source": "Endpoints News",
         "url": "https://endpoints.news/ionis-top-scientist-frank-bennett-to-retire-recursion-selects-its-first-ai-chief/",
@@ -196,20 +217,6 @@
         "category": "Vaccines & mRNA"
     },
     {
-        "title": "Updated: FDA adcomm votes down Capricor's DMD therapy over efficacy",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-capricor-battle-over-dmd-cell-therapys-efficacy-at-adcomm/",
-        "published_at": "2026-07-29 18:11",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Teva is confident it has time to brace for tariffs on non-US generics",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/teva-is-confident-it-has-time-to-brace-for-tariffs-on-non-us-generics/",
-        "published_at": "2026-07-29 17:27",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
         "title": "Caldera, Vidya add to recent flurry of biotech mergers",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/caldera-vidya-public-biotech-reverse-merger-deal/826462/",
@@ -229,12 +236,5 @@
         "url": "https://www.biopharmadive.com/news/biogen-astrazeneca-gsk-2q26-earnings-analysis/826386/",
         "published_at": "2026-07-29 15:13",
         "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "FDA reviewers criticize Replimune drug; ProMIS climbs on Alzheimer’s data",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/fda-reviewers-criticize-replimune-drug-promis-climbs-on-alzheimers-data/826349/",
-        "published_at": "2026-07-29 15:00",
-        "category": "FDA & Regulatory"
     }
 ]
