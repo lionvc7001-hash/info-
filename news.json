@@ -1,5 +1,33 @@
 [
     {
+        "title": "Supernus, Indivior to merge and form CNS-focused drugmaker",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/supernus-indivior-to-merge-and-form-cns-focused-drugmaker/",
+        "published_at": "2026-08-03 11:24",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "BioNTech names Sobi's Guido Oelkers as incoming CEO",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/biontech-names-sobis-guido-oelkers-as-incoming-ceo/",
+        "published_at": "2026-08-03 11:07",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Dash Bio raises $30M Series A led by Oak HC/FT",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/dash-bio-raises-30m-series-a-led-by-oak-hc-ft/",
+        "published_at": "2026-08-03 11:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Hackers steal patient data in Amgen cloud breach",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/hackers-steal-patient-data-in-amgen-cloud-breach/",
+        "published_at": "2026-08-03 10:47",
+        "category": "FDA & Regulatory"
+    },
+    {
         "title": "AstraZeneca, Bristol Myers in talks about merger — report",
         "source": "Endpoints News",
         "url": "https://endpoints.news/astrazeneca-bristol-myers-are-in-talks-about-merger-report/",
@@ -12,6 +40,13 @@
         "url": "https://endpoints.news/alnylams-slump-deepens-q2-earnings-roundup-and-more/",
         "published_at": "2026-08-01 10:00",
         "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Trump administration tries again to institute rebates in 340B",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/the-trump-administration-tries-again-340b-rebates/826766/",
+        "published_at": "2026-07-31 19:10",
+        "category": "Clinical Trials & R&D"
     },
     {
         "title": "AbbVie touts strong momentum for Skyrizi despite rising competition",
@@ -40,6 +75,13 @@
         "url": "https://www.biopharmadive.com/news/novo-nordik-ziltivekimab-zeus-study-results-corvidia/826695/",
         "published_at": "2026-07-31 16:11",
         "category": "Clinical Trials"
+    },
+    {
+        "title": "Resilience and Lilly invest $750M to boost Cincinnati drug production",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/resilience-lilly-invest-750m-scale-cincinnati-production-injectable/826729/",
+        "published_at": "2026-07-31 15:45",
+        "category": "Clinical Trials & R&D"
     },
     {
         "title": "Novo Nordisk rocked by late-stage cardiovascular drug failure",
@@ -182,34 +224,6 @@
         "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "Betting big on alternative health plans",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/betting-big-on-alternative-health-plans/",
-        "published_at": "2026-07-30 14:22",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Ipsen has 'firepower' for more deals with €2B war chest",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/ipsen-has-firepower-for-more-deals-with-e2b-war-chest/",
-        "published_at": "2026-07-30 14:16",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Gerresheimer divests two businesses worth €1.5B; Resilience, Lilly boost injectable pen capacity",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/gerresheimer-divests-two-businesses-worth-e1-5b-resilience-lilly-boost-injectable-pen-capacity/",
-        "published_at": "2026-07-30 13:30",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Alnylam cuts Amvuttra sales guidance as demand shifts, hurting stock",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/alnylam-cuts-amvuttra-sales-guidance-as-demand-shifts-hurting-stock/",
-        "published_at": "2026-07-30 13:25",
-        "category": "FDA & Regulatory"
-    },
-    {
         "title": "Capricor Duchenne cell therapy voted down by FDA panel",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/capricor-fda-vote-deramiocel-duchenne-cardiomyopathy/826465/",
@@ -222,19 +236,5 @@
         "url": "https://www.biopharmadive.com/news/maplight-ceo-kroeger-schizophrenia-drug-trial-data-investors/826530/",
         "published_at": "2026-07-29 21:22",
         "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Caldera, Vidya add to recent flurry of biotech mergers",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/caldera-vidya-public-biotech-reverse-merger-deal/826462/",
-        "published_at": "2026-07-29 16:07",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "AbCellera, Vertex partner on next-gen T-cell engagers",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/abcellera-vertex-partnership-next-gen-t-cell-engagers/826471/",
-        "published_at": "2026-07-29 15:40",
-        "category": "Immunotherapy & Oncology"
     }
 ]
