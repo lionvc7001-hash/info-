@@ -1,6 +1,41 @@
 [
     {
-        "title": "Supernus, Indivior to merge and form CNS-focused drugmaker",
+        "title": "BioNTech taps Sobi executive Oelkers as its next CEO",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/biontech-ceo-guido-oelkers-sobi-ugur-sahin/826805/",
+        "published_at": "2026-08-03 15:49",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "FDA expands Pluvicto label, making it available to most metastatic prostate cancer patients",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-expands-pluvicto-label-making-it-available-to-most-metastatic-prostate-cancer-patients/",
+        "published_at": "2026-08-03 15:26",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Curium buys radiopharma rival Lantheus for $8B; Sandoz settles price-fixing case",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/curium-buys-radiopharma-rival-lantheus-for-8b-sandoz-settles-price-fixing-case/",
+        "published_at": "2026-08-03 14:28",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Supernus, Individor merge to beef up brain drug portfolio",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/supernus-individor-merger-brain-drugs/826822/",
+        "published_at": "2026-08-03 14:02",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Work ethic becomes a flashpoint as China's biotech pace quickens",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/work-ethic-becomes-a-flashpoint-as-chinas-biotech-pace-quickens/",
+        "published_at": "2026-08-03 14:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Update: Supernus, Indivior to merge and form CNS-focused drugmaker",
         "source": "Endpoints News",
         "url": "https://endpoints.news/supernus-indivior-to-merge-and-form-cns-focused-drugmaker/",
         "published_at": "2026-08-03 11:24",
@@ -21,7 +56,7 @@
         "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "Hackers steal patient data in Amgen cloud breach",
+        "title": "Amgen says hackers stole patient data in cloud breach",
         "source": "Endpoints News",
         "url": "https://endpoints.news/hackers-steal-patient-data-in-amgen-cloud-breach/",
         "published_at": "2026-08-03 10:47",
@@ -201,40 +236,5 @@
         "url": "https://endpoints.news/garijos-plan-to-revamp-sanofi-an-rd-cleanup-more-ma-and-a-china-push/",
         "published_at": "2026-07-30 15:18",
         "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Pfizer's Phase 3 win for Litfulo; Braveheart, Attovia eye IPOs of $275M, $182M",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/pfizers-phase-3-win-for-litfulo-braveheart-attovia-eye-ipos-of-275m-182m/",
-        "published_at": "2026-07-30 15:16",
-        "category": "Vaccines & mRNA"
-    },
-    {
-        "title": "AtaiBeckley attracted co-development and royalty offers before $2.8B Lilly deal",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/ataibeckley-attracted-co-development-and-royalty-offers-before-2-8b-lilly-deal/",
-        "published_at": "2026-07-30 15:10",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Takeda, Regeneron, Sanofi and Bristol Myers trim pipelines",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/takeda-regeneron-sanofi-and-bristol-myers-squibb-trim-pipelines/",
-        "published_at": "2026-07-30 15:02",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Capricor Duchenne cell therapy voted down by FDA panel",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/capricor-fda-vote-deramiocel-duchenne-cardiomyopathy/826465/",
-        "published_at": "2026-07-29 21:31",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "MapLight CEO on what investors missed in the biotech’s schizophrenia data",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/maplight-ceo-kroeger-schizophrenia-drug-trial-data-investors/826530/",
-        "published_at": "2026-07-29 21:22",
-        "category": "Clinical Trials & R&D"
     }
 ]
