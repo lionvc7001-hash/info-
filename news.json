@@ -1,5 +1,33 @@
 [
     {
+        "title": "Novo vs. Lilly: Q2's cardiometabolic grudge match",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/novo-vs-lilly-q2s-cardiometabolic-grudge-match/",
+        "published_at": "2026-08-04 15:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "The great ambient scribe convergence",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/the-great-ambient-scribe-convergence/",
+        "published_at": "2026-08-04 14:51",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Otsuka succeeds with kidney drug; BioNTech downgrades revenue projection",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/otsuka-succeeds-with-kidney-drug-biontech-downgrades-revenue-projection/",
+        "published_at": "2026-08-04 14:50",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "J&J pharma leader to retire; Krystal slumps on gene therapy miss",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/johnson-taubert-krystal-vyjuvek-merck-prometheus-pathos-pluvicto/826859/",
+        "published_at": "2026-08-04 14:20",
+        "category": "Clinical Trials & R&D"
+    },
+    {
         "title": "Akido is expanding AI for patient intake and diagnoses across 100 clinics",
         "source": "Endpoints News",
         "url": "https://endpoints.news/akido-is-expanding-ai-for-patient-intake-and-diagnoses-across-100-clinics/",
@@ -196,27 +224,6 @@
         "category": "Clinical Trials & R&D"
     },
     {
-        "title": "Ratio collects $70M for its radiopharmaceutical trials; Vogenx plans $67M IPO",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/ratio-collects-70m-for-its-radiopharmaceutical-trials-vogenx-plans-67m-ipo/",
-        "published_at": "2026-07-31 14:59",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Ionis' top scientist Frank Bennett to retire; Recursion selects its first AI chief",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/ionis-top-scientist-frank-bennett-to-retire-recursion-selects-its-first-ai-chief/",
-        "published_at": "2026-07-31 11:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Karyopharm shares crater on second Phase 3 flop for Xpovio in endometrial cancer",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/karyopharm-shares-crater-on-second-phase-3-flop-for-xpovio-in-endometrial-cancer/",
-        "published_at": "2026-07-31 10:42",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
         "title": "Replimune melanoma drug wins support of FDA panel",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/replimune-rp1-fda-vote-advisory-committee-melanoma-drug/826619/",
@@ -229,12 +236,5 @@
         "url": "https://www.biopharmadive.com/news/alnylam-earnings-stock-amvuttra-onpattro-sales-pfizer-ionis/826654/",
         "published_at": "2026-07-30 20:12",
         "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "FTC sues Hims & Hers over alleged privacy violations, deceptive billing practices",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/ftc-sues-hims-hers-alleged-privacy-violations-deceptive-billing/826612/",
-        "published_at": "2026-07-30 16:03",
-        "category": "Clinical Trials & R&D"
     }
 ]
