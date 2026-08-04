@@ -1,5 +1,33 @@
 [
     {
+        "title": "Merck plans trial of sac-TMT combo with Keytruda in lung cancer",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/merck-plans-trial-of-sac-tmt-combo-with-keytruda-in-lung-cancer/",
+        "published_at": "2026-08-04 17:30",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Pfizer has already made its biggest deals, Bourla says",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/pfizer-has-already-made-its-biggest-deals-bourla-says/",
+        "published_at": "2026-08-04 17:24",
+        "category": "Vaccines & mRNA"
+    },
+    {
+        "title": "Vertex’s biggest overhang: a rival 50 times smaller",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/vertex-2q-2026-earnings-sionna-cystic-fibrosis-competition/826957/",
+        "published_at": "2026-08-04 16:19",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Pfizer expands multibillion-dollar cost-cutting plan",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/pfizer-cost-cuts-savings-2q-2026-earnings/826930/",
+        "published_at": "2026-08-04 15:55",
+        "category": "Vaccines & mRNA"
+    },
+    {
         "title": "Novo vs. Lilly: Q2's cardiometabolic grudge match",
         "source": "Endpoints News",
         "url": "https://endpoints.news/novo-vs-lilly-q2s-cardiometabolic-grudge-match/",
@@ -112,7 +140,7 @@
         "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "Supernus, Individor merge to beef up brain drug portfolio",
+        "title": "Supernus, Indivior merge to beef up brain drug portfolio",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/supernus-individor-merger-brain-drugs/826822/",
         "published_at": "2026-08-03 14:02",
@@ -189,13 +217,6 @@
         "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "Moderna's norovirus vaccine readout is delayed because of too few infections",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/modernas-norovirus-vaccine-readout-is-delayed-because-of-too-few-infections/",
-        "published_at": "2026-07-31 16:36",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
         "title": "Novo setback casts doubt on a new way to treat heart disease",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/novo-nordik-ziltivekimab-zeus-study-results-corvidia/826695/",
@@ -210,31 +231,10 @@
         "category": "Clinical Trials & R&D"
     },
     {
-        "title": "Novo Nordisk rocked by late-stage cardiovascular drug failure",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/novo-nordisk-rocked-by-late-stage-cardiovascular-drug-failure/",
-        "published_at": "2026-07-31 15:35",
-        "category": "Clinical Trials"
-    },
-    {
         "title": "Sanofi to ‘rebuild trust’ with Regeneron; Apnimed adds to string of ‘upsized’ biotech IPOs",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/sanofi-bristol-myers-apnimed-relation-therapeutics/826559/",
         "published_at": "2026-07-31 15:06",
         "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Replimune melanoma drug wins support of FDA panel",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/replimune-rp1-fda-vote-advisory-committee-melanoma-drug/826619/",
-        "published_at": "2026-07-30 21:25",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Alnylam plunges as earnings deliver ‘one-two punch’",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/alnylam-earnings-stock-amvuttra-onpattro-sales-pfizer-ionis/826654/",
-        "published_at": "2026-07-30 20:12",
-        "category": "Gene Editing & CRISPR"
     }
 ]
