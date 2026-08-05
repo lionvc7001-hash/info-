@@ -1,5 +1,33 @@
 [
     {
+        "title": "Merger talks between AstraZeneca, Bristol Myers are off — report",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/merger-talks-between-astrazeneca-bristol-myers-are-off-report/",
+        "published_at": "2026-08-05 12:44",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Fujifilm’s Lars Petersen exits, hands leadership baton to COO Maja Pedersen",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fujifilms-lars-petersen-exits-hands-leadership-baton-to-coo-maja-pedersen/",
+        "published_at": "2026-08-05 12:27",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Expedition gets another $115M for its twist on China NewCo model",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/expedition-gets-another-115m-for-its-twist-on-china-newco-model/",
+        "published_at": "2026-08-05 12:00",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "A COPD drug from China draws $115M in venture funding",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/expedition-therapeutics-series-b-dpp1-copd-general-atlantic/826874/",
+        "published_at": "2026-08-05 12:00",
+        "category": "Mergers & Acquisitions"
+    },
+    {
         "title": "Lilly once again beats expectations as tirzepatide accounts for 64% of revenue",
         "source": "Endpoints News",
         "url": "https://endpoints.news/lilly-once-again-beats-expectations-as-tirzepatide-accounts-for-64-of-revenue/",
@@ -182,32 +210,11 @@
         "category": "Immunotherapy & Oncology"
     },
     {
-        "title": "Curium buys radiopharma rival Lantheus for $8B; Sandoz settles price-fixing case",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/curium-buys-radiopharma-rival-lantheus-for-8b-sandoz-settles-price-fixing-case/",
-        "published_at": "2026-08-03 14:28",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
         "title": "Supernus, Indivior merge to beef up brain drug portfolio",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/supernus-individor-merger-brain-drugs/826822/",
         "published_at": "2026-08-03 14:02",
         "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Work ethic becomes a flashpoint as China's biotech pace quickens",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/work-ethic-becomes-a-flashpoint-as-chinas-biotech-pace-quickens/",
-        "published_at": "2026-08-03 14:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Update: Supernus, Indivior to merge and form CNS-focused drugmaker",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/supernus-indivior-to-merge-and-form-cns-focused-drugmaker/",
-        "published_at": "2026-08-03 11:24",
-        "category": "Mergers & Acquisitions"
     },
     {
         "title": "Trump administration tries again to institute rebates in 340B",
@@ -228,13 +235,6 @@
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/resilience-lilly-invest-750m-scale-cincinnati-production-injectable/826729/",
         "published_at": "2026-07-31 15:45",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Sanofi to ‘rebuild trust’ with Regeneron; Apnimed adds to string of ‘upsized’ biotech IPOs",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/sanofi-bristol-myers-apnimed-relation-therapeutics/826559/",
-        "published_at": "2026-07-31 15:06",
         "category": "Clinical Trials & R&D"
     }
 ]
