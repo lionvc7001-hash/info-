@@ -1,5 +1,26 @@
 [
     {
+        "title": "Lilly climbs, Novo falls as obesity drug battle intensifies",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/lilly-novo-earnings-2q-2026-wegovy-pill-foundayo-obesity/827027/",
+        "published_at": "2026-08-05 15:22",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Earnings roundup: Gilead’s ‘uncertain’ future, Pfizer’s crossroads and Merck’s PCSK9 launch",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/pfizer-merck-gilead-earnings-2q-2026-analysis/827029/",
+        "published_at": "2026-08-05 15:00",
+        "category": "Vaccines & mRNA"
+    },
+    {
+        "title": "Arrowhead buys PRV for $215M; Twist hopes to raise $300M in public offering",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/arrowhead-buys-prv-for-215m-twist-hopes-to-raise-300m-in-public-offering/",
+        "published_at": "2026-08-05 14:28",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
         "title": "Merger talks between AstraZeneca, Bristol Myers are off — report",
         "source": "Endpoints News",
         "url": "https://endpoints.news/merger-talks-between-astrazeneca-bristol-myers-are-off-report/",
@@ -203,13 +224,6 @@
         "category": "Gene Editing & CRISPR"
     },
     {
-        "title": "FDA expands Pluvicto label, making it available to most metastatic prostate cancer patients",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-expands-pluvicto-label-making-it-available-to-most-metastatic-prostate-cancer-patients/",
-        "published_at": "2026-08-03 15:26",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
         "title": "Supernus, Indivior merge to beef up brain drug portfolio",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/supernus-individor-merger-brain-drugs/826822/",
@@ -221,20 +235,6 @@
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/the-trump-administration-tries-again-340b-rebates/826766/",
         "published_at": "2026-07-31 19:10",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Novo setback casts doubt on a new way to treat heart disease",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/novo-nordik-ziltivekimab-zeus-study-results-corvidia/826695/",
-        "published_at": "2026-07-31 16:11",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Resilience and Lilly invest $750M to boost Cincinnati drug production",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/resilience-lilly-invest-750m-scale-cincinnati-production-injectable/826729/",
-        "published_at": "2026-07-31 15:45",
         "category": "Clinical Trials & R&D"
     }
 ]
