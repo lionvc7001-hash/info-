@@ -1,5 +1,26 @@
 [
     {
+        "title": "FDA approves Moderna’s mRNA flu vaccine",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/moderna-fda-approve-mflusiva-seasonal-influenza/826864/",
+        "published_at": "2026-08-06 11:10",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Vedanta gets $60M to finish Phase 3 for C. diff microbiome therapy",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/vedanta-gets-60m-to-finish-phase-3-for-c-diff-microbiome-therapy/",
+        "published_at": "2026-08-06 11:00",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Greg Verdine’s LifeMine raises $263M for safer immunosuppressant",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/greg-verdines-lifemine-raises-263m-for-safer-immunosuppressant/",
+        "published_at": "2026-08-06 10:30",
+        "category": "Mergers & Acquisitions"
+    },
+    {
         "title": "Braveheart lands $383M IPO to take Hengrui cardio drug into Phase 3",
         "source": "Endpoints News",
         "url": "https://endpoints.news/braveheart-lands-383m-ipo-to-take-hengrui-cardio-drug-into-phase-3/",
@@ -203,20 +224,6 @@
         "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "The great ambient scribe convergence",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/the-great-ambient-scribe-convergence/",
-        "published_at": "2026-08-04 14:51",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Otsuka succeeds with kidney drug; BioNTech downgrades revenue projection",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/otsuka-succeeds-with-kidney-drug-biontech-downgrades-revenue-projection/",
-        "published_at": "2026-08-04 14:50",
-        "category": "Clinical Trials"
-    },
-    {
         "title": "J&J pharma leader to retire; Krystal slumps on gene therapy miss",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/johnson-taubert-krystal-vyjuvek-merck-prometheus-pathos-pluvicto/826859/",
@@ -229,12 +236,5 @@
         "url": "https://www.biopharmadive.com/news/astrazeneca-bristol-myers-acquisition-rumors-deal-megamerger/826843/",
         "published_at": "2026-08-03 16:12",
         "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "BioNTech taps Sobi executive Oelkers as its next CEO",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/biontech-ceo-guido-oelkers-sobi-ugur-sahin/826805/",
-        "published_at": "2026-08-03 15:49",
-        "category": "Gene Editing & CRISPR"
     }
 ]
