@@ -1,10 +1,24 @@
 [
     {
+        "title": "FDA approves Moderna flu vaccine after spat with past agency leaders",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-approves-moderna-flu-vaccine-after-spat-with-past-agency-leaders/",
+        "published_at": "2026-08-06 02:25",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
         "title": "Revolution Medicines preps for launching pancreatic cancer drug, ups 2026 expenses",
         "source": "Endpoints News",
         "url": "https://endpoints.news/revolution-medicines-preps-for-launching-pancreatic-cancer-drug-ups-2026-expenses/",
         "published_at": "2026-08-06 01:31",
         "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Cardiac drug developer Braveheart banks more than $382M in IPO",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/braveheart-cardiac-drugs-ipo-pricing/826973/",
+        "published_at": "2026-08-06 00:01",
+        "category": "Mergers & Acquisitions"
     },
     {
         "title": "FDA approves Takeda's orexin drug for narcolepsy",
@@ -210,13 +224,6 @@
         "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "Pfizer to make $2.5B in new cost cuts",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/pfizer-to-make-2-5b-in-new-cost-cuts/",
-        "published_at": "2026-08-04 11:36",
-        "category": "Vaccines & mRNA"
-    },
-    {
         "title": "An AstraZeneca-Bristol Myers megamerger? Wall Street isn’t thrilled.",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/astrazeneca-bristol-myers-acquisition-rumors-deal-megamerger/826843/",
@@ -229,12 +236,5 @@
         "url": "https://www.biopharmadive.com/news/biontech-ceo-guido-oelkers-sobi-ugur-sahin/826805/",
         "published_at": "2026-08-03 15:49",
         "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Supernus, Indivior merge to beef up brain drug portfolio",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/supernus-individor-merger-brain-drugs/826822/",
-        "published_at": "2026-08-03 14:02",
-        "category": "Clinical Trials & R&D"
     }
 ]
