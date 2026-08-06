@@ -1,5 +1,26 @@
 [
     {
+        "title": "With $263M, LifeMine unearths a new drug for organ transplants",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/lifemine-organ-transplant-rejection-drug-greg-verdine-financing/827145/",
+        "published_at": "2026-08-06 13:17",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Tarsus bets $450M on Alkeus’ Stargardt drug",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/tarsus-bets-450m-on-alkeus-stargardt-drug/",
+        "published_at": "2026-08-06 12:57",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Merck KGaA readies tariff refunds worth €40M for life science customers",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/merck-kgaa-readies-tariff-refunds-worth-e40m-for-life-science-customers/",
+        "published_at": "2026-08-06 11:30",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
         "title": "FDA approves Moderna’s mRNA flu vaccine",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/moderna-fda-approve-mflusiva-seasonal-influenza/826864/",
@@ -196,13 +217,6 @@
         "category": "Immunotherapy & Oncology"
     },
     {
-        "title": "Pfizer has already made its biggest deals, Bourla says",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/pfizer-has-already-made-its-biggest-deals-bourla-says/",
-        "published_at": "2026-08-04 17:24",
-        "category": "Vaccines & mRNA"
-    },
-    {
         "title": "Vertex’s biggest overhang: a rival 50 times smaller",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/vertex-2q-2026-earnings-sionna-cystic-fibrosis-competition/826957/",
@@ -217,24 +231,10 @@
         "category": "Vaccines & mRNA"
     },
     {
-        "title": "Novo vs. Lilly: Q2's cardiometabolic grudge match",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/novo-vs-lilly-q2s-cardiometabolic-grudge-match/",
-        "published_at": "2026-08-04 15:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
         "title": "J&J pharma leader to retire; Krystal slumps on gene therapy miss",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/johnson-taubert-krystal-vyjuvek-merck-prometheus-pathos-pluvicto/826859/",
         "published_at": "2026-08-04 14:20",
         "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "An AstraZeneca-Bristol Myers megamerger? Wall Street isn’t thrilled.",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/astrazeneca-bristol-myers-acquisition-rumors-deal-megamerger/826843/",
-        "published_at": "2026-08-03 16:12",
-        "category": "Mergers & Acquisitions"
     }
 ]
