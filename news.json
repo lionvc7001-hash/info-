@@ -1,5 +1,75 @@
 [
     {
+        "title": "Replimune rebounds to win FDA approval of melanoma drug",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/replimune-tudriqev-fda-approve-melanoma-rp1/827226/",
+        "published_at": "2026-08-06 21:00",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Replimune wins FDA approval after melanoma drug was twice rejected",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/replimune-wins-fda-approval-after-melanoma-drug-was-twice-rejected/",
+        "published_at": "2026-08-06 20:03",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "FDA details pilot plan to expedite new drugs, eyeing up to 10 programs",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-details-pilot-plan-to-expedite-new-drugs-eyeing-up-to-10-programs/",
+        "published_at": "2026-08-06 19:16",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Judge signs off on Teva's $35M settlement over delayed inhaler generics",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/judge-signs-off-on-tevas-35m-settlement-over-delayed-inhaler-generics/",
+        "published_at": "2026-08-06 19:04",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Alkeus, an unorthodox eye drug startup, acquired by Tarsus for up to $800M",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/alkeus-tarsus-acquire-stargardt-drug-startup-boger/827243/",
+        "published_at": "2026-08-06 18:07",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Takeda approval ushers in new wave of sleep drugs",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/takeda-fda-sleep-drug-approval-orexin-orzeyful-narcolepsy/827190/",
+        "published_at": "2026-08-06 16:08",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Intellia identifies genetic risk factor for liver complications in CRISPR trial",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/intellia-identifies-genetic-risk-factor-for-liver-complications-in-crispr-trial/",
+        "published_at": "2026-08-06 15:33",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Erica Schwartz confirmed as next CDC director",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/erica-schwartz-cdc-director-senate-confirm-vaccines-rfk/827188/",
+        "published_at": "2026-08-06 15:12",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Fixing the mess under ICHRA’s hood",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fixing-the-mess-under-ichras-hood/",
+        "published_at": "2026-08-06 14:24",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Sarepta pushes back Elevidys timeline; Emergent lays off 90 staffers",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/sarepta-pushes-back-elevidys-timeline-emergent-lays-off-90-staffers/",
+        "published_at": "2026-08-06 13:55",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
         "title": "With $263M, LifeMine unearths a new drug for organ transplants",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/lifemine-organ-transplant-rejection-drug-greg-verdine-financing/827145/",
@@ -154,13 +224,6 @@
         "category": "Mergers & Acquisitions"
     },
     {
-        "title": "A COPD drug from China draws $115M in venture funding",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/expedition-therapeutics-series-b-dpp1-copd-general-atlantic/826874/",
-        "published_at": "2026-08-05 12:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
         "title": "Lilly once again beats expectations as tirzepatide accounts for 64% of revenue",
         "source": "Endpoints News",
         "url": "https://endpoints.news/lilly-once-again-beats-expectations-as-tirzepatide-accounts-for-64-of-revenue/",
@@ -173,68 +236,5 @@
         "url": "https://endpoints.news/novo-nordisk-eyes-bolt-on-deals-as-pipeline-disappointments-pile-up/",
         "published_at": "2026-08-05 11:06",
         "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Attovia extends biotech IPO streak with $289M listing for three I&I drugs",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/attovia-extends-biotech-ipo-streak-with-289m-listing-for-three-ii-drugs/",
-        "published_at": "2026-08-05 11:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Gilead’s Yeztugo beats forecasts as HIV PrEP franchise exceeds $1B",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/gileads-yeztugo-beats-forecasts-as-hiv-prep-franchise-exceeds-1b/",
-        "published_at": "2026-08-05 01:21",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Hinge Health will buy Cylinder Health for $105M to enter digestive care",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/hinge-health-will-buy-cylinder-health-for-105m-to-enter-digestive-care/",
-        "published_at": "2026-08-04 20:15",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Amgen culls early-stage obesity candidate, makes pipeline updates",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/amgen-culls-early-stage-obesity-candidate-makes-pipeline-updates/",
-        "published_at": "2026-08-04 20:01",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "The China Debate: Biotech deserves a deeper discussion",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/the-china-debate-biotech-deserves-a-deeper-discussion/",
-        "published_at": "2026-08-04 18:20",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Merck plans trial of sac-TMT combo with Keytruda in lung cancer",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/merck-plans-trial-of-sac-tmt-combo-with-keytruda-in-lung-cancer/",
-        "published_at": "2026-08-04 17:30",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Vertex’s biggest overhang: a rival 50 times smaller",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/vertex-2q-2026-earnings-sionna-cystic-fibrosis-competition/826957/",
-        "published_at": "2026-08-04 16:19",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Pfizer expands multibillion-dollar cost-cutting plan",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/pfizer-cost-cuts-savings-2q-2026-earnings/826930/",
-        "published_at": "2026-08-04 15:55",
-        "category": "Vaccines & mRNA"
-    },
-    {
-        "title": "J&J pharma leader to retire; Krystal slumps on gene therapy miss",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/johnson-taubert-krystal-vyjuvek-merck-prometheus-pathos-pluvicto/826859/",
-        "published_at": "2026-08-04 14:20",
-        "category": "Clinical Trials & R&D"
     }
 ]
