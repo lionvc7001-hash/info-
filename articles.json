@@ -1,5 +1,26 @@
 [
     {
+        "title": "BioMarin discontinues rare disease drug; CSL and Arcturus split up",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/biomarin-discontinues-rare-disease-drug-csl-and-arcturus-split-up/",
+        "published_at": "2026-08-07 15:08",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "China biotech will slow as it nears R&D frontier, Pfizer’s Baum predicts",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/china-biotech-will-slow-as-it-nears-rd-frontier-pfizers-baum-predicts/",
+        "published_at": "2026-08-07 15:00",
+        "category": "Vaccines & mRNA"
+    },
+    {
+        "title": "‘Significant’ demand for Revolution drug; Intellia pinpoints liver toxicity culprit",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/daraxonrasib-compassionate-use-intellia-arrowhead-cspc-vedanta/827186/",
+        "published_at": "2026-08-07 14:02",
+        "category": "FDA & Regulatory"
+    },
+    {
         "title": "Latigo IPO raises nearly $350M for pain drug development",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/latigo-ipo-public-biotech-pain-drug-nasdaq/827300/",
@@ -14,7 +35,7 @@
         "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "BlossomHill, Latigo cap four-IPO week with combined $496M haul",
+        "title": "Updated: BlossomHill, Latigo cap four-IPO week with combined $496M haul",
         "source": "Endpoints News",
         "url": "https://endpoints.news/blossomhill-latigo-cap-four-ipo-week-with-combined-496m-haul/",
         "published_at": "2026-08-07 08:39",
@@ -203,13 +224,6 @@
         "category": "Mergers & Acquisitions"
     },
     {
-        "title": "Lilly climbs, Novo falls as obesity drug battle intensifies",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/lilly-novo-earnings-2q-2026-wegovy-pill-foundayo-obesity/827027/",
-        "published_at": "2026-08-05 15:22",
-        "category": "Clinical Trials & R&D"
-    },
-    {
         "title": "Arrowhead buys PRV for $215M; Twist hopes to raise $300M in public offering",
         "source": "Endpoints News",
         "url": "https://endpoints.news/arrowhead-buys-prv-for-215m-twist-hopes-to-raise-300m-in-public-offering/",
@@ -221,20 +235,6 @@
         "source": "Endpoints News",
         "url": "https://endpoints.news/merger-talks-between-astrazeneca-bristol-myers-are-off-report/",
         "published_at": "2026-08-05 12:44",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Fujifilm’s Lars Petersen exits, hands leadership baton to COO Maja Pedersen",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fujifilms-lars-petersen-exits-hands-leadership-baton-to-coo-maja-pedersen/",
-        "published_at": "2026-08-05 12:27",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Expedition gets another $115M for its twist on China NewCo model",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/expedition-gets-another-115m-for-its-twist-on-china-newco-model/",
-        "published_at": "2026-08-05 12:00",
         "category": "Mergers & Acquisitions"
     }
 ]
