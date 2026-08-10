@@ -1,10 +1,24 @@
 [
     {
+        "title": "Sionna cystic fibrosis drug fails key trial, removing threat to Vertex",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/sionna-cystic-fibrosis-drug-study-results-vertex-trikafta/827431/",
+        "published_at": "2026-08-10 16:22",
+        "category": "Clinical Trials"
+    },
+    {
         "title": "Sionna's surprise cystic fibrosis trial failure sinks hopes of challenging Vertex",
         "source": "Endpoints News",
         "url": "https://endpoints.news/sionnas-surprise-cystic-fibrosis-trial-failure-sinks-hopes-of-challenging-vertex/",
         "published_at": "2026-08-10 15:39",
         "category": "Clinical Trials"
+    },
+    {
+        "title": "Jazz to buy rare epilepsy drugmaker in potentially $1.3B deal",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/jazz-actio-acquisition-deal-rare-neurological-epilepsy/827409/",
+        "published_at": "2026-08-10 15:36",
+        "category": "Mergers & Acquisitions"
     },
     {
         "title": "AbCellera details 'striking' Phase 2 data for vasomotor symptoms treatment",
@@ -19,6 +33,13 @@
         "url": "https://endpoints.news/revmed-beone-make-clinical-trial-asia-deal-moonlake-reports-phase-3-win/",
         "published_at": "2026-08-10 15:33",
         "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Scribe’s Benjamin Oakes on a rare IPO and bringing CRISPR to the masses",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/scribe-gene-editing-ipo-benjamin-oakes-epigenetic-pcsk9/827432/",
+        "published_at": "2026-08-10 14:25",
+        "category": "Gene Editing & CRISPR"
     },
     {
         "title": "Jazz bets on epilepsy again by acquiring Actio for $820M upfront",
@@ -91,6 +112,13 @@
         "category": "FDA & Regulatory"
     },
     {
+        "title": "Why Big Pharma is chasing the industry’s most-powerful supercomputer",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/big-pharma-nvidia-ai-supercomputer-drug-research/827406/",
+        "published_at": "2026-08-07 13:57",
+        "category": "Clinical Trials & R&D"
+    },
+    {
         "title": "Latigo IPO raises nearly $350M for pain drug development",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/latigo-ipo-public-biotech-pain-drug-nasdaq/827300/",
@@ -161,13 +189,6 @@
         "category": "Gene Editing & CRISPR"
     },
     {
-        "title": "Erica Schwartz confirmed as next CDC director",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/erica-schwartz-cdc-director-senate-confirm-vaccines-rfk/827188/",
-        "published_at": "2026-08-06 15:12",
-        "category": "Clinical Trials & R&D"
-    },
-    {
         "title": "Fixing the mess under ICHRA’s hood",
         "source": "Endpoints News",
         "url": "https://endpoints.news/fixing-the-mess-under-ichras-hood/",
@@ -182,13 +203,6 @@
         "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "With $263M, LifeMine unearths a new drug for organ transplants",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/lifemine-organ-transplant-rejection-drug-greg-verdine-financing/827145/",
-        "published_at": "2026-08-06 13:17",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
         "title": "Tarsus bets $450M on Alkeus’ Stargardt drug",
         "source": "Endpoints News",
         "url": "https://endpoints.news/tarsus-bets-450m-on-alkeus-stargardt-drug/",
@@ -201,13 +215,6 @@
         "url": "https://endpoints.news/merck-kgaa-readies-tariff-refunds-worth-e40m-for-life-science-customers/",
         "published_at": "2026-08-06 11:30",
         "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "FDA approves Moderna’s mRNA flu vaccine",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/moderna-fda-approve-mflusiva-seasonal-influenza/826864/",
-        "published_at": "2026-08-06 11:10",
-        "category": "Gene Editing & CRISPR"
     },
     {
         "title": "Vedanta gets $60M to finish Phase 3 for C. diff microbiome therapy",
@@ -229,12 +236,5 @@
         "url": "https://endpoints.news/braveheart-lands-383m-ipo-to-take-hengrui-cardio-drug-into-phase-3/",
         "published_at": "2026-08-06 06:56",
         "category": "Clinical Trials"
-    },
-    {
-        "title": "Cardiac drug developer Braveheart banks more than $382M in IPO",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/braveheart-cardiac-drugs-ipo-pricing/826973/",
-        "published_at": "2026-08-06 00:01",
-        "category": "Mergers & Acquisitions"
     }
 ]
