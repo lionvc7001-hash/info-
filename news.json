@@ -1,5 +1,26 @@
 [
     {
+        "title": "Chasing Dupixent, a biotech aims to make better antibody drugs for eczema",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/infinimmune-atopic-dermatitis-series-a-financing-dupixent/827504/",
+        "published_at": "2026-08-11 13:40",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Hims 'able to move extremely quickly' if FDA greenlights six wellness peptides, CEO says",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/hims-able-to-move-extremely-quickly-if-fda-greenlights-six-wellness-peptides-ceo-says/",
+        "published_at": "2026-08-11 13:00",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Epicrispr secures $90M after early data on epigenetic FSHD treatment",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/epicrispr-secures-90m-after-early-data-on-epigenetic-fshd-treatment/",
+        "published_at": "2026-08-11 12:54",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
         "title": "Ex-Legend chief Ying Huang becomes CEO of K2, eyes $250M Series A",
         "source": "Endpoints News",
         "url": "https://endpoints.news/ex-legend-chief-ying-huang-becomes-ceo-of-k2-eyes-250m-series-a/",
@@ -12,6 +33,13 @@
         "url": "https://www.biopharmadive.com/news/epicrispr-series-c-epigenetic-editing-fshd/827340/",
         "published_at": "2026-08-11 12:00",
         "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Trump signs order seeking to upend childhood vaccine schedule",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/trump-executive-order-childhood-vaccine-schedule-autism/827510/",
+        "published_at": "2026-08-11 11:43",
+        "category": "Vaccines & mRNA"
     },
     {
         "title": "Vaderis gets $152M to run Phase 3 of rare bleeding disorder treatment",
@@ -182,13 +210,6 @@
         "category": "Clinical Trials & R&D"
     },
     {
-        "title": "Latigo IPO raises nearly $350M for pain drug development",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/latigo-ipo-public-biotech-pain-drug-nasdaq/827300/",
-        "published_at": "2026-08-07 12:00",
-        "category": "Clinical Trials & R&D"
-    },
-    {
         "title": "Jennifer Taubert announces retirement from J&J; Takeda's global TYK2 leader exits",
         "source": "Endpoints News",
         "url": "https://endpoints.news/jennifer-taubert-announces-retirement-from-j-takedas-global-tyk2-leader-exits/",
@@ -203,13 +224,6 @@
         "category": "Immunotherapy & Oncology"
     },
     {
-        "title": "Replimune rebounds to win FDA approval of melanoma drug",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/replimune-tudriqev-fda-approve-melanoma-rp1/827226/",
-        "published_at": "2026-08-06 21:00",
-        "category": "FDA & Regulatory"
-    },
-    {
         "title": "Replimune wins FDA approval after melanoma drug was twice rejected",
         "source": "Endpoints News",
         "url": "https://endpoints.news/replimune-wins-fda-approval-after-melanoma-drug-was-twice-rejected/",
@@ -222,19 +236,5 @@
         "url": "https://endpoints.news/fda-details-pilot-plan-to-expedite-new-drugs-eyeing-up-to-10-programs/",
         "published_at": "2026-08-06 19:16",
         "category": "Clinical Trials"
-    },
-    {
-        "title": "Judge signs off on Teva's $35M settlement over delayed inhaler generics",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/judge-signs-off-on-tevas-35m-settlement-over-delayed-inhaler-generics/",
-        "published_at": "2026-08-06 19:04",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Intellia identifies genetic risk factor for liver complications in CRISPR trial",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/intellia-identifies-genetic-risk-factor-for-liver-complications-in-crispr-trial/",
-        "published_at": "2026-08-06 15:33",
-        "category": "Gene Editing & CRISPR"
     }
 ]
