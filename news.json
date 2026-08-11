@@ -1,5 +1,19 @@
 [
     {
+        "title": "Ex-Legend chief Ying Huang becomes CEO of K2, eyes $250M Series A",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/ex-legend-chief-ying-huang-becomes-ceo-of-k2-eyes-250m-series-a/",
+        "published_at": "2026-08-11 12:00",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Epicrispr lands $90M to advance epigenetic editing drug for rare muscle disease",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/epicrispr-series-c-epigenetic-editing-fshd/827340/",
+        "published_at": "2026-08-11 12:00",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
         "title": "Vaderis gets $152M to run Phase 3 of rare bleeding disorder treatment",
         "source": "Endpoints News",
         "url": "https://endpoints.news/vaderis-gets-152m-to-run-phase-3-of-rare-bleeding-disorder-treatment/",
@@ -217,24 +231,10 @@
         "category": "Mergers & Acquisitions"
     },
     {
-        "title": "Alkeus, an unorthodox eye drug startup, acquired by Tarsus for up to $800M",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/alkeus-tarsus-acquire-stargardt-drug-startup-boger/827243/",
-        "published_at": "2026-08-06 18:07",
-        "category": "Mergers & Acquisitions"
-    },
-    {
         "title": "Intellia identifies genetic risk factor for liver complications in CRISPR trial",
         "source": "Endpoints News",
         "url": "https://endpoints.news/intellia-identifies-genetic-risk-factor-for-liver-complications-in-crispr-trial/",
         "published_at": "2026-08-06 15:33",
         "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Fixing the mess under ICHRA’s hood",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fixing-the-mess-under-ichras-hood/",
-        "published_at": "2026-08-06 14:24",
-        "category": "Pharma & FDA Regulatory"
     }
 ]
