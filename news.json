@@ -1,51 +1,9 @@
 [
     {
-        "title": "Trump directs MMR vaccine to be split in three parts, backs autism claim",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/trump-directs-mmr-vaccine-to-be-split-in-three-parts-backs-autism-claim/",
-        "published_at": "2026-08-10 20:32",
-        "category": "Vaccines & mRNA"
-    },
-    {
-        "title": "FDA rejects ITM's radiopharma drug over manufacturing problems",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-rejects-itms-radiopharma-drug-over-manufacturing-problems/",
-        "published_at": "2026-08-10 19:05",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Bristol Myers details new $2.3B manufacturing campus in Houston",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/bristol-myers-details-new-2-3-billion-manufacturing-campus-in-houston/",
-        "published_at": "2026-08-10 18:20",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Judge blocks enforcement of WuXi AppTec's designation as Chinese military company",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/judge-blocks-enforcement-of-wuxi-apptecs-designation-as-chinese-military-company/",
-        "published_at": "2026-08-10 17:43",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Scholar Rock drops Novo manufacturing site from SMA drug application",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/scholar-rock-drops-novo-manufacturing-site-from-sma-drug-application/",
-        "published_at": "2026-08-10 17:08",
-        "category": "FDA & Regulatory"
-    },
-    {
         "title": "Sionna cystic fibrosis drug fails key trial, removing threat to Vertex",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/sionna-cystic-fibrosis-drug-study-results-vertex-trikafta/827431/",
         "published_at": "2026-08-10 16:22",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Sionna's surprise cystic fibrosis trial failure sinks hopes of challenging Vertex",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/sionnas-surprise-cystic-fibrosis-trial-failure-sinks-hopes-of-challenging-vertex/",
-        "published_at": "2026-08-10 15:39",
         "category": "Clinical Trials"
     },
     {
@@ -56,20 +14,6 @@
         "category": "Mergers & Acquisitions"
     },
     {
-        "title": "AbCellera details 'striking' Phase 2 data for vasomotor symptoms treatment",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/abcellera-details-striking-phase-2-data-for-vasomotor-symptoms-treatment/",
-        "published_at": "2026-08-10 15:33",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "RevMed, BeOne make clinical trial, Asia deal; MoonLake reports Phase 3 win",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/revmed-beone-make-clinical-trial-asia-deal-moonlake-reports-phase-3-win/",
-        "published_at": "2026-08-10 15:33",
-        "category": "Mergers & Acquisitions"
-    },
-    {
         "title": "Scribe’s Benjamin Oakes on a rare IPO and bringing CRISPR to the masses",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/scribe-gene-editing-ipo-benjamin-oakes-epigenetic-pcsk9/827432/",
@@ -77,67 +21,11 @@
         "category": "Gene Editing & CRISPR"
     },
     {
-        "title": "Jazz bets on epilepsy again by acquiring Actio for $820M upfront",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/jazz-bets-on-epilepsy-again-by-acquiring-actio-for-820m-upfront/",
-        "published_at": "2026-08-10 13:45",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Silence spells out Phase 2 success for gene-silencing drug in rare blood cancer",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/silence-spells-out-phase-2-success-for-gene-silencing-drug-in-rare-blood-cancer/",
-        "published_at": "2026-08-10 11:31",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "BioNTech vets get $25M seed funding for virtual cancer surveillance startup",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/biontech-vets-net-25m-seed-funding-for-virtual-cancer-surveillance-startup/",
-        "published_at": "2026-08-10 11:00",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
         "title": "Regulatory operations: The overlooked half of submission readiness",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/spons/regulatory-operations-the-overlooked-half-of-submission-readiness/826683/",
         "published_at": "2026-08-10 09:00",
         "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Is China’s work ethic a ‘wake-up call’?; The megamerger that wasn’t; and more",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/is-chinas-work-ethic-a-wake-up-call-the-megamerger-that-wasnt-and-more/",
-        "published_at": "2026-08-08 10:00",
-        "category": "Vaccines & mRNA"
-    },
-    {
-        "title": "BINSA legislation to limit biotech deals in China unveiled in Senate",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/binsa-legislation-to-limit-biotech-deals-in-china-unveiled-in-senate/",
-        "published_at": "2026-08-07 16:35",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "FDA to hold adcomm for Grail cancer test that failed in large, randomized trial",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-to-hold-adcomm-for-grail-cancer-test-that-failed-in-large-randomized-trial/",
-        "published_at": "2026-08-07 16:08",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "BioMarin discontinues rare disease drug; CSL and Arcturus split up",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/biomarin-discontinues-rare-disease-drug-csl-and-arcturus-split-up/",
-        "published_at": "2026-08-07 15:08",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "China biotech will slow as it nears R&D frontier, Pfizer’s Baum predicts",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/china-biotech-will-slow-as-it-nears-rd-frontier-pfizers-baum-predicts/",
-        "published_at": "2026-08-07 15:00",
-        "category": "Vaccines & mRNA"
     },
     {
         "title": "‘Significant’ demand for Revolution drug; Intellia pinpoints liver toxicity culprit",
@@ -161,46 +49,11 @@
         "category": "Clinical Trials & R&D"
     },
     {
-        "title": "Jennifer Taubert announces retirement from J&J; Takeda's global TYK2 leader exits",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/jennifer-taubert-announces-retirement-from-j-takedas-global-tyk2-leader-exits/",
-        "published_at": "2026-08-07 11:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Updated: BlossomHill, Latigo cap four-IPO week with combined $496M haul",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/blossomhill-latigo-cap-four-ipo-week-with-combined-496m-haul/",
-        "published_at": "2026-08-07 08:39",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
         "title": "Replimune rebounds to win FDA approval of melanoma drug",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/replimune-tudriqev-fda-approve-melanoma-rp1/827226/",
         "published_at": "2026-08-06 21:00",
         "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Replimune wins FDA approval after melanoma drug was twice rejected",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/replimune-wins-fda-approval-after-melanoma-drug-was-twice-rejected/",
-        "published_at": "2026-08-06 20:03",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "FDA details pilot plan to expedite new drugs, eyeing up to 10 programs",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-details-pilot-plan-to-expedite-new-drugs-eyeing-up-to-10-programs/",
-        "published_at": "2026-08-06 19:16",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Judge signs off on Teva's $35M settlement over delayed inhaler generics",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/judge-signs-off-on-tevas-35m-settlement-over-delayed-inhaler-generics/",
-        "published_at": "2026-08-06 19:04",
-        "category": "Mergers & Acquisitions"
     },
     {
         "title": "Alkeus, an unorthodox eye drug startup, acquired by Tarsus for up to $800M",
@@ -215,26 +68,5 @@
         "url": "https://www.biopharmadive.com/news/takeda-fda-sleep-drug-approval-orexin-orzeyful-narcolepsy/827190/",
         "published_at": "2026-08-06 16:08",
         "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Intellia identifies genetic risk factor for liver complications in CRISPR trial",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/intellia-identifies-genetic-risk-factor-for-liver-complications-in-crispr-trial/",
-        "published_at": "2026-08-06 15:33",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Fixing the mess under ICHRA’s hood",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fixing-the-mess-under-ichras-hood/",
-        "published_at": "2026-08-06 14:24",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Sarepta pushes back Elevidys timeline; Emergent lays off 90 staffers",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/sarepta-pushes-back-elevidys-timeline-emergent-lays-off-90-staffers/",
-        "published_at": "2026-08-06 13:55",
-        "category": "Pharma & FDA Regulatory"
     }
 ]
