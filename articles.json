@@ -1,10 +1,24 @@
 [
     {
+        "title": "Definium's LSD drug clears bar in first of two Phase 3 anxiety disorder trials",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/definiums-lsd-drug-clears-bar-in-first-of-two-phase-3-trials-in-anxiety-disorder/",
+        "published_at": "2026-08-12 11:00",
+        "category": "Clinical Trials"
+    },
+    {
         "title": "Boulevard Bio dreams big in immunology with $65M, sights on Vera's IgAN drug",
         "source": "Endpoints News",
         "url": "https://endpoints.news/boulevard-bio-dreams-big-in-immunology-with-65m-sights-on-veras-igan-drug/",
         "published_at": "2026-08-12 10:30",
         "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Boulevard starts up with $65M to pursue targeted autoimmune drugs",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/boulevard-immune-drugs-igan-georg-schett/827583/",
+        "published_at": "2026-08-12 10:30",
+        "category": "Clinical Trials & R&D"
     },
     {
         "title": "Did Exelixis use a 'trivial' modification to its cash cow to product-hop past a patent cliff? These researchers think so",
@@ -222,19 +236,5 @@
         "url": "https://endpoints.news/fda-to-hold-adcomm-for-grail-cancer-test-that-failed-in-large-randomized-trial/",
         "published_at": "2026-08-07 16:08",
         "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "BioMarin discontinues rare disease drug; CSL and Arcturus split up",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/biomarin-discontinues-rare-disease-drug-csl-and-arcturus-split-up/",
-        "published_at": "2026-08-07 15:08",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "‘Significant’ demand for Revolution drug; Intellia pinpoints liver toxicity culprit",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/daraxonrasib-compassionate-use-intellia-arrowhead-cspc-vedanta/827186/",
-        "published_at": "2026-08-07 14:02",
-        "category": "FDA & Regulatory"
     }
 ]
