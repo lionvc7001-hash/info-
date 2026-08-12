@@ -1,5 +1,40 @@
 [
     {
+        "title": "Post-Hoc: Rewatch the Boston edition of our China Biotech Debate",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/post-hoc-rewatch-the-boston-edition-of-our-china-biotech-debate/",
+        "published_at": "2026-08-12 15:43",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "AbCellera, Silence and InduPro all raise significant funding",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/abcellera-silence-and-indupro-all-raise-significant-funding/",
+        "published_at": "2026-08-12 15:25",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Lilly files six lawsuits in bid to shut down ‘black market’ for retatrutide",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/lilly-lawsuit-retatrutide-black-market-obesity-drug/827659/",
+        "published_at": "2026-08-12 15:19",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Psychedelics developer Definium scores more positive data for LSD pill",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/definium-lsd-psychedelics-trial-results-gad-anxiety/827669/",
+        "published_at": "2026-08-12 14:33",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Silence cashes in on ‘differentiated’ data; UK reaffirms support for childhood vaccines",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/silence-divesiran-vaccines-itm-crl-abcellera-biomarin/827400/",
+        "published_at": "2026-08-12 13:11",
+        "category": "Vaccines & mRNA"
+    },
+    {
         "title": "Definium's LSD drug clears bar in first of two Phase 3 anxiety disorder trials",
         "source": "Endpoints News",
         "url": "https://endpoints.news/definiums-lsd-drug-clears-bar-in-first-of-two-phase-3-trials-in-anxiety-disorder/",
@@ -161,13 +196,6 @@
         "category": "Clinical Trials"
     },
     {
-        "title": "Jazz to buy rare epilepsy drugmaker in potentially $1.3B deal",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/jazz-actio-acquisition-deal-rare-neurological-epilepsy/827409/",
-        "published_at": "2026-08-10 15:36",
-        "category": "Mergers & Acquisitions"
-    },
-    {
         "title": "AbCellera details 'striking' Phase 2 data for vasomotor symptoms treatment",
         "source": "Endpoints News",
         "url": "https://endpoints.news/abcellera-details-striking-phase-2-data-for-vasomotor-symptoms-treatment/",
@@ -180,13 +208,6 @@
         "url": "https://endpoints.news/revmed-beone-make-clinical-trial-asia-deal-moonlake-reports-phase-3-win/",
         "published_at": "2026-08-10 15:33",
         "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Scribe’s Benjamin Oakes on a rare IPO and bringing CRISPR to the masses",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/scribe-gene-editing-ipo-benjamin-oakes-epigenetic-pcsk9/827432/",
-        "published_at": "2026-08-10 14:25",
-        "category": "Gene Editing & CRISPR"
     },
     {
         "title": "Jazz bets on epilepsy again by acquiring Actio for $820M upfront",
@@ -210,31 +231,10 @@
         "category": "Immunotherapy & Oncology"
     },
     {
-        "title": "Regulatory operations: The overlooked half of submission readiness",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/spons/regulatory-operations-the-overlooked-half-of-submission-readiness/826683/",
-        "published_at": "2026-08-10 09:00",
-        "category": "FDA & Regulatory"
-    },
-    {
         "title": "Is China’s work ethic a ‘wake-up call’?; The megamerger that wasn’t; and more",
         "source": "Endpoints News",
         "url": "https://endpoints.news/is-chinas-work-ethic-a-wake-up-call-the-megamerger-that-wasnt-and-more/",
         "published_at": "2026-08-08 10:00",
         "category": "Vaccines & mRNA"
-    },
-    {
-        "title": "BINSA legislation to limit biotech deals in China unveiled in Senate",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/binsa-legislation-to-limit-biotech-deals-in-china-unveiled-in-senate/",
-        "published_at": "2026-08-07 16:35",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "FDA to hold adcomm for Grail cancer test that failed in large, randomized trial",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-to-hold-adcomm-for-grail-cancer-test-that-failed-in-large-randomized-trial/",
-        "published_at": "2026-08-07 16:08",
-        "category": "Immunotherapy & Oncology"
     }
 ]
