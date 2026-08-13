@@ -1,5 +1,12 @@
 [
     {
+        "title": "FDA approves Bristol Myers’ multiple myeloma successor",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-approves-bristol-myers-multiple-myeloma-successor/",
+        "published_at": "2026-08-13 21:19",
+        "category": "FDA & Regulatory"
+    },
+    {
         "title": "'Incorrect and misleading' data prompted decision to pull Tavneos in Europe",
         "source": "Endpoints News",
         "url": "https://endpoints.news/incorrect-and-misleading-data-prompted-decision-to-pull-tavneos-in-europe/",
@@ -229,12 +236,5 @@
         "url": "https://www.biopharmadive.com/news/trump-executive-order-childhood-vaccine-schedule-autism/827510/",
         "published_at": "2026-08-11 11:43",
         "category": "Vaccines & mRNA"
-    },
-    {
-        "title": "Vaderis gets $152M to run Phase 3 of rare bleeding disorder treatment",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/vaderis-gets-152m-to-run-phase-3-of-rare-bleeding-disorder-treatment/",
-        "published_at": "2026-08-11 11:00",
-        "category": "Immunotherapy & Oncology"
     }
 ]
