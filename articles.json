@@ -1,5 +1,19 @@
 [
     {
+        "title": "PTC takes a chance on Sangamo’s Fabry disease gene therapy",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/ptc-sangamo-fabry-gene-therapy-bankruptcy-sale-lilly/827767/",
+        "published_at": "2026-08-13 15:10",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Karyopharm has a month left to salvage its cancer expansion plans",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/karyopharm-has-a-month-left-to-salvage-its-cancer-expansion-plans/",
+        "published_at": "2026-08-13 14:43",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
         "title": "Zealand's royalty deal; Khartis raises money for TED drug",
         "source": "Endpoints News",
         "url": "https://endpoints.news/zealands-royalty-deal-khartis-raises-money-for-ted-drug/",
@@ -222,19 +236,5 @@
         "url": "https://endpoints.news/bristol-myers-details-new-2-3-billion-manufacturing-campus-in-houston/",
         "published_at": "2026-08-10 18:20",
         "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Judge blocks enforcement of WuXi AppTec's designation as Chinese military company",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/judge-blocks-enforcement-of-wuxi-apptecs-designation-as-chinese-military-company/",
-        "published_at": "2026-08-10 17:43",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Sionna cystic fibrosis drug fails key trial, removing threat to Vertex",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/sionna-cystic-fibrosis-drug-study-results-vertex-trikafta/827431/",
-        "published_at": "2026-08-10 16:22",
-        "category": "Clinical Trials"
     }
 ]
