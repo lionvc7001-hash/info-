@@ -1,5 +1,26 @@
 [
     {
+        "title": "'Incorrect and misleading' data prompted decision to pull Tavneos in Europe",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/incorrect-and-misleading-data-prompted-decision-to-pull-tavneos-in-europe/",
+        "published_at": "2026-08-13 18:39",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Ovid and Takeda's epilepsy drug gets new life at Perceptive-backed NewCo",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/ovid-and-takedas-epilepsy-drug-gets-new-life-at-perceptive-backed-newco/",
+        "published_at": "2026-08-13 18:31",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "PDUFA VIII commitments: 'America First' provisions, faster reviews and more",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/pdufa-viii-commitments-america-first-provisions-faster-reviews-and-more/",
+        "published_at": "2026-08-13 17:55",
+        "category": "FDA & Regulatory"
+    },
+    {
         "title": "New Taiho, Cullian data heats up lung cancer drug battle",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/taiho-cullinan-zipalertinib-egfr-exon20-lung-cancer-results/827785/",
@@ -215,26 +236,5 @@
         "url": "https://endpoints.news/vaderis-gets-152m-to-run-phase-3-of-rare-bleeding-disorder-treatment/",
         "published_at": "2026-08-11 11:00",
         "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Trump directs MMR vaccine to be split in three parts, backs autism claim",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/trump-directs-mmr-vaccine-to-be-split-in-three-parts-backs-autism-claim/",
-        "published_at": "2026-08-10 20:32",
-        "category": "Vaccines & mRNA"
-    },
-    {
-        "title": "FDA rejects ITM's radiopharma drug over manufacturing problems",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-rejects-itms-radiopharma-drug-over-manufacturing-problems/",
-        "published_at": "2026-08-10 19:05",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Bristol Myers details new $2.3B manufacturing campus in Houston",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/bristol-myers-details-new-2-3-billion-manufacturing-campus-in-houston/",
-        "published_at": "2026-08-10 18:20",
-        "category": "Mergers & Acquisitions"
     }
 ]
