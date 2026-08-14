@@ -1,5 +1,19 @@
 [
     {
+        "title": "Bicara shakes up leadership ahead of CEO departure; J&J's John Reed joins Madrigal's board",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/bicara-shakes-up-leadership-ahead-of-ceo-departure-jjs-john-reed-joins-madrigals-board/",
+        "published_at": "2026-08-14 11:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Biotech initiatives pick up as more regions race to become hubs",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/biotech-hub-race-investments-new-york-kansas-city-pennsylvania-central-virginia/827835/",
+        "published_at": "2026-08-14 11:00",
+        "category": "Mergers & Acquisitions"
+    },
+    {
         "title": "FDA approves Bristol Myers' multiple myeloma successor",
         "source": "Endpoints News",
         "url": "https://endpoints.news/fda-approves-bristol-myers-multiple-myeloma-successor/",
@@ -217,24 +231,10 @@
         "category": "Gene Editing & CRISPR"
     },
     {
-        "title": "Ex-Legend chief Ying Huang becomes CEO of K2, eyes $250M Series A",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/ex-legend-chief-ying-huang-becomes-ceo-of-k2-eyes-250m-series-a/",
-        "published_at": "2026-08-11 12:00",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
         "title": "Epicrispr lands $90M to advance epigenetic editing drug for rare muscle disease",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/epicrispr-series-c-epigenetic-editing-fshd/827340/",
         "published_at": "2026-08-11 12:00",
         "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Trump signs order seeking to upend childhood vaccine schedule",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/trump-executive-order-childhood-vaccine-schedule-autism/827510/",
-        "published_at": "2026-08-11 11:43",
-        "category": "Vaccines & mRNA"
     }
 ]
