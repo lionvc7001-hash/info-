@@ -1,10 +1,45 @@
 [
     {
+        "title": "Capricor, seeking lifeline for Duchenne therapy, says it will ask FDA to review additional data",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/capricor-seeking-lifeline-for-duchenne-therapy-says-it-will-ask-fda-to-review-additional-data/",
+        "published_at": "2026-08-14 15:33",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Redx tries again at reverse merger, with Skye this time, as route gains steam",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/redx-tries-again-at-reverse-merger-with-skye-this-time-as-route-gains-steam/",
+        "published_at": "2026-08-14 15:30",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Abcuro gets $66M for Phase 3 in muscle-weakening condition",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/abcuro-gets-66m-for-phase-3-in-muscle-weakening-condition/",
+        "published_at": "2026-08-14 15:28",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "ICER says AstraZeneca’s new blood pressure med isn’t cost-effective",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/icer-says-astrazenecas-new-blood-pressure-med-isnt-cost-effective/",
+        "published_at": "2026-08-14 15:15",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
         "title": "MapLight presses the pause button; ADC Therapeutics considers what to do with Zynlonta",
         "source": "Endpoints News",
         "url": "https://endpoints.news/maplight-presses-the-pause-button-adc-therapeutics-considers-what-to-do-with-zynlonta/",
         "published_at": "2026-08-14 14:10",
         "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Capricor shares spike on CEO comments; Cytokinetics sues Bristol Myers",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/capricor-fda-cytokinetics-lawsuit-valneva-indupro-rusfertide-veppanu/827770/",
+        "published_at": "2026-08-14 13:28",
+        "category": "FDA & Regulatory"
     },
     {
         "title": "Bicara shakes up leadership ahead of CEO departure; J&J's John Reed joins Madrigal's board",
@@ -189,13 +224,6 @@
         "category": "Mergers & Acquisitions"
     },
     {
-        "title": "AbbVie, Novartis and Bristol Myers file 340B lawsuits in Illinois",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/abbvie-novartis-and-bristol-myers-squibb-file-340b-lawsuits-in-illinois/",
-        "published_at": "2026-08-11 18:25",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
         "title": "Ex-Legend CEO takes helm at biotech startup scouring the globe for drugs",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/k2-ying-huang-biotech-startup-mpm-china-drugs/827544/",
@@ -203,38 +231,10 @@
         "category": "Clinical Trials & R&D"
     },
     {
-        "title": "Two health insurers give an AI reality check",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/two-health-insurers-give-an-ai-reality-check/",
-        "published_at": "2026-08-11 15:47",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Lilly paid $2B upfront for vaccine biotechs; Infinimmune raises $75M",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/lilly-paid-2b-upfront-for-vaccine-biotechs-infinimmune-raises-75m/",
-        "published_at": "2026-08-11 14:44",
-        "category": "Vaccines & mRNA"
-    },
-    {
         "title": "Chasing Dupixent, a biotech aims to make better antibody drugs for eczema",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/infinimmune-atopic-dermatitis-series-a-financing-dupixent/827504/",
         "published_at": "2026-08-11 13:40",
         "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Hims 'able to move extremely quickly' if FDA greenlights six wellness peptides, CEO says",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/hims-able-to-move-extremely-quickly-if-fda-greenlights-six-wellness-peptides-ceo-says/",
-        "published_at": "2026-08-11 13:00",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Epicrispr lands $90M to advance epigenetic editing drug for rare muscle disease",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/epicrispr-series-c-epigenetic-editing-fshd/827340/",
-        "published_at": "2026-08-11 12:00",
-        "category": "Gene Editing & CRISPR"
     }
 ]
