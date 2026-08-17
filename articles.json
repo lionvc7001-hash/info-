@@ -1,5 +1,33 @@
 [
     {
+        "title": "Argenx jumps on Phase 3 data for blockbuster Vyvgart",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/argenx-phase-3-data-vyvgart-IMNM-DM/828025/",
+        "published_at": "2026-08-17 16:12",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "EyePoint’s bid to compete with Eylea falls flat",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/eyepoints-bid-to-compete-with-eylea-falls-flat/",
+        "published_at": "2026-08-17 15:38",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "EyePoint plummets on pivotal data for main drug",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/eyepoint-trial-results-durayvu-wet-amd-stock/828022/",
+        "published_at": "2026-08-17 15:31",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "AstraZeneca scraps Phase 3 trial of new bispecific in lung cancer",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/astrazeneca-discontinues-trial-volrustomig-lung-cancer/827999/",
+        "published_at": "2026-08-17 15:13",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
         "title": "Biotech's reverse merger renaissance poised to continue",
         "source": "Endpoints News",
         "url": "https://endpoints.news/biotechs-reverse-merger-renaissance-poised-to-continue/",
@@ -26,6 +54,13 @@
         "url": "https://endpoints.news/lilly-to-pay-up-to-370m-for-omniab-collab-slate-fulcrum-forge-reverse-merger/",
         "published_at": "2026-08-17 14:36",
         "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Slate, Fulcrum to combine in reverse merger",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/slate-fulcrum-reverse-merger-migraine-anti-pacap/828007/",
+        "published_at": "2026-08-17 14:23",
+        "category": "Gene Editing & CRISPR"
     },
     {
         "title": "Celcuity awaits FDA review for second factory to launch cancer drug",
@@ -196,45 +231,10 @@
         "category": "Mergers & Acquisitions"
     },
     {
-        "title": "Taiho, Cullinan's lung cancer drug passes Phase 3 test, lining up Rybrevant contest",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/taiho-cullinans-lung-cancer-drug-passes-phase-3-test-lining-up-rybrevant-contest/",
-        "published_at": "2026-08-13 11:11",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
         "title": "Lilly files six lawsuits in bid to shut down ‘black market’ for retatrutide",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/lilly-lawsuit-retatrutide-black-market-obesity-drug/827659/",
         "published_at": "2026-08-12 15:19",
         "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Psychedelics developer Definium scores more positive data for LSD pill",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/definium-lsd-psychedelics-trial-results-gad-anxiety/827669/",
-        "published_at": "2026-08-12 14:33",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Silence cashes in on ‘differentiated’ data; UK reaffirms support for childhood vaccines",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/silence-divesiran-vaccines-itm-crl-abcellera-biomarin/827400/",
-        "published_at": "2026-08-12 13:11",
-        "category": "Vaccines & mRNA"
-    },
-    {
-        "title": "Boulevard starts up with $65M to pursue targeted autoimmune drugs",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/boulevard-immune-drugs-igan-georg-schett/827583/",
-        "published_at": "2026-08-12 10:30",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Ex-Legend CEO takes helm at biotech startup scouring the globe for drugs",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/k2-ying-huang-biotech-startup-mpm-china-drugs/827544/",
-        "published_at": "2026-08-11 16:12",
-        "category": "Clinical Trials & R&D"
     }
 ]
