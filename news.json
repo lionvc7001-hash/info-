@@ -1,5 +1,33 @@
 [
     {
+        "title": "Epic is under pressure",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/epic-is-under-pressure/",
+        "published_at": "2026-08-18 15:25",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "AstraZeneca’s win in lung cancer; Sandoz inks a China deal",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/astrazeneca-sandoz-china-bristol-myers-maplight/828058/",
+        "published_at": "2026-08-18 15:13",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "BioMarin does another small deal to get early-stage bone disease asset",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/biomarin-does-another-small-deal-to-get-early-stage-bone-disease-asset/",
+        "published_at": "2026-08-18 15:02",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Leo Pharma buys skin disease drug in $435M deal",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/leo-pharma-buys-late-stage-skin-disease-drug-435m-deal/828150/",
+        "published_at": "2026-08-18 14:38",
+        "category": "Mergers & Acquisitions"
+    },
+    {
         "title": "Exclusive: Third death revealed in China's popular but opaque trials",
         "source": "Endpoints News",
         "url": "https://endpoints.news/exclusive-third-death-revealed-in-chinas-popular-but-opaque-trials/",
@@ -207,34 +235,6 @@
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/biotech-hub-race-investments-new-york-kansas-city-pennsylvania-central-virginia/827835/",
         "published_at": "2026-08-14 11:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "FDA approves Bristol Myers' multiple myeloma successor",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-approves-bristol-myers-multiple-myeloma-successor/",
-        "published_at": "2026-08-13 21:19",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "'Incorrect and misleading' data prompted decision to pull Tavneos in Europe",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/incorrect-and-misleading-data-prompted-decision-to-pull-tavneos-in-europe/",
-        "published_at": "2026-08-13 18:39",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "New Taiho, Cullinan data heats up lung cancer drug battle",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/taiho-cullinan-zipalertinib-egfr-exon20-lung-cancer-results/827785/",
-        "published_at": "2026-08-13 16:05",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "PTC takes a chance on Sangamo’s Fabry disease gene therapy",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/ptc-sangamo-fabry-gene-therapy-bankruptcy-sale-lilly/827767/",
-        "published_at": "2026-08-13 15:10",
         "category": "Mergers & Acquisitions"
     }
 ]
