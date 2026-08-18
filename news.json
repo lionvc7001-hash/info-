@@ -1,5 +1,12 @@
 [
     {
+        "title": "BioMarin acquires experimental drug for rare bone disorder in $275M deal",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/biomarin-alesta-deal-acquisition-rare-disease-muscle-skeleton/828133/",
+        "published_at": "2026-08-18 15:50",
+        "category": "Mergers & Acquisitions"
+    },
+    {
         "title": "Epic is under pressure",
         "source": "Endpoints News",
         "url": "https://endpoints.news/epic-is-under-pressure/",
@@ -7,7 +14,7 @@
         "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "AstraZeneca’s win in lung cancer; Sandoz inks a China deal",
+        "title": "AstraZeneca scores in lung cancer; Sandoz inks a China deal",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/astrazeneca-sandoz-china-bristol-myers-maplight/828058/",
         "published_at": "2026-08-18 15:13",
@@ -21,7 +28,7 @@
         "category": "Mergers & Acquisitions"
     },
     {
-        "title": "Leo Pharma buys skin disease drug in $435M deal",
+        "title": "Leo Pharma buys rare skin disease drug in $435M deal",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/leo-pharma-buys-late-stage-skin-disease-drug-435m-deal/828150/",
         "published_at": "2026-08-18 14:38",
@@ -229,12 +236,5 @@
         "url": "https://endpoints.news/bicara-shakes-up-leadership-ahead-of-ceo-departure-jjs-john-reed-joins-madrigals-board/",
         "published_at": "2026-08-14 11:00",
         "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Biotech initiatives pick up as more regions race to become hubs",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/biotech-hub-race-investments-new-york-kansas-city-pennsylvania-central-virginia/827835/",
-        "published_at": "2026-08-14 11:00",
-        "category": "Mergers & Acquisitions"
     }
 ]
