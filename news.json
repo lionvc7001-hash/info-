@@ -1,5 +1,12 @@
 [
     {
+        "title": "Trump reportedly plans to tap policy aide Overton to lead FDA",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/overton-fda-commissioner-trump-white-house-appointment-plans/828264/",
+        "published_at": "2026-08-19 15:30",
+        "category": "FDA & Regulatory"
+    },
+    {
         "title": "Analysis: What Anthropic's protein study says about its life-sciences aims",
         "source": "Endpoints News",
         "url": "https://endpoints.news/analysis-what-anthropics-protein-study-says-about-its-life-sciences-aims/",
@@ -210,6 +217,13 @@
         "category": "Immunotherapy & Oncology"
     },
     {
+        "title": "FDA nod is just the first hurdle for Moderna’s potential blockbuster flu vax",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/moderna-mrna-flu-vax-fda-nod-blockbuster-hurdles/828190/",
+        "published_at": "2026-08-17 13:11",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
         "title": "Argenx declares Phase 3 win for Vyvgart Hytrulo in autoimmune myositis",
         "source": "Endpoints News",
         "url": "https://endpoints.news/argenx-declares-phase-3-win-for-vyvgart-hytrulo-in-autoimmune-myositis/",
@@ -222,19 +236,5 @@
         "url": "https://endpoints.news/astrazeneca-cans-late-stage-volrustomig-trial-after-lung-cancer-setback/",
         "published_at": "2026-08-17 10:47",
         "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Bristol Myers wins ‘milestone’ FDA approval of myeloma drug acquired from Celgene",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/bristol-myers-zenbexus-fda-multiple-myeloma-celmod-celgene/827912/",
-        "published_at": "2026-08-14 16:02",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Capricor shares spike on CEO comments; Cytokinetics sues Bristol Myers",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/capricor-fda-cytokinetics-lawsuit-valneva-indupro-rusfertide-veppanu/827770/",
-        "published_at": "2026-08-14 13:28",
-        "category": "FDA & Regulatory"
     }
 ]
