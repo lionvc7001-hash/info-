@@ -1,5 +1,19 @@
 [
     {
+        "title": "Bristol Myers' partner Biokin says bispecific ADC clears fourth cancer trial in China",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/bristol-myers-partner-biokin-says-bispecific-adc-clears-fourth-cancer-trial-in-china/",
+        "published_at": "2026-08-19 11:05",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Merck, Moderna declare Phase 3 success for personalized mRNA cancer vaccine",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/merck-moderna-declare-phase-3-success-for-personalized-cancer-vaccine/",
+        "published_at": "2026-08-19 10:45",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
         "title": "Federal appeals court revives part of Teva's IRA case as Austedo price cuts loom",
         "source": "Endpoints News",
         "url": "https://endpoints.news/federal-appeals-court-revives-part-of-tevas-ira-case-as-austedo-price-cuts-loom/",
@@ -175,6 +189,13 @@
         "category": "Immunotherapy & Oncology"
     },
     {
+        "title": "FDA nod is just the first hurdle for Moderna’s potential blockbuster flu vax",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/moderna-mrna-flu-vax-fda-nod-blockbuster-hurdles/828190/",
+        "published_at": "2026-08-17 13:11",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
         "title": "Argenx declares Phase 3 win for Vyvgart Hytrulo in autoimmune myositis",
         "source": "Endpoints News",
         "url": "https://endpoints.news/argenx-declares-phase-3-win-for-vyvgart-hytrulo-in-autoimmune-myositis/",
@@ -215,26 +236,5 @@
         "url": "https://www.biopharmadive.com/news/bristol-myers-zenbexus-fda-multiple-myeloma-celmod-celgene/827912/",
         "published_at": "2026-08-14 16:02",
         "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Capricor, seeking lifeline for Duchenne therapy, says it will ask FDA to review additional data",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/capricor-seeking-lifeline-for-duchenne-therapy-says-it-will-ask-fda-to-review-additional-data/",
-        "published_at": "2026-08-14 15:33",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Redx tries again at reverse merger, with Skye this time, as route gains steam",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/redx-tries-again-at-reverse-merger-with-skye-this-time-as-route-gains-steam/",
-        "published_at": "2026-08-14 15:30",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Capricor shares spike on CEO comments; Cytokinetics sues Bristol Myers",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/capricor-fda-cytokinetics-lawsuit-valneva-indupro-rusfertide-veppanu/827770/",
-        "published_at": "2026-08-14 13:28",
-        "category": "FDA & Regulatory"
     }
 ]
