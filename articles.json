@@ -21,7 +21,7 @@
         "category": "Vaccines & mRNA"
     },
     {
-        "title": "Trump reportedly plans to tap policy aide Overton to lead FDA",
+        "title": "Trump nominates policy aide Overton to lead FDA",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/overton-fda-commissioner-trump-white-house-appointment-plans/828264/",
         "published_at": "2026-08-19 15:30",
@@ -47,6 +47,13 @@
         "url": "https://endpoints.news/amgen-cans-its-tscan-partnership-amylyx-reveals-350m-offering/",
         "published_at": "2026-08-19 14:43",
         "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Moderna and Merck cancer vaccine returns ‘landmark’ result in melanoma",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/moderna-merck-cancer-vaccine-landmark-result-melanoma/828238/",
+        "published_at": "2026-08-19 13:07",
+        "category": "Gene Editing & CRISPR"
     },
     {
         "title": "Bristol Myers' partner Biokin says bispecific ADC clears fourth cancer trial in China",
@@ -228,13 +235,6 @@
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/slate-fulcrum-reverse-merger-migraine-anti-pacap/828007/",
         "published_at": "2026-08-17 14:23",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "FDA nod is just the first hurdle for Moderna’s potential blockbuster flu vax",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/moderna-mrna-flu-vax-fda-nod-blockbuster-hurdles/828190/",
-        "published_at": "2026-08-17 13:11",
         "category": "Gene Editing & CRISPR"
     }
 ]
