@@ -1,5 +1,40 @@
 [
     {
+        "title": "Cancer vaccine win restores Wall Street’s faith in Moderna",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/moderna-merck-intismeran-melanoma-vaccine-stock-reaction/828332/",
+        "published_at": "2026-08-20 15:19",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Ultragenyx, after setbacks, nabs first gene therapy approval",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/ultragenyx-fda-approve-genglycos-GSDIa-gene-therapy/828369/",
+        "published_at": "2026-08-20 15:13",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Using gray-market versions of Lilly’s triple-G leads to relatively poor weight loss, study finds",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/using-gray-market-versions-of-lillys-triple-g-leads-to-relatively-poor-weight-loss-study-finds/",
+        "published_at": "2026-08-20 15:12",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Try first, evaluate later: How the FDA is approaching digital health devices",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/try-first-evaluate-later-how-the-fda-is-approaching-digital-health-devices/",
+        "published_at": "2026-08-20 14:34",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Lilly partners with Amplitude on vaccines; Otsuka scraps psychedelic trial",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/lilly-partners-with-amplitude-on-vaccines-otsuka-scraps-psychedelic-trial/",
+        "published_at": "2026-08-20 14:33",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
         "title": "WuXi Bio to offload chromatography unit; Cabaletta names another CDMO partner",
         "source": "Endpoints News",
         "url": "https://endpoints.news/wuxi-bio-to-offload-chromatography-unit-cabaletta-names-another-cdmo-partner/",
@@ -42,7 +77,7 @@
         "category": "Vaccines & mRNA"
     },
     {
-        "title": "Trump reportedly plans to tap policy aide Overton to lead FDA",
+        "title": "Trump nominates policy aide Overton to lead FDA",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/overton-fda-commissioner-trump-white-house-appointment-plans/828264/",
         "published_at": "2026-08-19 15:30",
@@ -68,6 +103,13 @@
         "url": "https://endpoints.news/amgen-cans-its-tscan-partnership-amylyx-reveals-350m-offering/",
         "published_at": "2026-08-19 14:43",
         "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Moderna and Merck cancer vaccine returns ‘landmark’ result in melanoma",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/moderna-merck-cancer-vaccine-landmark-result-melanoma/828238/",
+        "published_at": "2026-08-19 13:07",
+        "category": "Gene Editing & CRISPR"
     },
     {
         "title": "Bristol Myers' partner Biokin says bispecific ADC clears fourth cancer trial in China",
@@ -182,24 +224,10 @@
         "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "Drugmakers voice support of US probe into Germany’s drug pricing plans",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/drugmakers-voice-support-of-us-probe-into-germanys-drug-pricing-plans/",
-        "published_at": "2026-08-17 17:28",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
         "title": "Argenx jumps on Phase 3 data for blockbuster Vyvgart",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/argenx-phase-3-data-vyvgart-IMNM-DM/828025/",
         "published_at": "2026-08-17 16:12",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "EyePoint’s bid to compete with Eylea falls flat",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/eyepoints-bid-to-compete-with-eylea-falls-flat/",
-        "published_at": "2026-08-17 15:38",
         "category": "Clinical Trials"
     },
     {
@@ -208,33 +236,5 @@
         "url": "https://www.biopharmadive.com/news/eyepoint-trial-results-durayvu-wet-amd-stock/828022/",
         "published_at": "2026-08-17 15:31",
         "category": "FDA & Regulatory"
-    },
-    {
-        "title": "AstraZeneca scraps Phase 3 trial of new bispecific in lung cancer",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/astrazeneca-discontinues-trial-volrustomig-lung-cancer/827999/",
-        "published_at": "2026-08-17 15:13",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Biotech's reverse merger renaissance poised to continue",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/biotechs-reverse-merger-renaissance-poised-to-continue/",
-        "published_at": "2026-08-17 15:12",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Slate, Fulcrum to combine in reverse merger",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/slate-fulcrum-reverse-merger-migraine-anti-pacap/828007/",
-        "published_at": "2026-08-17 14:23",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "FDA nod is just the first hurdle for Moderna’s potential blockbuster flu vax",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/moderna-mrna-flu-vax-fda-nod-blockbuster-hurdles/828190/",
-        "published_at": "2026-08-17 13:11",
-        "category": "Gene Editing & CRISPR"
     }
 ]
