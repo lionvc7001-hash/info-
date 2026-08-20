@@ -70,13 +70,6 @@
         "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "Moderna and Merck cancer vaccine returns ‘landmark’ result in melanoma",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/moderna-merck-cancer-vaccine-landmark-result-melanoma/828238/",
-        "published_at": "2026-08-19 13:07",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
         "title": "Bristol Myers' partner Biokin says bispecific ADC clears fourth cancer trial in China",
         "source": "Endpoints News",
         "url": "https://endpoints.news/bristol-myers-partner-biokin-says-bispecific-adc-clears-fourth-cancer-trial-in-china/",
@@ -235,6 +228,13 @@
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/slate-fulcrum-reverse-merger-migraine-anti-pacap/828007/",
         "published_at": "2026-08-17 14:23",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "FDA nod is just the first hurdle for Moderna’s potential blockbuster flu vax",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/moderna-mrna-flu-vax-fda-nod-blockbuster-hurdles/828190/",
+        "published_at": "2026-08-17 13:11",
         "category": "Gene Editing & CRISPR"
     }
 ]
