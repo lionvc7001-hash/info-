@@ -1,5 +1,19 @@
 [
     {
+        "title": "WuXi Bio to offload chromatography unit; Cabaletta names another CDMO partner",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/wuxi-bio-to-offload-chromatography-unit-cabaletta-names-another-cdmo-partner/",
+        "published_at": "2026-08-20 13:23",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Epic's AI push overlaps with health tech startups",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/epics-ai-push-to-overlap-with-health-tech-startups-at-annual-meeting/",
+        "published_at": "2026-08-20 13:16",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
         "title": "FDA approves Ultragenyx's gene therapy Genglycos for glycogen storage disorder",
         "source": "Endpoints News",
         "url": "https://endpoints.news/fda-approves-ultragenyxs-gene-therapy-genglycos-for-glycogen-storage-disorder/",
@@ -54,6 +68,13 @@
         "url": "https://endpoints.news/amgen-cans-its-tscan-partnership-amylyx-reveals-350m-offering/",
         "published_at": "2026-08-19 14:43",
         "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Moderna and Merck cancer vaccine returns ‘landmark’ result in melanoma",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/moderna-merck-cancer-vaccine-landmark-result-melanoma/828238/",
+        "published_at": "2026-08-19 13:07",
+        "category": "Gene Editing & CRISPR"
     },
     {
         "title": "Bristol Myers' partner Biokin says bispecific ADC clears fourth cancer trial in China",
@@ -210,31 +231,10 @@
         "category": "Mergers & Acquisitions"
     },
     {
-        "title": "AstraZeneca touts separate late-stage lung cancer wins with Tagrisso, Enhertu",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/astrazeneca-touts-separate-late-stage-lung-cancer-wins-with-tagrisso-enhertu/",
-        "published_at": "2026-08-17 14:53",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Summit, Akeso's ivonescimab shows smaller benefit with longer follow-up in China",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/summit-akesos-ivonescimab-shows-smaller-benefit-with-longer-follow-up-in-china/",
-        "published_at": "2026-08-17 14:48",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
         "title": "Slate, Fulcrum to combine in reverse merger",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/slate-fulcrum-reverse-merger-migraine-anti-pacap/828007/",
         "published_at": "2026-08-17 14:23",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "FDA nod is just the first hurdle for Moderna’s potential blockbuster flu vax",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/moderna-mrna-flu-vax-fda-nod-blockbuster-hurdles/828190/",
-        "published_at": "2026-08-17 13:11",
         "category": "Gene Editing & CRISPR"
     }
 ]
