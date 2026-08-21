@@ -1,5 +1,26 @@
 [
     {
+        "title": "China IIT deaths prompt lawmakers to request FDA clampdown",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/china-iit-deaths-prompt-lawmakers-to-request-fda-clampdown/",
+        "published_at": "2026-08-21 11:00",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Replimune lands commercial chief after hard-fought approval; Neumora's Paul Berns sheds CEO title",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/replimune-lands-commercial-chief-after-hard-fought-approval-neumora-changes-ceos-names-cmo/",
+        "published_at": "2026-08-21 11:00",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "How cost and perception could reshape the GLP-1 market",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/glp-1-market-cost-prescribing-preferences/828424/",
+        "published_at": "2026-08-21 11:00",
+        "category": "Clinical Trials & R&D"
+    },
+    {
         "title": "A mix of former Republican lawmakers and Trump admin leaders are in the race to lead PhRMA",
         "source": "Endpoints News",
         "url": "https://endpoints.news/a-mix-of-former-republican-lawmakers-and-trump-admin-leaders-are-in-the-race-to-lead-phrma/",
@@ -203,13 +224,6 @@
         "category": "Immunotherapy & Oncology"
     },
     {
-        "title": "BioMarin does another small deal to get early-stage bone disease asset",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/biomarin-does-another-small-deal-to-get-early-stage-bone-disease-asset/",
-        "published_at": "2026-08-18 15:02",
-        "category": "Mergers & Acquisitions"
-    },
-    {
         "title": "Leo Pharma buys rare skin disease drug in $435M deal",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/leo-pharma-buys-late-stage-skin-disease-drug-435m-deal/828150/",
@@ -217,24 +231,10 @@
         "category": "Mergers & Acquisitions"
     },
     {
-        "title": "Exclusive: Third death revealed in China's popular but opaque trials",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/exclusive-third-death-revealed-in-chinas-popular-but-opaque-trials/",
-        "published_at": "2026-08-18 14:25",
-        "category": "Clinical Trials"
-    },
-    {
         "title": "Amylyx’s bet on a GLP-1 blocker pays off",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/amylyx-glp1-avexitide-clinical-trial-results-blood-sugar/828099/",
         "published_at": "2026-08-18 11:02",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Argenx jumps on Phase 3 data for blockbuster Vyvgart",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/argenx-phase-3-data-vyvgart-IMNM-DM/828025/",
-        "published_at": "2026-08-17 16:12",
         "category": "Clinical Trials"
     }
 ]
