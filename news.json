@@ -1,5 +1,26 @@
 [
     {
+        "title": "Safety concerns spur FDA to again halt testing of Regenxbio gene therapy",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/regenxbio-fda-hunter-syndrome-hold-mri-safety/828578/",
+        "published_at": "2026-08-24 15:55",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "FDA extends review of Capricor cell therapy; Pain drug startup to go public",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/capricor-fda-gsk-hibsago-ambros-werewolf-united-ralinepag/828560/",
+        "published_at": "2026-08-24 15:30",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Cellares, a cell therapy manufacturing specialist, to lay off 100 employees",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/cellares-layoffs-cell-therapy-manufacturing/828588/",
+        "published_at": "2026-08-24 15:19",
+        "category": "Clinical Trials & R&D"
+    },
+    {
         "title": "Regenxbio hit with another clinical hold for Hunter syndrome gene therapy",
         "source": "Endpoints News",
         "url": "https://endpoints.news/regenxbio-hit-with-another-clinical-hold-for-hunter-syndrome-gene-therapy/",
@@ -26,6 +47,13 @@
         "url": "https://endpoints.news/news-on-astrazeneca-cytokinetics-novartis-what-to-look-out-for-at-esc-2026/",
         "published_at": "2026-08-24 14:55",
         "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Roche commits to lean-mass preservation with Hanmi obesity deal",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/roche-lean-mass-preservation-hanmi-obesity-deal/828579/",
+        "published_at": "2026-08-24 13:47",
+        "category": "Mergers & Acquisitions"
     },
     {
         "title": "[Podcast] (Season 2) The Progress Profile: Alzheimer’s Research in Focus",
@@ -154,13 +182,6 @@
         "category": "Gene Editing & CRISPR"
     },
     {
-        "title": "Ultragenyx, after setbacks, nabs first gene therapy approval",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/ultragenyx-fda-approve-genglycos-GSDIa-gene-therapy/828369/",
-        "published_at": "2026-08-20 15:13",
-        "category": "FDA & Regulatory"
-    },
-    {
         "title": "Using gray-market versions of Lilly’s triple-G leads to relatively poor weight loss, study finds",
         "source": "Endpoints News",
         "url": "https://endpoints.news/using-gray-market-versions-of-lillys-triple-g-leads-to-relatively-poor-weight-loss-study-finds/",
@@ -215,26 +236,5 @@
         "url": "https://endpoints.news/fda-approves-regenerons-garetosmab-for-disease-that-turns-tissue-to-bone/",
         "published_at": "2026-08-19 18:42",
         "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Trump nominates policy aide Overton to lead FDA",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/overton-fda-commissioner-trump-white-house-appointment-plans/828264/",
-        "published_at": "2026-08-19 15:30",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Moderna and Merck cancer vaccine returns ‘landmark’ result in melanoma",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/moderna-merck-cancer-vaccine-landmark-result-melanoma/828238/",
-        "published_at": "2026-08-19 13:07",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "BioMarin acquires experimental drug for rare bone disorder in $275M deal",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/biomarin-alesta-deal-acquisition-rare-disease-muscle-skeleton/828133/",
-        "published_at": "2026-08-18 15:50",
-        "category": "Mergers & Acquisitions"
     }
 ]
