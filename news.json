@@ -1,5 +1,40 @@
 [
     {
+        "title": "Regenxbio hit with another clinical hold for Hunter syndrome gene therapy",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/regenxbio-hit-with-another-clinical-hold-for-hunter-syndrome-gene-therapy/",
+        "published_at": "2026-08-24 15:17",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "FDA delays Capricor's deramiocel PDUFA date to review new data",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-delays-capricors-deramiocel-pdufa-date-to-review-new-data/",
+        "published_at": "2026-08-24 15:10",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "TwinStrand wins patent case; GSK’s hepatitis B drug approved in Japan",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/twinstrand-wins-patent-case-gsks-hepatitis-b-drug-approved-in-japan/",
+        "published_at": "2026-08-24 15:06",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "News on AstraZeneca, Cytokinetics, Novartis — what to look out for at ESC 2026",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/news-on-astrazeneca-cytokinetics-novartis-what-to-look-out-for-at-esc-2026/",
+        "published_at": "2026-08-24 14:55",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "[Podcast] (Season 2) The Progress Profile: Alzheimer’s Research in Focus",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/spons/podcast-season-2-the-progress-profile-alzheimers-research-in-focus/822189/",
+        "published_at": "2026-08-24 12:00",
+        "category": "Clinical Trials"
+    },
+    {
         "title": "Roche bets up to $2.3B on Hanmi’s early-stage muscle-building obesity asset",
         "source": "Endpoints News",
         "url": "https://endpoints.news/roche-bets-up-to-2-3b-on-hanmis-early-stage-muscle-building-obesity-asset/",
@@ -182,39 +217,11 @@
         "category": "FDA & Regulatory"
     },
     {
-        "title": "FDA pick Heidi Overton has been critical of vaccine requirements, abortion pills",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-pick-heidi-overton-has-been-critical-of-vaccine-requirements-abortion-pills/",
-        "published_at": "2026-08-19 18:21",
-        "category": "Vaccines & mRNA"
-    },
-    {
         "title": "Trump nominates policy aide Overton to lead FDA",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/overton-fda-commissioner-trump-white-house-appointment-plans/828264/",
         "published_at": "2026-08-19 15:30",
         "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Analysis: What Anthropic's protein study says about its life sciences aims",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/analysis-what-anthropics-protein-study-says-about-its-life-sciences-aims/",
-        "published_at": "2026-08-19 15:21",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Amylin design debate heats up as Lilly's crucial mid-stage weight loss data near",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/amylin-design-debate-heats-up-as-lillys-crucial-mid-stage-weight-loss-data-near/",
-        "published_at": "2026-08-19 14:52",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Amgen cans its TScan partnership; Amylyx reveals $350M offering",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/amgen-cans-its-tscan-partnership-amylyx-reveals-350m-offering/",
-        "published_at": "2026-08-19 14:43",
-        "category": "Pharma & FDA Regulatory"
     },
     {
         "title": "Moderna and Merck cancer vaccine returns ‘landmark’ result in melanoma",
@@ -229,12 +236,5 @@
         "url": "https://www.biopharmadive.com/news/biomarin-alesta-deal-acquisition-rare-disease-muscle-skeleton/828133/",
         "published_at": "2026-08-18 15:50",
         "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "AstraZeneca scores in lung cancer; Sandoz inks a China deal",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/astrazeneca-sandoz-china-bristol-myers-maplight/828058/",
-        "published_at": "2026-08-18 15:13",
-        "category": "Immunotherapy & Oncology"
     }
 ]
