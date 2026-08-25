@@ -1,5 +1,19 @@
 [
     {
+        "title": "Bristol Myers ends deal with Cellares, cell therapy manufacturer to reorg",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/bristol-myers-ends-deal-with-cellares-cell-therapy-manufacturer-to-reorg/",
+        "published_at": "2026-08-25 12:00",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Will a ‘reset’ reignite investment in women’s health startups?",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/womens-health-startups-venture-investment-svb-report/828632/",
+        "published_at": "2026-08-25 12:00",
+        "category": "Clinical Trials & R&D"
+    },
+    {
         "title": "Young startups miss out on biotech venture funding rebound, MassBio says",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/massbio-industry-biotech-vc-ipo-funding-licensing/828621/",
@@ -189,13 +203,6 @@
         "category": "FDA & Regulatory"
     },
     {
-        "title": "Regeneron to challenge Ipsen as FDA clears bone disease drug",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/regeneron-pasatru-fda-approve-fibrodysplasia-ossificans-progressiva/828375/",
-        "published_at": "2026-08-20 16:21",
-        "category": "FDA & Regulatory"
-    },
-    {
         "title": "Using gray-market versions of Lilly’s triple-G leads to relatively poor weight loss, study finds",
         "source": "Endpoints News",
         "url": "https://endpoints.news/using-gray-market-versions-of-lillys-triple-g-leads-to-relatively-poor-weight-loss-study-finds/",
@@ -229,12 +236,5 @@
         "url": "https://endpoints.news/epics-ai-push-to-overlap-with-health-tech-startups-at-annual-meeting/",
         "published_at": "2026-08-20 13:16",
         "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "FDA approves Ultragenyx's gene therapy Genglycos for glycogen storage disorder",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-approves-ultragenyxs-gene-therapy-genglycos-for-glycogen-storage-disorder/",
-        "published_at": "2026-08-20 11:15",
-        "category": "FDA & Regulatory"
     }
 ]
