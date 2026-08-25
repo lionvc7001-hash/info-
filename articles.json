@@ -1,5 +1,19 @@
 [
     {
+        "title": "FDA approves Jazz's Ziihera in frontline gastric cancer",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-approves-jazzs-ziihera-in-frontline-gastric-cancer/",
+        "published_at": "2026-08-25 14:37",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "ARCH and Population Health join China blitz with Haisco deal",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/arch-and-population-health-join-china-blitz-with-haisco-deal/",
+        "published_at": "2026-08-25 14:15",
+        "category": "Mergers & Acquisitions"
+    },
+    {
         "title": "OmicsBank raises $2.25M to bring overseas patient data to biopharma",
         "source": "Endpoints News",
         "url": "https://endpoints.news/omicsbank-raises-2-25m-to-bring-overseas-patient-data-to-biopharma/",
@@ -222,19 +236,5 @@
         "url": "https://endpoints.news/try-first-evaluate-later-how-the-fda-is-approaching-digital-health-devices/",
         "published_at": "2026-08-20 14:34",
         "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Lilly partners with Amplitude on vaccines; Otsuka scraps psychedelic trial",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/lilly-partners-with-amplitude-on-vaccines-otsuka-scraps-psychedelic-trial/",
-        "published_at": "2026-08-20 14:33",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "WuXi Bio to offload chromatography unit; Cabaletta names another CDMO partner",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/wuxi-bio-to-offload-chromatography-unit-cabaletta-names-another-cdmo-partner/",
-        "published_at": "2026-08-20 13:23",
-        "category": "Pharma & FDA Regulatory"
     }
 ]
