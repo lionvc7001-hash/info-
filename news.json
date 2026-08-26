@@ -1,5 +1,19 @@
 [
     {
+        "title": "An uncertain future for Aurora, the first startup dedicated to custom CRISPR therapies",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/an-uncertain-future-for-aurora-the-first-startup-dedicated-to-custom-crispr-therapies/",
+        "published_at": "2026-08-26 14:24",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Zepbound may cut healthcare costs, study says; Summit, Akeso drug hits in another China trial",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/zepbound-costs-ivonescimab-mckesson-sentivera-imaavy-bausch/828680/",
+        "published_at": "2026-08-26 14:11",
+        "category": "Mergers & Acquisitions"
+    },
+    {
         "title": "Akeso, Summit hail ivonescimab's biliary tract cancer win in China-only Phase 3 trial",
         "source": "Endpoints News",
         "url": "https://endpoints.news/akeso-summit-hail-ivonescimabs-biliary-tract-cancer-win-in-china-only-phase-3-trial/",
@@ -189,13 +203,6 @@
         "category": "Mergers & Acquisitions"
     },
     {
-        "title": "Pharma marketers need a share-of-answer strategy before AI spend",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/spons/pharma-marketers-need-a-share-of-answer-strategy-before-ai-spend/828227/",
-        "published_at": "2026-08-24 09:00",
-        "category": "Clinical Trials & R&D"
-    },
-    {
         "title": "Third death in China’s expedited trials; Merck and Moderna’s cancer vaccine win; and more",
         "source": "Endpoints News",
         "url": "https://endpoints.news/third-death-in-chinas-expedited-trials-merck-and-modernas-cancer-vaccine-win-and-more/",
@@ -229,12 +236,5 @@
         "url": "https://endpoints.news/as-trump-2-0-targets-federal-research-a-new-study-shows-the-stakes/",
         "published_at": "2026-08-21 13:00",
         "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "China IIT deaths prompt lawmakers to request FDA clampdown",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/china-iit-deaths-prompt-lawmakers-to-request-fda-clampdown/",
-        "published_at": "2026-08-21 11:00",
-        "category": "Clinical Trials"
     }
 ]
