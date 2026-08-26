@@ -1,5 +1,40 @@
 [
     {
+        "title": "Cellares rebukes Bristol Myers' criticism of its cell therapy technology",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/cellares-rebukes-bristol-myers-criticism-of-its-cell-therapy-technology/",
+        "published_at": "2026-08-26 17:40",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Revolution drug heralded as a pancreatic cancer breakthrough cleared by FDA",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/revolution-daraxonrasib-rasonque-approval-fda-priority-review-voucher/828847/",
+        "published_at": "2026-08-26 17:35",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "MassBio report details challenges spanning China, NIH",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/massbio-report-details-challenges-spanning-china-nih/",
+        "published_at": "2026-08-26 17:28",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Biohaven strikes $795M deal for commercial partner in epilepsy",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/biohaven-strikes-795m-deal-for-commercial-partner-in-epilepsy/",
+        "published_at": "2026-08-26 17:07",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Spyre tumbles as immune drug misses mark in rheumatoid arthritis",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/spyre-rheumatoid-arthritis-drug-study-results-skyway/828809/",
+        "published_at": "2026-08-26 16:25",
+        "category": "Mergers & Acquisitions"
+    },
+    {
         "title": "Biohaven trades cash for ‘upside’ with $795M epilepsy drug deal",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/biohaven-sk-opakalim-epilepsy-drug-deal/828799/",
@@ -161,13 +196,6 @@
         "category": "FDA & Regulatory"
     },
     {
-        "title": "Cellares, a cell therapy manufacturing specialist, to lay off 100 employees",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/cellares-layoffs-cell-therapy-manufacturing/828588/",
-        "published_at": "2026-08-24 15:19",
-        "category": "Clinical Trials & R&D"
-    },
-    {
         "title": "Regenxbio hit with another clinical hold for Hunter syndrome gene therapy",
         "source": "Endpoints News",
         "url": "https://endpoints.news/regenxbio-hit-with-another-clinical-hold-for-hunter-syndrome-gene-therapy/",
@@ -196,13 +224,6 @@
         "category": "Gene Editing & CRISPR"
     },
     {
-        "title": "Roche commits to lean-mass preservation with Hanmi obesity deal",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/roche-lean-mass-preservation-hanmi-obesity-deal/828579/",
-        "published_at": "2026-08-24 13:47",
-        "category": "Mergers & Acquisitions"
-    },
-    {
         "title": "Roche bets up to $2.3B on Hanmi’s early-stage muscle-building obesity asset",
         "source": "Endpoints News",
         "url": "https://endpoints.news/roche-bets-up-to-2-3b-on-hanmis-early-stage-muscle-building-obesity-asset/",
@@ -214,27 +235,6 @@
         "source": "Endpoints News",
         "url": "https://endpoints.news/option-to-acquire-deals-remain-rare-in-biotechs-buzzy-ma-season/",
         "published_at": "2026-08-24 10:30",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Third death in China’s expedited trials; Merck and Moderna’s cancer vaccine win; and more",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/third-death-in-chinas-expedited-trials-merck-and-modernas-cancer-vaccine-win-and-more/",
-        "published_at": "2026-08-22 10:00",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "RFK Jr. takes another step toward dismantling vaccine recommendations",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/rfk-jr-takes-another-step-toward-dismantling-vaccine-recommendations/",
-        "published_at": "2026-08-21 16:50",
-        "category": "Vaccines & mRNA"
-    },
-    {
-        "title": "Chronic pain biotech co-founded by Vivek Ramaswamy joins reverse merger train",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/chronic-pain-biotech-co-founded-by-vivek-ramaswamy-joins-reverse-merger-train/",
-        "published_at": "2026-08-21 15:24",
         "category": "Mergers & Acquisitions"
     }
 ]
