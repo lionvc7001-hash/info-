@@ -1,5 +1,26 @@
 [
     {
+        "title": "Biohaven trades cash for ‘upside’ with $795M epilepsy drug deal",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/biohaven-sk-opakalim-epilepsy-drug-deal/828799/",
+        "published_at": "2026-08-26 15:17",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Haisco grants license to Sentivera; ViiV's HIV treatment OK'd for newborns",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/haisco-grants-license-to-sentivera-viivs-hiv-treatment-okd-for-newborns/",
+        "published_at": "2026-08-26 15:16",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "FDA approves Revolution Medicines' pancreatic cancer drug",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-approves-revolution-medicines-pancreatic-cancer-drug/",
+        "published_at": "2026-08-26 15:15",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
         "title": "An uncertain future for Aurora, the first startup dedicated to custom CRISPR therapies",
         "source": "Endpoints News",
         "url": "https://endpoints.news/an-uncertain-future-for-aurora-the-first-startup-dedicated-to-custom-crispr-therapies/",
@@ -182,13 +203,6 @@
         "category": "Mergers & Acquisitions"
     },
     {
-        "title": "[Podcast] (Season 2) The Progress Profile: Alzheimer’s Research in Focus",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/spons/podcast-season-2-the-progress-profile-alzheimers-research-in-focus/822189/",
-        "published_at": "2026-08-24 12:00",
-        "category": "Clinical Trials"
-    },
-    {
         "title": "Roche bets up to $2.3B on Hanmi’s early-stage muscle-building obesity asset",
         "source": "Endpoints News",
         "url": "https://endpoints.news/roche-bets-up-to-2-3b-on-hanmis-early-stage-muscle-building-obesity-asset/",
@@ -222,19 +236,5 @@
         "url": "https://endpoints.news/chronic-pain-biotech-co-founded-by-vivek-ramaswamy-joins-reverse-merger-train/",
         "published_at": "2026-08-21 15:24",
         "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Genentech invests $750M in new factory; Bavarian Nordic delays Lyme trial",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/genentech-invests-750m-in-new-factory-bavarian-nordic-delays-lyme-trial/",
-        "published_at": "2026-08-21 14:52",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "As Trump 2.0 targets federal research, a new study shows the stakes",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/as-trump-2-0-targets-federal-research-a-new-study-shows-the-stakes/",
-        "published_at": "2026-08-21 13:00",
-        "category": "Immunotherapy & Oncology"
     }
 ]
