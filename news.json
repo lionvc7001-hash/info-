@@ -1,5 +1,89 @@
 [
     {
+        "title": "Gilead gets another HIV treatment approval, extending lenacapavir's dominance",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/gilead-gets-another-hiv-treatment-approval-extending-lenacapavirs-dominance/",
+        "published_at": "2026-08-27 22:14",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Roivant's dermatomyositis drug Lisraya snags FDA approval",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/roivants-dermatomyositis-drug-lisraya-snags-fda-approval/",
+        "published_at": "2026-08-27 21:27",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Impacts of CMS’ GLP-1 pilot program begin to take shape",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/impacts-of-cms-glp-1-pilot-program-begin-to-take-shape/",
+        "published_at": "2026-08-27 18:41",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Pharma's legal battle over Medicare negotiations reaches 'dead end'",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/pharmas-legal-battle-over-medicare-negotiations-reaches-dead-end/",
+        "published_at": "2026-08-27 17:30",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Michael Polansky has a new, skin-focused biotech. Don’t call it a drug company.",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/outer-bio-skin-biotech-michael-polansky-cosmetics-pharma/828910/",
+        "published_at": "2026-08-27 16:32",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "New data could widen use of AstraZeneca, Amgen immune disease drug",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/astrazeneca-amgen-tezpire-eosinophilic-esophagitis-results/828946/",
+        "published_at": "2026-08-27 15:58",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Q&A: Akeso CEO spells out why she thinks its biliary tract cancer data are a big deal",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/qa-akeso-ceo-spells-out-why-she-thinks-its-biliary-tract-cancer-data-are-a-big-deal/",
+        "published_at": "2026-08-27 15:45",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Revolution pancreatic cancer drug should quickly become a blockbuster, analysts say",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/revolution-rasonque-price-pancreatic-cancer-drug-launch-sales/828918/",
+        "published_at": "2026-08-27 15:30",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Lilly's move to hide Phase 1 pipeline draws mixed reviews",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/lillys-move-to-hide-phase-1-pipeline-draws-mixed-reviews/",
+        "published_at": "2026-08-27 15:02",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Moderna's $2B offering; AstraZeneca-Amgen and Biokin chalk up Phase 3 wins",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/modernas-2b-offering-astrazeneca-amgen-and-biokin-chalk-up-phase-3-wins/",
+        "published_at": "2026-08-27 14:59",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Why one venture investor is going from 'studio' to 'firm'",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/why-one-venture-investor-is-going-from-studio-to-firm/",
+        "published_at": "2026-08-27 14:54",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "RayzeBio's $173M radiopharma plan; Lonza creates commercial chief position",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/lonza-creates-commercial-chief-position-wuxi-biologics-reports-revenue-jump/",
+        "published_at": "2026-08-27 14:31",
+        "category": "Mergers & Acquisitions"
+    },
+    {
         "title": "Metriport raises $26M to help doctors retrieve patient data",
         "source": "Endpoints News",
         "url": "https://endpoints.news/metriport-raises-26m-to-help-doctors-retrieve-patient-data/",
@@ -147,94 +231,10 @@
         "category": "Immunotherapy & Oncology"
     },
     {
-        "title": "ARCH and Population Health join China blitz with Haisco deal",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/arch-and-population-health-join-china-blitz-with-haisco-deal/",
-        "published_at": "2026-08-25 14:15",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "OmicsBank raises $2.25M to bring overseas patient data to biopharma",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/omicsbank-raises-2-25m-to-bring-overseas-patient-data-to-biopharma/",
-        "published_at": "2026-08-25 13:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Bristol Myers ends deal with Cellares, cell therapy manufacturer to reorg",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/bristol-myers-ends-deal-with-cellares-cell-therapy-manufacturer-to-reorg/",
-        "published_at": "2026-08-25 12:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
         "title": "Will a ‘reset’ reignite investment in women’s health startups?",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/womens-health-startups-venture-investment-svb-report/828632/",
         "published_at": "2026-08-25 12:00",
         "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Young startups miss out on biotech venture funding rebound, MassBio says",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/massbio-industry-biotech-vc-ipo-funding-licensing/828621/",
-        "published_at": "2026-08-25 04:01",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Bausch + Lomb plans Phase 3 trial for dry eye drop, despite missing mid-stage goal",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/bausch-lomb-plans-ph-3-trial-for-dry-eye-drop-despite-missing-mid-stage-goal/",
-        "published_at": "2026-08-24 20:00",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "DC judge rejects Merck’s IRA case more than three years after it was filed",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/dc-judge-rejects-mercks-ira-case-more-than-three-years-after-it-was-filed/",
-        "published_at": "2026-08-24 16:44",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Safety concerns spur FDA to again halt testing of Regenxbio gene therapy",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/regenxbio-fda-hunter-syndrome-hold-mri-safety/828578/",
-        "published_at": "2026-08-24 15:55",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "FDA extends review of Capricor cell therapy; Pain drug startup to go public",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/capricor-fda-gsk-hibsago-ambros-werewolf-united-ralinepag/828560/",
-        "published_at": "2026-08-24 15:30",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Regenxbio hit with another clinical hold for Hunter syndrome gene therapy",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/regenxbio-hit-with-another-clinical-hold-for-hunter-syndrome-gene-therapy/",
-        "published_at": "2026-08-24 15:17",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "FDA delays Capricor's deramiocel PDUFA date to review new data",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-delays-capricors-deramiocel-pdufa-date-to-review-new-data/",
-        "published_at": "2026-08-24 15:10",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "TwinStrand wins patent case; GSK’s hepatitis B drug approved in Japan",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/twinstrand-wins-patent-case-gsks-hepatitis-b-drug-approved-in-japan/",
-        "published_at": "2026-08-24 15:06",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "News on AstraZeneca, Cytokinetics, Novartis — what to look out for at ESC 2026",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/news-on-astrazeneca-cytokinetics-novartis-what-to-look-out-for-at-esc-2026/",
-        "published_at": "2026-08-24 14:55",
-        "category": "Gene Editing & CRISPR"
     }
 ]
