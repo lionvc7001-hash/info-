@@ -1,5 +1,82 @@
 [
     {
+        "title": "Moderna raises $2.6B to support cancer work; FDA clears updated COVID vaccines",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/fda-covid-vaccines-moderna-generate-profound-bixlenvo/828929/",
+        "published_at": "2026-08-28 15:59",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Mounjaro scores FDA approval to reduce CV risk; Teva to buy an approved drug",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/mounjaro-scores-fda-approval-to-reduce-cv-risk-teva-to-buy-an-approved-drug/",
+        "published_at": "2026-08-28 14:58",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "AstraZeneca, Ionis data spark debate about RNA drugs’ impact on deadly heart disease",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/astrazeneca-ionis-eplontersen-nejm-cardio-ttransform-results/829057/",
+        "published_at": "2026-08-28 14:58",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "BioNTech, Genentech terminate Phase 2 of personalized mRNA cancer vaccine",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/biontech-genentech-terminate-phase-2-of-personalized-mrna-cancer-vaccine/",
+        "published_at": "2026-08-28 14:49",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "#ESC26: CRISPR Therapeutics to pursue highest dose of its lipid lowering gene editing therapy",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/esc26-crispr-therapeutics-to-pursue-highest-dose-of-its-lipid-lowering-gene-editing-therapy/",
+        "published_at": "2026-08-28 14:30",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "This week in charts: Biotech’s rebound is undeniable",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/biotech-charts-biopharma-xbi-deals-mergers-ipos/828794/",
+        "published_at": "2026-08-28 14:30",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "FDA green lights Priovant drug for rare skin disease",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/fda-priovant-pfizer-lisraya-brepocitinib-approved/829021/",
+        "published_at": "2026-08-28 13:12",
+        "category": "Vaccines & mRNA"
+    },
+    {
+        "title": "Roche bets $1B+ on DualityBio's ADC tech to tackle TOPO1 resistance",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/roche-bets-1b-on-dualitybios-adc-tech-to-tackle-topo1-resistance/",
+        "published_at": "2026-08-28 11:30",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Daiichi Sankyo to give commercial team a makeover; Novo Nordisk's GPCR partner finds CMO",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/daiichi-sankyos-commercial-team-to-get-a-makeover-novo-nordisks-gpcr-partner-finds-cmo/",
+        "published_at": "2026-08-28 11:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "#ESC26: Data in hand, Cytokinetics looks to expanded Myqorzo approval",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/esc26-data-in-hand-cytokinetics-looks-to-expanded-myqorzo-approval/",
+        "published_at": "2026-08-28 09:45",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "#ESC26: Trial failure clouds future of AstraZeneca’s heart disease gene silencer",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/esc26-trial-failure-clouds-future-of-astrazenecas-heart-disease-gene-silencer/",
+        "published_at": "2026-08-28 09:10",
+        "category": "Vaccines & mRNA"
+    },
+    {
         "title": "Gilead gets another HIV treatment approval, extending lenacapavir's dominance",
         "source": "Endpoints News",
         "url": "https://endpoints.news/gilead-gets-another-hiv-treatment-approval-extending-lenacapavirs-dominance/",
@@ -91,7 +168,7 @@
         "category": "Mergers & Acquisitions"
     },
     {
-        "title": "#ERS26: Generate:Biomedicines discloses early respiratory drug data after poster leak",
+        "title": "#ERS26: Generate Biomedicines discloses early respiratory drug data after poster leak",
         "source": "Endpoints News",
         "url": "https://endpoints.news/ers26-generatebiomedicines-discloses-early-respiratory-drug-data-after-poster-leak/",
         "published_at": "2026-08-27 11:16",
@@ -159,82 +236,5 @@
         "url": "https://endpoints.news/an-uncertain-future-for-aurora-the-first-startup-dedicated-to-custom-crispr-therapies/",
         "published_at": "2026-08-26 14:24",
         "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Zepbound may cut healthcare costs, study says; Summit, Akeso drug hits in another China trial",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/zepbound-costs-ivonescimab-mckesson-sentivera-imaavy-bausch/828680/",
-        "published_at": "2026-08-26 14:11",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Akeso, Summit hail ivonescimab's biliary tract cancer win in China-only Phase 3 trial",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/akeso-summit-hail-ivonescimabs-biliary-tract-cancer-win-in-china-only-phase-3-trial/",
-        "published_at": "2026-08-26 11:02",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Exclusive: Faro raises $37M Series B to speed up clinical trials with AI",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/exclusive-faro-raises-37m-series-b-to-speed-up-clinical-trials-with-ai/",
-        "published_at": "2026-08-26 11:00",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Spyre drops rheumatoid arthritis hopes for anti-TL1A drug after modest Phase 2 data",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/spyre-drops-rheumatoid-arthritis-hopes-for-anti-tl1a-drug-after-modest-phase-2-data/",
-        "published_at": "2026-08-26 11:00",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Sword Health plans to buy Headspace, filing says",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/sword-health-plans-to-buy-headspace-filing-says/",
-        "published_at": "2026-08-25 22:03",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "New Jazz cancer drug approval could drive blockbuster sales",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/jazz-ziihera-fda-approve-gastroesophageal-adenocarcinoma/828747/",
-        "published_at": "2026-08-25 21:21",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Amgen, academic centers weigh new FDA pilot to speed early drug trials",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/amgen-academic-centers-weigh-new-fda-pilot-to-speed-early-drug-trials/",
-        "published_at": "2026-08-25 18:37",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Roche, Eli Lilly get FDA nod for new Alzheimer’s blood test",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/roche-eli-lilly-get-fda-nod-for-new-alzheimers-blood-test/828720/",
-        "published_at": "2026-08-25 16:41",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "J&J’s Imaavy wins label expansion; Two approvals in Japan",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/j-two-approvals-in-japan/",
-        "published_at": "2026-08-25 14:44",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "FDA approves Jazz's Ziihera in frontline gastric cancer",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-approves-jazzs-ziihera-in-frontline-gastric-cancer/",
-        "published_at": "2026-08-25 14:37",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Will a ‘reset’ reignite investment in women’s health startups?",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/womens-health-startups-venture-investment-svb-report/828632/",
-        "published_at": "2026-08-25 12:00",
-        "category": "Clinical Trials & R&D"
     }
 ]
