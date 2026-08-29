@@ -1,5 +1,12 @@
 [
     {
+        "title": "FDA approves Takeda, Protagonist drug for rare blood disorder",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-approves-takeda-protagonist-drug-for-rare-blood-disorder/",
+        "published_at": "2026-08-28 22:15",
+        "category": "FDA & Regulatory"
+    },
+    {
         "title": "Moderna raises $2.6B to support cancer work; FDA clears updated COVID vaccines",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/fda-covid-vaccines-moderna-generate-profound-bixlenvo/828929/",
@@ -229,12 +236,5 @@
         "url": "https://endpoints.news/fda-approves-revolution-medicines-pancreatic-cancer-drug/",
         "published_at": "2026-08-26 15:15",
         "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "An uncertain future for Aurora, the first startup dedicated to custom CRISPR therapies",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/an-uncertain-future-for-aurora-the-first-startup-dedicated-to-custom-crispr-therapies/",
-        "published_at": "2026-08-26 14:24",
-        "category": "Gene Editing & CRISPR"
     }
 ]
