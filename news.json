@@ -1,5 +1,19 @@
 [
     {
+        "title": "Novartis, Bristol Myers pause autoimmune CAR-T trials due to safety concerns",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/novartis-bristol-myers-autoimmune-cell-therapy-trial-halt/829218/",
+        "published_at": "2026-08-31 21:38",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Trump announces nine new MFN drug pricing deals",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/trump-announces-nine-new-mfn-drug-pricing-deals/",
+        "published_at": "2026-08-31 19:56",
+        "category": "Mergers & Acquisitions"
+    },
+    {
         "title": "FDA OKs Takeda, Protagonist drug for rare blood cancer",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/fda-approve-mimrylo-takeda-protagonist-polycythemia-vera/829153/",
@@ -196,13 +210,6 @@
         "category": "Clinical Trials & R&D"
     },
     {
-        "title": "New data could widen use of AstraZeneca, Amgen immune disease drug",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/astrazeneca-amgen-tezpire-eosinophilic-esophagitis-results/828946/",
-        "published_at": "2026-08-27 15:58",
-        "category": "Clinical Trials & R&D"
-    },
-    {
         "title": "Q&A: Akeso CEO spells out why she thinks its biliary tract cancer data are a big deal",
         "source": "Endpoints News",
         "url": "https://endpoints.news/qa-akeso-ceo-spells-out-why-she-thinks-its-biliary-tract-cancer-data-are-a-big-deal/",
@@ -229,12 +236,5 @@
         "url": "https://endpoints.news/why-one-venture-investor-is-going-from-studio-to-firm/",
         "published_at": "2026-08-27 14:54",
         "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "RayzeBio's $173M radiopharma plan; Lonza creates commercial chief position",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/lonza-creates-commercial-chief-position-wuxi-biologics-reports-revenue-jump/",
-        "published_at": "2026-08-27 14:31",
-        "category": "Mergers & Acquisitions"
     }
 ]
