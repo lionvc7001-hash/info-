@@ -1,5 +1,47 @@
 [
     {
+        "title": "FDA OKs Takeda, Protagonist drug for rare blood cancer",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/fda-approve-mimrylo-takeda-protagonist-polycythemia-vera/829153/",
+        "published_at": "2026-08-31 16:13",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Take the Q3 Biopharma Sentiment Survey (BPSI)",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/take-the-q3-biopharma-sentiment-survey-bpsi/",
+        "published_at": "2026-08-31 15:44",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Lilly adds to immune drug pipeline with $2.9B Merida buyout",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/lilly-merida-acquire-deal-immune-drugs-graves-disease/829152/",
+        "published_at": "2026-08-31 15:23",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "ESC ‘26: Cytokinetics’ sell-off, Arrowhead’s edge and a heart drug autopsy",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/esc-congress-2026-results-eplontersen-alnylam-cytokinetics/829139/",
+        "published_at": "2026-08-31 14:49",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Sanofi-backed Electra files for IPO to fund Phase 2/3 immunology drug",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/sanofi-backed-electra-files-for-ipo-to-fund-phase-2-3-immunology-drug/",
+        "published_at": "2026-08-31 14:28",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Lilly to buy TED startup Merida Biosciences in its 13th acquisition of 2026",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/lilly-to-buy-ted-startup-merida-biosciences-in-its-13th-acquisition-of-2026/",
+        "published_at": "2026-08-31 13:47",
+        "category": "Mergers & Acquisitions"
+    },
+    {
         "title": "The next frontier: Advancing foundation models with multimodal data",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/spons/the-next-frontier-advancing-foundation-models-with-multimodal-data/828675/",
@@ -168,13 +210,6 @@
         "category": "Immunotherapy & Oncology"
     },
     {
-        "title": "Revolution pancreatic cancer drug should quickly become a blockbuster, analysts say",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/revolution-rasonque-price-pancreatic-cancer-drug-launch-sales/828918/",
-        "published_at": "2026-08-27 15:30",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
         "title": "Lilly's move to hide Phase 1 pipeline draws mixed reviews",
         "source": "Endpoints News",
         "url": "https://endpoints.news/lillys-move-to-hide-phase-1-pipeline-draws-mixed-reviews/",
@@ -200,41 +235,6 @@
         "source": "Endpoints News",
         "url": "https://endpoints.news/lonza-creates-commercial-chief-position-wuxi-biologics-reports-revenue-jump/",
         "published_at": "2026-08-27 14:31",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Metriport raises $26M to help doctors retrieve patient data",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/metriport-raises-26m-to-help-doctors-retrieve-patient-data/",
-        "published_at": "2026-08-27 13:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "#ERS26: Generate Biomedicines discloses early respiratory drug data after poster leak",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/ers26-generatebiomedicines-discloses-early-respiratory-drug-data-after-poster-leak/",
-        "published_at": "2026-08-27 11:16",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Cellares rebukes Bristol Myers' criticism of its cell therapy technology",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/cellares-rebukes-bristol-myers-criticism-of-its-cell-therapy-technology/",
-        "published_at": "2026-08-26 17:40",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Revolution drug heralded as a pancreatic cancer breakthrough cleared by FDA",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/revolution-daraxonrasib-rasonque-approval-fda-priority-review-voucher/828847/",
-        "published_at": "2026-08-26 17:35",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Spyre tumbles as immune drug misses mark in rheumatoid arthritis",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/spyre-rheumatoid-arthritis-drug-study-results-skyway/828809/",
-        "published_at": "2026-08-26 16:25",
         "category": "Mergers & Acquisitions"
     }
 ]
