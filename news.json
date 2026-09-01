@@ -1,5 +1,68 @@
 [
     {
+        "title": "Arsenal Biosciences cuts ‘majority’ of staff in move to in vivo CAR-T",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/arsenal-biosciences-cuts-majority-of-staff-in-move-to-in-vivo-car-t/",
+        "published_at": "2026-09-01 17:12",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Mid-cap biotechs join Trump’s latest round of drug pricing deals",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/medicaid-low-price-model-drugmakers-white-house/829282/",
+        "published_at": "2026-09-01 16:14",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Novartis says MS pill succeeds in two large studies",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/novartis-remibrutinib-relapsing-multiple-sclerosis-study-results/829300/",
+        "published_at": "2026-09-01 15:58",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Alumis’ TYK2 drug fails in key lupus study",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/alumis-lupus-tyk2-inhibitor-lumus-study-failure/829286/",
+        "published_at": "2026-09-01 15:28",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Lilly’s 2026 dealmaking spreads the wealth among biotech venture investors",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/lillys-2026-dealmaking-spreads-the-wealth-among-biotech-venture-investors/",
+        "published_at": "2026-09-01 15:01",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "GSK to launch Phase 3 test of mRNA flu vaccine with newer formulation",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/gsk-to-launch-phase-3-test-of-mrna-flu-vaccine-with-newer-formulation/",
+        "published_at": "2026-09-01 14:40",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Roche taps Simcere for trispecific T cell engager pact with $75M upfront",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/roche-taps-simcere-for-trispecific-t-cell-engager-pact-with-75m-upfront/",
+        "published_at": "2026-09-01 14:40",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Alumis' TYK2 drug fails in lupus trial; CEO sees 'clear path forward'",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/alumis-tyk2-drug-fails-in-lupus-trial-ceo-sees-clear-path-forward/",
+        "published_at": "2026-09-01 14:24",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "K Health is eyeing an IPO by 2029",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/k-health-is-eyeing-an-ipo-by-2029/",
+        "published_at": "2026-09-01 13:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
         "title": "Novartis' Rhapsido safer than rivals, Phase 3 multiple sclerosis data suggest",
         "source": "Endpoints News",
         "url": "https://endpoints.news/novartis-rhapsido-safer-than-rivals-phase-3-multiple-sclerosis-data-suggest/",
@@ -154,20 +217,6 @@
         "category": "Gene Editing & CRISPR"
     },
     {
-        "title": "This week in charts: Biotech’s rebound is undeniable",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/biotech-charts-biopharma-xbi-deals-mergers-ipos/828794/",
-        "published_at": "2026-08-28 14:30",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "FDA green lights Priovant drug for rare skin disease",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/fda-priovant-pfizer-lisraya-brepocitinib-approved/829021/",
-        "published_at": "2026-08-28 13:12",
-        "category": "Vaccines & mRNA"
-    },
-    {
         "title": "Roche bets $1B+ on DualityBio's ADC tech to tackle TOPO1 resistance",
         "source": "Endpoints News",
         "url": "https://endpoints.news/roche-bets-1b-on-dualitybios-adc-tech-to-tackle-topo1-resistance/",
@@ -187,54 +236,5 @@
         "url": "https://endpoints.news/esc26-data-in-hand-cytokinetics-looks-to-expanded-myqorzo-approval/",
         "published_at": "2026-08-28 09:45",
         "category": "FDA & Regulatory"
-    },
-    {
-        "title": "#ESC26: Trial failure clouds future of AstraZeneca’s heart disease gene silencer",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/esc26-trial-failure-clouds-future-of-astrazenecas-heart-disease-gene-silencer/",
-        "published_at": "2026-08-28 09:10",
-        "category": "Vaccines & mRNA"
-    },
-    {
-        "title": "Gilead gets another HIV treatment approval, extending lenacapavir's dominance",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/gilead-gets-another-hiv-treatment-approval-extending-lenacapavirs-dominance/",
-        "published_at": "2026-08-27 22:14",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Roivant's dermatomyositis drug Lisraya snags FDA approval",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/roivants-dermatomyositis-drug-lisraya-snags-fda-approval/",
-        "published_at": "2026-08-27 21:27",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Impacts of CMS’ GLP-1 pilot program begin to take shape",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/impacts-of-cms-glp-1-pilot-program-begin-to-take-shape/",
-        "published_at": "2026-08-27 18:41",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Pharma's legal battle over Medicare negotiations reaches 'dead end'",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/pharmas-legal-battle-over-medicare-negotiations-reaches-dead-end/",
-        "published_at": "2026-08-27 17:30",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Michael Polansky has a new, skin-focused biotech. Don’t call it a drug company.",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/outer-bio-skin-biotech-michael-polansky-cosmetics-pharma/828910/",
-        "published_at": "2026-08-27 16:32",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Q&A: Akeso CEO spells out why she thinks its biliary tract cancer data are a big deal",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/qa-akeso-ceo-spells-out-why-she-thinks-its-biliary-tract-cancer-data-are-a-big-deal/",
-        "published_at": "2026-08-27 15:45",
-        "category": "Immunotherapy & Oncology"
     }
 ]
