@@ -1,5 +1,26 @@
 [
     {
+        "title": "Health Tech meets AI giants",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/health-tech-meets-ai-giants/",
+        "published_at": "2026-09-01 19:26",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "ARPA-H awards $125M for manufacturing custom RNA therapies on demand",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/arpa-h-awards-125m-for-manufacturing-custom-rna-therapies-on-demand/",
+        "published_at": "2026-09-01 18:32",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Three takeaways from Trump's latest drug pricing event",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/three-takeaways-from-trumps-latest-drug-pricing-event/",
+        "published_at": "2026-09-01 18:16",
+        "category": "Mergers & Acquisitions"
+    },
+    {
         "title": "Arsenal Biosciences cuts ‘majority’ of staff in move to in vivo CAR-T",
         "source": "Endpoints News",
         "url": "https://endpoints.news/arsenal-biosciences-cuts-majority-of-staff-in-move-to-in-vivo-car-t/",
@@ -215,26 +236,5 @@
         "url": "https://endpoints.news/esc26-crispr-therapeutics-to-pursue-highest-dose-of-its-lipid-lowering-gene-editing-therapy/",
         "published_at": "2026-08-28 14:30",
         "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Roche bets $1B+ on DualityBio's ADC tech to tackle TOPO1 resistance",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/roche-bets-1b-on-dualitybios-adc-tech-to-tackle-topo1-resistance/",
-        "published_at": "2026-08-28 11:30",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Daiichi Sankyo to give commercial team a makeover; Novo Nordisk's GPCR partner finds CMO",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/daiichi-sankyos-commercial-team-to-get-a-makeover-novo-nordisks-gpcr-partner-finds-cmo/",
-        "published_at": "2026-08-28 11:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "#ESC26: Data in hand, Cytokinetics looks to expanded Myqorzo approval",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/esc26-data-in-hand-cytokinetics-looks-to-expanded-myqorzo-approval/",
-        "published_at": "2026-08-28 09:45",
-        "category": "FDA & Regulatory"
     }
 ]
