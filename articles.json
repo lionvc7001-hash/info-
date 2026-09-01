@@ -1,5 +1,19 @@
 [
     {
+        "title": "ARCH Venture Partners targets $3 billion raise for latest fund",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/arch-venture-partners-targets-3-billion-raise-for-latest-fund/",
+        "published_at": "2026-09-01 00:55",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Three deaths in CAR-T trials prompt halt by Novartis; Bristol Myers programs also paused",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/three-deaths-in-car-t-trials-prompt-halt-by-novartis-bristol-myers-programs-also-paused/",
+        "published_at": "2026-09-01 00:01",
+        "category": "Clinical Trials"
+    },
+    {
         "title": "Novartis, Bristol Myers pause autoimmune CAR-T trials due to safety concerns",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/novartis-bristol-myers-autoimmune-cell-therapy-trial-halt/829218/",
@@ -222,19 +236,5 @@
         "url": "https://endpoints.news/lillys-move-to-hide-phase-1-pipeline-draws-mixed-reviews/",
         "published_at": "2026-08-27 15:02",
         "category": "Clinical Trials"
-    },
-    {
-        "title": "Moderna's $2B offering; AstraZeneca-Amgen and Biokin chalk up Phase 3 wins",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/modernas-2b-offering-astrazeneca-amgen-and-biokin-chalk-up-phase-3-wins/",
-        "published_at": "2026-08-27 14:59",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Why one venture investor is going from 'studio' to 'firm'",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/why-one-venture-investor-is-going-from-studio-to-firm/",
-        "published_at": "2026-08-27 14:54",
-        "category": "Gene Editing & CRISPR"
     }
 ]
