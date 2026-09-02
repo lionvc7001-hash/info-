@@ -1,5 +1,26 @@
 [
     {
+        "title": "Teva claims success in celiac study; BioMarin, Ascendis settle patent dispute",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/teva-celiac-biomarin-ascendis-gsk-flu-biontech-mifepristone/828937/",
+        "published_at": "2026-09-02 14:12",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "China deaths reignite debate about using viruses to deliver CRISPR therapies",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/china-deaths-reignite-debate-about-using-viruses-to-deliver-crispr-therapies/",
+        "published_at": "2026-09-02 14:00",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Typewriter raises $56M for jumping gene technology and in vivo CAR-T therapies",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/typewriter-raises-56m-for-jumping-gene-technology-and-in-vivo-car-t-therapies/",
+        "published_at": "2026-09-02 11:00",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
         "title": "Health Tech meets AI giants",
         "source": "Endpoints News",
         "url": "https://endpoints.news/health-tech-meets-ai-giants/",
@@ -215,26 +236,5 @@
         "url": "https://endpoints.news/mounjaro-scores-fda-approval-to-reduce-cv-risk-teva-to-buy-an-approved-drug/",
         "published_at": "2026-08-28 14:58",
         "category": "FDA & Regulatory"
-    },
-    {
-        "title": "AstraZeneca, Ionis data spark debate about RNA drugs’ impact on deadly heart disease",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/astrazeneca-ionis-eplontersen-nejm-cardio-ttransform-results/829057/",
-        "published_at": "2026-08-28 14:58",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "BioNTech, Genentech terminate Phase 2 of personalized mRNA cancer vaccine",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/biontech-genentech-terminate-phase-2-of-personalized-mrna-cancer-vaccine/",
-        "published_at": "2026-08-28 14:49",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "#ESC26: CRISPR Therapeutics to pursue highest dose of its lipid lowering gene editing therapy",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/esc26-crispr-therapeutics-to-pursue-highest-dose-of-its-lipid-lowering-gene-editing-therapy/",
-        "published_at": "2026-08-28 14:30",
-        "category": "Gene Editing & CRISPR"
     }
 ]
