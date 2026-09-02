@@ -1,5 +1,19 @@
 [
     {
+        "title": "FDA leaders project enhanced scrutiny of foreign data",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-leaders-project-enhanced-scrutiny-of-foreign-data/",
+        "published_at": "2026-09-02 19:21",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Novartis CAR-T deaths raise questions over acceptable autoimmune risk",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/novartis-car-t-deaths-raise-questions-over-acceptable-autoimmune-risk/",
+        "published_at": "2026-09-02 18:48",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
         "title": "Autoimmune CAR-T faces tough questions after Novartis, Bristol Myers study halts",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/autoimmune-cell-therapy-safety-novartis-bristol-kyverna-cabaletta/829413/",
@@ -222,19 +236,5 @@
         "url": "https://endpoints.news/esc26-arrowhead-claims-safety-edge-over-ionis-as-triglyceride-battle-draws-closer/",
         "published_at": "2026-08-30 15:40",
         "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "#ESC26: AstraZeneca's relaxin pill shows promise in mid-stage heart failure trial",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/esc26-astrazenecas-relaxin-pill-shows-promise-in-mid-stage-heart-failure-trial/",
-        "published_at": "2026-08-30 07:19",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Landmark approval for pancreatic cancer; Reactions to Lilly’s Phase 1 secrecy; and more",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/landmark-approval-for-pancreatic-cancer-reactions-to-lillys-phase-1-secrecy-and-more/",
-        "published_at": "2026-08-29 10:00",
-        "category": "Immunotherapy & Oncology"
     }
 ]
