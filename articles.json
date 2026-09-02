@@ -1,5 +1,40 @@
 [
     {
+        "title": "Autoimmune CAR-T faces tough questions after Novartis, Bristol Myers study halts",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/autoimmune-cell-therapy-safety-novartis-bristol-kyverna-cabaletta/829413/",
+        "published_at": "2026-09-02 16:32",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "CBER official overruled review team's rejection of new Replimune melanoma drug",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/cber-official-overruled-review-teams-rejection-of-new-replimune-melanoma-drug/",
+        "published_at": "2026-09-02 16:02",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "UniQure, after setbacks, seeks FDA approval of Huntington’s gene therapy",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/uniqure-submit-fda-approval-huntingtons-gene-therapy/829400/",
+        "published_at": "2026-09-02 15:22",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "UK regulator halts sales of Tavneos; UniQure seeks approval for Huntington's gene therapy",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/uk-regulator-halts-sales-of-tavneos-uniqure-seeks-approval-for-huntingtons-gene-therapy/",
+        "published_at": "2026-09-02 15:07",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Teva says gluten challenge study succeeds in celiac disease",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/teva-says-gluten-challenge-study-succeeds-in-celiac-disease/",
+        "published_at": "2026-09-02 14:58",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
         "title": "Teva claims success in celiac study; BioMarin, Ascendis settle patent dispute",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/teva-celiac-biomarin-ascendis-gsk-flu-biontech-mifepristone/828937/",
@@ -182,13 +217,6 @@
         "category": "Mergers & Acquisitions"
     },
     {
-        "title": "The next frontier: Advancing foundation models with multimodal data",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/spons/the-next-frontier-advancing-foundation-models-with-multimodal-data/828675/",
-        "published_at": "2026-08-31 09:00",
-        "category": "Clinical Trials & R&D"
-    },
-    {
         "title": "#ESC26: Arrowhead claims safety edge over Ionis as triglyceride battle draws closer",
         "source": "Endpoints News",
         "url": "https://endpoints.news/esc26-arrowhead-claims-safety-edge-over-ionis-as-triglyceride-battle-draws-closer/",
@@ -208,33 +236,5 @@
         "url": "https://endpoints.news/landmark-approval-for-pancreatic-cancer-reactions-to-lillys-phase-1-secrecy-and-more/",
         "published_at": "2026-08-29 10:00",
         "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "#ESC26: Novartis pushes ahead with its IL-6 inhibitor despite Novo's failure",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/esc26-novartis-pushes-ahead-with-its-il-6-inhibitor-despite-novos-failure/",
-        "published_at": "2026-08-29 06:55",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "FDA approves Takeda, Protagonist drug for rare blood disorder",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-approves-takeda-protagonist-drug-for-rare-blood-disorder/",
-        "published_at": "2026-08-28 22:15",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Moderna raises $2.6B to support cancer work; FDA clears updated COVID vaccines",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/fda-covid-vaccines-moderna-generate-profound-bixlenvo/828929/",
-        "published_at": "2026-08-28 15:59",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Mounjaro scores FDA approval to reduce CV risk; Teva to buy an approved drug",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/mounjaro-scores-fda-approval-to-reduce-cv-risk-teva-to-buy-an-approved-drug/",
-        "published_at": "2026-08-28 14:58",
-        "category": "FDA & Regulatory"
     }
 ]
