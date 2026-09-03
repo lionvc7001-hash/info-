@@ -1,5 +1,61 @@
 [
     {
+        "title": "An AI drug specialist zeroes in on rare forms of obesity",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/superluminal-medicines-obesity-ai-drug-discovery-series-b/829552/",
+        "published_at": "2026-09-03 16:20",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "GSK wagers up to $1.3B on a different kind of cancer drug",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/gsk-hutchmed-egfr-kras-cancer-drug-deal-china/829542/",
+        "published_at": "2026-09-03 16:01",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Novartis' drug delivery deal with Alteogen; More worker cuts at Cellares",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/novartis-drug-delivery-deal-with-alteogen-further-worker-cuts-at-cellares/",
+        "published_at": "2026-09-03 15:30",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Pfizer shares ADC rights with Medicus; RevMed updates lung cancer data",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/pfizer-shares-adc-rights-with-medicus-revmed-updates-lung-cancer-data/",
+        "published_at": "2026-09-03 15:19",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Ultragenyx to weigh ‘significant’ cost cuts as Angelman drug fails key study",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/ultragenyx-angelman-syndrome-drug-results-cost-cuts/829528/",
+        "published_at": "2026-09-03 14:53",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "AbbVie claims Phase 3 win for multiple myeloma drug etentamig",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/abbvie-claims-phase-3-win-for-multiple-myeloma-drug-etentamig/",
+        "published_at": "2026-09-03 14:50",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Health tech investors are looking at bigger bets",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/health-tech-investors-are-looking-at-bigger-bets/",
+        "published_at": "2026-09-03 13:45",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Akeso, Summit cancer drug confirms lung cancer survival benefit",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/akeso-summit-cancer-drug-ivonescimab-confirms-lung-cancer-survival-benefit/829538/",
+        "published_at": "2026-09-03 13:14",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
         "title": "The hidden scale-out problem behind CAR-T’s growth",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/the-hidden-scale-out-problem-behind-car-t-growth/829405/",
@@ -147,13 +203,6 @@
         "category": "Clinical Trials & R&D"
     },
     {
-        "title": "Alumis’ TYK2 drug fails in key lupus study",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/alumis-lupus-tyk2-inhibitor-lumus-study-failure/829286/",
-        "published_at": "2026-09-01 15:28",
-        "category": "Clinical Trials & R&D"
-    },
-    {
         "title": "Lilly’s 2026 dealmaking spreads the wealth among biotech venture investors",
         "source": "Endpoints News",
         "url": "https://endpoints.news/lillys-2026-dealmaking-spreads-the-wealth-among-biotech-venture-investors/",
@@ -187,54 +236,5 @@
         "url": "https://endpoints.news/k-health-is-eyeing-an-ipo-by-2029/",
         "published_at": "2026-09-01 13:00",
         "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Novartis' Rhapsido safer than rivals, Phase 3 multiple sclerosis data suggest",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/novartis-rhapsido-safer-than-rivals-phase-3-multiple-sclerosis-data-suggest/",
-        "published_at": "2026-09-01 11:30",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "ARCH Venture Partners targets $3 billion raise for latest fund",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/arch-venture-partners-targets-3-billion-raise-for-latest-fund/",
-        "published_at": "2026-09-01 00:55",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Three deaths in CAR-T trials prompt halt by Novartis; Bristol Myers programs also paused",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/three-deaths-in-car-t-trials-prompt-halt-by-novartis-bristol-myers-programs-also-paused/",
-        "published_at": "2026-09-01 00:01",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Novartis, Bristol Myers pause autoimmune CAR-T trials due to safety concerns",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/novartis-bristol-myers-autoimmune-cell-therapy-trial-halt/829218/",
-        "published_at": "2026-08-31 21:38",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Trump announces nine new MFN drug pricing deals",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/trump-announces-nine-new-mfn-drug-pricing-deals/",
-        "published_at": "2026-08-31 19:56",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "FDA OKs Takeda, Protagonist drug for rare blood cancer",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/fda-approve-mimrylo-takeda-protagonist-polycythemia-vera/829153/",
-        "published_at": "2026-08-31 16:13",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Lilly adds to immune drug pipeline with $2.9B Merida buyout",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/lilly-merida-acquire-deal-immune-drugs-graves-disease/829152/",
-        "published_at": "2026-08-31 15:23",
-        "category": "Mergers & Acquisitions"
     }
 ]
