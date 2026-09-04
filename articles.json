@@ -1,5 +1,47 @@
 [
     {
+        "title": "Trailing rivals, AbbVie scores win with dual-acting myeloma drug",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/abbvie-multiple-myeloma-etentamig-phase-3-trial-results/829672/",
+        "published_at": "2026-09-04 16:00",
+        "category": "Vaccines & mRNA"
+    },
+    {
+        "title": "This week in charts: China deals, stock flatlines and Lilly’s M&A spree",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/charts-biotech-deals-china-alumis-ultragenyx-stock/829635/",
+        "published_at": "2026-09-04 15:56",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "The race to make new Ebola vaccines faces a cash crunch",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/the-race-to-make-new-ebola-vaccines-faces-a-cash-crunch/",
+        "published_at": "2026-09-04 15:34",
+        "category": "Vaccines & mRNA"
+    },
+    {
+        "title": "US-China biotech NeuShen gets $80M to develop brain-health drugs",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/us-china-biotech-neushen-gets-80m-to-develop-brain-health-drugs/",
+        "published_at": "2026-09-04 14:47",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Ionis wins FDA approval of Alexander disease drug zilganersen",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/ionis-wins-fda-approval-of-alexander-disease-drug-zilganersen/",
+        "published_at": "2026-09-04 14:46",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Ionis’ rare neurology drug approved; Pfizer inks an ADC deal",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/ionis-rare-neurology-drug-approved-pfizer-inks-an-adc-deal/829639/",
+        "published_at": "2026-09-04 13:00",
+        "category": "Vaccines & mRNA"
+    },
+    {
         "title": "Thiel-backed Lindus sells CRO arm in pivot to hunt for drug assets",
         "source": "Endpoints News",
         "url": "https://endpoints.news/thiel-backed-lindus-sells-cro-arm-in-pivot-to-hunt-for-drug-assets/",
@@ -161,13 +203,6 @@
         "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "Teva claims success in celiac study; BioMarin, Ascendis settle patent dispute",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/teva-celiac-biomarin-ascendis-gsk-flu-biontech-mifepristone/828937/",
-        "published_at": "2026-09-02 14:12",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
         "title": "China deaths reignite debate about using viruses to deliver CRISPR therapies",
         "source": "Endpoints News",
         "url": "https://endpoints.news/china-deaths-reignite-debate-about-using-viruses-to-deliver-crispr-therapies/",
@@ -201,40 +236,5 @@
         "url": "https://endpoints.news/three-takeaways-from-trumps-latest-drug-pricing-event/",
         "published_at": "2026-09-01 18:16",
         "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Arsenal Biosciences cuts ‘majority’ of staff in move to in vivo CAR-T",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/arsenal-biosciences-cuts-majority-of-staff-in-move-to-in-vivo-car-t/",
-        "published_at": "2026-09-01 17:12",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Mid-cap biotechs join Trump’s latest round of drug pricing deals",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/medicaid-low-price-model-drugmakers-white-house/829282/",
-        "published_at": "2026-09-01 16:14",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Novartis says MS pill succeeds in two large studies",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/novartis-remibrutinib-relapsing-multiple-sclerosis-study-results/829300/",
-        "published_at": "2026-09-01 15:58",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Lilly’s 2026 dealmaking spreads the wealth among biotech venture investors",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/lillys-2026-dealmaking-spreads-the-wealth-among-biotech-venture-investors/",
-        "published_at": "2026-09-01 15:01",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "GSK to launch Phase 3 test of mRNA flu vaccine with newer formulation",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/gsk-to-launch-phase-3-test-of-mrna-flu-vaccine-with-newer-formulation/",
-        "published_at": "2026-09-01 14:40",
-        "category": "Gene Editing & CRISPR"
     }
 ]
