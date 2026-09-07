@@ -1,5 +1,12 @@
 [
     {
+        "title": "FDA approves AstraZeneca’s oral SERD for breast cancer despite negative adcomm vote",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-approves-astrazenecas-oral-serd-for-breast-cancer-despite-negative-adcomm-vote/",
+        "published_at": "2026-09-07 17:17",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
         "title": "Novartis' Phase 3 pelacarsen study miss raises the stakes for Amgen, Lilly",
         "source": "Endpoints News",
         "url": "https://endpoints.news/novartis-phase-3-pelacarsen-study-miss-raises-the-stakes-for-amgen-lilly/",
@@ -229,12 +236,5 @@
         "url": "https://endpoints.news/uk-regulator-halts-sales-of-tavneos-uniqure-seeks-approval-for-huntingtons-gene-therapy/",
         "published_at": "2026-09-02 15:07",
         "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Teva says gluten challenge study succeeds in celiac disease",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/teva-says-gluten-challenge-study-succeeds-in-celiac-disease/",
-        "published_at": "2026-09-02 14:58",
-        "category": "Pharma & FDA Regulatory"
     }
 ]
