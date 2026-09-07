@@ -1,6 +1,13 @@
 [
     {
-        "title": "Claret says it latest fund will have larger focus on European life sciences",
+        "title": "Updated: Novo Nordisk cans 2 more trials of IL-6 heart drug for futility",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/novo-nordisk-cans-two-more-trials-of-il-6-heart-drug-for-futility/",
+        "published_at": "2026-09-07 07:53",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Claret says its latest fund will have larger focus on European life sciences",
         "source": "Endpoints News",
         "url": "https://endpoints.news/claret-says-it-latest-fund-will-have-larger-focus-on-european-life-sciences/",
         "published_at": "2026-09-07 05:00",
@@ -228,13 +235,6 @@
         "source": "Endpoints News",
         "url": "https://endpoints.news/china-deaths-reignite-debate-about-using-viruses-to-deliver-crispr-therapies/",
         "published_at": "2026-09-02 14:00",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Typewriter raises $56M for jumping gene technology and in vivo CAR-T therapies",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/typewriter-raises-56m-for-jumping-gene-technology-and-in-vivo-car-t-therapies/",
-        "published_at": "2026-09-02 11:00",
         "category": "Gene Editing & CRISPR"
     }
 ]
