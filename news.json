@@ -1,5 +1,61 @@
 [
     {
+        "title": "Moonwalk raises $70M to test siRNA treatment for obesity",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/moonwalk-raises-70-million-to-test-sirna-treatment-for-obesity/",
+        "published_at": "2026-09-08 12:00",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Inhibrx targets OX40 agonist-cancer vaccine studies from early next year",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/inhibrx-plots-ox40-agonist-cancer-vaccine-studies-from-early-next-year/",
+        "published_at": "2026-09-08 11:30",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "BrainChild Bio gets $116M for pivotal trial of pediatric brain tumor CAR-T",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/brainchild-bio-gets-116m-for-trial-of-pediatric-brain-tumor-car-t/",
+        "published_at": "2026-09-08 11:00",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Diabetes cell therapy biotechs Sernova and Seraxis to merge",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/diabetes-cell-therapy-biotechs-sernova-and-seraxis-to-merge/",
+        "published_at": "2026-09-08 11:00",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "BrainChild hauls in $116M to make cell therapies for childhood brain cancers",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/brainchild-pediatric-brain-tumors-car-t/829463/",
+        "published_at": "2026-09-08 11:00",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "#ERS26: Roivant reports Phase 2 win for lung disease drug that it got from Bayer",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/ers26-roivant-reports-phase-2-win-for-lung-disease-drug-that-it-got-from-bayer/",
+        "published_at": "2026-09-08 10:00",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "#ERS26: Beam says AATD base editing data hold up after one year",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/ers26-beam-says-aatd-base-editing-data-hold-up-after-one-year/",
+        "published_at": "2026-09-08 08:30",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Updated: Novartis sinks after second disastrous trial failure, this time of Avidity-acquired drug",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/novartis-sinks-after-second-disastrous-trial-failure-this-time-of-avidity-acquired-drug/",
+        "published_at": "2026-09-08 08:24",
+        "category": "Mergers & Acquisitions"
+    },
+    {
         "title": "FDA approves AstraZeneca’s oral SERD for breast cancer despite negative adcomm vote",
         "source": "Endpoints News",
         "url": "https://endpoints.news/fda-approves-astrazenecas-oral-serd-for-breast-cancer-despite-negative-adcomm-vote/",
@@ -14,7 +70,7 @@
         "category": "Clinical Trials"
     },
     {
-        "title": "Updated: Novo Nordisk cans 2 more trials of IL-6 heart drug for futility",
+        "title": "Updated: Novo Nordisk cans two more trials of IL-6 heart drug for futility",
         "source": "Endpoints News",
         "url": "https://endpoints.news/novo-nordisk-cans-two-more-trials-of-il-6-heart-drug-for-futility/",
         "published_at": "2026-09-07 07:53",
@@ -42,7 +98,7 @@
         "category": "Mergers & Acquisitions"
     },
     {
-        "title": "AbbVie-allied ADARx aims for IPO with 3 drugs in the clinic",
+        "title": "AbbVie-allied ADARx aims for IPO with three drugs in the clinic",
         "source": "Endpoints News",
         "url": "https://endpoints.news/abbvie-allied-adarx-aims-for-ipo-with-3-drugs-in-the-clinic/",
         "published_at": "2026-09-05 07:42",
@@ -180,61 +236,5 @@
         "url": "https://endpoints.news/summit-akeso-say-ivonescimab-clears-os-bar-in-phase-3-lung-cancer-trial/",
         "published_at": "2026-09-03 11:12",
         "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Superluminal secures $60M for Phase 1 of genetic obesity drug",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/superluminal-secures-60m-for-phase-1-of-genetic-obesity-drug/",
-        "published_at": "2026-09-03 10:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "GSK to license Hutchmed’s KRAS-EGFR cancer drug for $110M upfront",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/gsk-to-license-hutchmeds-kras-egfr-cancer-drug-for-110m-upfront/",
-        "published_at": "2026-09-03 09:59",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Ultragenyx’s Angelman therapy fails Phase 3 trial in setback for company and patients",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/ultragenyxs-angelman-therapy-fails-phase-3-trial-in-setback-for/",
-        "published_at": "2026-09-03 01:35",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "FDA leaders project enhanced scrutiny of foreign data",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-leaders-project-enhanced-scrutiny-of-foreign-data/",
-        "published_at": "2026-09-02 19:21",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Novartis CAR-T deaths raise questions over acceptable autoimmune risk",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/novartis-car-t-deaths-raise-questions-over-acceptable-autoimmune-risk/",
-        "published_at": "2026-09-02 18:48",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Autoimmune CAR-T faces tough questions after Novartis, Bristol Myers study halts",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/autoimmune-cell-therapy-safety-novartis-bristol-kyverna-cabaletta/829413/",
-        "published_at": "2026-09-02 16:32",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "CBER official overruled review team's rejection of new Replimune melanoma drug",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/cber-official-overruled-review-teams-rejection-of-new-replimune-melanoma-drug/",
-        "published_at": "2026-09-02 16:02",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "UK regulator halts sales of Tavneos; UniQure seeks approval for Huntington's gene therapy",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/uk-regulator-halts-sales-of-tavneos-uniqure-seeks-approval-for-huntingtons-gene-therapy/",
-        "published_at": "2026-09-02 15:07",
-        "category": "FDA & Regulatory"
     }
 ]
