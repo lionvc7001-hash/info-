@@ -1,5 +1,26 @@
 [
     {
+        "title": "Pharvaris' stock jumps on pivotal success in rare genetic disease",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/pharvaris-stock-jumps-on-pivotal-success-in-rare-genetic-disease/",
+        "published_at": "2026-09-08 18:29",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Amgen’s T-cell engager notches major new lung cancer victory",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/amgens-t-cell-engager-notches-major-new-lung-cancer-victory/",
+        "published_at": "2026-09-08 17:53",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Why apps want your medical records",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/why-apps-want-your-medical-records/",
+        "published_at": "2026-09-08 17:19",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
         "title": "Sanofi spells out asthma data, AstraZeneca details COPD win at #ERS26",
         "source": "Endpoints News",
         "url": "https://endpoints.news/sanofi-spells-out-asthma-data-astrazeneca-details-copd-win-at-ers26/",
@@ -7,7 +28,7 @@
         "category": "Clinical Trials"
     },
     {
-        "title": "Expanding its biopharma plans, Anthropic looks for a life-sciences dealmaker",
+        "title": "Expanding its biopharma plans, Anthropic looks for a life sciences dealmaker",
         "source": "Endpoints News",
         "url": "https://endpoints.news/expanding-its-biopharma-plans-anthropic-looks-for-a-life-sciences-dealmaker/",
         "published_at": "2026-09-08 15:56",
@@ -189,32 +210,11 @@
         "category": "Mergers & Acquisitions"
     },
     {
-        "title": "Ionis wins FDA approval of Alexander disease drug zilganersen",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/ionis-wins-fda-approval-of-alexander-disease-drug-zilganersen/",
-        "published_at": "2026-09-04 14:46",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
         "title": "Ionis’ rare neurology drug approved; Pfizer inks an ADC deal",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/ionis-rare-neurology-drug-approved-pfizer-inks-an-adc-deal/829639/",
         "published_at": "2026-09-04 13:00",
         "category": "Vaccines & mRNA"
-    },
-    {
-        "title": "Thiel-backed Lindus sells CRO arm in pivot to hunt for drug assets",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/thiel-backed-lindus-sells-cro-arm-in-pivot-to-hunt-for-drug-assets/",
-        "published_at": "2026-09-04 12:00",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Italy's Menarini gets into obesity with European rights to GLP-1 from China's Gan & Lee",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/italys-menarini-gets-into-obesity-with-european-rights-to-glp-1-from-chinas-gan-lee/",
-        "published_at": "2026-09-04 10:44",
-        "category": "Pharma & FDA Regulatory"
     },
     {
         "title": "An AI drug specialist zeroes in on rare forms of obesity",
