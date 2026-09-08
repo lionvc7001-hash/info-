@@ -1,5 +1,61 @@
 [
     {
+        "title": "Sanofi spells out asthma data, AstraZeneca details COPD win at #ERS26",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/sanofi-spells-out-asthma-data-astrazeneca-details-copd-win-at-ers26/",
+        "published_at": "2026-09-08 16:24",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Expanding its biopharma plans, Anthropic looks for a life-sciences dealmaker",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/expanding-its-biopharma-plans-anthropic-looks-for-a-life-sciences-dealmaker/",
+        "published_at": "2026-09-08 15:56",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Moonwalk reloads with $70M and new RNAi prospects for obesity",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/moonwalk-series-b-obesity-rna-interference/829784/",
+        "published_at": "2026-09-08 15:52",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Krazati withdrawal completed; Wegovy trial meets endpoint for kids ages 6 to 12",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/krazati-withdrawal-completed-wegovy-trial-meets-endpoint-for-kids-ages-6-to-12/",
+        "published_at": "2026-09-08 15:21",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Sandoz unveils plan for biosimilar expansion and new $300M factory in Slovenia",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/sandoz-unveils-plan-for-biosimilar-expansion-and-new-300m-factory-in-slovenia/",
+        "published_at": "2026-09-08 14:14",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Bristol Myers claims Phase 2 success for GPRC5D-directed CAR-T",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/bristol-myers-claims-phase-2-success-for-gprc5d-directed-car-t/",
+        "published_at": "2026-09-08 14:08",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Novartis RNA drug falls short in rare muscle disease study",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/novartis-rna-drug-failure-dm1-avidity-del-desiran/829778/",
+        "published_at": "2026-09-08 13:23",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Why consumer apps set their sights on patient health records",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/why-consumer-apps-set-their-sights-on-patient-health-records/",
+        "published_at": "2026-09-08 13:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
         "title": "Moonwalk raises $70M to test siRNA treatment for obesity",
         "source": "Endpoints News",
         "url": "https://endpoints.news/moonwalk-raises-70-million-to-test-sirna-treatment-for-obesity/",
@@ -161,13 +217,6 @@
         "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "Merck's top dealmaker signals more M&A as Keytruda's patent cliff nears",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/mercks-top-dealmaker-signals-more-ma-as-keytrudas-patent-cliff-nears/",
-        "published_at": "2026-09-03 18:49",
-        "category": "Mergers & Acquisitions"
-    },
-    {
         "title": "An AI drug specialist zeroes in on rare forms of obesity",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/superluminal-medicines-obesity-ai-drug-discovery-series-b/829552/",
@@ -182,59 +231,10 @@
         "category": "Immunotherapy & Oncology"
     },
     {
-        "title": "Novartis' drug delivery deal with Alteogen; More worker cuts at Cellares",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/novartis-drug-delivery-deal-with-alteogen-further-worker-cuts-at-cellares/",
-        "published_at": "2026-09-03 15:30",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Pfizer shares ADC rights with Medicus; RevMed updates lung cancer data",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/pfizer-shares-adc-rights-with-medicus-revmed-updates-lung-cancer-data/",
-        "published_at": "2026-09-03 15:19",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
         "title": "Ultragenyx to weigh ‘significant’ cost cuts as Angelman drug fails key study",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/ultragenyx-angelman-syndrome-drug-results-cost-cuts/829528/",
         "published_at": "2026-09-03 14:53",
         "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "AbbVie claims Phase 3 win for multiple myeloma drug etentamig",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/abbvie-claims-phase-3-win-for-multiple-myeloma-drug-etentamig/",
-        "published_at": "2026-09-03 14:50",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Health tech investors are looking at bigger bets",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/health-tech-investors-are-looking-at-bigger-bets/",
-        "published_at": "2026-09-03 13:45",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Akeso, Summit cancer drug confirms lung cancer survival benefit",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/akeso-summit-cancer-drug-ivonescimab-confirms-lung-cancer-survival-benefit/829538/",
-        "published_at": "2026-09-03 13:14",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "The hidden scale-out problem behind CAR-T’s growth",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/the-hidden-scale-out-problem-behind-car-t-growth/829405/",
-        "published_at": "2026-09-03 12:00",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Summit, Akeso say ivonescimab clears OS bar in Phase 3 lung cancer trial",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/summit-akeso-say-ivonescimab-clears-os-bar-in-phase-3-lung-cancer-trial/",
-        "published_at": "2026-09-03 11:12",
-        "category": "Immunotherapy & Oncology"
     }
 ]
