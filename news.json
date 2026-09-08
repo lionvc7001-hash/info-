@@ -1,5 +1,19 @@
 [
     {
+        "title": "Current heads of CBER, CDER snag permanent jobs",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/current-heads-of-cber-cder-snag-permanent-jobs/",
+        "published_at": "2026-09-08 21:07",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Roivant surges on ‘exceptional’ results; Bristol Myers touts first-of-its-kind CAR-T therapy",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/roivant-astrazeneca-etcamah-GPRC5D-pharvaris-inhibrx/829763/",
+        "published_at": "2026-09-08 18:41",
+        "category": "Mergers & Acquisitions"
+    },
+    {
         "title": "Pharvaris' stock jumps on pivotal success in rare genetic disease",
         "source": "Endpoints News",
         "url": "https://endpoints.news/pharvaris-stock-jumps-on-pivotal-success-in-rare-genetic-disease/",
@@ -203,13 +217,6 @@
         "category": "Vaccines & mRNA"
     },
     {
-        "title": "US-China biotech NeuShen gets $80M to develop brain-health drugs",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/us-china-biotech-neushen-gets-80m-to-develop-brain-health-drugs/",
-        "published_at": "2026-09-04 14:47",
-        "category": "Mergers & Acquisitions"
-    },
-    {
         "title": "Ionis’ rare neurology drug approved; Pfizer inks an ADC deal",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/ionis-rare-neurology-drug-approved-pfizer-inks-an-adc-deal/829639/",
@@ -229,12 +236,5 @@
         "url": "https://www.biopharmadive.com/news/gsk-hutchmed-egfr-kras-cancer-drug-deal-china/829542/",
         "published_at": "2026-09-03 16:01",
         "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Ultragenyx to weigh ‘significant’ cost cuts as Angelman drug fails key study",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/ultragenyx-angelman-syndrome-drug-results-cost-cuts/829528/",
-        "published_at": "2026-09-03 14:53",
-        "category": "Clinical Trials & R&D"
     }
 ]
