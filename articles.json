@@ -1,5 +1,54 @@
 [
     {
+        "title": "Encoded closes $275M Series F for Dravet syndrome drug",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/encoded-closes-275m-series-f-for-dravet-syndrome-drug/",
+        "published_at": "2026-09-09 17:47",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "ARPA-H picks UpDoc, Tempus and Atman to build AI tools for heart disease",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/arpa-h-picks-updoc-tempus-and-atman-to-build-ai-tools-for-heart-disease/",
+        "published_at": "2026-09-09 17:44",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "FDA should follow EMA's lead on drug rejection disclosures, researchers say",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-should-follow-emas-lead-on-drug-rejection-disclosures-researchers-say/",
+        "published_at": "2026-09-09 16:51",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Kura spins diabetes work into a Lilly-backed biotech startup",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/caspian-diabetes-kura-oncology-menin-inhibitors-lilly/829860/",
+        "published_at": "2026-09-09 15:54",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Key research behind orexin and narcolepsy wins Lasker Award",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/key-research-behind-orexin-and-narcolepsy-wins-lasker-award/",
+        "published_at": "2026-09-09 15:43",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Compass posts positive psilocybin data; Solstice makes $225M debut",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/compass-posts-positive-psilocybin-data-solstice-makes-225m-debut/",
+        "published_at": "2026-09-09 15:35",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "FDA gains ‘continuity’ as Mikhail, Davis named permanent CBER, CDER leaders",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/fda-mikhail-davis-cber-cder-director-hhs/829886/",
+        "published_at": "2026-09-09 15:04",
+        "category": "FDA & Regulatory"
+    },
+    {
         "title": "NodThera, a decade-old NLRP3 player, plans Phase 3 and a rebrand",
         "source": "Endpoints News",
         "url": "https://endpoints.news/nodthera-a-decade-old-nlrp3-player-plans-phase-3-and-a-rebrand/",
@@ -168,45 +217,10 @@
         "category": "Immunotherapy & Oncology"
     },
     {
-        "title": "Diabetes cell therapy biotechs Sernova and Seraxis to merge",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/diabetes-cell-therapy-biotechs-sernova-and-seraxis-to-merge/",
-        "published_at": "2026-09-08 11:00",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
         "title": "BrainChild hauls in $116M to make cell therapies for childhood brain cancers",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/brainchild-pediatric-brain-tumors-car-t/829463/",
         "published_at": "2026-09-08 11:00",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "#ERS26: Roivant reports Phase 2 win for lung disease drug that it got from Bayer",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/ers26-roivant-reports-phase-2-win-for-lung-disease-drug-that-it-got-from-bayer/",
-        "published_at": "2026-09-08 10:00",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "#ERS26: Beam says AATD base editing data hold up after one year",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/ers26-beam-says-aatd-base-editing-data-hold-up-after-one-year/",
-        "published_at": "2026-09-08 08:30",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Updated: Novartis sinks after second disastrous trial failure, this time of Avidity-acquired drug",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/novartis-sinks-after-second-disastrous-trial-failure-this-time-of-avidity-acquired-drug/",
-        "published_at": "2026-09-08 08:24",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "FDA approves AstraZeneca’s oral SERD for breast cancer despite negative adcomm vote",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-approves-astrazenecas-oral-serd-for-breast-cancer-despite-negative-adcomm-vote/",
-        "published_at": "2026-09-07 17:17",
         "category": "Immunotherapy & Oncology"
     },
     {
@@ -221,20 +235,6 @@
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/abbvie-multiple-myeloma-etentamig-phase-3-trial-results/829672/",
         "published_at": "2026-09-04 16:00",
-        "category": "Vaccines & mRNA"
-    },
-    {
-        "title": "This week in charts: China deals, stock flatlines and Lilly’s M&A spree",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/charts-biotech-deals-china-alumis-ultragenyx-stock/829635/",
-        "published_at": "2026-09-04 15:56",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Ionis’ rare neurology drug approved; Pfizer inks an ADC deal",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/ionis-rare-neurology-drug-approved-pfizer-inks-an-adc-deal/829639/",
-        "published_at": "2026-09-04 13:00",
         "category": "Vaccines & mRNA"
     }
 ]
