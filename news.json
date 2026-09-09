@@ -1,5 +1,47 @@
 [
     {
+        "title": "NodThera, a decade-old NLRP3 player, plans Phase 3 and a rebrand",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/nodthera-a-decade-old-nlrp3-player-plans-phase-3-and-a-rebrand/",
+        "published_at": "2026-09-09 11:01",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Cancer biotech TwoStep gets $62.5M to take twist on ADCs into clinic",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/cancer-biotech-twostep-gets-62-5m-to-take-twist-on-adcs-into-clinic/",
+        "published_at": "2026-09-09 11:00",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Kura Oncology spins out diabetes pipeline with $50M and Lilly's help",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/kura-oncology-spins-out-diabetes-pipeline-with-50m-and-lillys-help/",
+        "published_at": "2026-09-09 11:00",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Beeline Medicines reports promising Phase 2 lupus data",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/beeline-medicines-reports-promising-phase-2-lupus-data/",
+        "published_at": "2026-09-09 11:00",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Tyra claims Phase 2 win in bladder cancer, will advance drug to pivotal trial",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/tyra-claims-phase-2-win-in-bladder-cancer-will-advance-drug-to-pivotal-trial/",
+        "published_at": "2026-09-09 11:00",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "A new immuno-oncology play raises $225M for a next-generation drug",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/solstice-immuno-oncology-cancer-series-a-launch/829811/",
+        "published_at": "2026-09-09 11:00",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
         "title": "Evommune's MRGPRX2 antagonist flunks its second I&I trial this summer",
         "source": "Endpoints News",
         "url": "https://endpoints.news/evommunes-mrgprx2-antagonist-flunks-its-second-ii-trial-this-summer/",
@@ -35,7 +77,7 @@
         "category": "Clinical Trials"
     },
     {
-        "title": "Amgen’s T-cell engager notches major new lung cancer victory",
+        "title": "Amgen’s T cell engager notches new major lung cancer victory",
         "source": "Endpoints News",
         "url": "https://endpoints.news/amgens-t-cell-engager-notches-major-new-lung-cancer-victory/",
         "published_at": "2026-09-08 17:53",
@@ -168,46 +210,11 @@
         "category": "Immunotherapy & Oncology"
     },
     {
-        "title": "Novartis' Phase 3 pelacarsen study miss raises the stakes for Amgen, Lilly",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/novartis-phase-3-pelacarsen-study-miss-raises-the-stakes-for-amgen-lilly/",
-        "published_at": "2026-09-07 14:48",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Updated: Novo Nordisk cans two more trials of IL-6 heart drug for futility",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/novo-nordisk-cans-two-more-trials-of-il-6-heart-drug-for-futility/",
-        "published_at": "2026-09-07 07:53",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Claret says its latest fund will have larger focus on European life sciences",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/claret-says-it-latest-fund-will-have-larger-focus-on-european-life-sciences/",
-        "published_at": "2026-09-07 05:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
         "title": "Novartis, Ionis drug failure spurs questions about an emerging class of heart medicines",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/novartis-ionis-pelacarsen-lpa-horizon-study-results-fail/829736/",
         "published_at": "2026-09-05 16:51",
         "category": "Clinical Trials"
-    },
-    {
-        "title": "CAR-T deaths prompt halt by Novartis; Eli Lilly’s 13th acquisition of 2026; and more",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/car-t-deaths-prompt-halt-by-novartis-eli-lillys-13th-acquisition-of-2026-and-more/",
-        "published_at": "2026-09-05 10:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "AbbVie-allied ADARx aims for IPO with three drugs in the clinic",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/abbvie-allied-adarx-aims-for-ipo-with-3-drugs-in-the-clinic/",
-        "published_at": "2026-09-05 07:42",
-        "category": "Gene Editing & CRISPR"
     },
     {
         "title": "Trailing rivals, AbbVie scores win with dual-acting myeloma drug",
@@ -229,12 +236,5 @@
         "url": "https://www.biopharmadive.com/news/ionis-rare-neurology-drug-approved-pfizer-inks-an-adc-deal/829639/",
         "published_at": "2026-09-04 13:00",
         "category": "Vaccines & mRNA"
-    },
-    {
-        "title": "An AI drug specialist zeroes in on rare forms of obesity",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/superluminal-medicines-obesity-ai-drug-discovery-series-b/829552/",
-        "published_at": "2026-09-03 16:20",
-        "category": "Mergers & Acquisitions"
     }
 ]
