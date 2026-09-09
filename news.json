@@ -1,5 +1,12 @@
 [
     {
+        "title": "Tyra disappoints investors with bladder cancer data",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/tyra-bladder-cancer-dabogratinib-study-results/829917/",
+        "published_at": "2026-09-09 19:46",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
         "title": "Encoded closes $275M Series F for Dravet syndrome drug",
         "source": "Endpoints News",
         "url": "https://endpoints.news/encoded-closes-275m-series-f-for-dravet-syndrome-drug/",
@@ -229,12 +236,5 @@
         "url": "https://www.biopharmadive.com/news/novartis-ionis-pelacarsen-lpa-horizon-study-results-fail/829736/",
         "published_at": "2026-09-05 16:51",
         "category": "Clinical Trials"
-    },
-    {
-        "title": "Trailing rivals, AbbVie scores win with dual-acting myeloma drug",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/abbvie-multiple-myeloma-etentamig-phase-3-trial-results/829672/",
-        "published_at": "2026-09-04 16:00",
-        "category": "Vaccines & mRNA"
     }
 ]
