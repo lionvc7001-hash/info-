@@ -1,5 +1,26 @@
 [
     {
+        "title": "What Oura's IPO filing reveals about its healthcare ambitions",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/what-ouras-ipo-filing-reveals-about-its-healthcare-ambitions/",
+        "published_at": "2026-09-10 12:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "A booming business on Wall Street would love more biotechs to quietly die",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/biotech-reverse-mergers-public-markets-ipo/829197/",
+        "published_at": "2026-09-10 11:45",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "BridgeBio Oncology slides as it tightens the scope of its KRAS program",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/bridgebio-oncology-slides-as-it-tightens-the-scope-of-its-kras-program/",
+        "published_at": "2026-09-10 11:09",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
         "title": "Pharma investment in UK picks up after last year’s lull, trade group says",
         "source": "Endpoints News",
         "url": "https://endpoints.news/pharma-investment-in-uk-picks-up-after-last-years-lull-trade-group-says/",
@@ -210,31 +231,10 @@
         "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "Moonwalk raises $70M to test siRNA treatment for obesity",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/moonwalk-raises-70-million-to-test-sirna-treatment-for-obesity/",
-        "published_at": "2026-09-08 12:00",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Inhibrx targets OX40 agonist-cancer vaccine studies from early next year",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/inhibrx-plots-ox40-agonist-cancer-vaccine-studies-from-early-next-year/",
-        "published_at": "2026-09-08 11:30",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
         "title": "BrainChild hauls in $116M to make cell therapies for childhood brain cancers",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/brainchild-pediatric-brain-tumors-car-t/829463/",
         "published_at": "2026-09-08 11:00",
         "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Novartis, Ionis drug failure spurs questions about an emerging class of heart medicines",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/novartis-ionis-pelacarsen-lpa-horizon-study-results-fail/829736/",
-        "published_at": "2026-09-05 16:51",
-        "category": "Clinical Trials"
     }
 ]
