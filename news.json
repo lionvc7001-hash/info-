@@ -1,5 +1,54 @@
 [
     {
+        "title": "FDA places partial hold on Biohaven’s epilepsy drug",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/biohaven-fda-hold-opakalim-epilepsy-drug-trial/830013/",
+        "published_at": "2026-09-10 16:13",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Andy Plump, architect of Takeda’s R&D overhaul, to retire next year",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/takeda-andy-plump-retire-president-research-development/830017/",
+        "published_at": "2026-09-10 15:24",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Shionogi's stroke drug fails mid-stage; Bayer's Hyrnuo gets expanded label",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/shionogis-stroke-drug-fails-mid-stage-bayers-hyrnuo-gets-expanded-label/",
+        "published_at": "2026-09-10 15:06",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Lonza to build new US factory; Samsung Bio signs $262M contract",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/lonza-to-build-new-us-factory-samsung-bio-signs-262m-contract/",
+        "published_at": "2026-09-10 15:01",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "How past Endpoints 11 winners fared as biotech industry rebounded",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/how-past-endpoints-11-winners-fared-as-biotech-industry-rebounded/",
+        "published_at": "2026-09-10 14:30",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "The blueprint for clinical AI",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/the-blueprint-for-clinical-ai/",
+        "published_at": "2026-09-10 14:24",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "FDA places partial hold on Biohaven's ion channel drug",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-places-partial-hold-on-biohavens-ion-channel-drug/",
+        "published_at": "2026-09-10 13:58",
+        "category": "FDA & Regulatory"
+    },
+    {
         "title": "What Oura's IPO filing reveals about its healthcare ambitions",
         "source": "Endpoints News",
         "url": "https://endpoints.news/what-ouras-ipo-filing-reveals-about-its-healthcare-ambitions/",
@@ -182,59 +231,10 @@
         "category": "Clinical Trials"
     },
     {
-        "title": "Expanding its biopharma plans, Anthropic looks for a life sciences dealmaker",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/expanding-its-biopharma-plans-anthropic-looks-for-a-life-sciences-dealmaker/",
-        "published_at": "2026-09-08 15:56",
-        "category": "Mergers & Acquisitions"
-    },
-    {
         "title": "Moonwalk reloads with $70M and new RNAi prospects for obesity",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/moonwalk-series-b-obesity-rna-interference/829784/",
         "published_at": "2026-09-08 15:52",
         "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Krazati withdrawal completed; Wegovy trial meets endpoint for kids ages 6 to 12",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/krazati-withdrawal-completed-wegovy-trial-meets-endpoint-for-kids-ages-6-to-12/",
-        "published_at": "2026-09-08 15:21",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Sandoz unveils plan for biosimilar expansion and new $300M factory in Slovenia",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/sandoz-unveils-plan-for-biosimilar-expansion-and-new-300m-factory-in-slovenia/",
-        "published_at": "2026-09-08 14:14",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Bristol Myers claims Phase 2 success for GPRC5D-directed CAR-T",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/bristol-myers-claims-phase-2-success-for-gprc5d-directed-car-t/",
-        "published_at": "2026-09-08 14:08",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Novartis RNA drug falls short in rare muscle disease study",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/novartis-rna-drug-failure-dm1-avidity-del-desiran/829778/",
-        "published_at": "2026-09-08 13:23",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Why consumer apps set their sights on patient health records",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/why-consumer-apps-set-their-sights-on-patient-health-records/",
-        "published_at": "2026-09-08 13:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "BrainChild hauls in $116M to make cell therapies for childhood brain cancers",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/brainchild-pediatric-brain-tumors-car-t/829463/",
-        "published_at": "2026-09-08 11:00",
-        "category": "Immunotherapy & Oncology"
     }
 ]
