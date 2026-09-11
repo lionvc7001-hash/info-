@@ -1,5 +1,40 @@
 [
     {
+        "title": "FDA extends review of Exelixis' colorectal cancer drug candidate",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-extends-review-of-exelixis-colorectal-cancer-drug-candidate/",
+        "published_at": "2026-09-11 16:02",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Yarrow brings in more cash; AbbVie drug succeeds in menstrual migraine trial",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/yarrow-brings-in-more-cash-abbvie-drug-succeeds-in-menstrual-migraine-trial/",
+        "published_at": "2026-09-11 15:28",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "New report may spell trouble for future cheaper biologics",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/new-report-may-spell-trouble-for-future-cheaper-biologics/",
+        "published_at": "2026-09-11 15:22",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "This week in charts: RA’s insatiable appetite, Novartis’ big slide and a reverse merger spree",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/biotech-charts-ra-capital-venture-novartis-reverse-mergers/830052/",
+        "published_at": "2026-09-11 15:22",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Alzheon outlines plans for major fundraising round despite Phase 3 miss for Alzheimer's drug",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/alzheon-outlines-plans-for-major-fundraising-round-despite-phase-3-miss-for-alzheimers-drug/",
+        "published_at": "2026-09-11 15:01",
+        "category": "Mergers & Acquisitions"
+    },
+    {
         "title": "Karyopharm pushes off debt payment; Amgen eyes broader Imdelltra use",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/imdelltra-bridgebio-oncology-evommune-encoded-tectora/830056/",
@@ -200,41 +235,6 @@
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/solstice-immuno-oncology-cancer-series-a-launch/829811/",
         "published_at": "2026-09-09 11:00",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Evommune's MRGPRX2 antagonist flunks its second I&I trial this summer",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/evommunes-mrgprx2-antagonist-flunks-its-second-ii-trial-this-summer/",
-        "published_at": "2026-09-09 07:38",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Six AI agents, one deskside system: A new model for clinical decision support",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/spons/six-ai-agents-one-deskside-system-a-new-model-for-clinical-decision-suppo/829301/",
-        "published_at": "2026-09-08 23:00",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Current heads of CBER, CDER snag permanent jobs",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/current-heads-of-cber-cder-snag-permanent-jobs/",
-        "published_at": "2026-09-08 21:07",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Pharvaris' stock jumps on pivotal success in rare genetic disease",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/pharvaris-stock-jumps-on-pivotal-success-in-rare-genetic-disease/",
-        "published_at": "2026-09-08 18:29",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Amgen’s T cell engager notches new major lung cancer victory",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/amgens-t-cell-engager-notches-major-new-lung-cancer-victory/",
-        "published_at": "2026-09-08 17:53",
         "category": "Immunotherapy & Oncology"
     }
 ]
