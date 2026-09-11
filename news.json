@@ -1,5 +1,26 @@
 [
     {
+        "title": "Karyopharm pushes off debt payment; Amgen eyes broader Imdelltra use",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/imdelltra-bridgebio-oncology-evommune-encoded-tectora/830056/",
+        "published_at": "2026-09-11 13:37",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "mRNA cancer vaccines’ biggest barriers to market",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/mrna-cancer-vaccines-commercialization-manufacturing/830137/",
+        "published_at": "2026-09-11 11:55",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Takeda's R&D chief Andy Plump to retire; Novo Nordisk appoints global research head",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/takedas-r-novo-nordisk-appoints-global-research-head/",
+        "published_at": "2026-09-11 11:00",
+        "category": "FDA & Regulatory"
+    },
+    {
         "title": "FDA suggests regulatory flexibility for assessing psychedelics",
         "source": "Endpoints News",
         "url": "https://endpoints.news/fda-suggests-regulatory-flexibility-for-assessing-psychedelics/",
@@ -203,13 +224,6 @@
         "category": "FDA & Regulatory"
     },
     {
-        "title": "Roivant surges on ‘exceptional’ results; Bristol Myers touts first-of-its-kind CAR-T therapy",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/roivant-astrazeneca-etcamah-GPRC5D-pharvaris-inhibrx/829763/",
-        "published_at": "2026-09-08 18:41",
-        "category": "Mergers & Acquisitions"
-    },
-    {
         "title": "Pharvaris' stock jumps on pivotal success in rare genetic disease",
         "source": "Endpoints News",
         "url": "https://endpoints.news/pharvaris-stock-jumps-on-pivotal-success-in-rare-genetic-disease/",
@@ -222,19 +236,5 @@
         "url": "https://endpoints.news/amgens-t-cell-engager-notches-major-new-lung-cancer-victory/",
         "published_at": "2026-09-08 17:53",
         "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Why apps want your medical records",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/why-apps-want-your-medical-records/",
-        "published_at": "2026-09-08 17:19",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Moonwalk reloads with $70M and new RNAi prospects for obesity",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/moonwalk-series-b-obesity-rna-interference/829784/",
-        "published_at": "2026-09-08 15:52",
-        "category": "Gene Editing & CRISPR"
     }
 ]
