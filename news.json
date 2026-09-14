@@ -1,5 +1,26 @@
 [
     {
+        "title": "Summit, Akeso look to shed PD-1/VEGF drug doubts with latest study results",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/summit-akeso-wclc-2026-ivonescimab-lung-cancer-survival/830318/",
+        "published_at": "2026-09-14 20:41",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "BioNTech says CTLA-4 drug nearly doubled survival times for lung cancer",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/biontech-says-ctla-4-drug-nearly-doubled-survival-times-for-lung-cancer/",
+        "published_at": "2026-09-14 18:27",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "FDA looks into reassessing criteria around rare disease trials, endpoint selection",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-looks-into-reassessing-criteria-around-rare-disease-trials-endpoint-selection/",
+        "published_at": "2026-09-14 18:05",
+        "category": "Clinical Trials"
+    },
+    {
         "title": "AstraZeneca’s newly approved pill fails frontline breast cancer study",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/astrazeneca-etcamah-first-line-breast-cancer-study-results/830266/",
@@ -215,26 +236,5 @@
         "url": "https://endpoints.news/bridgebio-oncology-slides-as-it-tightens-the-scope-of-its-kras-program/",
         "published_at": "2026-09-10 11:09",
         "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Pharma investment in UK picks up after last year’s lull, trade group says",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/pharma-investment-in-uk-picks-up-after-last-years-lull-trade-group-says/",
-        "published_at": "2026-09-10 06:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Tyra disappoints investors with bladder cancer data",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/tyra-bladder-cancer-dabogratinib-study-results/829917/",
-        "published_at": "2026-09-09 19:46",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Encoded closes $275M Series F for Dravet syndrome drug",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/encoded-closes-275m-series-f-for-dravet-syndrome-drug/",
-        "published_at": "2026-09-09 17:47",
-        "category": "Mergers & Acquisitions"
     }
 ]
