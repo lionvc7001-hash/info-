@@ -1,5 +1,54 @@
 [
     {
+        "title": "AstraZeneca’s newly approved pill fails frontline breast cancer study",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/astrazeneca-etcamah-first-line-breast-cancer-study-results/830266/",
+        "published_at": "2026-09-14 16:30",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "GSK to wind down German vaccine factory due to lack of demand",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/gsk-to-wind-down-german-vaccine-factory-due-to-lack-of-demand/",
+        "published_at": "2026-09-14 15:57",
+        "category": "Vaccines & mRNA"
+    },
+    {
+        "title": "Cellectis quits CAR-T and pivots to ‘in vivo’ gene editing",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/cellectis-restructure-in-vivo-gene-editing-allogeneic-heart-disease/830281/",
+        "published_at": "2026-09-14 15:46",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "GSK heads to FDA with recently acquired drug from Nuvalent",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/gsk-heads-to-fda-with-recently-acquired-drug-from-nuvalent/",
+        "published_at": "2026-09-14 15:21",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Electra aims for nearly $300M IPO; Enhertu's Phase 3 lung cancer success",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/electra-aims-for-nearly-300m-ipo-enhertus-phase-3-lung-cancer-success/",
+        "published_at": "2026-09-14 14:51",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Scholar Rock SMA drug approved by FDA",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/scholar-rock-sma-drug-isemblyd-fda-approve/830232/",
+        "published_at": "2026-09-14 13:00",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Novo Nordisk shortens its name in brand and culture reboot",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/novo-nordisk-shortens-its-name-in-brand-and-culture-reboot/",
+        "published_at": "2026-09-14 11:54",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
         "title": "Scholar Rock gets FDA nod for spinal muscular atrophy drug",
         "source": "Endpoints News",
         "url": "https://endpoints.news/scholar-rock-gets-fda-nod-for-spinal-muscular-atrophy-drug/",
@@ -187,54 +236,5 @@
         "url": "https://endpoints.news/encoded-closes-275m-series-f-for-dravet-syndrome-drug/",
         "published_at": "2026-09-09 17:47",
         "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "ARPA-H picks UpDoc, Tempus and Atman to build AI tools for heart disease",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/arpa-h-picks-updoc-tempus-and-atman-to-build-ai-tools-for-heart-disease/",
-        "published_at": "2026-09-09 17:44",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "FDA should follow EMA's lead on drug rejection disclosures, researchers say",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-should-follow-emas-lead-on-drug-rejection-disclosures-researchers-say/",
-        "published_at": "2026-09-09 16:51",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Kura spins diabetes work into a Lilly-backed biotech startup",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/caspian-diabetes-kura-oncology-menin-inhibitors-lilly/829860/",
-        "published_at": "2026-09-09 15:54",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Key research behind orexin and narcolepsy wins Lasker Award",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/key-research-behind-orexin-and-narcolepsy-wins-lasker-award/",
-        "published_at": "2026-09-09 15:43",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Compass posts positive psilocybin data; Solstice makes $225M debut",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/compass-posts-positive-psilocybin-data-solstice-makes-225m-debut/",
-        "published_at": "2026-09-09 15:35",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "FDA gains ‘continuity’ as Mikhail, Davis named permanent CBER, CDER leaders",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/fda-mikhail-davis-cber-cder-director-hhs/829886/",
-        "published_at": "2026-09-09 15:04",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "A new immuno-oncology play raises $225M for a next-generation drug",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/solstice-immuno-oncology-cancer-series-a-launch/829811/",
-        "published_at": "2026-09-09 11:00",
-        "category": "Immunotherapy & Oncology"
     }
 ]
