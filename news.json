@@ -1,5 +1,40 @@
 [
     {
+        "title": "Klomp, Warren spar over MFN deal contracts",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/klomp-warren-spar-over-mfn-deal-contracts/",
+        "published_at": "2026-09-15 18:45",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "FDA approves first radioligand generic, setting up rivalry with Novartis",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-approves-first-radioligand-generic-setting-up-rivalry-with-novartis/",
+        "published_at": "2026-09-15 16:59",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Centric Compounding recalls three injectables over contamination",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/centric-compounding-recalls-three-injectables-over-contamination/",
+        "published_at": "2026-09-15 16:28",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "WCLC ‘26: A new ‘ADC era,’ China questions and AstraZeneca’s spotlight",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/wclc-2026-adc-b7h3-china-study-results-astrazeneca/830247/",
+        "published_at": "2026-09-15 16:02",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Sionna cuts nearly half of staff as it lines up second attempt at cystic fibrosis",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/sionna-cuts-nearly-half-of-staff-as-it-lines-up-second-attempt-at-cystic-fibrosis/",
+        "published_at": "2026-09-15 15:34",
+        "category": "Clinical Trials"
+    },
+    {
         "title": "Rocket's Danon plans; Novo leaves Ascendis; Lilly's latest deal",
         "source": "Endpoints News",
         "url": "https://endpoints.news/rockets-danon-plans-novo-leaves-ascendis-lillys-latest-deal/",
@@ -175,34 +210,6 @@
         "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "Setbacks for Novartis; Anthropic looks for a dealmaker; and more",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/setbacks-for-novartis-anthropic-looks-for-a-dealmaker-and-more/",
-        "published_at": "2026-09-12 10:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "FDA extends review of Exelixis' colorectal cancer drug candidate",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-extends-review-of-exelixis-colorectal-cancer-drug-candidate/",
-        "published_at": "2026-09-11 16:02",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Yarrow brings in more cash; AbbVie drug succeeds in menstrual migraine trial",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/yarrow-brings-in-more-cash-abbvie-drug-succeeds-in-menstrual-migraine-trial/",
-        "published_at": "2026-09-11 15:28",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "New report may spell trouble for future cheaper biologics",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/new-report-may-spell-trouble-for-future-cheaper-biologics/",
-        "published_at": "2026-09-11 15:22",
-        "category": "Mergers & Acquisitions"
-    },
-    {
         "title": "This week in charts: RA’s insatiable appetite, Novartis’ big slide and a reverse merger spree",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/biotech-charts-ra-capital-venture-novartis-reverse-mergers/830052/",
@@ -229,12 +236,5 @@
         "url": "https://www.biopharmadive.com/news/biohaven-fda-hold-opakalim-epilepsy-drug-trial/830013/",
         "published_at": "2026-09-10 16:13",
         "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Andy Plump, architect of Takeda’s R&D overhaul, to retire next year",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/takeda-andy-plump-retire-president-research-development/830017/",
-        "published_at": "2026-09-10 15:24",
-        "category": "Clinical Trials & R&D"
     }
 ]
