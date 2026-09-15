@@ -1,5 +1,61 @@
 [
     {
+        "title": "Rocket's Danon plans; Novo leaves Ascendis; Lilly's latest deal",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/rockets-danon-plans-novo-leaves-ascendis-lillys-latest-deal/",
+        "published_at": "2026-09-15 15:19",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "GSK to wind down German vaccine factory due to lack of demand",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/gsk-to-wind-down-german-vaccine-factory-due-to-lack-of-demand/",
+        "published_at": "2026-09-15 14:33",
+        "category": "Vaccines & mRNA"
+    },
+    {
+        "title": "FDA leaders say they've woven feedback into new trial pilot",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-leaders-say-theyve-woven-feedback-into-new-trial-pilot/",
+        "published_at": "2026-09-15 14:24",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Axoltis says its Phase 2 study for an experimental ALS drug failed",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/axoltis-says-its-phase-2-study-for-an-experimental-als-drug-failed/",
+        "published_at": "2026-09-15 14:16",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Why Omada is staying in its lane",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/why-omada-is-staying-in-its-lane/",
+        "published_at": "2026-09-15 14:10",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "FDA launches pilot program to speed up early US drug research",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/fda-operation-trialblazer-ind-pilot-program-drug-trials/830372/",
+        "published_at": "2026-09-15 14:00",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Kairon Health raises $5M to use data to make patients healthier",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/kairon-health-raises-5m-to-use-data-to-make-patients-healthier/",
+        "published_at": "2026-09-15 13:00",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "GSK strikes deal for Chimagen’s T cell engager for blood cancer",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/gsk-strikes-deal-for-chimagens-t-cell-engager-for-blood-cancer/",
+        "published_at": "2026-09-15 11:03",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
         "title": "Vera eyes full approval for Trutakna in IgAN following positive readout",
         "source": "Endpoints News",
         "url": "https://endpoints.news/vera-eyes-full-approval-for-trutakna-in-igan-following-positive-readout/",
@@ -54,13 +110,6 @@
         "url": "https://www.biopharmadive.com/news/astrazeneca-etcamah-first-line-breast-cancer-study-results/830266/",
         "published_at": "2026-09-14 16:30",
         "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "GSK to wind down German vaccine factory due to lack of demand",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/gsk-to-wind-down-german-vaccine-factory-due-to-lack-of-demand/",
-        "published_at": "2026-09-14 15:57",
-        "category": "Vaccines & mRNA"
     },
     {
         "title": "Cellectis quits CAR-T and pivots to ‘in vivo’ gene editing",
@@ -161,13 +210,6 @@
         "category": "Mergers & Acquisitions"
     },
     {
-        "title": "Alzheon outlines plans for major fundraising round despite Phase 3 miss for Alzheimer's drug",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/alzheon-outlines-plans-for-major-fundraising-round-despite-phase-3-miss-for-alzheimers-drug/",
-        "published_at": "2026-09-11 15:01",
-        "category": "Mergers & Acquisitions"
-    },
-    {
         "title": "Karyopharm pushes off debt payment; Amgen eyes broader Imdelltra use",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/imdelltra-bridgebio-oncology-evommune-encoded-tectora/830056/",
@@ -182,20 +224,6 @@
         "category": "Gene Editing & CRISPR"
     },
     {
-        "title": "Takeda's R&D chief Andy Plump to retire; Novo Nordisk appoints global research head",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/takedas-r-novo-nordisk-appoints-global-research-head/",
-        "published_at": "2026-09-11 11:00",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "FDA suggests regulatory flexibility for assessing psychedelics",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-suggests-regulatory-flexibility-for-assessing-psychedelics/",
-        "published_at": "2026-09-10 18:09",
-        "category": "FDA & Regulatory"
-    },
-    {
         "title": "FDA places partial hold on Biohaven’s epilepsy drug",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/biohaven-fda-hold-opakalim-epilepsy-drug-trial/830013/",
@@ -208,33 +236,5 @@
         "url": "https://www.biopharmadive.com/news/takeda-andy-plump-retire-president-research-development/830017/",
         "published_at": "2026-09-10 15:24",
         "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Shionogi's stroke drug fails mid-stage; Bayer's Hyrnuo gets expanded label",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/shionogis-stroke-drug-fails-mid-stage-bayers-hyrnuo-gets-expanded-label/",
-        "published_at": "2026-09-10 15:06",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Lonza to build new US factory; Samsung Bio signs $262M contract",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/lonza-to-build-new-us-factory-samsung-bio-signs-262m-contract/",
-        "published_at": "2026-09-10 15:01",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "How past Endpoints 11 winners fared as biotech industry rebounded",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/how-past-endpoints-11-winners-fared-as-biotech-industry-rebounded/",
-        "published_at": "2026-09-10 14:30",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "A booming business on Wall Street would love more biotechs to quietly die",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/biotech-reverse-mergers-public-markets-ipo/829197/",
-        "published_at": "2026-09-10 11:45",
-        "category": "Mergers & Acquisitions"
     }
 ]
