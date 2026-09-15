@@ -1,5 +1,12 @@
 [
     {
+        "title": "FDA clears first generic radioligand drug; Sionna turns to layoffs",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/radioligand-generic-sionna-layoffs-novo-contineum-arrowhead-corbus/830246/",
+        "published_at": "2026-09-15 21:13",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
         "title": "Klomp, Warren spar over MFN deal contracts",
         "source": "Endpoints News",
         "url": "https://endpoints.news/klomp-warren-spar-over-mfn-deal-contracts/",
@@ -229,12 +236,5 @@
         "url": "https://www.biopharmadive.com/news/mrna-cancer-vaccines-commercialization-manufacturing/830137/",
         "published_at": "2026-09-11 11:55",
         "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "FDA places partial hold on Biohaven’s epilepsy drug",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/biohaven-fda-hold-opakalim-epilepsy-drug-trial/830013/",
-        "published_at": "2026-09-10 16:13",
-        "category": "FDA & Regulatory"
     }
 ]
