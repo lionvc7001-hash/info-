@@ -1,5 +1,12 @@
 [
     {
+        "title": "Novartis to pay $125M for blood-brain barrier crossing platform",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/novartis-125m-for-blood-brain-barrier-crossing-platform-Sironax/830560/",
+        "published_at": "2026-09-16 20:26",
+        "category": "Mergers & Acquisitions"
+    },
+    {
         "title": "Drugmakers cooperate with House probe of China trial sites",
         "source": "Endpoints News",
         "url": "https://endpoints.news/drugmakers-cooperate-with-house-probe-of-china-trial-sites/",
@@ -47,6 +54,13 @@
         "url": "https://endpoints.news/novo-signs-anthropic-deal-to-test-claude-science-in-rd/",
         "published_at": "2026-09-16 14:10",
         "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Skyhawk racks up more support for Huntington’s drug",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/skyhawk-huntingtons-drug-rna-splicing-results/830537/",
+        "published_at": "2026-09-16 13:05",
+        "category": "Gene Editing & CRISPR"
     },
     {
         "title": "Novartis' TREM2 drug fails Phase 2 ALS trial",
@@ -222,19 +236,5 @@
         "url": "https://www.biopharmadive.com/news/cellectis-restructure-in-vivo-gene-editing-allogeneic-heart-disease/830281/",
         "published_at": "2026-09-14 15:46",
         "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Scholar Rock SMA drug approved by FDA",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/scholar-rock-sma-drug-isemblyd-fda-approve/830232/",
-        "published_at": "2026-09-14 13:00",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "This week in charts: RA’s insatiable appetite, Novartis’ big slide and a reverse merger spree",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/biotech-charts-ra-capital-venture-novartis-reverse-mergers/830052/",
-        "published_at": "2026-09-11 15:22",
-        "category": "Mergers & Acquisitions"
     }
 ]
