@@ -1,5 +1,54 @@
 [
     {
+        "title": "Novo looks to Anthropic’s AI models to ‘supercharge’ drug development",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/novo-anthropic-ai-drug-discovery-development-deal/830540/",
+        "published_at": "2026-09-16 15:10",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Researchers implant human neurons in mice brains to study disease",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/researchers-implant-human-neurons-in-mice-brains-to-study-disease/",
+        "published_at": "2026-09-16 15:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Sling banks $123M for an experimental thyroid eye disease pill",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/sling-linsitinib-series-c-financing-thyroid-eye-disease/830452/",
+        "published_at": "2026-09-16 14:54",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Novo signs Anthropic deal to test Claude Science in R&D",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/novo-signs-anthropic-deal-to-test-claude-science-in-rd/",
+        "published_at": "2026-09-16 14:10",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Novartis' TREM2 drug fails Phase 2 ALS trial",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/novartis-trem2-drug-fails-phase-2-als-trial/",
+        "published_at": "2026-09-16 11:24",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Sling gets $123M for Phase 3 trial of ex-Astellas drug in thyroid eye disease",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/sling-gets-123m-for-phase-3-trial-of-ex-astellas-drug-in-thyroid-eye-disease/",
+        "published_at": "2026-09-16 11:00",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Skyhawk says its Huntington’s drug improved symptoms in extension to Phase 1/2 trial",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/skyhawk-says-its-huntingtons-drug-improved-symptoms-in-extension-to-phase-1-2-trial/",
+        "published_at": "2026-09-16 10:56",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
         "title": "FDA clears first generic radioligand drug; Sionna turns to layoffs",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/radioligand-generic-sionna-layoffs-novo-contineum-arrowhead-corbus/830246/",
@@ -182,59 +231,10 @@
         "category": "FDA & Regulatory"
     },
     {
-        "title": "Novo Nordisk shortens its name in brand and culture reboot",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/novo-nordisk-shortens-its-name-in-brand-and-culture-reboot/",
-        "published_at": "2026-09-14 11:54",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Scholar Rock gets FDA nod for spinal muscular atrophy drug",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/scholar-rock-gets-fda-nod-for-spinal-muscular-atrophy-drug/",
-        "published_at": "2026-09-14 11:29",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "AstraZeneca’s next-gen SERD Etcamah disappoints in untreated advanced breast cancer",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/astrazenecas-next-gen-serd-etcamah-disappoints-in-untreated-advanced-breast-cancer/",
-        "published_at": "2026-09-14 11:21",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Definium says its LSD drug notched another Phase 3 win in anxiety disorder",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/definiums-lsd-drug-notches-another-phase-3-win-in-anxiety-disorder/",
-        "published_at": "2026-09-14 11:00",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Akeso details survival win for its PD-1xVEGF drug versus Keytruda",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/akeso-details-survival-win-for-its-pd-1xvegf-drug-versus-keytruda/",
-        "published_at": "2026-09-13 01:46",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
         "title": "This week in charts: RA’s insatiable appetite, Novartis’ big slide and a reverse merger spree",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/biotech-charts-ra-capital-venture-novartis-reverse-mergers/830052/",
         "published_at": "2026-09-11 15:22",
         "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Karyopharm pushes off debt payment; Amgen eyes broader Imdelltra use",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/imdelltra-bridgebio-oncology-evommune-encoded-tectora/830056/",
-        "published_at": "2026-09-11 13:37",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "mRNA cancer vaccines’ biggest barriers to market",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/mrna-cancer-vaccines-commercialization-manufacturing/830137/",
-        "published_at": "2026-09-11 11:55",
-        "category": "Gene Editing & CRISPR"
     }
 ]
