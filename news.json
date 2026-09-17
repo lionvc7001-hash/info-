@@ -1,5 +1,75 @@
 [
     {
+        "title": "UK government committees call for probe into US pharma deal",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/uk-government-committees-call-for-probe-into-us-pharma-deal/",
+        "published_at": "2026-09-17 17:01",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Cellares and Ori Biotech’s new cell therapy manufacturing contracts",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/cellares-and-ori-biotechs-new-cell-therapy-manufacturing-contracts/",
+        "published_at": "2026-09-17 16:47",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Novo partners with Orbis, deepening investment in oral peptide drugs",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/novo-orbis-macrocyclic-peptides-oral-obesity-drugs/830645/",
+        "published_at": "2026-09-17 15:55",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Two more biotechs, Marea and North Immunology, do reverse mergers",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/two-more-biotechs-marea-and-north-immunology-do-reverse-mergers/",
+        "published_at": "2026-09-17 15:35",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "A Parkinson's biotech debut, fundraising campaign and licensing deal",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/a-parkinsons-biotech-debut-fundraising-campaign-and-licensing-deal/",
+        "published_at": "2026-09-17 15:28",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "What's next for Medicare's health tech pilot",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/whats-next-for-medicares-health-tech-pilot/",
+        "published_at": "2026-09-17 15:17",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "North Immunology joins biotech reverse merger boom with Aethlon deal",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/north-immunology-aethlon-biotech-reverse-merger-eczema-drug/830631/",
+        "published_at": "2026-09-17 15:09",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "The Endpoints 11: How we picked 2026's most exciting biotech startups",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/the-endpoints-11-how-we-picked-2026s-most-exciting-biotech-startups/",
+        "published_at": "2026-09-17 14:52",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Roche eyes label expansion for Lunsumio after confirmatory lymphoma trial win",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/roche-eyes-label-expansion-for-lunsumio-after-confirmatory-lymphoma-trial-win/",
+        "published_at": "2026-09-17 14:34",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "General Catalyst details tech partnerships at Summa Health",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/general-catalyst-details-tech-partnerships-at-summa-health/",
+        "published_at": "2026-09-17 13:11",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
         "title": "Bavarian Nordic names Tarja Stenvall as new CEO",
         "source": "Endpoints News",
         "url": "https://endpoints.news/bavarian-nordic-names-tarja-stenvall-as-new-ceo/",
@@ -161,80 +231,10 @@
         "category": "Mergers & Acquisitions"
     },
     {
-        "title": "GSK to wind down German vaccine factory due to lack of demand",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/gsk-to-wind-down-german-vaccine-factory-due-to-lack-of-demand/",
-        "published_at": "2026-09-15 14:33",
-        "category": "Vaccines & mRNA"
-    },
-    {
-        "title": "FDA leaders say they've woven feedback into new trial pilot",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-leaders-say-theyve-woven-feedback-into-new-trial-pilot/",
-        "published_at": "2026-09-15 14:24",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Axoltis says its Phase 2 study for an experimental ALS drug failed",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/axoltis-says-its-phase-2-study-for-an-experimental-als-drug-failed/",
-        "published_at": "2026-09-15 14:16",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Why Omada is staying in its lane",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/why-omada-is-staying-in-its-lane/",
-        "published_at": "2026-09-15 14:10",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
         "title": "FDA launches pilot program to speed up early US drug research",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/fda-operation-trialblazer-ind-pilot-program-drug-trials/830372/",
         "published_at": "2026-09-15 14:00",
         "category": "Clinical Trials"
-    },
-    {
-        "title": "Kairon Health raises $5M to use data to make patients healthier",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/kairon-health-raises-5m-to-use-data-to-make-patients-healthier/",
-        "published_at": "2026-09-15 13:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "GSK strikes deal for Chimagen’s T cell engager for blood cancer",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/gsk-strikes-deal-for-chimagens-t-cell-engager-for-blood-cancer/",
-        "published_at": "2026-09-15 11:03",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Vera eyes full approval for Trutakna in IgAN following positive readout",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/vera-eyes-full-approval-for-trutakna-in-igan-following-positive-readout/",
-        "published_at": "2026-09-15 10:30",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "RegCell lands $44M Series A to take Nobel-winning Tregs into clinic",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/regcell-lands-44m-series-a-to-take-nobel-winning-tregs-into-clinic/",
-        "published_at": "2026-09-15 10:30",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Summit, Akeso look to shed PD-1/VEGF drug doubts with latest study results",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/summit-akeso-wclc-2026-ivonescimab-lung-cancer-survival/830318/",
-        "published_at": "2026-09-14 20:41",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "AstraZeneca’s newly approved pill fails frontline breast cancer study",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/astrazeneca-etcamah-first-line-breast-cancer-study-results/830266/",
-        "published_at": "2026-09-14 16:30",
-        "category": "Immunotherapy & Oncology"
     }
 ]
