@@ -1,5 +1,19 @@
 [
     {
+        "title": "Electra's $350M IPO will help it become a commercial biotech",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/electras-350m-ipo-will-help-it-become-a-commercial-biotech/",
+        "published_at": "2026-09-18 00:43",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Electra amasses $350M in biotech’s latest big IPO",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/electra-biotech-ipo-price-secondary-hlh/830698/",
+        "published_at": "2026-09-18 00:42",
+        "category": "Mergers & Acquisitions"
+    },
+    {
         "title": "Bristol Myers scraps $100M Orum-partnered cancer drug",
         "source": "Endpoints News",
         "url": "https://endpoints.news/bristol-myers-scraps-orum-partnered-cancer-drug/",
@@ -217,24 +231,10 @@
         "category": "Gene Editing & CRISPR"
     },
     {
-        "title": "Klomp, Warren spar over MFN deal contracts",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/klomp-warren-spar-over-mfn-deal-contracts/",
-        "published_at": "2026-09-15 18:45",
-        "category": "Mergers & Acquisitions"
-    },
-    {
         "title": "WCLC ‘26: A new ‘ADC era,’ China questions and AstraZeneca’s spotlight",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/wclc-2026-adc-b7h3-china-study-results-astrazeneca/830247/",
         "published_at": "2026-09-15 16:02",
         "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "FDA launches pilot program to speed up early US drug research",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/fda-operation-trialblazer-ind-pilot-program-drug-trials/830372/",
-        "published_at": "2026-09-15 14:00",
-        "category": "Clinical Trials"
     }
 ]
