@@ -1,5 +1,54 @@
 [
     {
+        "title": "CHMP backs Novo’s hemophilia A drug and seven other medicines",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/chmp-backs-novos-hemophilia-a-drug-and-seven-other-medicines/",
+        "published_at": "2026-09-18 16:51",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "FDA says initial rejections of new drugs have declined",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-says-initial-rejections-of-new-drugs-have-declined/",
+        "published_at": "2026-09-18 16:26",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Xenon shares fall following depression trial pause",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/xenon-azetukalner-depression-trial-halt-adverse-events/830756/",
+        "published_at": "2026-09-18 15:51",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "China sets ambitious goals for global biopharma expansion in new five-year plan",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/china-sets-ambitions-goals-for-global-biopharma-expansion-in-new-five-year-plan/",
+        "published_at": "2026-09-18 15:07",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Anthropic starts verification program for using Mythos in biology",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/anthropic-starts-verification-program-for-using-mythos-in-biology/",
+        "published_at": "2026-09-18 14:46",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "This week in charts: GSK’s China deals, the $300M IPO club and selling the news",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/biotech-charts-gsk-china-electra-ipo-scholar-rock/830514/",
+        "published_at": "2026-09-18 14:43",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Ultragenyx prices Sanfilippo gene therapy at $4M; Bristol Myers shelves Orum drug",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/ultragenyx-fayuvi-orum-bristol-lunsumio-longeveron-rocket-danon/830512/",
+        "published_at": "2026-09-18 14:24",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
         "title": "Legend names new CEO as Carvykti competition grows; Vertex makes a flurry of moves",
         "source": "Endpoints News",
         "url": "https://endpoints.news/legend-names-new-ceo-as-carvykti-competition-grows-vertex-makes-a-flurry-of-moves/",
@@ -18,6 +67,13 @@
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/electra-biotech-ipo-price-secondary-hlh/830698/",
         "published_at": "2026-09-18 00:42",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Lisata deal propels Marea’s drug pipeline to Wall Street",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/lisata-marea-deal-acquire-cardiovascular-endocrine-disease-drugs/830717/",
+        "published_at": "2026-09-17 21:39",
         "category": "Mergers & Acquisitions"
     },
     {
@@ -180,61 +236,5 @@
         "url": "https://www.biopharmadive.com/news/novo-anthropic-ai-drug-discovery-development-deal/830540/",
         "published_at": "2026-09-16 15:10",
         "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Researchers implant human neurons in mice brains to study disease",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/researchers-implant-human-neurons-in-mice-brains-to-study-disease/",
-        "published_at": "2026-09-16 15:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Sling banks $123M for an experimental thyroid eye disease pill",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/sling-linsitinib-series-c-financing-thyroid-eye-disease/830452/",
-        "published_at": "2026-09-16 14:54",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Novo signs Anthropic deal to test Claude Science in R&D",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/novo-signs-anthropic-deal-to-test-claude-science-in-rd/",
-        "published_at": "2026-09-16 14:10",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Skyhawk racks up more support for Huntington’s drug",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/skyhawk-huntingtons-drug-rna-splicing-results/830537/",
-        "published_at": "2026-09-16 13:05",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Novartis' TREM2 drug fails Phase 2 ALS trial",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/novartis-trem2-drug-fails-phase-2-als-trial/",
-        "published_at": "2026-09-16 11:24",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Sling gets $123M for Phase 3 trial of ex-Astellas drug in thyroid eye disease",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/sling-gets-123m-for-phase-3-trial-of-ex-astellas-drug-in-thyroid-eye-disease/",
-        "published_at": "2026-09-16 11:00",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "FDA clears first generic radioligand drug; Sionna turns to layoffs",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/radioligand-generic-sionna-layoffs-novo-contineum-arrowhead-corbus/830246/",
-        "published_at": "2026-09-15 21:13",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "WCLC ‘26: A new ‘ADC era,’ China questions and AstraZeneca’s spotlight",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/wclc-2026-adc-b7h3-china-study-results-astrazeneca/830247/",
-        "published_at": "2026-09-15 16:02",
-        "category": "Immunotherapy & Oncology"
     }
 ]
