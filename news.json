@@ -1,5 +1,68 @@
 [
     {
+        "title": "FDA offers little comment on Grail cancer test ahead of adcomm",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-offers-little-comment-on-grail-cancer-test-ahead-of-adcomm/",
+        "published_at": "2026-09-21 17:41",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Novo talks up drug launches in effort to win back investors",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/novo-capital-markets-day-obesity-sales-outlook/830882/",
+        "published_at": "2026-09-21 16:30",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Pfizer, Lilly 'most favored nation' deals to give US share of raised foreign prices",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/pfizer-lilly-most-favored-nation-deals-to-give-us-share-of-raised-foreign-prices/",
+        "published_at": "2026-09-21 16:14",
+        "category": "Vaccines & mRNA"
+    },
+    {
+        "title": "FDA approves ataxia-telangiectasia drug; Alkermes reports ADHD data",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-approves-ataxia-telangiectasia-drug-alkermes-reports-adhd-data/",
+        "published_at": "2026-09-21 15:30",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Novo offers low-dose CagriSema data as approval decision looms",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/novo-offers-low-dose-cagrisema-data-as-approval-decision-looms/",
+        "published_at": "2026-09-21 15:13",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Iambic signs AbbVie deal, releases next generation of Enchant model",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/iambic-signs-abbvie-deal-releases-next-generation-of-enchant-model/",
+        "published_at": "2026-09-21 14:45",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Telix and radioisotope maker ITM merge in deal worth up to $2.35B",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/telix-and-radioisotope-maker-itm-merge-in-deal-worth-up-to-2-35b/",
+        "published_at": "2026-09-21 13:52",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "ADARx targets $319M IPO as TRexBio, Retension join filing queue",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/adarx-targets-319m-ipo-as-trexbio-retension-join-filing-queue/",
+        "published_at": "2026-09-21 13:51",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Telix buys ITM in bid to create a ‘radiopharmaceutical powerhouse’",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/telix-itm-radiopharmaceuticals-deal-acquire-lutetium-novartis/830859/",
+        "published_at": "2026-09-21 11:49",
+        "category": "Mergers & Acquisitions"
+    },
+    {
         "title": "How J&J paved the way for Compass’ coming psychedelic drug launch",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/compass-nath-psychedelics-comp360-drug-launch-spravato-depression/830694/",
@@ -173,68 +236,5 @@
         "url": "https://endpoints.news/fda-grapples-with-china-biotechs-rise-across-the-agency/",
         "published_at": "2026-09-17 18:27",
         "category": "FDA & Regulatory"
-    },
-    {
-        "title": "UK government committees call for probe into US pharma deal",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/uk-government-committees-call-for-probe-into-us-pharma-deal/",
-        "published_at": "2026-09-17 17:01",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Cellares and Ori Biotech’s new cell therapy manufacturing contracts",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/cellares-and-ori-biotechs-new-cell-therapy-manufacturing-contracts/",
-        "published_at": "2026-09-17 16:47",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Novo partners with Orbis, deepening investment in oral peptide drugs",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/novo-orbis-macrocyclic-peptides-oral-obesity-drugs/830645/",
-        "published_at": "2026-09-17 15:55",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Two more biotechs, Marea and North Immunology, do reverse mergers",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/two-more-biotechs-marea-and-north-immunology-do-reverse-mergers/",
-        "published_at": "2026-09-17 15:35",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "A Parkinson's biotech debut, fundraising campaign and licensing deal",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/a-parkinsons-biotech-debut-fundraising-campaign-and-licensing-deal/",
-        "published_at": "2026-09-17 15:28",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "What's next for Medicare's health tech pilot",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/whats-next-for-medicares-health-tech-pilot/",
-        "published_at": "2026-09-17 15:17",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "North Immunology joins biotech reverse merger boom with Aethlon deal",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/north-immunology-aethlon-biotech-reverse-merger-eczema-drug/830631/",
-        "published_at": "2026-09-17 15:09",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "The Endpoints 11: How we picked 2026's most exciting biotech startups",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/the-endpoints-11-how-we-picked-2026s-most-exciting-biotech-startups/",
-        "published_at": "2026-09-17 14:52",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Roche eyes label expansion for Lunsumio after confirmatory lymphoma trial win",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/roche-eyes-label-expansion-for-lunsumio-after-confirmatory-lymphoma-trial-win/",
-        "published_at": "2026-09-17 14:34",
-        "category": "Immunotherapy & Oncology"
     }
 ]
