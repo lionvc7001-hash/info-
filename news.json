@@ -1,5 +1,19 @@
 [
     {
+        "title": "Beacon eye gene therapy hits mark in late-stage study",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/beacon-xlrp-laru-zova-phase-3-study-results/830918/",
+        "published_at": "2026-09-21 18:59",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Pentagon defends designating WuXi AppTec as Chinese military company",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/pentagon-defends-designating-wuxi-apptec-as-chinese-military-company/",
+        "published_at": "2026-09-21 18:44",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
         "title": "FDA offers little comment on Grail cancer test ahead of adcomm",
         "source": "Endpoints News",
         "url": "https://endpoints.news/fda-offers-little-comment-on-grail-cancer-test-ahead-of-adcomm/",
@@ -203,13 +217,6 @@
         "category": "Mergers & Acquisitions"
     },
     {
-        "title": "Lisata deal propels Marea’s drug pipeline to Wall Street",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/lisata-marea-deal-acquire-cardiovascular-endocrine-disease-drugs/830717/",
-        "published_at": "2026-09-17 21:39",
-        "category": "Mergers & Acquisitions"
-    },
-    {
         "title": "Bristol Myers scraps $100M Orum-partnered cancer drug",
         "source": "Endpoints News",
         "url": "https://endpoints.news/bristol-myers-scraps-orum-partnered-cancer-drug/",
@@ -229,12 +236,5 @@
         "url": "https://endpoints.news/internal-cms-email-confirms-globe-and-guard-exemption-plan/",
         "published_at": "2026-09-17 18:56",
         "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "FDA grapples with China biotech's rise across the agency",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-grapples-with-china-biotechs-rise-across-the-agency/",
-        "published_at": "2026-09-17 18:27",
-        "category": "FDA & Regulatory"
     }
 ]
