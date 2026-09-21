@@ -1,5 +1,47 @@
 [
     {
+        "title": "How J&J paved the way for Compass’ coming psychedelic drug launch",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/compass-nath-psychedelics-comp360-drug-launch-spravato-depression/830694/",
+        "published_at": "2026-09-21 11:30",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Novo aims to diversify with new pipeline assets and bolt-on deals",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/novo-aims-to-diversify-with-new-pipeline-assets-and-bolt-on-deals/",
+        "published_at": "2026-09-21 10:57",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Cue Biopharma's potential Xolair challenger passes Phase 2 chronic hives trial",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/cue-biopharmas-potential-xolair-challenger-passes-phase-2-chronic-hives-trial/",
+        "published_at": "2026-09-21 10:17",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Are healthcare systems really ready for GLP-1s?",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/spons/are-healthcare-systems-really-ready-for-glp-1s/829901/",
+        "published_at": "2026-09-21 09:00",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Behind the outcomes: How whole-patient support is reshaping oncology care",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/spons/behind-the-outcomes-how-whole-patient-support-is-reshaping-oncology-care/830455/",
+        "published_at": "2026-09-21 09:00",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Beacon says gene therapy succeeds in key trial of rare eye disease XLRP",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/beacon-says-gene-therapy-succeeds-in-key-trial-of-rare-eye-disease-xlrp/",
+        "published_at": "2026-09-21 06:00",
+        "category": "Clinical Trials"
+    },
+    {
         "title": "Another Novartis failure; Novo drops the ‘Nordisk’; and more",
         "source": "Endpoints News",
         "url": "https://endpoints.news/another-novartis-failure-novo-drops-the-nordisk-and-more/",
@@ -194,47 +236,5 @@
         "url": "https://endpoints.news/roche-eyes-label-expansion-for-lunsumio-after-confirmatory-lymphoma-trial-win/",
         "published_at": "2026-09-17 14:34",
         "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "General Catalyst details tech partnerships at Summa Health",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/general-catalyst-details-tech-partnerships-at-summa-health/",
-        "published_at": "2026-09-17 13:11",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Bavarian Nordic names Tarja Stenvall as new CEO",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/bavarian-nordic-names-tarja-stenvall-as-new-ceo/",
-        "published_at": "2026-09-17 11:15",
-        "category": "Vaccines & mRNA"
-    },
-    {
-        "title": "Lilly-backed Orbis does up to $1.4B macrocycle deal with Novo",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/lilly-backed-orbis-does-up-to-1-4b-macrocycle-deal-with-novo/",
-        "published_at": "2026-09-17 11:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Roche, Dualitas team up to find bispecific drugs for immune diseases",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/roche-dualitas-bispecific-antibodies-immune/830573/",
-        "published_at": "2026-09-17 10:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Novartis to pay $125M for blood-brain barrier crossing platform",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/novartis-125m-for-blood-brain-barrier-crossing-platform-Sironax/830560/",
-        "published_at": "2026-09-16 20:26",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Novo looks to Anthropic’s AI models to ‘supercharge’ drug development",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/novo-anthropic-ai-drug-discovery-development-deal/830540/",
-        "published_at": "2026-09-16 15:10",
-        "category": "Clinical Trials & R&D"
     }
 ]
