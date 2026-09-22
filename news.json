@@ -1,5 +1,68 @@
 [
     {
+        "title": "Compounder Empower receives FDA warning letter over GLP-1s",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/compounder-empower-receives-warning-letter-from-fda-over-glp-1s/",
+        "published_at": "2026-09-22 18:47",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Amgen reports a Phase 3 win with Sjögren’s drug candidate",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/amgen-dazodalibep-sjogrens-syndrome-study-results/831042/",
+        "published_at": "2026-09-22 18:31",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "US investigates German drug prices as EU pharmas seek to compete",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/us-weighs-tariffs-on-german-drugs-as-eu-pharmas-seek-to-compete/",
+        "published_at": "2026-09-22 18:12",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Novo's CEO knows the drugmaker needs to build confidence",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/novos-ceo-knows-the-drugmaker-needs-to-build-confidence/",
+        "published_at": "2026-09-22 17:49",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Vertex aims for broad kidney disease label ahead of key readout next year",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/vertex-aims-for-broad-kidney-disease-label-ahead-of-key-readout-next-year/",
+        "published_at": "2026-09-22 17:45",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Viking shares surge on updated obesity drug data",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/viking-obesity-drug-maintenance-study-results/831004/",
+        "published_at": "2026-09-22 16:10",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Celldex sinks as safety concerns cloud immune drug results",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/celldex-barzolvolimab-urticaria-study-results-embarq/830982/",
+        "published_at": "2026-09-22 15:42",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Celldex's hives drug faces safety questions despite Phase 3 successes",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/celldexs-hives-drug-faces-safety-questions-despite-phase-3-successes/",
+        "published_at": "2026-09-22 15:31",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Amgen's Phase 3 Sjögren's win; Novartis' $900M radioligand deal",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/amgens-phase-3-sjogrens-win-novartis-900m-radioligand-deal/",
+        "published_at": "2026-09-22 15:29",
+        "category": "Mergers & Acquisitions"
+    },
+    {
         "title": "Viking touts once-a-month weight loss maintenance data",
         "source": "Endpoints News",
         "url": "https://endpoints.news/viking-touts-once-a-month-weight-loss-maintenance-data/",
@@ -154,13 +217,6 @@
         "category": "Clinical Trials & R&D"
     },
     {
-        "title": "Behind the outcomes: How whole-patient support is reshaping oncology care",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/spons/behind-the-outcomes-how-whole-patient-support-is-reshaping-oncology-care/830455/",
-        "published_at": "2026-09-21 09:00",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
         "title": "Beacon says gene therapy succeeds in key trial of rare eye disease XLRP",
         "source": "Endpoints News",
         "url": "https://endpoints.news/beacon-says-gene-therapy-succeeds-in-key-trial-of-rare-eye-disease-xlrp/",
@@ -180,61 +236,5 @@
         "url": "https://endpoints.news/all-50-states-sign-up-for-most-favored-nation-prices-under-medicaid-trump-says/",
         "published_at": "2026-09-18 20:41",
         "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "FDA approves Lilly's oral SERD combo for second-line breast cancer therapy",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-approves-lillys-oral-serd-combo-for-second-line-breast-cancer-therapy/",
-        "published_at": "2026-09-18 19:32",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Post-Hoc Live: The China Biotech Debate goes to Washington",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/post-hoc-live-the-china-biotech-debate-goes-to-washington/",
-        "published_at": "2026-09-18 17:08",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "CHMP backs Novo’s hemophilia A drug and seven other medicines",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/chmp-backs-novos-hemophilia-a-drug-and-seven-other-medicines/",
-        "published_at": "2026-09-18 16:51",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "FDA says initial rejections of new drugs have declined",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-says-initial-rejections-of-new-drugs-have-declined/",
-        "published_at": "2026-09-18 16:26",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Xenon shares fall following depression trial pause",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/xenon-azetukalner-depression-trial-halt-adverse-events/830756/",
-        "published_at": "2026-09-18 15:51",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "China sets ambitious goals for global biopharma expansion in new five-year plan",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/china-sets-ambitions-goals-for-global-biopharma-expansion-in-new-five-year-plan/",
-        "published_at": "2026-09-18 15:07",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Anthropic starts verification program for using Mythos in biology",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/anthropic-starts-verification-program-for-using-mythos-in-biology/",
-        "published_at": "2026-09-18 14:46",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "This week in charts: GSK’s China deals, the $300M IPO club and selling the news",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/biotech-charts-gsk-china-electra-ipo-scholar-rock/830514/",
-        "published_at": "2026-09-18 14:43",
-        "category": "Mergers & Acquisitions"
     }
 ]
