@@ -1,5 +1,54 @@
 [
     {
+        "title": "Viking touts once-a-month weight loss maintenance data",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/viking-touts-once-a-month-weight-loss-maintenance-data/",
+        "published_at": "2026-09-22 15:07",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Nvidia-backed AI biotech Iambic Therapeutics files for IPO",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/nvidia-backed-ai-biotech-iambic-therapeutics-files-for-ipo/",
+        "published_at": "2026-09-22 14:37",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "An orexin drug’s ‘proof-of-concept’ in ADHD; Cue’s ‘unwarranted’ share slide",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/orexin-adhd-cue-urticaria-/830847/",
+        "published_at": "2026-09-22 14:17",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Insurers play catch-up",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/insurers-play-catch-up/",
+        "published_at": "2026-09-22 13:49",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "A federal AI experiment could transform chronic care — if doctors and patients want it",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/a-federal-ai-experiment-could-transform-chronic-care-if-doctors-and-patients-want-it/",
+        "published_at": "2026-09-22 13:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "A hidden tradeoff in Trump’s drug pricing deals",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/trump-mfn-drug-deals-medicare-savings/830922/",
+        "published_at": "2026-09-22 11:00",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Roche reports Phase 2 enicepatide data in overweight or obese patients with diabetes",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/roche-reports-phase-2-enicepatide-data-in-overweight-or-obese-patients-with-diabetes/",
+        "published_at": "2026-09-22 10:57",
+        "category": "Clinical Trials"
+    },
+    {
         "title": "Beacon eye gene therapy hits mark in late-stage study",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/beacon-xlrp-laru-zova-phase-3-study-results/830918/",
@@ -187,54 +236,5 @@
         "url": "https://www.biopharmadive.com/news/biotech-charts-gsk-china-electra-ipo-scholar-rock/830514/",
         "published_at": "2026-09-18 14:43",
         "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Ultragenyx prices Sanfilippo gene therapy at $4M; Bristol Myers shelves Orum drug",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/ultragenyx-fayuvi-orum-bristol-lunsumio-longeveron-rocket-danon/830512/",
-        "published_at": "2026-09-18 14:24",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Legend names new CEO as Carvykti competition grows; Vertex makes a flurry of moves",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/legend-names-new-ceo-as-carvykti-competition-grows-vertex-makes-a-flurry-of-moves/",
-        "published_at": "2026-09-18 11:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Electra's $350M IPO will help it become a commercial biotech",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/electras-350m-ipo-will-help-it-become-a-commercial-biotech/",
-        "published_at": "2026-09-18 00:43",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Electra amasses $350M in biotech’s latest big IPO",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/electra-biotech-ipo-price-secondary-hlh/830698/",
-        "published_at": "2026-09-18 00:42",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Bristol Myers scraps $100M Orum-partnered cancer drug",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/bristol-myers-scraps-orum-partnered-cancer-drug/",
-        "published_at": "2026-09-17 19:19",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "FDA approves Ultragenyx's gene therapy for Sanfilippo syndrome type A",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-approves-ultragenyxs-gene-therapy-for-sanfilippo-syndrome-type-a/",
-        "published_at": "2026-09-17 19:04",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Internal CMS email confirms Globe and Guard exemption plan",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/internal-cms-email-confirms-globe-and-guard-exemption-plan/",
-        "published_at": "2026-09-17 18:56",
-        "category": "Gene Editing & CRISPR"
     }
 ]
