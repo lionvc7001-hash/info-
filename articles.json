@@ -1,5 +1,54 @@
 [
     {
+        "title": "Baby KJ's gene-editing drug cost $1.65M to make, Fyodor Urnov says",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/baby-kjs-gene-editing-drug-cost-1-65m-to-make-fyodor-urnov-says/",
+        "published_at": "2026-09-23 18:05",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Roche, Ionis RNA drug scores in kidney disease study",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/roche-ionis-rna-study-iga-nephropathy/831152/",
+        "published_at": "2026-09-23 16:21",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Chinese vaccine scandal leads to life sentence; Flagship wins defense contract",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/chinese-vaccine-scandal-leads-to-life-sentence-flagship-wins-defense-contract/",
+        "published_at": "2026-09-23 15:46",
+        "category": "Vaccines & mRNA"
+    },
+    {
+        "title": "Enveda raises its third megaround for I&I and weight maintenance drug candidates",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/enveda-raises-its-third-megaround-for-ii-and-weight-maintenance-drug-candidates/",
+        "published_at": "2026-09-23 15:21",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "9 pharma leaders sound ‘alarm bells’ on biotech’s decline in Europe",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/europe-biotech-investment-decline-letter-pharma-chairs/831112/",
+        "published_at": "2026-09-23 15:13",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Roivant reports Phase 2b lupus failure for an FcRn drug",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/roivant-reports-phase-2b-lupus-failure-for-an-fcrn-drug/",
+        "published_at": "2026-09-23 14:49",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "In a changed world for cystic fibrosis, a family's fight reveals a new gap in care",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/in-a-changed-world-for-cystic-fibrosis-a-familys-fight-reveals-a-new-gap-in-care/",
+        "published_at": "2026-09-23 13:30",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
         "title": "AI startup Basecamp Research raises $140M Series C, shares pipeline",
         "source": "Endpoints News",
         "url": "https://endpoints.news/ai-startup-basecamp-research-raises-140m-series-c-shares-pipeline/",
@@ -182,59 +231,10 @@
         "category": "Mergers & Acquisitions"
     },
     {
-        "title": "Telix and radioisotope maker ITM merge in deal worth up to $2.35B",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/telix-and-radioisotope-maker-itm-merge-in-deal-worth-up-to-2-35b/",
-        "published_at": "2026-09-21 13:52",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "ADARx targets $319M IPO as TRexBio, Retension join filing queue",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/adarx-targets-319m-ipo-as-trexbio-retension-join-filing-queue/",
-        "published_at": "2026-09-21 13:51",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
         "title": "Telix buys ITM in bid to create a ‘radiopharmaceutical powerhouse’",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/telix-itm-radiopharmaceuticals-deal-acquire-lutetium-novartis/830859/",
         "published_at": "2026-09-21 11:49",
         "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "How J&J paved the way for Compass’ coming psychedelic drug launch",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/compass-nath-psychedelics-comp360-drug-launch-spravato-depression/830694/",
-        "published_at": "2026-09-21 11:30",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Novo aims to diversify with new pipeline assets and bolt-on deals",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/novo-aims-to-diversify-with-new-pipeline-assets-and-bolt-on-deals/",
-        "published_at": "2026-09-21 10:57",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Cue Biopharma's potential Xolair challenger passes Phase 2 chronic hives trial",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/cue-biopharmas-potential-xolair-challenger-passes-phase-2-chronic-hives-trial/",
-        "published_at": "2026-09-21 10:17",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Are healthcare systems really ready for GLP-1s?",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/spons/are-healthcare-systems-really-ready-for-glp-1s/829901/",
-        "published_at": "2026-09-21 09:00",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Beacon says gene therapy succeeds in key trial of rare eye disease XLRP",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/beacon-says-gene-therapy-succeeds-in-key-trial-of-rare-eye-disease-xlrp/",
-        "published_at": "2026-09-21 06:00",
-        "category": "Clinical Trials"
     }
 ]
