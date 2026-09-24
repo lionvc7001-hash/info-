@@ -1,5 +1,61 @@
 [
     {
+        "title": "Merck reveals study success, and possible safety worries, for eye drug hopeful",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/merck-remigromig-dme-study-results-eyebio/831234/",
+        "published_at": "2026-09-24 15:34",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Roche secures separate discovery deals with Atavistik, Earendil",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/roche-secures-separate-discovery-deals-with-earendil-atavistik/",
+        "published_at": "2026-09-24 15:30",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Sarepta to pay Regenxbio $39M to settle gene therapy claims; Vida eyes fourth fund",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/sarepta-to-pay-regenxbio-39m-to-settle-gene-therapy-claims-vida-eyes-4th-fund/",
+        "published_at": "2026-09-24 15:05",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Acadia drug fails mid-stage study in Alzheimer's psychosis, leading to modified Phase 3",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/acadia-drug-fails-mid-stage-study-in-alzheimers-psychosis-leading-to-modified-phase-3/",
+        "published_at": "2026-09-24 14:50",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Live: FDA commissioner nominee Heidi Overton set for Senate grilling",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/live-fda-commissioner-nominee-heidi-overton-set-for-senate-grilling/",
+        "published_at": "2026-09-24 14:32",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "AI, doomsday, and slowing the pace of health tech innovation",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/ai-doomsday-and-slowing-the-pace-of-health-tech-innovation/",
+        "published_at": "2026-09-24 14:26",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Lilly’s latest China drug deal; Immunovant’s setback in lupus",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/lilly-innocare-immunovant-vertex-inaxaplin-otsuka-ionis/831044/",
+        "published_at": "2026-09-24 14:14",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Merck’s return to ophthalmology snags first success",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/mercks-return-to-ophthalmology-snags-first-success/",
+        "published_at": "2026-09-24 12:14",
+        "category": "Mergers & Acquisitions"
+    },
+    {
         "title": "Kyverna says long-term data bolster FDA submission for rare autoimmune CAR-T",
         "source": "Endpoints News",
         "url": "https://endpoints.news/kyverna-says-long-term-data-bolster-fda-submission-for-car-t-in-rare-autoimmune-disease/",
@@ -175,66 +231,10 @@
         "category": "Immunotherapy & Oncology"
     },
     {
-        "title": "Insurers play catch-up",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/insurers-play-catch-up/",
-        "published_at": "2026-09-22 13:49",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "A federal AI experiment could transform chronic care — if doctors and patients want it",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/a-federal-ai-experiment-could-transform-chronic-care-if-doctors-and-patients-want-it/",
-        "published_at": "2026-09-22 13:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
         "title": "A hidden tradeoff in Trump’s drug pricing deals",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/trump-mfn-drug-deals-medicare-savings/830922/",
         "published_at": "2026-09-22 11:00",
         "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Roche reports Phase 2 enicepatide data in overweight or obese patients with diabetes",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/roche-reports-phase-2-enicepatide-data-in-overweight-or-obese-patients-with-diabetes/",
-        "published_at": "2026-09-22 10:57",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Beacon eye gene therapy hits mark in late-stage study",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/beacon-xlrp-laru-zova-phase-3-study-results/830918/",
-        "published_at": "2026-09-21 18:59",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Pentagon defends designating WuXi AppTec as Chinese military company",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/pentagon-defends-designating-wuxi-apptec-as-chinese-military-company/",
-        "published_at": "2026-09-21 18:44",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "FDA offers little comment on Grail cancer test ahead of adcomm",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-offers-little-comment-on-grail-cancer-test-ahead-of-adcomm/",
-        "published_at": "2026-09-21 17:41",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Novo talks up drug launches in effort to win back investors",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/novo-capital-markets-day-obesity-sales-outlook/830882/",
-        "published_at": "2026-09-21 16:30",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Pfizer, Lilly 'most favored nation' deals to give US share of raised foreign prices",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/pfizer-lilly-most-favored-nation-deals-to-give-us-share-of-raised-foreign-prices/",
-        "published_at": "2026-09-21 16:14",
-        "category": "Vaccines & mRNA"
     }
 ]
