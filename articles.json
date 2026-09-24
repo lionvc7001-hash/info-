@@ -1,5 +1,19 @@
 [
     {
+        "title": "Kyverna says long-term data bolster FDA submission for rare autoimmune CAR-T",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/kyverna-says-long-term-data-bolster-fda-submission-for-car-t-in-rare-autoimmune-disease/",
+        "published_at": "2026-09-24 10:02",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "In another China pact, Lilly makes a deal with InnoCare worth up to $3.35B",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/in-another-china-pact-lilly-makes-a-deal-with-innocare-worth-up-to-3-35b/",
+        "published_at": "2026-09-24 09:59",
+        "category": "Mergers & Acquisitions"
+    },
+    {
         "title": "FDA adcomm votes in favor of benefit-risk of Grail’s cancer test",
         "source": "Endpoints News",
         "url": "https://endpoints.news/fda-adcomm-raises-questions-on-effectiveness-of-grails-cancer-test/",
@@ -7,11 +21,11 @@
         "category": "Immunotherapy & Oncology"
     },
     {
-        "title": "Baby KJ's gene-editing drug cost $1.65M to make, Fyodor Urnov says",
+        "title": "Baby KJ's gene editing drug cost $1.65M to make, Fyodor Urnov says",
         "source": "Endpoints News",
         "url": "https://endpoints.news/baby-kjs-gene-editing-drug-cost-1-65m-to-make-fyodor-urnov-says/",
         "published_at": "2026-09-23 18:05",
-        "category": "Mergers & Acquisitions"
+        "category": "Gene Editing & CRISPR"
     },
     {
         "title": "Enveda, an AI drugmaker, banks $311M in venture funding",
@@ -222,19 +236,5 @@
         "url": "https://endpoints.news/pfizer-lilly-most-favored-nation-deals-to-give-us-share-of-raised-foreign-prices/",
         "published_at": "2026-09-21 16:14",
         "category": "Vaccines & mRNA"
-    },
-    {
-        "title": "FDA approves ataxia-telangiectasia drug; Alkermes reports ADHD data",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-approves-ataxia-telangiectasia-drug-alkermes-reports-adhd-data/",
-        "published_at": "2026-09-21 15:30",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Novo offers low-dose CagriSema data as approval decision looms",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/novo-offers-low-dose-cagrisema-data-as-approval-decision-looms/",
-        "published_at": "2026-09-21 15:13",
-        "category": "FDA & Regulatory"
     }
 ]
