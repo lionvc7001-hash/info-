@@ -1,5 +1,19 @@
 [
     {
+        "title": "Elevar wins first FDA approval with second-line drug for bile duct cancer",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/elevar-wins-first-fda-approval-with-second-line-bile-duct-cancer-drug/",
+        "published_at": "2026-09-24 17:08",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "FDA approves Eli Lilly's once-weekly insulin pen, setting up rivalry with Novo",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-approves-eli-lillys-once-weekly-insulin-pen-setting-up-rivalry-with-novo/",
+        "published_at": "2026-09-24 16:16",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
         "title": "Merck reveals study success, and possible safety worries, for eye drug hopeful",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/merck-remigromig-dme-study-results-eyebio/831234/",
@@ -28,7 +42,7 @@
         "category": "Clinical Trials"
     },
     {
-        "title": "Live: FDA commissioner nominee Heidi Overton set for Senate grilling",
+        "title": "Senators grill FDA nominee Heidi Overton",
         "source": "Endpoints News",
         "url": "https://endpoints.news/live-fda-commissioner-nominee-heidi-overton-set-for-senate-grilling/",
         "published_at": "2026-09-24 14:32",
@@ -208,20 +222,6 @@
         "url": "https://endpoints.news/amgens-phase-3-sjogrens-win-novartis-900m-radioligand-deal/",
         "published_at": "2026-09-22 15:29",
         "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Viking touts once-a-month weight loss maintenance data",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/viking-touts-once-a-month-weight-loss-maintenance-data/",
-        "published_at": "2026-09-22 15:07",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Nvidia-backed AI biotech Iambic Therapeutics files for IPO",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/nvidia-backed-ai-biotech-iambic-therapeutics-files-for-ipo/",
-        "published_at": "2026-09-22 14:37",
-        "category": "Pharma & FDA Regulatory"
     },
     {
         "title": "An orexin drug’s ‘proof-of-concept’ in ADHD; Cue’s ‘unwarranted’ share slide",
