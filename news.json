@@ -1,15 +1,85 @@
 [
     {
-        "title": "Kids shouldn’t have to organize childhood around medicine",
+        "title": "White House takes stock of US-based manufacturing for 86 essential drugs",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/white-house-takes-stock-of-us-based-manufacturing-for-86-essential-drugs/",
+        "published_at": "2026-09-28 17:41",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Kodiak skyrockets on positive study data for 2 eye drugs",
         "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/spons/kids-shouldnt-have-to-organize-childhood-around-medicine/831365/",
-        "published_at": "2026-09-28 09:00",
-        "category": "Clinical Trials & R&D"
+        "url": "https://www.biopharmadive.com/news/kodiak-tabirafusp-wet-amd-daybreak-study-results/831467/",
+        "published_at": "2026-09-28 16:11",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "An ‘off-the-shelf’ CAR-T therapy from Adicet shows promise against lupus",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/adicet-gamma-delta-cell-therapy-lupus-study-results/831483/",
+        "published_at": "2026-09-28 15:52",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Nonprofits' gene therapy for rare immune disease will cost $3.25M",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/nonprofits-gene-therapy-for-rare-immune-disease-will-cost-3-25-million/",
+        "published_at": "2026-09-28 15:45",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Scynexis' BARDA alliance; Bristol Myers' early data for dual-targeting CAR-T",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/scynexis-barda-alliance-bristol-myers-early-data-for-dual-targeting-car-t/",
+        "published_at": "2026-09-28 15:22",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Kodiak's stock soars as it clinches crucial Phase 3 win for Eylea competitor",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/kodiaks-stock-soars-as-it-clinches-crucial-phase-3-win-for-eylea-competitor/",
+        "published_at": "2026-09-28 15:19",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Roche cans muscle-preserving obesity drug, hands it back to Chugai",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/roche-cans-muscle-preserving-obesity-drug-hands-it-back-to-chugai/",
+        "published_at": "2026-09-28 14:06",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Merck licenses a KRAS G12D inhibitor for $400M upfront",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/merck-licenses-a-kras-g12d-inhibitor-for-400m-upfront/",
+        "published_at": "2026-09-28 14:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Merck, Daiichi end plans to seek speedy approval of lung cancer ADC",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/merck-daiichi-fda-withdraw-ifinatamab-deruxtecan-sclc/831440/",
+        "published_at": "2026-09-28 12:52",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Merck, Daiichi scrap FDA application for B7-H3 ADC in lung cancer",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/merck-daiichi-scrap-fda-application-for-b7-h3-adc-in-lung-cancer/",
+        "published_at": "2026-09-28 11:13",
+        "category": "Immunotherapy & Oncology"
     },
     {
         "title": "Breakthrough therapies still need builders",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/spons/breakthrough-therapies-still-need-builders/831034/",
+        "published_at": "2026-09-28 09:00",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Kids shouldn’t have to organize childhood around medicine",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/spons/kids-shouldnt-have-to-organize-childhood-around-medicine/831365/",
         "published_at": "2026-09-28 09:00",
         "category": "Clinical Trials & R&D"
     },
@@ -140,60 +210,11 @@
         "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "Endpoints 11 2026 winner K2 Therapeutics looks to marry China’s speed with global expertise",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/endpoints-11-2026-winner-k2-therapeutics-looks-to-marry-chinas-speed-with-global-expertise/",
-        "published_at": "2026-09-25 14:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Endpoints 11 2026 winner Vivodyne’s human tissue factory could change drug testing",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/endpoints-11-2026-winner-vivodynes-human-tissue-factory-could-change-drug-testing/",
-        "published_at": "2026-09-25 14:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
         "title": "Novo pursues long-acting obesity drugs; Acadia slumps on Alzheimer’s data",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/novo-nanexa-acadia-remlifanserin-nektar-lilly-onswik-welireg/831346/",
         "published_at": "2026-09-25 13:21",
         "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Merck expands Welireg's use to broader set of kidney cancer patients",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/merck-expands-weliregs-use-to-broader-set-of-kidney-cancer-patients/",
-        "published_at": "2026-09-25 12:37",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Alnylam alumni lead RNAi biotech City Therapeutics to IPO filing",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/alnylam-alumni-led-rnai-biotech-city-therapeutics-files-for-ipo/",
-        "published_at": "2026-09-25 11:04",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Travere CEO Eric Dube on deciding to leave; Roche tees up a board seat for ex-Takeda chief",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/travere-ceo-eric-dube-on-deciding-to-leave-roche-tees-up-ex-takeda-ceo-on-its-board/",
-        "published_at": "2026-09-25 11:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Novo does another small deal, this time with drug delivery biotech Nanexa",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/novo-does-another-small-deal-this-time-with-drug-delivery-biotech-nanexa/",
-        "published_at": "2026-09-25 10:29",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "ADARx prices $446.3M Nasdaq debut, continuing industry's IPO momentum",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/adarx-prices-446-3m-nasdaq-debut-continuing-industrys-ipo-momentum/",
-        "published_at": "2026-09-25 07:46",
-        "category": "Gene Editing & CRISPR"
     },
     {
         "title": "RNAi drug specialist ADARx raises $446M IPO",
@@ -215,26 +236,5 @@
         "url": "https://www.biopharmadive.com/news/overton-senate-hearing-fda-vaccines-abortion-china/831285/",
         "published_at": "2026-09-24 20:46",
         "category": "Vaccines & mRNA"
-    },
-    {
-        "title": "Merck reveals study success, and possible safety worries, for eye drug hopeful",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/merck-remigromig-dme-study-results-eyebio/831234/",
-        "published_at": "2026-09-24 15:34",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Lilly’s latest China drug deal; Immunovant’s setback in lupus",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/lilly-innocare-immunovant-vertex-inaxaplin-otsuka-ionis/831044/",
-        "published_at": "2026-09-24 14:14",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Enveda, an AI drugmaker, banks $311M in venture funding",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/enveda-ai-drug-discovery-series-e/831161/",
-        "published_at": "2026-09-23 17:55",
-        "category": "Mergers & Acquisitions"
     }
 ]
