@@ -1,5 +1,26 @@
 [
     {
+        "title": "Beam sues YolTech and Serapha Bio for allegedly stealing its gene editing tech",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/beam-sues-yoltech-and-serapha-bio-for-allegedly-stealing-its-gene-editing-tech/",
+        "published_at": "2026-09-29 19:05",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Beam sues 2 biotechs, alleging theft of base editing trade secrets",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/beam-serapha-yoltech-base-editing-lawsuit/831663/",
+        "published_at": "2026-09-29 18:34",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "PhRMA picks Eric Cantor as next chief",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/phrma-picks-eric-cantor-as-next-chief/",
+        "published_at": "2026-09-29 17:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
         "title": "Novo to pay Hengrui up to $2.6B for a once-weekly obesity pill",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/novo-hengrui-oral-obesity-drug-deal/831607/",
@@ -214,27 +235,6 @@
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/spons/kids-shouldnt-have-to-organize-childhood-around-medicine/831365/",
         "published_at": "2026-09-28 09:00",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "AbbVie's next-gen dopamine therapy for Parkinson's gets FDA approval",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-approves-abbvie-next-gen-dopamine-therapy-for-parkinsons/",
-        "published_at": "2026-09-26 16:01",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "The drug industry’s care gap; Novo aims to diversify; and more",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/the-drug-industrys-care-gap-novo-aims-to-diversify-and-more/",
-        "published_at": "2026-09-26 10:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "This week in charts: Novo’s rise and fall and AI biotechs’ big haul",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/novo-nordisk-share-price-ai-drug-discovery/831366/",
-        "published_at": "2026-09-25 16:08",
         "category": "Clinical Trials & R&D"
     }
 ]
