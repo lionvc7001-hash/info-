@@ -1,5 +1,61 @@
 [
     {
+        "title": "Patient death raises liver questions ahead of Bristol Myers readout",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/patient-death-raises-liver-questions-ahead-of-bristol-myers-readout/",
+        "published_at": "2026-09-30 18:41",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "New biotech alliance tells Congress to fight for US dominace",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/new-biotech-alliance-tells-congress-to-fight-for-us-dominace/",
+        "published_at": "2026-09-30 17:30",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Bristol Myers trial revisions shake confidence in new class of fibrosis drugs",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/bristol-admilparant-fibrosis-aloft-study-amendment-lpa1r-contineum/831763/",
+        "published_at": "2026-09-30 16:22",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "FDA starts review of Roche’s multiple sclerosis pill",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/roche-fenebrutinib-ms-fda-accept-application-btk/831746/",
+        "published_at": "2026-09-30 15:54",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Varda gets $251M to make medicines in space, a long-sought area for drugs",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/varda-gets-251m-to-make-medicines-in-space-a-long-sought-area-for-drugs/",
+        "published_at": "2026-09-30 15:35",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "AbbVie's eczema drug shows benefit in Phase 2; BioMarin lays off 117",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/abbvies-eczema-drug-shows-benefit-in-phase-2-biomarin-lays-off-117/",
+        "published_at": "2026-09-30 15:32",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "PhRMA names next CEO; Pierre Fabre takes third swing at Ebvallo approval",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/phrma-cantor-ebvallo-fda-mirum-bluejay-abbvie-juvmo/831450/",
+        "published_at": "2026-09-30 14:18",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "#EASD26: Lilly's amylin-Zepbound combo posts best-ever weight loss in patients with obesity and diabetes",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/easd26-lillys-amylin-zepbound-combo-posts-best-ever-weight-loss-in-patients-with-obesity-and-diabetes/",
+        "published_at": "2026-09-30 14:15",
+        "category": "FDA & Regulatory"
+    },
+    {
         "title": "Ned Sharpless joins Hatteras, as Andrew Witty returns to the VC firm as chairman",
         "source": "Endpoints News",
         "url": "https://endpoints.news/ned-sharpless-joins-hatteras-as-andrew-witty-returns-to-the-vc-firm-as-chairman/",
@@ -168,27 +224,6 @@
         "category": "Immunotherapy & Oncology"
     },
     {
-        "title": "Adicet Bio shares promising look at CAR-T for lupus, but stock drops anyway",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/adicet-bio-shares-promising-look-at-car-t-for-lupus-but-stock-drops-anyway/",
-        "published_at": "2026-09-28 19:01",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Mirum reports Phase 3 victory for acquired hepatitis D med",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/mirum-reports-phase-3-victory-for-acquired-hepatitis-d-med/",
-        "published_at": "2026-09-28 18:50",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "White House takes stock of US-based manufacturing for 86 essential drugs",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/white-house-takes-stock-of-us-based-manufacturing-for-86-essential-drugs/",
-        "published_at": "2026-09-28 17:41",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
         "title": "Kodiak skyrockets on positive study data for 2 eye drugs",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/kodiak-tabirafusp-wet-amd-daybreak-study-results/831467/",
@@ -201,40 +236,5 @@
         "url": "https://www.biopharmadive.com/news/adicet-gamma-delta-cell-therapy-lupus-study-results/831483/",
         "published_at": "2026-09-28 15:52",
         "category": "Clinical Trials"
-    },
-    {
-        "title": "Nonprofits' gene therapy for rare immune disease will cost $3.25M",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/nonprofits-gene-therapy-for-rare-immune-disease-will-cost-3-25-million/",
-        "published_at": "2026-09-28 15:45",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Scynexis' BARDA alliance; Bristol Myers' early data for dual-targeting CAR-T",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/scynexis-barda-alliance-bristol-myers-early-data-for-dual-targeting-car-t/",
-        "published_at": "2026-09-28 15:22",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Merck, Daiichi end plans to seek speedy approval of lung cancer ADC",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/merck-daiichi-fda-withdraw-ifinatamab-deruxtecan-sclc/831440/",
-        "published_at": "2026-09-28 12:52",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Breakthrough therapies still need builders",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/spons/breakthrough-therapies-still-need-builders/831034/",
-        "published_at": "2026-09-28 09:00",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Kids shouldn’t have to organize childhood around medicine",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/spons/kids-shouldnt-have-to-organize-childhood-around-medicine/831365/",
-        "published_at": "2026-09-28 09:00",
-        "category": "Clinical Trials & R&D"
     }
 ]
