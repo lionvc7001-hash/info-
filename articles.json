@@ -1,5 +1,82 @@
 [
     {
+        "title": "United Therapeutics' legal victory; BMS' Camzyos approved for kids",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/united-therapeutics-legal-victory-bms-camzyos-approved-for-kids/",
+        "published_at": "2026-10-01 15:29",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Is AI jacking up healthcare costs?",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/is-ai-jacking-up-healthcare-costs/",
+        "published_at": "2026-10-01 15:26",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Lilly pulls back from Foghorn's synthetic lethality work as biotech sheds 40% of staff",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/lilly-pulls-back-from-foghorns-synthetic-lethality-work-as-biotech-sheds-40-of-staff/",
+        "published_at": "2026-10-01 14:14",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "#EASD26: Regeneron's antibody helps patients regain muscle after stopping GLP-1 therapy",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/easd26-regenerons-antibody-helps-patients-regain-muscle-after-stopping-glp-1-therapy/",
+        "published_at": "2026-10-01 13:42",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Q&A: Anthropic's life sciences team talk Claude's first scientific discovery",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/qa-anthropics-life-sciences-team-talk-claudes-first-scientific-discovery/",
+        "published_at": "2026-10-01 13:35",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "5 FDA decisions to watch in the fourth quarter of 2026",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/fda-approval-decisions-watch-2026/808684/",
+        "published_at": "2026-10-01 13:04",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Parakeet Health raises $10M to automate patient outreach",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/parakeet-health-raises-10m-to-automate-patient-outreach/",
+        "published_at": "2026-10-01 13:00",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Insurer startup Devoted Health raises $1.2B as it revs up growth",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/insurer-startup-devoted-health-raises-1-2b-as-it-revs-up-growth/",
+        "published_at": "2026-10-01 13:00",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Kallyope rebrands after Novo obesity deal, gets $94M for Phase 3 migraine drug",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/kallyope-rebrands-after-novo-obesity-deal-gets-94m-for-phase-3-migraine-drug/",
+        "published_at": "2026-10-01 11:00",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Lawmakers hear mixed opinions on psychedelics credentialing",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/lawmakers-hear-mixed-opinions-on-psychedelics-credentialing/",
+        "published_at": "2026-10-01 11:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Sanofi builds on immunology alliance with Regeneron for $1B upfront",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/sanofi-builds-on-immunology-alliance-with-regeneron-for-1b-upfront/",
+        "published_at": "2026-10-01 09:53",
+        "category": "Mergers & Acquisitions"
+    },
+    {
         "title": "#EASD26: Boehringer's weight loss candidate trails rivals in diabetes and obesity",
         "source": "Endpoints News",
         "url": "https://endpoints.news/easd26-boehringer-weight-loss-candidate-trails-rivals-in-diabetes-and-obesity/",
@@ -7,7 +84,7 @@
         "category": "Clinical Trials"
     },
     {
-        "title": "CMS finalizes GLOBE Medicare demo but savings trail projections",
+        "title": "CMS finalizes GLOBE Medicare demo, but savings trail projections",
         "source": "Endpoints News",
         "url": "https://endpoints.news/cms-finalizes-globe-medicare-demo-but-savings-trail-projections/",
         "published_at": "2026-09-30 22:01",
@@ -140,48 +217,6 @@
         "category": "Mergers & Acquisitions"
     },
     {
-        "title": "Ascletis challenges psoriasis field with pill; Invivyd plans Covid filing",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/ascletis-challenges-psoriasis-field-with-pill-invivyd-plans-covid-filing/",
-        "published_at": "2026-09-29 14:46",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "UniQure sinks as Huntington's gene therapy appears to show waning benefit over time",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/uniqure-sinks-as-huntingtons-gene-therapy-appears-to-show-waning-benefit-over-time/",
-        "published_at": "2026-09-29 14:23",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Oura just pulled its IPO",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/oura-just-pulled-its-ipo/",
-        "published_at": "2026-09-29 14:11",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "ARCH and Population Health return to China for new startup Somnivera, targeting sleep",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/arch-and-population-health-return-to-china-for-new-startup-somnivera-targeting-sleep/",
-        "published_at": "2026-09-29 13:16",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "After GLP-1s, biosimilars are the new frontier in direct-to-employer plans",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/after-glp-1s-biosimilars-are-the-new-frontier-in-direct-to-employer-plans/",
-        "published_at": "2026-09-29 13:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Spark co-founder Steven Altschuler is back with an immune-resetting biotech",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/spark-co-founder-steven-altschuler-is-back-with-an-immune-resetting-biotech/",
-        "published_at": "2026-09-29 13:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
         "title": "ai3Bio, built from two biotechs, pursues a different path to an ‘immune reset’",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/ai3bio-th17-drugs-immune-reset-launch-series-a/831521/",
@@ -196,45 +231,10 @@
         "category": "Mergers & Acquisitions"
     },
     {
-        "title": "AI health startup Ortet launches with $500M and co-founders from Genentech",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/ai-health-startup-ortet-launches-with-500m-and-ex-genentech-co-founders/",
-        "published_at": "2026-09-29 11:45",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Novo to spend $300M upfront to license Hengrui's weekly oral weight loss drug",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/novo-to-spend-300m-upfront-to-license-hengruis-weekly-oral-weight-loss-drug/",
-        "published_at": "2026-09-29 11:04",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Swedish biotech AnaCardio raises $70.9M to advance 'safer' heart failure drug",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/swedish-biotech-anacardio-raises-70-9m-to-advance-safer-heart-failure-drug/",
-        "published_at": "2026-09-29 11:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "BioNTech to close three sites in Germany after failing to secure a sale",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/biontech-to-close-three-sites-in-germany-after-failing-to-secure-a-sale/",
-        "published_at": "2026-09-29 10:28",
-        "category": "Mergers & Acquisitions"
-    },
-    {
         "title": "Kodiak skyrockets on positive study data for 2 eye drugs",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/kodiak-tabirafusp-wet-amd-daybreak-study-results/831467/",
         "published_at": "2026-09-28 16:11",
         "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "An ‘off-the-shelf’ CAR-T therapy from Adicet shows promise against lupus",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/adicet-gamma-delta-cell-therapy-lupus-study-results/831483/",
-        "published_at": "2026-09-28 15:52",
-        "category": "Clinical Trials"
     }
 ]
