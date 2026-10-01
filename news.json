@@ -1,5 +1,19 @@
 [
     {
+        "title": "3 takeaways from a European obesity scientific meeting",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/3-takeaways-from-european-obesity-scientific-meeting/831870/",
+        "published_at": "2026-10-01 16:16",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Sanofi, Regeneron broaden alliance to find their next Dupixent",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/sanofi-regeneron-alliance-expanded-dupixent-immunology-drugs-development/831894/",
+        "published_at": "2026-10-01 15:38",
+        "category": "Mergers & Acquisitions"
+    },
+    {
         "title": "United Therapeutics' legal victory; BMS' Camzyos approved for kids",
         "source": "Endpoints News",
         "url": "https://endpoints.news/united-therapeutics-legal-victory-bms-camzyos-approved-for-kids/",
@@ -12,6 +26,13 @@
         "url": "https://endpoints.news/is-ai-jacking-up-healthcare-costs/",
         "published_at": "2026-10-01 15:26",
         "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "HHS kicks off new programs to speed clinical trials as Chinese competition looms",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/hhs-clinical-trial-speed-arpa-h-drug-testing/831909/",
+        "published_at": "2026-10-01 15:06",
+        "category": "Mergers & Acquisitions"
     },
     {
         "title": "Lilly pulls back from Foghorn's synthetic lethality work as biotech sheds 40% of staff",
@@ -214,27 +235,6 @@
         "source": "Endpoints News",
         "url": "https://endpoints.news/sk-pharmteco-unveils-200m-investment-to-expand-cdmo-capabilities/",
         "published_at": "2026-09-29 15:15",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "ai3Bio, built from two biotechs, pursues a different path to an ‘immune reset’",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/ai3bio-th17-drugs-immune-reset-launch-series-a/831521/",
-        "published_at": "2026-09-29 13:00",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "AstraZeneca invests $2B in Summit, gaining ‘seat at the table’ for PD-1/VEGF drug push",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/summit-astrazeneca-ivonescimab-deal-pd1-vegf/752865/",
-        "published_at": "2026-09-29 12:49",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Kodiak skyrockets on positive study data for 2 eye drugs",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/kodiak-tabirafusp-wet-amd-daybreak-study-results/831467/",
-        "published_at": "2026-09-28 16:11",
         "category": "Mergers & Acquisitions"
     }
 ]
