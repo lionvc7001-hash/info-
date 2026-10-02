@@ -1,5 +1,40 @@
 [
     {
+        "title": "Geographic atrophy biotech Aviceda to shut down after Phase 2 fail",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/geographic-atrophy-biotech-aviceda-to-shut-down-after-phase-2-fail/",
+        "published_at": "2026-10-02 18:36",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "FDA opens clinical trial modernization office in CDER",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-opens-clinical-trial-modernization-office-in-cder/",
+        "published_at": "2026-10-02 17:56",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Lilly signals move into aesthetics, looking to add products for body, skin and hair",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/lilly-signals-move-into-aesthetics-looking-to-add-products-for-body-skin-and-hair/",
+        "published_at": "2026-10-02 15:14",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "This week in charts: Kodiak’s big comeback and Hengrui’s dealmaking",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/week-in-charts-kodiaks-big-comeback-and-hengruis-dealmaking/831690/",
+        "published_at": "2026-10-02 15:00",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Summit partners with AstraZeneca and Daiichi; Eccogene earns $50M milestone",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/summit-partners-with-astrazeneca-and-daiichi-eccogene-earns-50m-milestone/",
+        "published_at": "2026-10-02 14:48",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
         "title": "David Sinclair's latest salvo aims to stall aging with a pill",
         "source": "Endpoints News",
         "url": "https://endpoints.news/david-sinclairs-latest-salvo-aims-to-stall-aging-with-a-pill/",
@@ -68,6 +103,13 @@
         "url": "https://www.biopharmadive.com/news/hhs-clinical-trial-speed-arpa-h-drug-testing/831909/",
         "published_at": "2026-10-01 15:06",
         "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Pfizer’s eczema drug clears skin in mid-stage trial",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/pfizer-eczema-drug-clears-skin-in-mid-stage-trial/831905/",
+        "published_at": "2026-10-01 15:03",
+        "category": "Vaccines & mRNA"
     },
     {
         "title": "Lilly pulls back from Foghorn's synthetic lethality work as biotech sheds 40% of staff",
@@ -194,47 +236,5 @@
         "url": "https://www.biopharmadive.com/news/phrma-cantor-ebvallo-fda-mirum-bluejay-abbvie-juvmo/831450/",
         "published_at": "2026-09-30 14:18",
         "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "#EASD26: Lilly's amylin-Zepbound combo posts best-ever weight loss in patients with obesity and diabetes",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/easd26-lillys-amylin-zepbound-combo-posts-best-ever-weight-loss-in-patients-with-obesity-and-diabetes/",
-        "published_at": "2026-09-30 14:15",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "An AI agent made a tiny drug R&D mistake. Then it kept going.",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/ai-agents-drug-rd-errors-autonomy/831896/",
-        "published_at": "2026-09-30 13:00",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Ned Sharpless joins Hatteras, as Andrew Witty returns to the VC firm as chairman",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/ned-sharpless-joins-hatteras-as-andrew-witty-returns-to-the-vc-firm-as-chairman/",
-        "published_at": "2026-09-30 11:07",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "#EADV26: Merck shows off mid-stage win for Prometheus drug in skin condition",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/eadv26-merck-shows-off-mid-stage-win-for-prometheus-drug-in-skin-condition/",
-        "published_at": "2026-09-30 05:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "#EASD26: Zealand and Roche's amylin works best at middle dose, trails Lilly's",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/easd26-zealand-roches-amylin-works-best-at-middle-dose-but-still-trails-lillys/",
-        "published_at": "2026-09-29 22:01",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Beam sues 2 biotechs, alleging theft of base editing trade secrets",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/beam-serapha-yoltech-base-editing-lawsuit/831663/",
-        "published_at": "2026-09-29 18:34",
-        "category": "Clinical Trials & R&D"
     }
 ]
