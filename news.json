@@ -1,10 +1,45 @@
 [
     {
+        "title": "David Sinclair's latest salvo aims to stall aging with a pill",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/david-sinclairs-latest-salvo-aims-to-stall-aging-with-a-pill/",
+        "published_at": "2026-10-02 13:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "#EASD26: Regeneron sees a future combining its obesity drug with lipid-lowering therapy",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/easd26-regeneron-sees-a-future-combining-its-obesity-drug-with-lipid-lowering-therapy/",
+        "published_at": "2026-10-02 11:00",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Moderna, Neurocrine bring back familiar faces; Pharming CEO exits after clashing with board",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/moderna-neurocrine-bring-back-familiar-faces-pharming-ceo-exits-after-clashing-with-board/",
+        "published_at": "2026-10-02 11:00",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Novartis takes rights to Abogen's mRNA T cell engager for $575M upfront",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/novartis-takes-rights-to-abogens-mrna-t-cell-engager-for-575m-upfront/",
+        "published_at": "2026-10-02 08:55",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
         "title": "3 takeaways from a European obesity scientific meeting",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/3-takeaways-from-european-obesity-scientific-meeting/831870/",
         "published_at": "2026-10-01 16:16",
         "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Lilly, Foghorn part ways; Wave’s FDA-approved plans",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/foghorn-eli-lilly-wave-samsung-bioepis-teva-varda-hatteras/831918/",
+        "published_at": "2026-10-01 16:04",
+        "category": "Immunotherapy & Oncology"
     },
     {
         "title": "Sanofi, Regeneron broaden alliance to find their next Dupixent",
@@ -49,7 +84,7 @@
         "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "Q&A: Anthropic's life sciences team talk Claude's first scientific discovery",
+        "title": "Q&A: Anthropic's life sciences team talks Claude's first scientific discovery",
         "source": "Endpoints News",
         "url": "https://endpoints.news/qa-anthropics-life-sciences-team-talk-claudes-first-scientific-discovery/",
         "published_at": "2026-10-01 13:35",
@@ -168,6 +203,13 @@
         "category": "FDA & Regulatory"
     },
     {
+        "title": "An AI agent made a tiny drug R&D mistake. Then it kept going.",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/ai-agents-drug-rd-errors-autonomy/831896/",
+        "published_at": "2026-09-30 13:00",
+        "category": "Clinical Trials & R&D"
+    },
+    {
         "title": "Ned Sharpless joins Hatteras, as Andrew Witty returns to the VC firm as chairman",
         "source": "Endpoints News",
         "url": "https://endpoints.news/ned-sharpless-joins-hatteras-as-andrew-witty-returns-to-the-vc-firm-as-chairman/",
@@ -189,52 +231,10 @@
         "category": "Clinical Trials"
     },
     {
-        "title": "#EASD26: Lilly's triple-G allows 60% of patients to drop below obesity threshold",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/easd26-lillys-triple-g-allows-60-of-patients-to-drop-below-obesity-threshold/",
-        "published_at": "2026-09-29 22:01",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Beam sues YolTech and Serapha Bio for allegedly stealing its gene editing tech",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/beam-sues-yoltech-and-serapha-bio-for-allegedly-stealing-its-gene-editing-tech/",
-        "published_at": "2026-09-29 19:05",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
         "title": "Beam sues 2 biotechs, alleging theft of base editing trade secrets",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/beam-serapha-yoltech-base-editing-lawsuit/831663/",
         "published_at": "2026-09-29 18:34",
         "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "PhRMA picks Eric Cantor as next chief",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/phrma-picks-eric-cantor-as-next-chief/",
-        "published_at": "2026-09-29 17:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Novo to pay Hengrui up to $2.6B for a once-weekly obesity pill",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/novo-hengrui-oral-obesity-drug-deal/831607/",
-        "published_at": "2026-09-29 15:52",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "UniQure tumbles with latest data for Huntington’s gene therapy",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/uniqure-huntingtons-four-year-data-gene-therapy-results/831611/",
-        "published_at": "2026-09-29 15:36",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "SK pharmteco unveils $200M+ investment to expand CDMO capabilities",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/sk-pharmteco-unveils-200m-investment-to-expand-cdmo-capabilities/",
-        "published_at": "2026-09-29 15:15",
-        "category": "Mergers & Acquisitions"
     }
 ]
