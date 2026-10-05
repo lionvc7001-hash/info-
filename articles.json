@@ -1,5 +1,103 @@
 [
     {
+        "title": "FDA delays Novo’s hemophilia A drug review over factory issues",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-delays-novos-hemophilia-a-drug-review-over-factory-issues/",
+        "published_at": "2026-10-05 16:27",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Shionogi pays $2B to acquire a rare disease startup",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/shionogi-pays-2b-to-acquire-a-rare-disease-startup/832103/",
+        "published_at": "2026-10-05 15:57",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Vaxcyte's pneumococcal vaccine succeeds in Phase 3, stock surges",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/vaxcytes-pneumococcal-vaccine-succeeds-in-phase-3-stock-surges/",
+        "published_at": "2026-10-05 15:06",
+        "category": "Vaccines & mRNA"
+    },
+    {
+        "title": "Genmab details ovarian cancer data; Lilly's Jaypirca gets a label expansion",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/genmab-details-ovarian-cancer-data-lillys-jaypirca-gets-a-label-expansion/",
+        "published_at": "2026-10-05 15:02",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Roche enlists Alector in Parkinson's deal, paying $100M upfront",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/roche-enlists-alector-in-parkinsons-deal-paying-100m-upfront/",
+        "published_at": "2026-10-05 14:30",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Shionogi to pay $2B for IntraBio, a commercial rare disease biotech",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/shionogi-to-pay-2b-for-intrabio-a-commercial-rare-disease-biotech/",
+        "published_at": "2026-10-05 14:19",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Special report 2026: Meet 20 women changing the biopharma industry as we know it",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/special-report-2026-meet-20-women-changing-the-biopharma-industry-as-we-know-it/",
+        "published_at": "2026-10-05 14:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Optogenetics researchers win a Nobel Prize; Roche bets on Alector brain drug",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/nobel-optogenetics-roche-alector-csl-alentis-jaypirca-bayer/832083/",
+        "published_at": "2026-10-05 13:57",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Vaxcyte skyrockets on ‘near best-case’ pneumococcal vaccine data",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/vaxcyte-pneumococcal-vaccine-opus-study-results-prevnar-capvaxive/832095/",
+        "published_at": "2026-10-05 13:52",
+        "category": "Vaccines & mRNA"
+    },
+    {
+        "title": "Nobel goes to scientists who paved the way for light-activated gene therapies",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/nobel-goes-to-scientists-who-paved-the-way-for-light-activated-gene-therapies/",
+        "published_at": "2026-10-05 11:08",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Sensible Bio secures $47M Series A for mRNA therapy manufacturing platform",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/sensible-bio-secures-47m-series-a-for-mrna-therapy-manufacturing-platform/",
+        "published_at": "2026-10-05 11:00",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Epicrispr builds case for FSHD treatment with updated data for EPI-321",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/epicrispr-builds-case-for-fshd-treatment-with-updated-data-for-epi-321/",
+        "published_at": "2026-10-05 11:00",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Precision for All: Closing the gap between innovation and impact",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/spons/precision-for-all-closing-the-gap-between-innovation-and-impact/831229/",
+        "published_at": "2026-10-05 09:00",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "How AI is transforming biopharma manufacturing facilities of the future",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/spons/how-ai-is-transforming-biopharma-manufacturing-facilities-of-the-future/831222/",
+        "published_at": "2026-10-05 09:00",
+        "category": "Clinical Trials & R&D"
+    },
+    {
         "title": "CSL to pay $355M upfront to co-develop Alentis’ kidney and liver drug",
         "source": "Endpoints News",
         "url": "https://endpoints.news/csl-to-pay-355m-upfront-to-co-develop-alentis-kidney-and-liver-drug/",
@@ -54,6 +152,13 @@
         "url": "https://endpoints.news/summit-partners-with-astrazeneca-and-daiichi-eccogene-earns-50m-milestone/",
         "published_at": "2026-10-02 14:48",
         "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Novartis wagers almost $8B on a Chinese biotech’s RNA drugs",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/novartis-abogen-pipeline-collaboration-china/832008/",
+        "published_at": "2026-10-02 14:16",
+        "category": "Gene Editing & CRISPR"
     },
     {
         "title": "David Sinclair's latest salvo aims to stall aging with a pill",
@@ -119,20 +224,6 @@
         "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "HHS kicks off new programs to speed clinical trials as Chinese competition looms",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/hhs-clinical-trial-speed-arpa-h-drug-testing/831909/",
-        "published_at": "2026-10-01 15:06",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Pfizer’s eczema drug clears skin in mid-stage trial",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/pfizer-eczema-drug-clears-skin-in-mid-stage-trial/831905/",
-        "published_at": "2026-10-01 15:03",
-        "category": "Vaccines & mRNA"
-    },
-    {
         "title": "Lilly pulls back from Foghorn's synthetic lethality work as biotech sheds 40% of staff",
         "source": "Endpoints News",
         "url": "https://endpoints.news/lilly-pulls-back-from-foghorns-synthetic-lethality-work-as-biotech-sheds-40-of-staff/",
@@ -145,96 +236,5 @@
         "url": "https://endpoints.news/easd26-regenerons-antibody-helps-patients-regain-muscle-after-stopping-glp-1-therapy/",
         "published_at": "2026-10-01 13:42",
         "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Q&A: Anthropic's life sciences team talks Claude's first scientific discovery",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/qa-anthropics-life-sciences-team-talk-claudes-first-scientific-discovery/",
-        "published_at": "2026-10-01 13:35",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "5 FDA decisions to watch in the fourth quarter of 2026",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/fda-approval-decisions-watch-2026/808684/",
-        "published_at": "2026-10-01 13:04",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Parakeet Health raises $10M to automate patient outreach",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/parakeet-health-raises-10m-to-automate-patient-outreach/",
-        "published_at": "2026-10-01 13:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Insurer startup Devoted Health raises $1.2B as it revs up growth",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/insurer-startup-devoted-health-raises-1-2b-as-it-revs-up-growth/",
-        "published_at": "2026-10-01 13:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Kallyope rebrands after Novo obesity deal, gets $94M for Phase 3 migraine drug",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/kallyope-rebrands-after-novo-obesity-deal-gets-94m-for-phase-3-migraine-drug/",
-        "published_at": "2026-10-01 11:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Lawmakers hear mixed opinions on psychedelics credentialing",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/lawmakers-hear-mixed-opinions-on-psychedelics-credentialing/",
-        "published_at": "2026-10-01 11:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Sanofi builds on immunology alliance with Regeneron for $1B upfront",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/sanofi-builds-on-immunology-alliance-with-regeneron-for-1b-upfront/",
-        "published_at": "2026-10-01 09:53",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "#EASD26: Boehringer's weight loss candidate trails rivals in diabetes and obesity",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/easd26-boehringer-weight-loss-candidate-trails-rivals-in-diabetes-and-obesity/",
-        "published_at": "2026-10-01 07:30",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "CMS finalizes GLOBE Medicare demo, but savings trail projections",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/cms-finalizes-globe-medicare-demo-but-savings-trail-projections/",
-        "published_at": "2026-09-30 22:01",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Patient death raises liver questions ahead of Bristol Myers readout",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/patient-death-raises-liver-questions-ahead-of-bristol-myers-readout/",
-        "published_at": "2026-09-30 18:41",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Bristol Myers trial revisions shake confidence in new class of fibrosis drugs",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/bristol-admilparant-fibrosis-aloft-study-amendment-lpa1r-contineum/831763/",
-        "published_at": "2026-09-30 16:22",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "FDA starts review of Roche’s multiple sclerosis pill",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/roche-fenebrutinib-ms-fda-accept-application-btk/831746/",
-        "published_at": "2026-09-30 15:54",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "PhRMA names next CEO; Pierre Fabre takes third swing at Ebvallo approval",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/phrma-cantor-ebvallo-fda-mirum-bluejay-abbvie-juvmo/831450/",
-        "published_at": "2026-09-30 14:18",
-        "category": "Mergers & Acquisitions"
     }
 ]
