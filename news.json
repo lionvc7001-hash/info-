@@ -1,5 +1,68 @@
 [
     {
+        "title": "ArriVent collapses on disappointing lung cancer data",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/arrivent-furmonertinib-egfr-lung-cancer-study-results/832220/",
+        "published_at": "2026-10-06 16:12",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Dual-acting drug from AbbVie, Genmab scores in frontline lymphoma trial",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/abbvie-genmab-epkinly-dlbcl-epcore-study-results/832241/",
+        "published_at": "2026-10-06 15:42",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "AstraZeneca heralds new R&D facility in that ‘other’ Cambridge",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/astrazeneca-heralds-new-rd-facility-in-that-other-cambridge/",
+        "published_at": "2026-10-06 15:28",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "ArriVent's lung cancer drug firmonertinib fails key late-stage trial, stock tanks",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/arrivents-lung-cancer-drug-firmonertinib-fails-key-late-stage-trial-stock-tanks/",
+        "published_at": "2026-10-06 14:47",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "KymaThera, Rouge raise VC funding; Vaxcyte, Spyre do public offerings",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/kymathera-rouge-raise-vc-funding-vaxcyte-spyre-do-public-offerings/",
+        "published_at": "2026-10-06 13:33",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Forbion gets Lilly's backing in Dutch VC's largest-ever fundraising haul",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/forbion-gets-lillys-backing-in-dutch-vcs-largest-ever-fundraising-haul/",
+        "published_at": "2026-10-06 12:46",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "In healthcare, AI investments are paying off faster than expected, survey shows",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/in-healthcare-ai-investments-are-paying-off-faster-than-expected-survey-shows/",
+        "published_at": "2026-10-06 12:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "The top biopharma conferences in 2027",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/top-biotech-pharma-medical-conferences-2027/832075/",
+        "published_at": "2026-10-06 12:00",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "[Podcast] (Season 2) The Progress Profile: Alzheimer’s Research in Focus",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/spons/podcast-season-2-the-progress-profile-alzheimers-research-in-focus/822189/",
+        "published_at": "2026-10-06 12:00",
+        "category": "Clinical Trials"
+    },
+    {
         "title": "AbbVie, Genmab trot out first-line DLBCL win for Epkinly in challenge to Polivy",
         "source": "Endpoints News",
         "url": "https://endpoints.news/abbvie-genmab-trot-out-first-line-dlbcl-win-for-epkinly-in-challenge-to-polivy/",
@@ -173,68 +236,5 @@
         "url": "https://endpoints.news/lilly-signals-move-into-aesthetics-looking-to-add-products-for-body-skin-and-hair/",
         "published_at": "2026-10-02 15:14",
         "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "This week in charts: Kodiak’s big comeback and Hengrui’s dealmaking",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/week-in-charts-kodiaks-big-comeback-and-hengruis-dealmaking/831690/",
-        "published_at": "2026-10-02 15:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Summit partners with AstraZeneca and Daiichi; Eccogene earns $50M milestone",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/summit-partners-with-astrazeneca-and-daiichi-eccogene-earns-50m-milestone/",
-        "published_at": "2026-10-02 14:48",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Novartis wagers almost $8B on a Chinese biotech’s RNA drugs",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/novartis-abogen-pipeline-collaboration-china/832008/",
-        "published_at": "2026-10-02 14:16",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "David Sinclair's latest salvo aims to stall aging with a pill",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/david-sinclairs-latest-salvo-aims-to-stall-aging-with-a-pill/",
-        "published_at": "2026-10-02 13:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "#EASD26: Regeneron sees a future combining its obesity drug with lipid-lowering therapy",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/easd26-regeneron-sees-a-future-combining-its-obesity-drug-with-lipid-lowering-therapy/",
-        "published_at": "2026-10-02 11:00",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Moderna, Neurocrine bring back familiar faces; Pharming CEO exits after clashing with board",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/moderna-neurocrine-bring-back-familiar-faces-pharming-ceo-exits-after-clashing-with-board/",
-        "published_at": "2026-10-02 11:00",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Novartis takes rights to Abogen's mRNA T cell engager for $575M upfront",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/novartis-takes-rights-to-abogens-mrna-t-cell-engager-for-575m-upfront/",
-        "published_at": "2026-10-02 08:55",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "3 takeaways from a European obesity scientific meeting",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/3-takeaways-from-european-obesity-scientific-meeting/831870/",
-        "published_at": "2026-10-01 16:16",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Lilly, Foghorn part ways; Wave’s FDA-approved plans",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/foghorn-eli-lilly-wave-samsung-bioepis-teva-varda-hatteras/831918/",
-        "published_at": "2026-10-01 16:04",
-        "category": "Immunotherapy & Oncology"
     }
 ]
