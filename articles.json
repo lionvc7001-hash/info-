@@ -1,5 +1,26 @@
 [
     {
+        "title": "Utah steps up AI prescribing",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/utah-steps-up-ai-prescribing/",
+        "published_at": "2026-10-06 20:26",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "In DC, a secretive new thorn has appeared in pharma's side",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/in-dc-a-secretive-new-thorn-has-appeared-in-pharmas-side/",
+        "published_at": "2026-10-06 19:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Forbion, a prominent biotech investor, raises $2.6B for a pair of venture funds",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/forbion-venture-capital-growth-fund-fundraise/832254/",
+        "published_at": "2026-10-06 18:04",
+        "category": "FDA & Regulatory"
+    },
+    {
         "title": "ArriVent collapses on disappointing lung cancer data",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/arrivent-furmonertinib-egfr-lung-cancer-study-results/832220/",
@@ -189,13 +210,6 @@
         "category": "Clinical Trials & R&D"
     },
     {
-        "title": "How AI is transforming biopharma manufacturing facilities of the future",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/spons/how-ai-is-transforming-biopharma-manufacturing-facilities-of-the-future/831222/",
-        "published_at": "2026-10-05 09:00",
-        "category": "Clinical Trials & R&D"
-    },
-    {
         "title": "CSL to pay $355M upfront to co-develop Alentis’ kidney and liver drug",
         "source": "Endpoints News",
         "url": "https://endpoints.news/csl-to-pay-355m-upfront-to-co-develop-alentis-kidney-and-liver-drug/",
@@ -222,19 +236,5 @@
         "url": "https://endpoints.news/geographic-atrophy-biotech-aviceda-to-shut-down-after-phase-2-fail/",
         "published_at": "2026-10-02 18:36",
         "category": "Clinical Trials"
-    },
-    {
-        "title": "FDA opens clinical trial modernization office in CDER",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-opens-clinical-trial-modernization-office-in-cder/",
-        "published_at": "2026-10-02 17:56",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Lilly signals move into aesthetics, looking to add products for body, skin and hair",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/lilly-signals-move-into-aesthetics-looking-to-add-products-for-body-skin-and-hair/",
-        "published_at": "2026-10-02 15:14",
-        "category": "Mergers & Acquisitions"
     }
 ]
