@@ -1,5 +1,40 @@
 [
     {
+        "title": "PhRMA sues Trump administration over GLOBE drug pricing demo program",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/phrma-sues-trump-administration-over-globe-drug-pricing-demo-program/",
+        "published_at": "2026-10-07 18:57",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Ultragenyx sells PRV for $210M and still has another to monetize",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/ultragenyx-sells-prv-for-210m-and-still-has-another-to-monetize/",
+        "published_at": "2026-10-07 18:24",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Dutch court blocks subcutaneous Keytruda in eight European countries",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/dutch-court-blocks-subcutaneous-keytruda-in-eight-european-countries/",
+        "published_at": "2026-10-07 18:21",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Zuckerberg's Biohub expands virtual cell effort to $1.8B, with Meta, Google",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/zuckerbergs-biohub-expands-virtual-cell-effort-to-1-8b-with-meta-google/",
+        "published_at": "2026-10-07 18:05",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "WHO advises against obesity drugs for younger children",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/who-advises-against-obesity-drugs-for-younger-children/",
+        "published_at": "2026-10-07 18:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
         "title": "Caribou to halt CAR-T work, lay off staff amid ‘challenging’ funding climate",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/caribou-layoffs-strategic-alternatives-allogeneic-cell-therapy-vispacel/832343/",
@@ -201,40 +236,5 @@
         "url": "https://endpoints.news/vaxcytes-pneumococcal-vaccine-succeeds-in-phase-3-stock-surges/",
         "published_at": "2026-10-05 15:06",
         "category": "Vaccines & mRNA"
-    },
-    {
-        "title": "Genmab details ovarian cancer data; Lilly's Jaypirca gets a label expansion",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/genmab-details-ovarian-cancer-data-lillys-jaypirca-gets-a-label-expansion/",
-        "published_at": "2026-10-05 15:02",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Roche enlists Alector in Parkinson's deal, paying $100M upfront",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/roche-enlists-alector-in-parkinsons-deal-paying-100m-upfront/",
-        "published_at": "2026-10-05 14:30",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Shionogi to pay $2B for IntraBio, a commercial rare disease biotech",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/shionogi-to-pay-2b-for-intrabio-a-commercial-rare-disease-biotech/",
-        "published_at": "2026-10-05 14:19",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Special report 2026: Meet 20 women changing the biopharma industry as we know it",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/special-report-2026-meet-20-women-changing-the-biopharma-industry-as-we-know-it/",
-        "published_at": "2026-10-05 14:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Nobel goes to scientists who paved the way for light-activated gene therapies",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/nobel-goes-to-scientists-who-paved-the-way-for-light-activated-gene-therapies/",
-        "published_at": "2026-10-05 11:08",
-        "category": "Pharma & FDA Regulatory"
     }
 ]
