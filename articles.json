@@ -1,5 +1,33 @@
 [
     {
+        "title": "New PDUFA deal sets aside FDA money to rehire reviewers",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/new-pdufa-deal-sets-aside-fda-money-to-rehire-reviewers-lost-to-layoffs/",
+        "published_at": "2026-10-08 18:55",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Viatris to make $1.65B Pacira acquisition, adding to momentum in pain",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/viatris-to-make-1-65b-pacira-acquisition-adding-to-momentum-in-pain/",
+        "published_at": "2026-10-08 18:13",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Robotics company Multiply Labs nets $75M; Isotope maker NorthStar gets up to $185M",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/robotics-company-multiply-labs-nets-75m-isotope-maker-northstar-gets-up-to-185m/",
+        "published_at": "2026-10-08 16:27",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Viatris boosts pain drug portfolio with $1.7B buyout of Pacira",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/viatris-pacira-acquire-pain-drug-zilretto-exparel/832481/",
+        "published_at": "2026-10-08 16:00",
+        "category": "Mergers & Acquisitions"
+    },
+    {
         "title": "Argenx falls as Sjögren’s setback offsets celiac drug progress",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/argenx-sjogrens-vyvgart-celiac-forte-study-results/832463/",
@@ -203,37 +231,9 @@
         "category": "Clinical Trials"
     },
     {
-        "title": "AstraZeneca heralds new R&D facility in that ‘other’ Cambridge",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/astrazeneca-heralds-new-rd-facility-in-that-other-cambridge/",
-        "published_at": "2026-10-06 15:28",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "ArriVent's lung cancer drug firmonertinib fails key late-stage trial, stock tanks",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/arrivents-lung-cancer-drug-firmonertinib-fails-key-late-stage-trial-stock-tanks/",
-        "published_at": "2026-10-06 14:47",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "KymaThera, Rouge raise VC funding; Vaxcyte, Spyre do public offerings",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/kymathera-rouge-raise-vc-funding-vaxcyte-spyre-do-public-offerings/",
-        "published_at": "2026-10-06 13:33",
-        "category": "Mergers & Acquisitions"
-    },
-    {
         "title": "[Podcast] (Season 2) The Progress Profile: Alzheimer’s Research in Focus",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/spons/podcast-season-2-the-progress-profile-alzheimers-research-in-focus/822189/",
-        "published_at": "2026-10-06 12:00",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "The top biopharma conferences in 2027",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/top-biotech-pharma-medical-conferences-2027/832075/",
         "published_at": "2026-10-06 12:00",
         "category": "Clinical Trials"
     }
