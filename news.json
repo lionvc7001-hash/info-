@@ -1,5 +1,68 @@
 [
     {
+        "title": "Argenx falls as Sjögren’s setback offsets celiac drug progress",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/argenx-sjogrens-vyvgart-celiac-forte-study-results/832463/",
+        "published_at": "2026-10-08 15:38",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Ono pays Biohaven $80M for protein degrader; UK pulls Valneva's chikungunya shot",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/ono-pays-biohaven-80m-for-protein-degrader-uk-pulls-valnevas-chikungunya-shot/",
+        "published_at": "2026-10-08 15:30",
+        "category": "Vaccines & mRNA"
+    },
+    {
+        "title": "Endeavor notches major mid-stage trial win, says IPF drug can reverse disease",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/endeavor-notches-major-mid-stage-trial-win-says-ipf-drug-can-reverse-disease/",
+        "published_at": "2026-10-08 15:29",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "In the hunt for reverse merger targets, Caribou could be prized game",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/caribou-reverse-merger-prospects-cell-therapy-private-public/832494/",
+        "published_at": "2026-10-08 15:23",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Long ignored by drugmakers, preeclampsia is now a focus for WHO and biopharma",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/long-ignored-by-drugmakers-preeclampsia-is-now-a-focus-for-who-and-biopharma/",
+        "published_at": "2026-10-08 15:12",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Grindr's big bet on telehealth",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/grindrs-big-bet-on-telehealth/",
+        "published_at": "2026-10-08 15:02",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Zealand, Roche topline a Phase 2 study for amylin drug, though Lilly remains an obstacle",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/zealand-roche-topline-a-phase-2-study-for-amylin-drug-though-lilly-remains-an-obstacle/",
+        "published_at": "2026-10-08 14:41",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "General Medicine raises $120M to build a healthcare store that offers everything",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/general-medicine-raises-120m-to-build-a-healthcare-store-that-offers-everything/",
+        "published_at": "2026-10-08 13:25",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Argenx's study flop in Sjögren's overshadows a win in celiac disease",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/argenxs-study-flop-in-sjogrens-overshadows-a-win-in-celiac-disease/",
+        "published_at": "2026-10-08 11:00",
+        "category": "Clinical Trials"
+    },
+    {
         "title": "Roche does fourth China deal since August, teaming with Defand on degraders",
         "source": "Endpoints News",
         "url": "https://endpoints.news/roche-does-fourth-china-deal-since-august-teaming-with-defand-on-degraders/",
@@ -161,20 +224,6 @@
         "category": "Mergers & Acquisitions"
     },
     {
-        "title": "Forbion gets Lilly's backing in Dutch VC's largest-ever fundraising haul",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/forbion-gets-lillys-backing-in-dutch-vcs-largest-ever-fundraising-haul/",
-        "published_at": "2026-10-06 12:46",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "In healthcare, AI investments are paying off faster than expected, survey shows",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/in-healthcare-ai-investments-are-paying-off-faster-than-expected-survey-shows/",
-        "published_at": "2026-10-06 12:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
         "title": "[Podcast] (Season 2) The Progress Profile: Alzheimer’s Research in Focus",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/spons/podcast-season-2-the-progress-profile-alzheimers-research-in-focus/822189/",
@@ -187,54 +236,5 @@
         "url": "https://www.biopharmadive.com/news/top-biotech-pharma-medical-conferences-2027/832075/",
         "published_at": "2026-10-06 12:00",
         "category": "Clinical Trials"
-    },
-    {
-        "title": "AbbVie, Genmab trot out first-line DLBCL win for Epkinly in challenge to Polivy",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/abbvie-genmab-trot-out-first-line-dlbcl-win-for-epkinly-in-challenge-to-polivy/",
-        "published_at": "2026-10-06 11:05",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "GE HealthCare to acquire Sofie Biosciences for $945M",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/ge-healthcare-acquire-sofie-biosciences-radiopharmaceuticals/832182/",
-        "published_at": "2026-10-06 10:38",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Lycia seeks IPO for antibody degraders as TRexBio, Retension set terms",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/lycia-seeks-ipo-for-antibody-degrader-work-as-trexbio-retension-forge-ahead/",
-        "published_at": "2026-10-06 08:21",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Senior Leerink analyst downgrades Bristol Myers, citing pipeline fears",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/senior-leerink-analyst-downgrades-bristol-myers-citing-pipeline-fears/",
-        "published_at": "2026-10-05 19:40",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Genentech AI leader Richard Bonneau leaves pharma in latest exit",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/exclusive-genentech-ai-leader-richard-bonneau-leaves-pharma-in-latest-exit/",
-        "published_at": "2026-10-05 18:58",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "FDA delays Novo’s hemophilia A drug review over factory issues",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-delays-novos-hemophilia-a-drug-review-over-factory-issues/",
-        "published_at": "2026-10-05 16:27",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Shionogi pays $2B to acquire a rare disease startup",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/shionogi-pays-2b-to-acquire-a-rare-disease-startup/832103/",
-        "published_at": "2026-10-05 15:57",
-        "category": "Mergers & Acquisitions"
     }
 ]
