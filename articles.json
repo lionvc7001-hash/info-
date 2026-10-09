@@ -1,10 +1,73 @@
 [
     {
+        "title": "FDA review docs spark Revolution sell-off; Zealand diabetes data underwhelm analysts",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/rasonque-fda-zealand-tukysa-ultragenyx-tcgx-china/832492/",
+        "published_at": "2026-10-09 15:18",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "New data on RevMed’s Rasonque leave potential opening for other treatments",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/new-data-on-revmeds-rasonque-leave-potential-opening-for-other-treatments/",
+        "published_at": "2026-10-09 15:17",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Acting general counsel at HHS has left the department",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/acting-general-counsel-at-hhs-has-left-the-department/",
+        "published_at": "2026-10-09 14:43",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "This week in charts: What’s driving biotech’s recent pullback?",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/biotech-charts-xbi-private-public-merger-acquisition-deals/832398/",
+        "published_at": "2026-10-09 14:28",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "City Therapeutics targets $158M IPO; Iambic seeks $135M Nasdaq debut",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/city-therapeutics-targets-158m-ipo-iambic-seeks-135m-nasdaq-debut/",
+        "published_at": "2026-10-09 14:15",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Chai Discovery signs GSK deal to make biologics with AI",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/chai-discovery-signs-gsk-deal-to-make-biologics-with-ai/",
+        "published_at": "2026-10-09 11:00",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Viking commercial chief is out in a hurry; Gilead looks to BeOne exec for China expansion",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/viking-commercial-chief-is-out-in-a-hurry-gilead-looks-to-beone-exec-for-china-expansion/",
+        "published_at": "2026-10-09 11:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "TRex Bio prices $117M IPO to support immune drug work",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/trex-bio-ipo-pricing-autoimmune-tregs/832297/",
+        "published_at": "2026-10-09 10:59",
+        "category": "Clinical Trials & R&D"
+    },
+    {
         "title": "TRexBio prices $117M IPO for Tregs as Retension lands $45M Nasdaq debut for hypertension",
         "source": "Endpoints News",
         "url": "https://endpoints.news/trexbio-prices-117m-ipo-for-tregs-as-retension-lands-45m-nasdaq-debut-for-hypertension/",
         "published_at": "2026-10-09 07:54",
         "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "HHS launches new plan to strengthen vaccine injury research, reporting",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/hhs-vaccine-injury-reporting-research-rfk/832532/",
+        "published_at": "2026-10-08 20:57",
+        "category": "Vaccines & mRNA"
     },
     {
         "title": "New PDUFA deal sets aside FDA money to rehire reviewers",
@@ -168,73 +231,10 @@
         "category": "Clinical Trials"
     },
     {
-        "title": "Novartis-partnered biotech nabs $150M Series B to move into the clinic",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/novartis-partnered-biotech-gets-150m-series-b-to-move-into-the-clinic/",
-        "published_at": "2026-10-07 14:03",
-        "category": "Mergers & Acquisitions"
-    },
-    {
         "title": "A Takeda spinout builds case for its Parkinson’s drug",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/cerevance-solengepras-parkinsons-study-results/832324/",
         "published_at": "2026-10-07 12:01",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "MimiVax's cancer vaccine for glioblastoma narrowly misses Phase 2b goal",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/mimivaxs-cancer-vaccine-for-glioblastoma-narrowly-misses-phase-2b-goal/",
-        "published_at": "2026-10-07 12:00",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "TCGX doubles down on China with $600M Asia-focused fund",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/tcgx-doubles-down-on-china-with-600m-asia-focused-fund/",
-        "published_at": "2026-10-07 12:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Updated: CAR-T biotech Caribou to pull the plug after struggling to find funding",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/car-t-biotech-caribou-weighs-its-options-after-struggling-to-find-funding/",
-        "published_at": "2026-10-07 11:17",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Utah steps up AI prescribing",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/utah-steps-up-ai-prescribing/",
-        "published_at": "2026-10-06 20:26",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Forbion, a prominent biotech investor, raises $2.6B for a pair of venture funds",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/forbion-venture-capital-growth-fund-fundraise/832254/",
-        "published_at": "2026-10-06 18:04",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "ArriVent collapses on disappointing lung cancer data",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/arrivent-furmonertinib-egfr-lung-cancer-study-results/832220/",
-        "published_at": "2026-10-06 16:12",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Dual-acting drug from AbbVie, Genmab scores in frontline lymphoma trial",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/abbvie-genmab-epkinly-dlbcl-epcore-study-results/832241/",
-        "published_at": "2026-10-06 15:42",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "[Podcast] (Season 2) The Progress Profile: Alzheimer’s Research in Focus",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/spons/podcast-season-2-the-progress-profile-alzheimers-research-in-focus/822189/",
-        "published_at": "2026-10-06 12:00",
         "category": "Clinical Trials"
     }
 ]
