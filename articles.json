@@ -1,5 +1,89 @@
 [
     {
+        "title": "Soufflé gets $135M for three RNA medicines",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/souffle-gets-135m-for-three-rna-medicines/",
+        "published_at": "2026-10-13 16:54",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "BioNTech mRNA cancer immunotherapy misses first objective in key study",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/biontech-mrna-immunotherapy-hpv16-head-neck-cancer/832854/",
+        "published_at": "2026-10-13 16:24",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Roche extends China deal streak with $1B pact for RNAi obesity drug",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/roche-rona-china-deal-rnai-obesity-drug-alk7/832845/",
+        "published_at": "2026-10-13 15:49",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Beam suggests it can correct mutation; Pfizer to collaborate with Enodia",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/beam-proves-it-can-correct-mutation-pfizer-to-collaborate-with-enodia/",
+        "published_at": "2026-10-13 15:37",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Rudy Tanzi has long wanted to prevent Alzheimer's. He may be close",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/rudy-tanzi-has-long-wanted-to-prevent-alzheimers-he-may-be-close/",
+        "published_at": "2026-10-13 15:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "BioNTech’s head and neck cancer vaccine misses first of two goals",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/biontechs-head-and-neck-cancer-vaccine-misses-first-of-two-goals/",
+        "published_at": "2026-10-13 14:59",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Why an AI scribe wants to prescribe",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/why-an-ai-scribe-wants-to-prescribe/",
+        "published_at": "2026-10-13 14:56",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Readily raises $11M to help insurers stay compliant",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/readily-raises-11m-to-help-insurers-stay-compliant/",
+        "published_at": "2026-10-13 13:00",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Paragon spins out ninth biotech, sending cardiopulmonary drugs to Alaunos",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/paragon-spins-out-ninth-biotech-sending-cardiopulmonary-drugs-to-alaunos/",
+        "published_at": "2026-10-13 11:00",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Apogee execs join Paragon to scale its R&D, company creation engine",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/apogee-execs-join-paragon-to-scale-its-rd-company-creation-engine/",
+        "published_at": "2026-10-13 11:00",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Syndax's lung disease ambitions for Niktimvo end with a Phase 2 failure",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/syndaxs-lung-disease-ambitions-for-niktimvo-end-with-a-phase-2-failure/",
+        "published_at": "2026-10-13 10:25",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Roche's seventh China deal this year is a $1.2B obesity pact with Rona Therapeutics",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/roches-seventh-china-deal-this-year-is-a-1-2b-obesity-pact-with-rona-therapeutics/",
+        "published_at": "2026-10-13 10:19",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
         "title": "First Tracks climbs on ‘impressive’ celiac study data",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/first-tracks-celiac-study-results-cd122/832726/",
@@ -147,94 +231,10 @@
         "category": "Gene Editing & CRISPR"
     },
     {
-        "title": "Chai Discovery signs GSK deal to make biologics with AI",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/chai-discovery-signs-gsk-deal-to-make-biologics-with-ai/",
-        "published_at": "2026-10-09 11:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Viking commercial chief is out in a hurry; Gilead looks to BeOne exec for China expansion",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/viking-commercial-chief-is-out-in-a-hurry-gilead-looks-to-beone-exec-for-china-expansion/",
-        "published_at": "2026-10-09 11:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
         "title": "TRex Bio prices $117M IPO to support immune drug work",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/trex-bio-ipo-pricing-autoimmune-tregs/832297/",
         "published_at": "2026-10-09 10:59",
         "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "TRexBio prices $117M IPO for Tregs as Retension lands $45M Nasdaq debut for hypertension",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/trexbio-prices-117m-ipo-for-tregs-as-retension-lands-45m-nasdaq-debut-for-hypertension/",
-        "published_at": "2026-10-09 07:54",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "HHS launches new plan to strengthen vaccine injury research, reporting",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/hhs-vaccine-injury-reporting-research-rfk/832532/",
-        "published_at": "2026-10-08 20:57",
-        "category": "Vaccines & mRNA"
-    },
-    {
-        "title": "New PDUFA deal sets aside FDA money to rehire reviewers",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/new-pdufa-deal-sets-aside-fda-money-to-rehire-reviewers-lost-to-layoffs/",
-        "published_at": "2026-10-08 18:55",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Viatris to make $1.65B Pacira acquisition, adding to momentum in pain",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/viatris-to-make-1-65b-pacira-acquisition-adding-to-momentum-in-pain/",
-        "published_at": "2026-10-08 18:13",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Robotics company Multiply Labs nets $75M; Isotope maker NorthStar gets up to $185M",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/robotics-company-multiply-labs-nets-75m-isotope-maker-northstar-gets-up-to-185m/",
-        "published_at": "2026-10-08 16:27",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Viatris boosts pain drug portfolio with $1.7B buyout of Pacira",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/viatris-pacira-acquire-pain-drug-zilretto-exparel/832481/",
-        "published_at": "2026-10-08 16:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Ono pays Biohaven $80M for protein degrader; UK pulls Valneva's chikungunya shot",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/ono-pays-biohaven-80m-for-protein-degrader-uk-pulls-valnevas-chikungunya-shot/",
-        "published_at": "2026-10-08 15:30",
-        "category": "Vaccines & mRNA"
-    },
-    {
-        "title": "Endeavor notches major mid-stage trial win, says IPF drug can reverse disease",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/endeavor-notches-major-mid-stage-trial-win-says-ipf-drug-can-reverse-disease/",
-        "published_at": "2026-10-08 15:29",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Long ignored by drugmakers, preeclampsia is now a focus for WHO and biopharma",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/long-ignored-by-drugmakers-preeclampsia-is-now-a-focus-for-who-and-biopharma/",
-        "published_at": "2026-10-08 15:12",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Grindr's big bet on telehealth",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/grindrs-big-bet-on-telehealth/",
-        "published_at": "2026-10-08 15:02",
-        "category": "Pharma & FDA Regulatory"
     }
 ]
