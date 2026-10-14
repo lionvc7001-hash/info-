@@ -1,5 +1,40 @@
 [
     {
+        "title": "Experimental Arrowhead RNAi drug hints at Alzheimer’s benefit",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/arrowhead-rnai-alzheimers-tau-aro-mapt-study-results/832950/",
+        "published_at": "2026-10-14 15:54",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Verastem makes its stand as a RevMed competitor in pancreatic cancer",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/verastem-makes-its-stand-as-a-revmed-competitor-in-pancreatic-cancer/",
+        "published_at": "2026-10-14 15:52",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Verastem cancer drug shows early promise in small study",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/verastem-g12d-pancreatic-cancer-results-genfleet/832952/",
+        "published_at": "2026-10-14 15:00",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Ultragenyx's second PRV sale; Biomea's oral GLP-1 data leads to stock slump",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/ultragenyxs-second-prv-sale-biomeas-oral-glp-1-data-leads-to-stock-slump/",
+        "published_at": "2026-10-14 14:24",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "J&J earnings set ‘negative tone’; Shkreli vs. the FTC",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/jnj-earnings-gilead-vir-shkreli-ftc-syndax-pfizer/832879/",
+        "published_at": "2026-10-14 13:31",
+        "category": "FDA & Regulatory"
+    },
+    {
         "title": "Vir makes solid tumor T cell engager deal with Gilead",
         "source": "Endpoints News",
         "url": "https://endpoints.news/vir-makes-solid-tumor-t-cell-engager-deal-with-gilead/",
@@ -201,40 +236,5 @@
         "url": "https://endpoints.news/brent-saunders-out-as-bausch-lomb-ceo-abrupt-end-to-three-year-run/",
         "published_at": "2026-10-12 14:52",
         "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "GSK to invest $800M for new R&D, manufacturing hub in Pennsylvania",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/gsk-to-invest-800m-for-new-rd-manufacturing-hub-in-pennsylvania/",
-        "published_at": "2026-10-12 14:48",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Pharma’s $500B patent problem will come in waves — not as a cliff",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/pharma-patent-cliff-merck-abbvie-dealmaking/832700/",
-        "published_at": "2026-10-12 13:16",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Bausch + Lomb swaps CEOs; Merck reveals anticipated eye drug data",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/bausch-lomb-saunders-remigromig-tezpire-eoe-hovilpri/832495/",
-        "published_at": "2026-10-12 12:09",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Undecimal Bio launches with $18M to take siRNA beyond liver disease",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/undecimal-bio-launches-with-18m-to-advance-sirna-beyond-liver-disease/",
-        "published_at": "2026-10-12 11:00",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "FDA review docs spark Revolution sell-off; Zealand diabetes data underwhelm analysts",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/rasonque-fda-zealand-tukysa-ultragenyx-tcgx-china/832492/",
-        "published_at": "2026-10-09 15:18",
-        "category": "FDA & Regulatory"
     }
 ]
