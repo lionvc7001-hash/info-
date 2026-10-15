@@ -1,5 +1,40 @@
 [
     {
+        "title": "CDC page supporting Covid vaccines for pregnancy went dark",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/cdc-page-supporting-covid-vaccines-for-pregnancy-went-dark/",
+        "published_at": "2026-10-15 19:05",
+        "category": "Vaccines & mRNA"
+    },
+    {
+        "title": "Virginia leads in winning investments as drugmakers onshore to the US",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/virginia-leads-in-winning-investments-as-drugmakers-onshore-to-the-us/",
+        "published_at": "2026-10-15 17:26",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Belgian startup revives Galapagos CAR-T research",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/lakefront-armed-cell-therapies-deal-stoffels-galapagos/833082/",
+        "published_at": "2026-10-15 15:55",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "AstraZeneca does AI deal with insitro; inVIOs' Phase 1 success in solid tumors",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/astrazeneca-does-ai-deal-with-insitro-invios-phase-1-success-in-solid-tumors/",
+        "published_at": "2026-10-15 15:30",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "FDA ‘reset’ continues with new plan for reviewing rare disease drugs",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/fda-rare-disease-framework-initiative-drug-development/833080/",
+        "published_at": "2026-10-15 15:23",
+        "category": "FDA & Regulatory"
+    },
+    {
         "title": "NorthStar's China CRO deal; Lonza details midterm guidance",
         "source": "Endpoints News",
         "url": "https://endpoints.news/northstars-china-cro-deal-lonza-details-midterm-guidance/",
@@ -49,7 +84,7 @@
         "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "Iambic snags $150M IPO for AI-driven cancer pipeline",
+        "title": "Updated: Iambic rises after $150M IPO for AI-driven cancer pipeline",
         "source": "Endpoints News",
         "url": "https://endpoints.news/iambic-snags-150m-ipo-for-ai-driven-cancer-pipeline/",
         "published_at": "2026-10-15 08:01",
@@ -201,40 +236,5 @@
         "url": "https://www.biopharmadive.com/news/biontech-mrna-immunotherapy-hpv16-head-neck-cancer/832854/",
         "published_at": "2026-10-13 16:24",
         "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Roche extends China deal streak with $1B pact for RNAi obesity drug",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/roche-rona-china-deal-rnai-obesity-drug-alk7/832845/",
-        "published_at": "2026-10-13 15:49",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Beam suggests it can correct mutation; Pfizer to collaborate with Enodia",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/beam-proves-it-can-correct-mutation-pfizer-to-collaborate-with-enodia/",
-        "published_at": "2026-10-13 15:37",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Rudy Tanzi has long wanted to prevent Alzheimer's. He may be close",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/rudy-tanzi-has-long-wanted-to-prevent-alzheimers-he-may-be-close/",
-        "published_at": "2026-10-13 15:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "BioNTech’s head and neck cancer vaccine misses first of two goals",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/biontechs-head-and-neck-cancer-vaccine-misses-first-of-two-goals/",
-        "published_at": "2026-10-13 14:59",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "First Tracks climbs on ‘impressive’ celiac study data",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/first-tracks-celiac-study-results-cd122/832726/",
-        "published_at": "2026-10-12 21:26",
-        "category": "Clinical Trials & R&D"
     }
 ]
