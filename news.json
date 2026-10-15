@@ -1,5 +1,26 @@
 [
     {
+        "title": "Paul Stoffels to bring Galapagos’ cell therapies back to life",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/paul-stoffels-to-bring-galapagos-cell-therapies-back-to-life/",
+        "published_at": "2026-10-15 10:33",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Iambic snags $150M IPO for AI-driven cancer pipeline",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/iambic-snags-150m-ipo-for-ai-driven-cancer-pipeline/",
+        "published_at": "2026-10-15 08:01",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "OMass Therapeutics collects $310M to chase Neurocrine, Vertex in genetic adrenal disorder",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/omass-therapeutics-collects-310m-to-chase-neurocrine-vertex-in-genetic-adrenal-disorder/",
+        "published_at": "2026-10-15 06:00",
+        "category": "Mergers & Acquisitions"
+    },
+    {
         "title": "Iambic, an AI drug discovery specialist, banks $150M in an IPO",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/iambic-ipo-price-ai-drug-discovery/832771/",
@@ -215,26 +236,5 @@
         "url": "https://www.biopharmadive.com/news/first-tracks-celiac-study-results-cd122/832726/",
         "published_at": "2026-10-12 21:26",
         "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Merck reports mixed data for Lucentis competitor in diabetic macular edema",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/merck-reports-mixed-data-for-lucentis-competitor-in-diabetic-macular-edema/",
-        "published_at": "2026-10-12 18:18",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Asahi Kasei lands approval for new HSV treatment",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/asahi-kasei-lands-approval-for-new-hsv-treatment/",
-        "published_at": "2026-10-12 17:08",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Mirum succeeds in rare liver disease trial; First Tracks delivers in celiac",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/mirum-succeeds-in-rare-liver-disease-trial-first-tracks-delivers-in-celiac/",
-        "published_at": "2026-10-12 15:12",
-        "category": "Clinical Trials"
     }
 ]
