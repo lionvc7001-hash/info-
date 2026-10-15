@@ -1,5 +1,12 @@
 [
     {
+        "title": "Iambic, an AI drug discovery specialist, banks $150M in an IPO",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/iambic-ipo-price-ai-drug-discovery/832771/",
+        "published_at": "2026-10-15 00:08",
+        "category": "FDA & Regulatory"
+    },
+    {
         "title": "Sanofi's new R&D chief: Western pharma should rethink China's drug pipeline role",
         "source": "Endpoints News",
         "url": "https://endpoints.news/sanofis-new-rd-chief-western-pharma-should-rethink-chinas-drug-pipeline-role/",
@@ -33,6 +40,13 @@
         "url": "https://www.biopharmadive.com/news/verastem-g12d-pancreatic-cancer-results-genfleet/832952/",
         "published_at": "2026-10-14 15:00",
         "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "CVS to pay $315M to settle opioid prescribing allegations",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/cvs-pay-315-million-settle-opioid-prescribing-allegations/832999/",
+        "published_at": "2026-10-14 14:45",
+        "category": "Clinical Trials & R&D"
     },
     {
         "title": "Ultragenyx's second PRV sale; Biomea's oral GLP-1 data leads to stock slump",
@@ -215,20 +229,6 @@
         "url": "https://endpoints.news/asahi-kasei-lands-approval-for-new-hsv-treatment/",
         "published_at": "2026-10-12 17:08",
         "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Parkinson’s cell therapy developer files to go public",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/aspen-neuroscience-ipo-plans-s-1-parkinsons-cell-therapy/832732/",
-        "published_at": "2026-10-12 15:58",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Bristol Myers dips on ‘confounding’ lung drug results",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/bristol-myers-admilparant-lpa1-ipf-aloft-results-contineum/832715/",
-        "published_at": "2026-10-12 15:35",
-        "category": "Clinical Trials"
     },
     {
         "title": "Mirum succeeds in rare liver disease trial; First Tracks delivers in celiac",
