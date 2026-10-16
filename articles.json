@@ -1,10 +1,59 @@
 [
     {
+        "title": "CHMP endorses Eli Lilly’s GLP-1 pill and three other new drugs",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/chmp-endorses-eli-lillys-glp-1-pill-and-three-other-new-drugs/",
+        "published_at": "2026-10-16 14:55",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Lilly interested in ibogaine investments, its neuro leader says",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/lilly-interested-in-ibogaine-investments-its-neuro-leader-says/",
+        "published_at": "2026-10-16 14:04",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "This week in charts: Moderna’s massive stock run",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/biotech-charts-moderna-stock-xbi-roche-china/832886/",
+        "published_at": "2026-10-16 13:15",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Here's how many clinicians are using AI to answer their medical questions",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/heres-how-many-clinicians-are-using-ai-to-answer-their-medical-questions/",
+        "published_at": "2026-10-16 13:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Ex-Genentech scientist joins Ira Mellman at Medici; Intellia poaches CMO from Scholar Rock",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/ex-genentech-scientist-joins-ira-mellman-at-medici-intellia-poaches-cmo-from-scholar-rock/",
+        "published_at": "2026-10-16 11:00",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Next-gen RNAi drugmaker City prices $200M IPO",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/city-therapeutics-ipo-price-rnai-drugs/832945/",
+        "published_at": "2026-10-16 10:33",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
         "title": "Estuary debuts with $103M to develop kidney disease gene therapies",
         "source": "Endpoints News",
         "url": "https://endpoints.news/estuary-debuts-with-103m-to-develop-kidney-disease-gene-therapies/",
         "published_at": "2026-10-16 10:30",
         "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Biogen-backed Estuary nabs $93M for kidney disease gene therapy",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/estuary-kidney-disease-gene-therapy-launch-emerged-biogen-biotech-startup/833114/",
+        "published_at": "2026-10-16 10:30",
+        "category": "Clinical Trials & R&D"
     },
     {
         "title": "City Therapeutics lands $200M IPO as it builds an Alnylam 2.0 in RNAi field",
@@ -186,55 +235,6 @@
         "source": "Endpoints News",
         "url": "https://endpoints.news/arrowheads-brain-targeting-rna-drug-lowers-alzheimers-protein-in-early-study/",
         "published_at": "2026-10-14 11:30",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Zealand inks up to $1.3B deal for AI-designed obesity treatments",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/zealand-inks-up-to-1-3b-deal-for-ai-designed-obesity-treatments/",
-        "published_at": "2026-10-14 11:21",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "GSK could cut more than 1,200 jobs in Belgium",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/gsk-could-cut-more-than-1200-jobs-in-belgium/",
-        "published_at": "2026-10-14 10:41",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Decreasing process variability in fluid management systems",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/spons/decreasing-process-variability-in-fluid-management-systems/832888/",
-        "published_at": "2026-10-13 21:00",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Another Paragon spinout goes public through reverse merger",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/velaris-alaunos-paragon-reverse-merger-acquisition-fairmount/832869/",
-        "published_at": "2026-10-13 20:35",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "FTC accuses Martin Shkreli of violating lifetime pharma ban",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/ftc-accuses-martin-shkreli-of-violating-lifetime-pharma-ban/",
-        "published_at": "2026-10-13 19:04",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Novartis quietly returns a key antibiotic to US market",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/novartis-quietly-returns-a-key-antibiotic-to-us-market/",
-        "published_at": "2026-10-13 18:51",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "BioNTech mRNA cancer immunotherapy misses first objective in key study",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/biontech-mrna-immunotherapy-hpv16-head-neck-cancer/832854/",
-        "published_at": "2026-10-13 16:24",
         "category": "Gene Editing & CRISPR"
     }
 ]
