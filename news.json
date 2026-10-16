@@ -1,5 +1,40 @@
 [
     {
+        "title": "Iambic CEO on taking an AI drug company public",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/Iambic-ipo-tom-miller-ai-drug-development-discovery/833238/",
+        "published_at": "2026-10-16 16:10",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Q&A: Sanofi's new research chief on AI, R&D failure rates and dealmaking",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/qa-sanofis-new-research-chief-on-ai-rd-failure-rates-and-dealmaking/",
+        "published_at": "2026-10-16 16:02",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Novartis scraps Fabhalta study in lupus nephritis",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/novartis-scraps-fabhalta-study-in-lupus-nephritis/",
+        "published_at": "2026-10-16 15:32",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "China pursues export ban on some biotech platforms",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/china-pursues-export-ban-on-some-biotech-platforms/",
+        "published_at": "2026-10-16 15:28",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "FDA considers interim access for compounded peptides; Enspryng's label expansion",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-considers-interim-access-for-compounded-peptides-enspryngs-label-expansion/",
+        "published_at": "2026-10-16 15:23",
+        "category": "FDA & Regulatory"
+    },
+    {
         "title": "CHMP endorses Eli Lilly’s GLP-1 pill and three other new drugs",
         "source": "Endpoints News",
         "url": "https://endpoints.news/chmp-endorses-eli-lillys-glp-1-pill-and-three-other-new-drugs/",
@@ -189,13 +224,6 @@
         "category": "Gene Editing & CRISPR"
     },
     {
-        "title": "Verastem makes its stand as a RevMed competitor in pancreatic cancer",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/verastem-makes-its-stand-as-a-revmed-competitor-in-pancreatic-cancer/",
-        "published_at": "2026-10-14 15:52",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
         "title": "Verastem cancer drug shows early promise in small study",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/verastem-g12d-pancreatic-cancer-results-genfleet/832952/",
@@ -208,33 +236,5 @@
         "url": "https://www.biopharmadive.com/news/cvs-pay-315-million-settle-opioid-prescribing-allegations/832999/",
         "published_at": "2026-10-14 14:45",
         "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Ultragenyx's second PRV sale; Biomea's oral GLP-1 data leads to stock slump",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/ultragenyxs-second-prv-sale-biomeas-oral-glp-1-data-leads-to-stock-slump/",
-        "published_at": "2026-10-14 14:24",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "J&J earnings set ‘negative tone’; Shkreli vs. the FTC",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/jnj-earnings-gilead-vir-shkreli-ftc-syndax-pfizer/832879/",
-        "published_at": "2026-10-14 13:31",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Vir makes solid tumor T cell engager deal with Gilead",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/vir-makes-solid-tumor-t-cell-engager-deal-with-gilead/",
-        "published_at": "2026-10-14 12:30",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Arrowhead’s brain-targeting RNA drug lowers Alzheimer’s protein in early study",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/arrowheads-brain-targeting-rna-drug-lowers-alzheimers-protein-in-early-study/",
-        "published_at": "2026-10-14 11:30",
-        "category": "Gene Editing & CRISPR"
     }
 ]
