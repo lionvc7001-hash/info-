@@ -1,5 +1,61 @@
 [
     {
+        "title": "Roche does $400M upfront, $15B deal with China's Hansoh",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/roche-does-400m-upfront-15b-deal-with-chinas-hansoh/",
+        "published_at": "2026-10-19 11:08",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Disc Medicine reports 'sun allergy' drug hits Phase 3 home run",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/disc-medicine-reports-sun-allergy-drug-hits-home-run-in-phase-3/",
+        "published_at": "2026-10-19 11:00",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "TriGemX Bio is going public through SPAC to get its migraine prospect to market",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/trigemx-bio-will-go-public-through-spac-to-get-its-migraine-prospect-to-market/",
+        "published_at": "2026-10-19 11:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Veradermics' oral Rogaine wins again at growing hair in late-stage trial",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/veradermics-oral-rogaine-wins-again-at-growing-hair-in-late-stage-trial/",
+        "published_at": "2026-10-19 11:00",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "From strategy to scale: How Saudi Arabia is building a biotech ecosystem",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/spons/from-strategy-to-scale-how-saudi-arabia-is-building-a-biotech-ecosystem/832761/",
+        "published_at": "2026-10-19 09:00",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Extractables in single-use systems used in ADC manufacturing",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/spons/extractables-in-single-use-systems-used-in-adc-manufacturing/833218/",
+        "published_at": "2026-10-19 09:00",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "How early should you engage a CDMO?",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/spons/how-early-should-you-engage-a-cdmo/832693/",
+        "published_at": "2026-10-19 09:00",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Nouscom raises $135M in Series D for lead cancer vaccine",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/nouscom-raises-135m-in-series-d-round-for-lead-cancer-vaccine/",
+        "published_at": "2026-10-19 06:00",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
         "title": "A search for ‘the statin of Alzheimer’s’; Arrowhead injectable lowers tau; and more",
         "source": "Endpoints News",
         "url": "https://endpoints.news/a-search-for-the-statin-of-alzheimers-arrowhead-injectable-lowers-tau-and-more/",
@@ -175,66 +231,10 @@
         "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "Vanda’s social anxiety drug flunks Phase 3 trial in female patients",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/vandas-social-anxiety-drug-flunks-phase-3-trial-in-female-patients/",
-        "published_at": "2026-10-15 11:00",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Paul Stoffels to bring Galapagos’ cell therapies back to life",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/paul-stoffels-to-bring-galapagos-cell-therapies-back-to-life/",
-        "published_at": "2026-10-15 10:33",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Updated: Iambic rises after $150M IPO for AI-driven cancer pipeline",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/iambic-snags-150m-ipo-for-ai-driven-cancer-pipeline/",
-        "published_at": "2026-10-15 08:01",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "OMass Therapeutics collects $310M to chase Neurocrine, Vertex in genetic adrenal disorder",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/omass-therapeutics-collects-310m-to-chase-neurocrine-vertex-in-genetic-adrenal-disorder/",
-        "published_at": "2026-10-15 06:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
         "title": "Iambic, an AI drug discovery specialist, banks $150M in an IPO",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/iambic-ipo-price-ai-drug-discovery/832771/",
         "published_at": "2026-10-15 00:08",
         "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Sanofi's new R&D chief: Western pharma should rethink China's drug pipeline role",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/sanofis-new-rd-chief-western-pharma-should-rethink-chinas-drug-pipeline-role/",
-        "published_at": "2026-10-14 19:06",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Experimental Arrowhead RNAi drug hints at Alzheimer’s benefit",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/arrowhead-rnai-alzheimers-tau-aro-mapt-study-results/832950/",
-        "published_at": "2026-10-14 15:54",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Verastem cancer drug shows early promise in small study",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/verastem-g12d-pancreatic-cancer-results-genfleet/832952/",
-        "published_at": "2026-10-14 15:00",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "CVS to pay $315M to settle opioid prescribing allegations",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/cvs-pay-315-million-settle-opioid-prescribing-allegations/832999/",
-        "published_at": "2026-10-14 14:45",
-        "category": "Clinical Trials & R&D"
     }
 ]
