@@ -1,5 +1,68 @@
 [
     {
+        "title": "#ESMO26 regular abstracts featuring Zai Lab, GSK, Merck and more",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/esmo26-regular-abstracts-featuring-zai-lab-gsk-merck-and-more/",
+        "published_at": "2026-10-19 17:03",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Disc’s once-spurned rare disease drug to get a second chance at approval",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/Disc-bitopertin-apollo-erythropoietic-protoporphyria-study-results/833327/",
+        "published_at": "2026-10-19 16:27",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Gilead’s pill posts stronger colitis remission rates than Entyvio",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/gileads-pill-posts-stronger-colitis-remission-rates-than-entyvio/",
+        "published_at": "2026-10-19 15:05",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "EyePoint's Phase 3 failure; Lilly's China drug delivery deal",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/eyepoints-phase-3-failure-lillys-china-drug-delivery-deal/",
+        "published_at": "2026-10-19 15:01",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Merck KGaA bets on RNAi with $1.3B Silence buyout",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/merck-kgaa-rnai-13b-silence-buyout-blood-disorder-polycythemia-vera/833336/",
+        "published_at": "2026-10-19 13:59",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Merck KGaA to buy Silence Therapeutics and its siRNA pipeline for $1.3B",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/merck-kgaa-will-buy-silence-therapeutics-and-its-sirna-pipeline-for-1-3b/",
+        "published_at": "2026-10-19 13:57",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Roche inks $15B ADC pact with Hansoh; Veradermics scores in another baldness study",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/roche-hansoh-veradermics-rasonque-europe-orbimed-china-ultragenyx/833248/",
+        "published_at": "2026-10-19 13:14",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Sanofi taps new startup ScionxBio for long-acting RNA",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/sanofi-taps-new-startup-scionxbio-for-long-acting-rna/",
+        "published_at": "2026-10-19 13:00",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "AbbVie’s Skyrizi combo beats Skyrizi alone in mid-stage Crohn’s trial",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/abbvies-skyrizi-combo-beats-skyrizi-alone-in-mid-stage-crohns-trial/",
+        "published_at": "2026-10-19 12:51",
+        "category": "Clinical Trials"
+    },
+    {
         "title": "Roche does $400M upfront, $15B deal with China's Hansoh",
         "source": "Endpoints News",
         "url": "https://endpoints.news/roche-does-400m-upfront-15b-deal-with-chinas-hansoh/",
@@ -173,68 +236,5 @@
         "url": "https://endpoints.news/virginia-leads-in-winning-investments-as-drugmakers-onshore-to-the-us/",
         "published_at": "2026-10-15 17:26",
         "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Belgian startup revives Galapagos CAR-T research",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/lakefront-armed-cell-therapies-deal-stoffels-galapagos/833082/",
-        "published_at": "2026-10-15 15:55",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "AstraZeneca does AI deal with insitro; inVIOs' Phase 1 success in solid tumors",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/astrazeneca-does-ai-deal-with-insitro-invios-phase-1-success-in-solid-tumors/",
-        "published_at": "2026-10-15 15:30",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "FDA ‘reset’ continues with new plan for reviewing rare disease drugs",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/fda-rare-disease-framework-initiative-drug-development/833080/",
-        "published_at": "2026-10-15 15:23",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "NorthStar's China CRO deal; Lonza details midterm guidance",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/northstars-china-cro-deal-lonza-details-midterm-guidance/",
-        "published_at": "2026-10-15 15:21",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Osivax pivots to combo approach after flu jab fails in Phase 2b",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/osivax-pivots-to-combo-approach-after-flu-jab-fails-in-phase-2b/",
-        "published_at": "2026-10-15 14:33",
-        "category": "Vaccines & mRNA"
-    },
-    {
-        "title": "San Francisco's pulse on health AI",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/san-franciscos-pulse-on-health-ai/",
-        "published_at": "2026-10-15 14:21",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "OrbiMed raises $3B in new life sciences funds, including $1B+ for Asia",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/orbimed-raises-3b-in-new-life-sciences-funds-including-1b-for-asia/",
-        "published_at": "2026-10-15 13:55",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "AI will force doctors to focus on clinical reasoning, experts say",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/ai-will-force-doctors-to-focus-on-clinical-reasoning-experts-say/",
-        "published_at": "2026-10-15 13:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Iambic, an AI drug discovery specialist, banks $150M in an IPO",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/iambic-ipo-price-ai-drug-discovery/832771/",
-        "published_at": "2026-10-15 00:08",
-        "category": "FDA & Regulatory"
     }
 ]
