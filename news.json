@@ -1,5 +1,47 @@
 [
     {
+        "title": "New ICER report suggests drug launch prices are outpacing their worth",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/new-icer-report-suggests-drug-launch-prices-are-outpacing-their-worth/",
+        "published_at": "2026-10-20 17:57",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Rapport’s epilepsy drug finds surprising success in bipolar trial",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/rapport-bipolar-mania-clinical-trial-rap-219-results/833454/",
+        "published_at": "2026-10-20 16:27",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Most new drugs are still too costly at launch, ICER says",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/icer-new-drug-launch-prices-report-2022-2025/833468/",
+        "published_at": "2026-10-20 15:55",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "An EHR giant backs consumer healthcare",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/an-ehr-giant-backs-consumer-healthcare/",
+        "published_at": "2026-10-20 15:15",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Pfizer ends Phase 2 autoimmune study; Lycia aims for $227M IPO",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/pfizer-ends-phase-2-autoimmune-study-lycia-aims-for-227m-ipo/",
+        "published_at": "2026-10-20 14:55",
+        "category": "Vaccines & mRNA"
+    },
+    {
+        "title": "Biopharma Sentiment Index | Q3 2026 survey results",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/biopharma-sentiment-index-q3-2026-survey-results/",
+        "published_at": "2026-10-20 13:49",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
         "title": "Exclusive: Astellas partners with Boston ‘miniproteins’ startup",
         "source": "Endpoints News",
         "url": "https://endpoints.news/exclusive-astellas-partners-with-boston-miniproteins-startup/",
@@ -194,47 +236,5 @@
         "url": "https://endpoints.news/fda-considers-interim-access-for-compounded-peptides-enspryngs-label-expansion/",
         "published_at": "2026-10-16 15:23",
         "category": "FDA & Regulatory"
-    },
-    {
-        "title": "CHMP endorses Eli Lilly’s GLP-1 pill and three other new drugs",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/chmp-endorses-eli-lillys-glp-1-pill-and-three-other-new-drugs/",
-        "published_at": "2026-10-16 14:55",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Lilly interested in ibogaine investments, its neuro leader says",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/lilly-interested-in-ibogaine-investments-its-neuro-leader-says/",
-        "published_at": "2026-10-16 14:04",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "This week in charts: Moderna’s massive stock run",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/biotech-charts-moderna-stock-xbi-roche-china/832886/",
-        "published_at": "2026-10-16 13:15",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Here's how many clinicians are using AI to answer their medical questions",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/heres-how-many-clinicians-are-using-ai-to-answer-their-medical-questions/",
-        "published_at": "2026-10-16 13:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Ex-Genentech scientist joins Ira Mellman at Medici; Intellia poaches CMO from Scholar Rock",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/ex-genentech-scientist-joins-ira-mellman-at-medici-intellia-poaches-cmo-from-scholar-rock/",
-        "published_at": "2026-10-16 11:00",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Next-gen RNAi drugmaker City prices $200M IPO",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/city-therapeutics-ipo-price-rnai-drugs/832945/",
-        "published_at": "2026-10-16 10:33",
-        "category": "Gene Editing & CRISPR"
     }
 ]
