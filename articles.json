@@ -1,5 +1,26 @@
 [
     {
+        "title": "Exclusive: Astellas partners with Boston ‘miniproteins’ startup",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/exclusive-astellas-partners-with-boston-miniproteins-startup/",
+        "published_at": "2026-10-20 12:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Hype vs. reality: What pharma’s hottest R&D bets have actually proved",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/pharma-rd-bets-clinical-proof-gsk-summit/833332/",
+        "published_at": "2026-10-20 12:00",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Rapport says drug it licensed from J&J clears Phase 2 bipolar mania study",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/rapport-says-drug-it-licensed-from-jj-clears-phase-2-bipolar-mania-study/",
+        "published_at": "2026-10-20 11:14",
+        "category": "Clinical Trials"
+    },
+    {
         "title": "Former MIT professor David Sabatini awarded $6M in defamation case",
         "source": "Endpoints News",
         "url": "https://endpoints.news/former-mit-professor-david-sabatini-awarded-6m-in-defamation-case/",
@@ -214,27 +235,6 @@
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/city-therapeutics-ipo-price-rnai-drugs/832945/",
         "published_at": "2026-10-16 10:33",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Estuary debuts with $103M to develop kidney disease gene therapies",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/estuary-debuts-with-103m-to-develop-kidney-disease-gene-therapies/",
-        "published_at": "2026-10-16 10:30",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Biogen-backed Estuary nabs $93M for kidney disease gene therapy",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/estuary-kidney-disease-gene-therapy-launch-emerged-biogen-biotech-startup/833114/",
-        "published_at": "2026-10-16 10:30",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "City Therapeutics lands $200M IPO as it builds an Alnylam 2.0 in RNAi field",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/city-therapeutics-lands-200m-ipo-as-it-builds-an-alnylam-2-0-in-rnai-field/",
-        "published_at": "2026-10-16 10:17",
         "category": "Gene Editing & CRISPR"
     }
 ]
