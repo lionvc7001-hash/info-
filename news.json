@@ -1,5 +1,61 @@
 [
     {
+        "title": "Samsung Bio union to contest court ruling blocking worker strikes",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/samsung-bio-union-to-contest-court-ruling-blocking-worker-strikes/",
+        "published_at": "2026-10-21 17:04",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "GSK, Ionis win US approval for first-of-its-kind hepatitis B drug",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/gsk-ionis-fda-approve-hibsago-chronic-hepatitis-b-bepirovirsen/833541/",
+        "published_at": "2026-10-21 16:03",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Roivant, continuing ascent, claims another victory for rare disease drug",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/roivant-brepocitinib-uveitis-study-results/833569/",
+        "published_at": "2026-10-21 15:31",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "5 takeaways from Endpoints' AI Day: agents, AI slop, biosecurity",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/5-takeaways-from-endpoints-ai-day-agents-ai-slop-biosecurity/",
+        "published_at": "2026-10-21 15:15",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "CSL hires ViiV CEO Deborah Waterhouse after three decades at GSK",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/csl-hires-viiv-ceo-deborah-waterhouse-after-three-decades-at-gsk/",
+        "published_at": "2026-10-21 15:11",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Alcon and OpenAI make acquisitions; Tezspire's latest Phase 3 win",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/alcon-and-openai-make-acquisitions-tezspires-latest-phase-3-win/",
+        "published_at": "2026-10-21 14:57",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Roivant's autoimmune drug succeeds in two pivotal trials, setting up 2027 filing",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/roivants-autoimmune-drug-succeeds-in-two-pivotal-trials-setting-up-2027-filing/",
+        "published_at": "2026-10-21 14:39",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Arcus kidney cancer data impresses analysts; TriGemX inks a SPAC deal",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/arcus-casdatifan-trigemx-lilly-metis-astrazeneca/833430/",
+        "published_at": "2026-10-21 14:23",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
         "title": "GSK gets FDA approval for hepatitis B drug that offers functional cure",
         "source": "Endpoints News",
         "url": "https://endpoints.news/gsk-gets-fda-approval-for-hepatitis-b-drug-that-offers-functional-cure/",
@@ -175,66 +231,10 @@
         "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "Veradermics' oral Rogaine wins again at growing hair in late-stage trial",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/veradermics-oral-rogaine-wins-again-at-growing-hair-in-late-stage-trial/",
-        "published_at": "2026-10-19 11:00",
-        "category": "Clinical Trials"
-    },
-    {
         "title": "From strategy to scale: How Saudi Arabia is building a biotech ecosystem",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/spons/from-strategy-to-scale-how-saudi-arabia-is-building-a-biotech-ecosystem/832761/",
         "published_at": "2026-10-19 09:00",
         "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Extractables in single-use systems used in ADC manufacturing",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/spons/extractables-in-single-use-systems-used-in-adc-manufacturing/833218/",
-        "published_at": "2026-10-19 09:00",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "How early should you engage a CDMO?",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/spons/how-early-should-you-engage-a-cdmo/832693/",
-        "published_at": "2026-10-19 09:00",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Nouscom raises $135M in Series D for lead cancer vaccine",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/nouscom-raises-135m-in-series-d-round-for-lead-cancer-vaccine/",
-        "published_at": "2026-10-19 06:00",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "A search for ‘the statin of Alzheimer’s’; Arrowhead injectable lowers tau; and more",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/a-search-for-the-statin-of-alzheimers-arrowhead-injectable-lowers-tau-and-more/",
-        "published_at": "2026-10-17 10:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Iambic CEO on taking an AI drug company public",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/Iambic-ipo-tom-miller-ai-drug-development-discovery/833238/",
-        "published_at": "2026-10-16 16:10",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Q&A: Sanofi's new research chief on AI, R&D failure rates and dealmaking",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/qa-sanofis-new-research-chief-on-ai-rd-failure-rates-and-dealmaking/",
-        "published_at": "2026-10-16 16:02",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Novartis scraps Fabhalta study in lupus nephritis",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/novartis-scraps-fabhalta-study-in-lupus-nephritis/",
-        "published_at": "2026-10-16 15:32",
-        "category": "Clinical Trials"
     }
 ]
