@@ -1,5 +1,47 @@
 [
     {
+        "title": "Moderna, Merck shares fall on eagerly anticipated cancer vaccine results",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/moderna-merck-esmo-intismeran-melanoma-vaccine-results/833765/",
+        "published_at": "2026-10-22 19:27",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Data leak for Merck and Moderna’s therapeutic cancer vaccine",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/data-leaks-for-merck-and-modernas-therapeutic-cancer-vaccine/",
+        "published_at": "2026-10-22 18:37",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Roche says it will help patients who are 'anxiously awaiting' its new breast cancer drug",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/roche-says-it-will-help-patients-who-are-anxiously-awaiting-its-new-breast-cancer-drug/",
+        "published_at": "2026-10-22 16:32",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Biohaven’s previously rejected rare disease drug to get fresh FDA review",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/biohaven-troriluzole-vyglxia-sca-fda-accept-application/833703/",
+        "published_at": "2026-10-22 16:24",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "American Medical Association CEO talks regulating AI care",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/american-medical-association-ceo-talks-regulating-ai-care/",
+        "published_at": "2026-10-22 15:51",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "GLP-1 compounder issues recall for copycat Zepbound",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/glp1-obesity-drug-recall-apothecary-tirzepatide-zepbound/833712/",
+        "published_at": "2026-10-22 15:50",
+        "category": "FDA & Regulatory"
+    },
+    {
         "title": "Roche affirms sales outlook amid doubts about its future",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/roche-3q-2026-earnings-sales-outlook/833684/",
@@ -189,52 +231,10 @@
         "category": "Vaccines & mRNA"
     },
     {
-        "title": "Biopharma Sentiment Index | Q3 2026 survey results",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/biopharma-sentiment-index-q3-2026-survey-results/",
-        "published_at": "2026-10-20 13:49",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Exclusive: Astellas partners with Boston ‘miniproteins’ startup",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/exclusive-astellas-partners-with-boston-miniproteins-startup/",
-        "published_at": "2026-10-20 12:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
         "title": "Hype vs. reality: What pharma’s hottest R&D bets have actually proved",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/pharma-rd-bets-clinical-proof-gsk-summit/833332/",
         "published_at": "2026-10-20 12:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Rapport says drug it licensed from J&J clears Phase 2 bipolar mania study",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/rapport-says-drug-it-licensed-from-jj-clears-phase-2-bipolar-mania-study/",
-        "published_at": "2026-10-20 11:14",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Disc’s once-spurned rare disease drug to get a second chance at approval",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/Disc-bitopertin-apollo-erythropoietic-protoporphyria-study-results/833327/",
-        "published_at": "2026-10-19 16:27",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Merck KGaA bets on RNAi with $1.3B Silence buyout",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/merck-kgaa-rnai-13b-silence-buyout-blood-disorder-polycythemia-vera/833336/",
-        "published_at": "2026-10-19 13:59",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Roche inks $15B ADC pact with Hansoh; Veradermics scores in another baldness study",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/roche-hansoh-veradermics-rasonque-europe-orbimed-china-ultragenyx/833248/",
-        "published_at": "2026-10-19 13:14",
         "category": "Mergers & Acquisitions"
     }
 ]
