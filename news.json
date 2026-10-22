@@ -1,5 +1,61 @@
 [
     {
+        "title": "Roche affirms sales outlook amid doubts about its future",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/roche-3q-2026-earnings-sales-outlook/833684/",
+        "published_at": "2026-10-22 15:20",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "A hepatitis B hold lifted and drug tabled; Ultomiris' accelerated approval",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/a-hepatitis-b-hold-lifted-and-drug-tabled-ultomiris-accelerated-approval/",
+        "published_at": "2026-10-22 15:18",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "AbbVie notches Phase 3 win in painful skin condition, FDA filing likely next year",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/abbvie-notches-phase-3-win-in-painful-skin-condition-fda-filing-likely-next-year/",
+        "published_at": "2026-10-22 14:09",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Sanofi's new German site; radioisotope deals from Northstar and Telix",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/sanofis-new-german-site-radioisotope-deals-from-northstar-and-telix/",
+        "published_at": "2026-10-22 14:07",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Big trials push beyond obesity to see if GLP-1s can quell alcohol, drug cravings",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/big-trials-push-beyond-obesity-to-see-if-glp-1s-can-quell-alcohol-drug-cravings/",
+        "published_at": "2026-10-22 14:00",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Healthcare industry weighs in on evidence standards for generative AI medical devices",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/healthcare-industry-weighs-in-on-evidence-standards-for-generative-ai-medical-devices/",
+        "published_at": "2026-10-22 12:30",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Redesign Health merges with ARC Global in $2B deal to help hospitals build startups",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/redesign-health-merges-with-arc-global-in-2b-deal-to-help-hospitals-build-startups/",
+        "published_at": "2026-10-22 12:00",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Georgiamune sells solid tumor drug to Italy's Menarini for up to $1.1B",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/georgiamune-sells-solid-tumor-drug-to-italys-menarini-for-up-to-1-1b/",
+        "published_at": "2026-10-22 11:30",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
         "title": "Roche talks up Phase 3 success rate as it unveils pipeline cuts",
         "source": "Endpoints News",
         "url": "https://endpoints.news/roche-talks-up-phase-3-success-rate-as-it-unveils-pipeline-cuts/",
@@ -161,46 +217,11 @@
         "category": "Clinical Trials"
     },
     {
-        "title": "Former MIT professor David Sabatini awarded $6M in defamation case",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/former-mit-professor-david-sabatini-awarded-6m-in-defamation-case/",
-        "published_at": "2026-10-19 19:17",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Antheia gets $80M conditional DOD loan to onshore to the US",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/antheia-gets-80m-conditional-dod-loan-to-onshore-to-the-us/",
-        "published_at": "2026-10-19 19:01",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "#ESMO26 regular abstracts featuring Zai Lab, GSK, Merck and more",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/esmo26-regular-abstracts-featuring-zai-lab-gsk-merck-and-more/",
-        "published_at": "2026-10-19 17:03",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
         "title": "Disc’s once-spurned rare disease drug to get a second chance at approval",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/Disc-bitopertin-apollo-erythropoietic-protoporphyria-study-results/833327/",
         "published_at": "2026-10-19 16:27",
         "category": "Clinical Trials"
-    },
-    {
-        "title": "Gilead’s pill posts stronger colitis remission rates than Entyvio",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/gileads-pill-posts-stronger-colitis-remission-rates-than-entyvio/",
-        "published_at": "2026-10-19 15:05",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "EyePoint's Phase 3 failure; Lilly's China drug delivery deal",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/eyepoints-phase-3-failure-lillys-china-drug-delivery-deal/",
-        "published_at": "2026-10-19 15:01",
-        "category": "Mergers & Acquisitions"
     },
     {
         "title": "Merck KGaA bets on RNAi with $1.3B Silence buyout",
@@ -210,31 +231,10 @@
         "category": "Gene Editing & CRISPR"
     },
     {
-        "title": "Merck KGaA to buy Silence Therapeutics and its siRNA pipeline for $1.3B",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/merck-kgaa-will-buy-silence-therapeutics-and-its-sirna-pipeline-for-1-3b/",
-        "published_at": "2026-10-19 13:57",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
         "title": "Roche inks $15B ADC pact with Hansoh; Veradermics scores in another baldness study",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/roche-hansoh-veradermics-rasonque-europe-orbimed-china-ultragenyx/833248/",
         "published_at": "2026-10-19 13:14",
         "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Sanofi taps new startup ScionxBio for long-acting RNA",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/sanofi-taps-new-startup-scionxbio-for-long-acting-rna/",
-        "published_at": "2026-10-19 13:00",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "From strategy to scale: How Saudi Arabia is building a biotech ecosystem",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/spons/from-strategy-to-scale-how-saudi-arabia-is-building-a-biotech-ecosystem/832761/",
-        "published_at": "2026-10-19 09:00",
-        "category": "Clinical Trials & R&D"
     }
 ]
