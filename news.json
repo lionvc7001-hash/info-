@@ -1,5 +1,19 @@
 [
     {
+        "title": "Gilead strikes $1.3B upfront China deal for oral IL-23 drug",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/gilead-strikes-1-3b-upfront-china-deal-for-oral-il-23-drug/",
+        "published_at": "2026-10-23 02:02",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Protein degrader specialist Lycia prices $318M IPO",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/lycia-therapeutics-targeted-protein-degraders-ipo-pricing/833624/",
+        "published_at": "2026-10-23 01:37",
+        "category": "Clinical Trials & R&D"
+    },
+    {
         "title": "Treasury proposal would sharply limit US investments in much of China biotech",
         "source": "Endpoints News",
         "url": "https://endpoints.news/treasury-proposal-would-sharply-limit-us-investments-in-much-of-china-biotech/",
@@ -210,13 +224,6 @@
         "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "New ICER report suggests drug launch prices are outpacing their worth",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/new-icer-report-suggests-drug-launch-prices-are-outpacing-their-worth/",
-        "published_at": "2026-10-20 17:57",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
         "title": "Rapport’s epilepsy drug finds surprising success in bipolar trial",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/rapport-bipolar-mania-clinical-trial-rap-219-results/833454/",
@@ -229,12 +236,5 @@
         "url": "https://www.biopharmadive.com/news/icer-new-drug-launch-prices-report-2022-2025/833468/",
         "published_at": "2026-10-20 15:55",
         "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Hype vs. reality: What pharma’s hottest R&D bets have actually proved",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/pharma-rd-bets-clinical-proof-gsk-summit/833332/",
-        "published_at": "2026-10-20 12:00",
-        "category": "Mergers & Acquisitions"
     }
 ]
