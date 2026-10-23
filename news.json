@@ -1,5 +1,40 @@
 [
     {
+        "title": "Warp Sciences emerges from stealth, founded by ex-OpenAI science chief and tech veterans",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/warp-sciences-emerges-from-stealth-founded-by-ex-openai-science-chief-and-tech-veterans/",
+        "published_at": "2026-10-23 11:35",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Tango combo clears Rasonque bar, Takeda's Innovent bet gets early returns, plus more from #ESMO26",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/tango-combo-clears-rasonque-bar-takedas-innovent-bet-gets-early-returns-and-more-from-esmo26/",
+        "published_at": "2026-10-23 11:30",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Al Sandrock to step down as Voyager CEO; Insmed adds Paul Hudson to board",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/al-sandrock-to-step-down-as-voyager-ceo-insmed-adds-paul-hudson-to-board/",
+        "published_at": "2026-10-23 11:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Star Therapeutics gets $200M to try repeating its Vega, Electra successes",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/star-therapeutics-gets-200m-to-try-repeating-its-vega-electra-successes/",
+        "published_at": "2026-10-23 11:00",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Alnylam plans bigger study of RNA drug for Huntington’s disease",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/alnylam-plans-bigger-study-of-rna-drug-for-huntingtons-disease/",
+        "published_at": "2026-10-23 07:45",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
         "title": "Gilead strikes $1.3B upfront China deal for oral IL-23 drug",
         "source": "Endpoints News",
         "url": "https://endpoints.news/gilead-strikes-1-3b-upfront-china-deal-for-oral-il-23-drug/",
@@ -35,7 +70,7 @@
         "category": "Gene Editing & CRISPR"
     },
     {
-        "title": "Data leak for Merck and Moderna’s therapeutic cancer vaccine",
+        "title": "#ESMO26: Data leak for Merck and Moderna’s therapeutic cancer vaccine",
         "source": "Endpoints News",
         "url": "https://endpoints.news/data-leaks-for-merck-and-modernas-therapeutic-cancer-vaccine/",
         "published_at": "2026-10-22 18:37",
@@ -182,46 +217,11 @@
         "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "CSL hires ViiV CEO Deborah Waterhouse after three decades at GSK",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/csl-hires-viiv-ceo-deborah-waterhouse-after-three-decades-at-gsk/",
-        "published_at": "2026-10-21 15:11",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Alcon and OpenAI make acquisitions; Tezspire's latest Phase 3 win",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/alcon-and-openai-make-acquisitions-tezspires-latest-phase-3-win/",
-        "published_at": "2026-10-21 14:57",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Roivant's autoimmune drug succeeds in two pivotal trials, setting up 2027 filing",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/roivants-autoimmune-drug-succeeds-in-two-pivotal-trials-setting-up-2027-filing/",
-        "published_at": "2026-10-21 14:39",
-        "category": "Clinical Trials"
-    },
-    {
         "title": "Arcus kidney cancer data impresses analysts; TriGemX inks a SPAC deal",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/arcus-casdatifan-trigemx-lilly-metis-astrazeneca/833430/",
         "published_at": "2026-10-21 14:23",
         "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "GSK gets FDA approval for hepatitis B drug that offers functional cure",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/gsk-gets-fda-approval-for-hepatitis-b-drug-that-offers-functional-cure/",
-        "published_at": "2026-10-21 10:12",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Lilly’s retatrutide creeps closer to market for sleep apnea",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/lillys-retatrutide-creeps-closer-to-market-for-sleep-apnea/",
-        "published_at": "2026-10-21 06:00",
-        "category": "Pharma & FDA Regulatory"
     },
     {
         "title": "Rapport’s epilepsy drug finds surprising success in bipolar trial",
