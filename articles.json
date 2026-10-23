@@ -1,5 +1,54 @@
 [
     {
+        "title": "This week in charts: a big year for RNAi developers",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/charts-rna-interference-rnai-drug-venture-ipos/833784/",
+        "published_at": "2026-10-23 15:33",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Lycia's $318M IPO; Merck sac-TMT trial stopped early",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/lycias-318m-ipo-merck-sac-tmt-trial-stopped-early/",
+        "published_at": "2026-10-23 15:13",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Roche taps Zymeworks in up to $813M deal for preclinical T cell engager",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/roche-taps-zymeworks-in-up-to-813m-deal-for-preclinical-t-cell-engager/",
+        "published_at": "2026-10-23 15:03",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Bristol Myers reveals death in MS CAR-T trial, has answer for safety signal in lupus trial",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/bristol-myers-reveals-autoimmune-car-t-trial-death-explains-summertime-pause/",
+        "published_at": "2026-10-23 14:33",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Pathos raises $237M at $3B valuation, signs Bristol Myers neuro partnership",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/pathos-raises-237m-at-3b-valuation-signs-bristol-myers-neuro-partnership/",
+        "published_at": "2026-10-23 13:00",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Post-Hoc Live: Did the US just kill off China biotech deals?",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/post-hoc-live-did-the-us-just-kill-off-china-biotech-deals/",
+        "published_at": "2026-10-23 13:00",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Biotech takes a hit as dealmakers take a knee in Q3",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/biotech-takes-a-hit-as-dealmakers-take-a-knee-in-q3/",
+        "published_at": "2026-10-23 13:00",
+        "category": "Mergers & Acquisitions"
+    },
+    {
         "title": "Warp Sciences emerges from stealth, founded by ex-OpenAI science chief and tech veterans",
         "source": "Endpoints News",
         "url": "https://endpoints.news/warp-sciences-emerges-from-stealth-founded-by-ex-openai-science-chief-and-tech-veterans/",
@@ -26,6 +75,13 @@
         "url": "https://endpoints.news/star-therapeutics-gets-200m-to-try-repeating-its-vega-electra-successes/",
         "published_at": "2026-10-23 11:00",
         "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Star adds $200M after spinout successes",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/star-therapeutics-financing-vega-electra/833733/",
+        "published_at": "2026-10-23 11:00",
+        "category": "Clinical Trials & R&D"
     },
     {
         "title": "Alnylam plans bigger study of RNA drug for Huntington’s disease",
@@ -161,41 +217,6 @@
         "category": "Immunotherapy & Oncology"
     },
     {
-        "title": "Roche talks up Phase 3 success rate as it unveils pipeline cuts",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/roche-talks-up-phase-3-success-rate-as-it-unveils-pipeline-cuts/",
-        "published_at": "2026-10-22 10:21",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Rezera files for IPO to back NLRP3 work in peripheral artery disease",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/rezera-files-for-ipo-to-back-nlrp3-work-in-peripheral-artery-disease/",
-        "published_at": "2026-10-21 23:45",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "China biotech RiboX reveals first data of circular RNA therapies in people",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/china-biotech-ribox-reveals-first-data-of-circular-rna-therapies-in-people/",
-        "published_at": "2026-10-21 23:19",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Treasury expected to be harder on China biotech deals in new rules",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/treasury-expected-to-be-harder-on-china-biotech-deals-in-new-rules/",
-        "published_at": "2026-10-21 18:48",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Samsung Bio union to contest court ruling blocking worker strikes",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/samsung-bio-union-to-contest-court-ruling-blocking-worker-strikes/",
-        "published_at": "2026-10-21 17:04",
-        "category": "FDA & Regulatory"
-    },
-    {
         "title": "GSK, Ionis win US approval for first-of-its-kind hepatitis B drug",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/gsk-ionis-fda-approve-hibsago-chronic-hepatitis-b-bepirovirsen/833541/",
@@ -210,31 +231,10 @@
         "category": "Clinical Trials & R&D"
     },
     {
-        "title": "5 takeaways from Endpoints' AI Day: Agents, AI slop, biosecurity",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/5-takeaways-from-endpoints-ai-day-agents-ai-slop-biosecurity/",
-        "published_at": "2026-10-21 15:15",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
         "title": "Arcus kidney cancer data impresses analysts; TriGemX inks a SPAC deal",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/arcus-casdatifan-trigemx-lilly-metis-astrazeneca/833430/",
         "published_at": "2026-10-21 14:23",
         "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Rapport’s epilepsy drug finds surprising success in bipolar trial",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/rapport-bipolar-mania-clinical-trial-rap-219-results/833454/",
-        "published_at": "2026-10-20 16:27",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Most new drugs are still too costly at launch, ICER says",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/icer-new-drug-launch-prices-report-2022-2025/833468/",
-        "published_at": "2026-10-20 15:55",
-        "category": "Clinical Trials & R&D"
     }
 ]
