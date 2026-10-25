@@ -1,5 +1,26 @@
 [
     {
+        "title": "#ESMO26: Merck and Moderna's cancer vaccine data were 'a triumph of science.' And now, the work begins",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/esmo26-merck-and-modernas-cancer-vaccine-data-were-a-triumph-of-science-and-now-the-work-begins/",
+        "published_at": "2026-10-25 15:46",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "#ESMO26: Roche details magnitude of its KRAS G12C inhibitor’s win over rivals in lung cancer trial",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/esmo26-roche-details-magnitude-of-its-kras-g12c-inhibitors-win-over-rivals-in-lung-cancer-trial/",
+        "published_at": "2026-10-25 15:30",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "#ESMO26: AstraZeneca's Tagrisso-Orpathys combo may extend Tagrisso's life in lung cancer",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/esmo26-astrazenecas-tagrisso-orpathys-combo-may-extend-tagrissos-life-in-lung-cancer/",
+        "published_at": "2026-10-25 15:30",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
         "title": "#ESMO26: Pfizer looks beyond lung cancer flop as BioNTech, Bristol Myers show early activity",
         "source": "Endpoints News",
         "url": "https://endpoints.news/esmo26-pfizer-says-failed-adc-from-seagen-buy-shows-promise-in-post-hoc-review/",
@@ -175,25 +196,11 @@
         "category": "Gene Editing & CRISPR"
     },
     {
-        "title": "Roche says it will help patients who are 'anxiously awaiting' its new breast cancer drug",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/roche-says-it-will-help-patients-who-are-anxiously-awaiting-its-new-breast-cancer-drug/",
-        "published_at": "2026-10-22 16:32",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
         "title": "Biohaven’s previously rejected rare disease drug to get fresh FDA review",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/biohaven-troriluzole-vyglxia-sca-fda-accept-application/833703/",
         "published_at": "2026-10-22 16:24",
         "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "American Medical Association CEO talks regulating AI care",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/american-medical-association-ceo-talks-regulating-ai-care/",
-        "published_at": "2026-10-22 15:51",
-        "category": "FDA & Regulatory"
     },
     {
         "title": "GLP-1 compounder issues recall for copycat Zepbound",
@@ -208,13 +215,6 @@
         "url": "https://www.biopharmadive.com/news/roche-3q-2026-earnings-sales-outlook/833684/",
         "published_at": "2026-10-22 15:20",
         "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "A hepatitis B hold lifted and drug tabled; Ultomiris' accelerated approval",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/a-hepatitis-b-hold-lifted-and-drug-tabled-ultomiris-accelerated-approval/",
-        "published_at": "2026-10-22 15:18",
-        "category": "FDA & Regulatory"
     },
     {
         "title": "GSK, Ionis win US approval for first-of-its-kind hepatitis B drug",
