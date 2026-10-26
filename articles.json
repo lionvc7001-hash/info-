@@ -1,5 +1,61 @@
 [
     {
+        "title": "Employers accuse UnitedHealth of overpaying medical claims",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/employers-accuse-unitedhealth-of-overpaying-medical-claims/",
+        "published_at": "2026-10-26 20:50",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Corxel, an obesity drugmaker, to go public via SPAC deal",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/corxel-pharmaceuticals-spac-public-obesity-drugs/872772/",
+        "published_at": "2026-10-26 19:17",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Microsoft's AI gives more accurate diagnoses than doctors, study finds",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/microsofts-ai-gives-more-accurate-diagnoses-than-doctors-study-finds/",
+        "published_at": "2026-10-26 19:00",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "WuXi AppTec raises revenue forecast again in the face of DOD court case",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/wuxi-apptec-raises-revenue-forecast-again-in-the-face-of-dod-court-case/",
+        "published_at": "2026-10-26 17:43",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Roche’s changing plans show how MFN is complicating European drug launches",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/roches-changing-plans-show-how-mfn-is-complicating-european-drug-launches/",
+        "published_at": "2026-10-26 16:06",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "BioNTech, DualityBio say ADC had ‘modest’ benefit in breast cancer study",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/biontech-dualitybio-modest-results-adc-breast-cancer/839574/",
+        "published_at": "2026-10-26 16:06",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "ESMO ‘26: A cancer vaccine debate, Roche’s KRAS progress and Amgen’s ‘unprecedented’ data",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/esmo-2026-intismeran-melanoma-imdelltra-divarasib-kras-g12c/833921/",
+        "published_at": "2026-10-26 15:58",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Beyond cancer vaccine, how did Merck’s oncology pipeline do at #ESMO26?",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/beyond-cancer-vaccine-how-did-mercks-oncology-pipeline-do-at-esmo26/",
+        "published_at": "2026-10-26 15:49",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
         "title": "Aspen, Bambusa target $135M IPOs; AstraZeneca vs. Takeda in gastric cancer ADCs",
         "source": "Endpoints News",
         "url": "https://endpoints.news/aspen-bambusa-target-135m-ipos-astrazeneca-vs-takeda-in-gastric-cancer-adcs/",
@@ -161,41 +217,6 @@
         "category": "Mergers & Acquisitions"
     },
     {
-        "title": "Post-Hoc Live: Did the US just kill off China biotech deals?",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/post-hoc-live-did-the-us-just-kill-off-china-biotech-deals/",
-        "published_at": "2026-10-23 13:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Biotech takes a hit as dealmakers take a knee in Q3",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/biotech-takes-a-hit-as-dealmakers-take-a-knee-in-q3/",
-        "published_at": "2026-10-23 13:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Warp Sciences emerges from stealth, founded by ex-OpenAI science chief and tech veterans",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/warp-sciences-emerges-from-stealth-founded-by-ex-openai-science-chief-and-tech-veterans/",
-        "published_at": "2026-10-23 11:35",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Tango combo clears Rasonque bar, Takeda's Innovent bet gets early returns, plus more from #ESMO26",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/tango-combo-clears-rasonque-bar-takedas-innovent-bet-gets-early-returns-and-more-from-esmo26/",
-        "published_at": "2026-10-23 11:30",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Al Sandrock to step down as Voyager CEO; Insmed adds Paul Hudson to board",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/al-sandrock-to-step-down-as-voyager-ceo-insmed-adds-paul-hudson-to-board/",
-        "published_at": "2026-10-23 11:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
         "title": "Star adds $200M after spinout successes",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/star-therapeutics-financing-vega-electra/833733/",
@@ -215,26 +236,5 @@
         "url": "https://www.biopharmadive.com/news/moderna-merck-esmo-intismeran-melanoma-vaccine-results/833765/",
         "published_at": "2026-10-22 19:27",
         "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Biohaven’s previously rejected rare disease drug to get fresh FDA review",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/biohaven-troriluzole-vyglxia-sca-fda-accept-application/833703/",
-        "published_at": "2026-10-22 16:24",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "GLP-1 compounder issues recall for copycat Zepbound",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/glp1-obesity-drug-recall-apothecary-tirzepatide-zepbound/833712/",
-        "published_at": "2026-10-22 15:50",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Roche affirms sales outlook amid doubts about its future",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/roche-3q-2026-earnings-sales-outlook/833684/",
-        "published_at": "2026-10-22 15:20",
-        "category": "Clinical Trials & R&D"
     }
 ]
