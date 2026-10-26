@@ -1,5 +1,61 @@
 [
     {
+        "title": "Aspen, Bambusa target $135M IPOs; AstraZeneca vs. Takeda in gastric cancer ADCs",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/aspen-bambusa-target-135m-ipos-astrazeneca-vs-takeda-in-gastric-cancer-adcs/",
+        "published_at": "2026-10-26 14:40",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "#ESMO26: SystImmune/BMS and Hengrui detail data in EGFR-mutant lung cancer",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/esmo26-systimmune-bms-and-hengrui-detail-data-in-egfr-mutant-lung-cancer/",
+        "published_at": "2026-10-26 14:11",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Lilly’s music-loving, intense lead dealmaker knows what he wants",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/lillys-music-loving-intense-lead-dealmaker-knows-what-he-wants/",
+        "published_at": "2026-10-26 14:05",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Another autoimmune CAR-T death; Treasury zeroes in on China deals",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/autoimmune-bristol-death-treasury-china-gilead-pepstar-zymeworks/833901/",
+        "published_at": "2026-10-26 13:59",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Corxel to take oral GLP-1 public in the US via SPAC",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/corxel-to-take-oral-glp-1-public-in-the-us-via-spac/",
+        "published_at": "2026-10-26 13:14",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "BioNTech, DualityBio ponder next steps for HER2 ADC after 'modest' breast cancer results",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/biontech-dualitybio-ponder-next-steps-for-her2-adc-after-modest-breast-cancer-results/",
+        "published_at": "2026-10-26 10:34",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "The molecule was fine. The moment wasn’t.",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/spons/the-molecule-was-fine-the-moment-wasnt/833616/",
+        "published_at": "2026-10-26 09:00",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Novel protein and peptide therapeutics",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/spons/novel-protein-and-peptide-therapeutics/833429/",
+        "published_at": "2026-10-26 09:00",
+        "category": "Clinical Trials & R&D"
+    },
+    {
         "title": "#ESMO26: Akeso details ivonescimab's biliary cancer success, drawing Keytruda comparisons",
         "source": "Endpoints News",
         "url": "https://endpoints.news/esmo26-akeso-details-ivonescimabs-biliary-cancer-success-drawing-keytruda-comparisons/",
@@ -140,13 +196,6 @@
         "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "Star Therapeutics gets $200M to try repeating its Vega, Electra successes",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/star-therapeutics-gets-200m-to-try-repeating-its-vega-electra-successes/",
-        "published_at": "2026-10-23 11:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
         "title": "Star adds $200M after spinout successes",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/star-therapeutics-financing-vega-electra/833733/",
@@ -154,39 +203,11 @@
         "category": "Clinical Trials & R&D"
     },
     {
-        "title": "Alnylam plans bigger study of RNA drug for Huntington’s disease",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/alnylam-plans-bigger-study-of-rna-drug-for-huntingtons-disease/",
-        "published_at": "2026-10-23 07:45",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Gilead strikes $1.3B upfront China deal for oral IL-23 drug",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/gilead-strikes-1-3b-upfront-china-deal-for-oral-il-23-drug/",
-        "published_at": "2026-10-23 02:02",
-        "category": "Mergers & Acquisitions"
-    },
-    {
         "title": "Protein degrader specialist Lycia prices $318M IPO",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/lycia-therapeutics-targeted-protein-degraders-ipo-pricing/833624/",
         "published_at": "2026-10-23 01:37",
         "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Treasury proposal would sharply limit US investments in much of China biotech",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/treasury-proposal-would-sharply-limit-us-investments-in-much-of-china-biotech/",
-        "published_at": "2026-10-22 21:57",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Pfizer details mixed Lyme disease vaccine data",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/pfizer-details-mixed-lyme-disease-vaccine-data/",
-        "published_at": "2026-10-22 20:00",
-        "category": "Vaccines & mRNA"
     },
     {
         "title": "Moderna, Merck shares fall on eagerly anticipated cancer vaccine results",
@@ -215,26 +236,5 @@
         "url": "https://www.biopharmadive.com/news/roche-3q-2026-earnings-sales-outlook/833684/",
         "published_at": "2026-10-22 15:20",
         "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "GSK, Ionis win US approval for first-of-its-kind hepatitis B drug",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/gsk-ionis-fda-approve-hibsago-chronic-hepatitis-b-bepirovirsen/833541/",
-        "published_at": "2026-10-21 16:03",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Roivant, continuing ascent, claims another victory for rare disease drug",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/roivant-brepocitinib-uveitis-study-results/833569/",
-        "published_at": "2026-10-21 15:31",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Arcus kidney cancer data impresses analysts; TriGemX inks a SPAC deal",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/arcus-casdatifan-trigemx-lilly-metis-astrazeneca/833430/",
-        "published_at": "2026-10-21 14:23",
-        "category": "Immunotherapy & Oncology"
     }
 ]
