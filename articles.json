@@ -1,5 +1,33 @@
 [
     {
+        "title": "Ferring to acquire next-gen IVF startup Gameto for up to $1.4B",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/ferring-gameto-acquire-ivf-fertilo-womens-health/872904/",
+        "published_at": "2026-10-27 20:53",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Backed by Amish and Mennonites, a new kind of gene therapy company takes shape",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/backed-by-amish-and-mennonites-a-new-kind-of-gene-therapy-company-takes-shape/",
+        "published_at": "2026-10-27 20:52",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Draft COINS rules could threaten broad China collaborations",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/draft-coins-rules-could-threaten-broad-china-collaborations/",
+        "published_at": "2026-10-27 18:50",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Lilly's ads can continue after Novo challenge, judge rules",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/lillys-ads-can-continue-after-novo-challenge-judge-rules/",
+        "published_at": "2026-10-27 18:23",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
         "title": "Court rejects Novo bid to block Lilly obesity drug ads",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/novo-lilly-lawsuit-ruling-false-advertising-wegovy-zepbound/872856/",
@@ -161,16 +189,16 @@
         "category": "Immunotherapy & Oncology"
     },
     {
-        "title": "Novel protein and peptide therapeutics",
+        "title": "The molecule was fine. The moment wasn’t.",
         "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/spons/novel-protein-and-peptide-therapeutics/833429/",
+        "url": "https://www.biopharmadive.com/spons/the-molecule-was-fine-the-moment-wasnt/833616/",
         "published_at": "2026-10-26 09:00",
         "category": "Clinical Trials & R&D"
     },
     {
-        "title": "The molecule was fine. The moment wasn’t.",
+        "title": "Novel protein and peptide therapeutics",
         "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/spons/the-molecule-was-fine-the-moment-wasnt/833616/",
+        "url": "https://www.biopharmadive.com/spons/novel-protein-and-peptide-therapeutics/833429/",
         "published_at": "2026-10-26 09:00",
         "category": "Clinical Trials & R&D"
     },
@@ -203,38 +231,10 @@
         "category": "Immunotherapy & Oncology"
     },
     {
-        "title": "#ESMO26: Pfizer looks beyond lung cancer flop as BioNTech, Bristol Myers show early activity",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/esmo26-pfizer-says-failed-adc-from-seagen-buy-shows-promise-in-post-hoc-review/",
-        "published_at": "2026-10-25 10:00",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "#ESMO26: AstraZeneca eyes Keytruda's Padcev spot; Lilly's ADC takes on Elahere; Nubeqa targets earlier prostate cancer",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/esmo26-astrazeneca-eyes-keytrudas-padcev-spot-lillys-adc-takes-on-elahere-nubeqa-targets-earlier-prostate-cancer/",
-        "published_at": "2026-10-24 16:00",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "#ESMO26: Amgen's Imdelltra regimen more than halves risk of death in Phase 3 lung cancer trial",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/esmo26-amgens-imdelltra-regimen-more-than-halves-risk-of-death-in-phase-3-lung-cancer-trial/",
-        "published_at": "2026-10-24 14:30",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
         "title": "This week in charts: a big year for RNAi developers",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/charts-rna-interference-rnai-drug-venture-ipos/833784/",
         "published_at": "2026-10-23 15:33",
         "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Star adds $200M after spinout successes",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/star-therapeutics-financing-vega-electra/833733/",
-        "published_at": "2026-10-23 11:00",
-        "category": "Clinical Trials & R&D"
     }
 ]
