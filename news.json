@@ -1,5 +1,54 @@
 [
     {
+        "title": "Court rejects Novo bid to block Lilly obesity drug ads",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/novo-lilly-lawsuit-ruling-false-advertising-wegovy-zepbound/872856/",
+        "published_at": "2026-10-27 16:03",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Artiva to quit autoimmune cell therapy work, cut staff after patient deaths",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/artiva-discontinue-nk-cell-therapy-autoimmune-patient-death/872873/",
+        "published_at": "2026-10-27 15:44",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Gubra looks beyond metabolism, hopes for first portfolio company this year",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/gubra-looks-beyond-metabolism-hopes-for-first-portfolio-company-this-year/",
+        "published_at": "2026-10-27 15:21",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Artiva to wind down after two patient deaths in autoimmune cell therapy trials",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/artiva-to-wind-down-after-two-patient-deaths-in-autoimmune-cell-therapy-trials/",
+        "published_at": "2026-10-27 14:45",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Outpace ends an ovarian cancer trial; Incyte data impresses at ESMO",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/outpace-ends-an-ovarian-cancer-trial-incyte-data-impresses-at-esmo/",
+        "published_at": "2026-10-27 14:38",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "After Makary's FDA exit, biopharma exhales: Signal Survey",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/after-makarys-fda-exit-biopharma-exhales-signal-survey/",
+        "published_at": "2026-10-27 14:04",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Ferring to acquire ovary-in-a-dish startup Gameto for up to $1.38B",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/ferring-to-acquire-ovary-in-a-dish-startup-gameto-for-up-to-1-38b/",
+        "published_at": "2026-10-27 13:16",
+        "category": "Mergers & Acquisitions"
+    },
+    {
         "title": "After $1.9B impairment hit, Novartis stands by $12B bet on Avidity",
         "source": "Endpoints News",
         "url": "https://endpoints.news/novartis-stands-by-12b-bet-on-avidity-after-1-9b-impairment-hit/",
@@ -112,16 +161,16 @@
         "category": "Immunotherapy & Oncology"
     },
     {
-        "title": "The molecule was fine. The moment wasn’t.",
+        "title": "Novel protein and peptide therapeutics",
         "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/spons/the-molecule-was-fine-the-moment-wasnt/833616/",
+        "url": "https://www.biopharmadive.com/spons/novel-protein-and-peptide-therapeutics/833429/",
         "published_at": "2026-10-26 09:00",
         "category": "Clinical Trials & R&D"
     },
     {
-        "title": "Novel protein and peptide therapeutics",
+        "title": "The molecule was fine. The moment wasn’t.",
         "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/spons/novel-protein-and-peptide-therapeutics/833429/",
+        "url": "https://www.biopharmadive.com/spons/the-molecule-was-fine-the-moment-wasnt/833616/",
         "published_at": "2026-10-26 09:00",
         "category": "Clinical Trials & R&D"
     },
@@ -175,27 +224,6 @@
         "category": "Immunotherapy & Oncology"
     },
     {
-        "title": "Cancer vaccine data from #ESMO26; Treasury proposal could curb China investment; and more",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/cancer-vaccine-data-from-esmo26-treasury-proposal-could-curb-china-investment-and-more/",
-        "published_at": "2026-10-24 10:00",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Windward Bio files for Nasdaq IPO to fund China-derived assets and in-house R&D",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/windward-bio-files-for-nasdaq-ipo-to-fund-china-derived-assets-and-in-house-rd/",
-        "published_at": "2026-10-23 23:15",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Q&A: Bristol Myers' Lynelle Hoch on autoimmune CAR-T safety challenges",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/qa-bristol-myers-lynelle-hoch-on-autoimmune-car-t-safety-challenges/",
-        "published_at": "2026-10-23 18:36",
-        "category": "Clinical Trials"
-    },
-    {
         "title": "This week in charts: a big year for RNAi developers",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/charts-rna-interference-rnai-drug-venture-ipos/833784/",
@@ -203,38 +231,10 @@
         "category": "Gene Editing & CRISPR"
     },
     {
-        "title": "Lycia's $318M IPO; Merck sac-TMT trial stopped early",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/lycias-318m-ipo-merck-sac-tmt-trial-stopped-early/",
-        "published_at": "2026-10-23 15:13",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Roche taps Zymeworks in up to $813M deal for preclinical T cell engager",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/roche-taps-zymeworks-in-up-to-813m-deal-for-preclinical-t-cell-engager/",
-        "published_at": "2026-10-23 15:03",
-        "category": "Mergers & Acquisitions"
-    },
-    {
         "title": "Star adds $200M after spinout successes",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/star-therapeutics-financing-vega-electra/833733/",
         "published_at": "2026-10-23 11:00",
         "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Protein degrader specialist Lycia prices $318M IPO",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/lycia-therapeutics-targeted-protein-degraders-ipo-pricing/833624/",
-        "published_at": "2026-10-23 01:37",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Moderna, Merck shares fall on eagerly anticipated cancer vaccine results",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/moderna-merck-esmo-intismeran-melanoma-vaccine-results/833765/",
-        "published_at": "2026-10-22 19:27",
-        "category": "Gene Editing & CRISPR"
     }
 ]
