@@ -1,5 +1,26 @@
 [
     {
+        "title": "Now 78% of scientists say AI will speed drug discovery this year: Signal Survey",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/now-78-of-scientists-say-ai-will-speed-drug-discovery-this-year-signal-survey/",
+        "published_at": "2026-10-28 13:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Lilly's triple-G drug retatrutide outshines Novo's Ozempic in diabetes",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/lillys-triple-g-drug-retatrutide-outshines-novos-ozempic-in-diabetes/",
+        "published_at": "2026-10-28 10:45",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Astellas buys option on preclinical IL-12 cancer drug from Audax Biosciences",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/astellas-buys-option-to-preclinical-il-12-cancer-drug-from-audax-biosciences/",
+        "published_at": "2026-10-28 10:26",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
         "title": "Anthropic buys a single-person biotech startup backed by Atlas Venture",
         "source": "Endpoints News",
         "url": "https://endpoints.news/anthropic-buys-a-single-person-biotech-startup-backed-by-atlas-venture/",
@@ -208,27 +229,6 @@
         "url": "https://www.biopharmadive.com/spons/novel-protein-and-peptide-therapeutics/833429/",
         "published_at": "2026-10-26 09:00",
         "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "#ESMO26: Akeso details ivonescimab's biliary cancer success, drawing Keytruda comparisons",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/esmo26-akeso-details-ivonescimabs-biliary-cancer-success-drawing-keytruda-comparisons/",
-        "published_at": "2026-10-25 21:43",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "#ESMO26: Merck and Moderna's cancer vaccine data were 'a triumph of science.' And now, the work begins",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/esmo26-merck-and-modernas-cancer-vaccine-data-were-a-triumph-of-science-and-now-the-work-begins/",
-        "published_at": "2026-10-25 15:46",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "#ESMO26: Roche details magnitude of its KRAS G12C inhibitor’s win over rivals in lung cancer trial",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/esmo26-roche-details-magnitude-of-its-kras-g12c-inhibitors-win-over-rivals-in-lung-cancer-trial/",
-        "published_at": "2026-10-25 15:30",
-        "category": "Immunotherapy & Oncology"
     },
     {
         "title": "This week in charts: a big year for RNAi developers",
