@@ -1,5 +1,75 @@
 [
     {
+        "title": "Formation Bio unveils $600M fund tied to existing model",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/formation-bio-unveils-600m-fund-tied-to-existing-model/",
+        "published_at": "2026-10-28 18:40",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "FDA charts path for approval of individualized gene editing therapies",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-charts-path-for-approval-of-individualized-gene-editing-therapies/",
+        "published_at": "2026-10-28 18:21",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "AstraZeneca’s bruising summer raises the stakes for 2027",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/astrazenecas-bruising-summer-raises-the-stakes-for-2027/",
+        "published_at": "2026-10-28 18:04",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Citing 'safety' and 'freedom,' HHS will allow compounding of certain wellness peptides",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/citing-safety-and-freedom-hhs-will-allow-compounding-of-certain-wellness-peptides/",
+        "published_at": "2026-10-28 17:04",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Lilly’s ‘triple-G’ drug tops Novo’s Ozempic in diabetes trial",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/retatrutide-ozempic-diabetes-trial-results-lilly-novo/873016/",
+        "published_at": "2026-10-28 15:53",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Analysts press Biogen on lupus drug litifilimab ahead of pivotal readouts",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/analysts-press-biogen-on-lupus-drug-litifilimab-ahead-of-pivotal-readouts/",
+        "published_at": "2026-10-28 15:25",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Pfizer India site closure risks exacerbating cancer drug shortages",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/pfizer-india-site-closure-risks-exacerbating-cancer-drug-shortages/",
+        "published_at": "2026-10-28 15:15",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "FDA unveils guidance for ‘plug and play’ gene therapies",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/fda-personalized-gene-therapy-rare-disease-guidance/873004/",
+        "published_at": "2026-10-28 15:15",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Beijing-based BioGeometry gets $100M+ for AI drug R&D",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/beijing-based-biogeometry-gets-100m-for-ai-drug-rd/",
+        "published_at": "2026-10-28 14:08",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Lilly shuffles business structure; Novartis writes off part of Avidity deal",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/lilly-global-markets-novartis-avidity-astellas-talzenna-prana/872857/",
+        "published_at": "2026-10-28 13:27",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
         "title": "Now 78% of scientists say AI will speed drug discovery this year: Signal Survey",
         "source": "Endpoints News",
         "url": "https://endpoints.news/now-78-of-scientists-say-ai-will-speed-drug-discovery-this-year-signal-survey/",
@@ -147,13 +217,6 @@
         "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "Roche’s changing plans show how MFN is complicating European drug launches",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/roches-changing-plans-show-how-mfn-is-complicating-european-drug-launches/",
-        "published_at": "2026-10-26 16:06",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
         "title": "BioNTech, DualityBio say ADC had ‘modest’ benefit in breast cancer study",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/biontech-dualitybio-modest-results-adc-breast-cancer/839574/",
@@ -168,73 +231,10 @@
         "category": "Immunotherapy & Oncology"
     },
     {
-        "title": "Beyond cancer vaccine, how did Merck’s oncology pipeline do at #ESMO26?",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/beyond-cancer-vaccine-how-did-mercks-oncology-pipeline-do-at-esmo26/",
-        "published_at": "2026-10-26 15:49",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Aspen, Bambusa target $135M IPOs; AstraZeneca vs. Takeda in gastric cancer ADCs",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/aspen-bambusa-target-135m-ipos-astrazeneca-vs-takeda-in-gastric-cancer-adcs/",
-        "published_at": "2026-10-26 14:40",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "#ESMO26: SystImmune/BMS and Hengrui detail data in EGFR-mutant lung cancer",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/esmo26-systimmune-bms-and-hengrui-detail-data-in-egfr-mutant-lung-cancer/",
-        "published_at": "2026-10-26 14:11",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Lilly’s music-loving, intense lead dealmaker knows what he wants",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/lillys-music-loving-intense-lead-dealmaker-knows-what-he-wants/",
-        "published_at": "2026-10-26 14:05",
-        "category": "Mergers & Acquisitions"
-    },
-    {
         "title": "Another autoimmune CAR-T death; Treasury zeroes in on China deals",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/autoimmune-bristol-death-treasury-china-gilead-pepstar-zymeworks/833901/",
         "published_at": "2026-10-26 13:59",
         "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Corxel to take oral GLP-1 public in the US via SPAC",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/corxel-to-take-oral-glp-1-public-in-the-us-via-spac/",
-        "published_at": "2026-10-26 13:14",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "BioNTech, DualityBio ponder next steps for HER2 ADC after 'modest' breast cancer results",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/biontech-dualitybio-ponder-next-steps-for-her2-adc-after-modest-breast-cancer-results/",
-        "published_at": "2026-10-26 10:34",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "The molecule was fine. The moment wasn’t.",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/spons/the-molecule-was-fine-the-moment-wasnt/833616/",
-        "published_at": "2026-10-26 09:00",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Novel protein and peptide therapeutics",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/spons/novel-protein-and-peptide-therapeutics/833429/",
-        "published_at": "2026-10-26 09:00",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "This week in charts: a big year for RNAi developers",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/charts-rna-interference-rnai-drug-venture-ipos/833784/",
-        "published_at": "2026-10-23 15:33",
-        "category": "Gene Editing & CRISPR"
     }
 ]
