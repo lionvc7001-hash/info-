@@ -1,5 +1,33 @@
 [
     {
+        "title": "Labor Department finalizes sweeping PBM disclosure rule",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/pbm-transparency-final-rule-labor-department-employer/873254/",
+        "published_at": "2026-10-29 20:30",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "For Lilly, cash-pay is key in the US and, increasingly, abroad",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/for-lilly-cash-pay-is-key-in-the-us-and-increasingly-abroad/",
+        "published_at": "2026-10-29 19:31",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Bristol Myers defends pipeline, reinforces later-stage BD interest",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/bristol-myers-defends-pipeline-reinforces-later-stage-bd-interest/",
+        "published_at": "2026-10-29 18:33",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "R&D chief Dean Li says Merck outflanked rivals with its sac-TMT cancer program",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/rd-chief-dean-li-says-merck-outflanked-rivals-with-its-sac-tmt-cancer-program/",
+        "published_at": "2026-10-29 18:00",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
         "title": "Genmab soars to record highs after cancer drug succeeds in key trial",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/genmab-stock-soars-positive-head-neck-cancer-antibody-phase-3/873164/",
@@ -196,20 +224,6 @@
         "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "Draft COINS rules could threaten broad China collaborations",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/draft-coins-rules-could-threaten-broad-china-collaborations/",
-        "published_at": "2026-10-27 18:50",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Lilly's ads can continue after Novo challenge, judge rules",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/lillys-ads-can-continue-after-novo-challenge-judge-rules/",
-        "published_at": "2026-10-27 18:23",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
         "title": "Court rejects Novo bid to block Lilly obesity drug ads",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/novo-lilly-lawsuit-ruling-false-advertising-wegovy-zepbound/872856/",
@@ -222,19 +236,5 @@
         "url": "https://www.biopharmadive.com/news/artiva-discontinue-nk-cell-therapy-autoimmune-patient-death/872873/",
         "published_at": "2026-10-27 15:44",
         "category": "Clinical Trials"
-    },
-    {
-        "title": "Gubra looks beyond metabolism, hopes for first portfolio company this year",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/gubra-looks-beyond-metabolism-hopes-for-first-portfolio-company-this-year/",
-        "published_at": "2026-10-27 15:21",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Corxel, an obesity drugmaker, to go public via SPAC deal",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/corxel-pharmaceuticals-spac-public-obesity-drugs/872772/",
-        "published_at": "2026-10-26 19:17",
-        "category": "Mergers & Acquisitions"
     }
 ]
