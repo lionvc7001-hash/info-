@@ -1,5 +1,19 @@
 [
     {
+        "title": "Flagship Pioneering merges three of its companies for AI drug discovery",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/flagship-pioneering-merges-three-of-its-companies-for-ai-drug-discovery/",
+        "published_at": "2026-10-29 10:30",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Flagship blends three biotech startups to form Etcelera",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/flagship-etcelera-etiome-empress-cellarity-launch/872947/",
+        "published_at": "2026-10-29 10:30",
+        "category": "Clinical Trials & R&D"
+    },
+    {
         "title": "Why Zocdoc is clearing the way for AI personal agents",
         "source": "Endpoints News",
         "url": "https://endpoints.news/why-zocdoc-is-clearing-the-way-for-ai-personal-agents/",
@@ -210,13 +224,6 @@
         "category": "Mergers & Acquisitions"
     },
     {
-        "title": "Microsoft's AI gives more accurate diagnoses than doctors, study finds",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/microsofts-ai-gives-more-accurate-diagnoses-than-doctors-study-finds/",
-        "published_at": "2026-10-26 19:00",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
         "title": "BioNTech, DualityBio say ADC had ‘modest’ benefit in breast cancer study",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/biontech-dualitybio-modest-results-adc-breast-cancer/839574/",
@@ -229,12 +236,5 @@
         "url": "https://www.biopharmadive.com/news/esmo-2026-intismeran-melanoma-imdelltra-divarasib-kras-g12c/833921/",
         "published_at": "2026-10-26 15:58",
         "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Another autoimmune CAR-T death; Treasury zeroes in on China deals",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/autoimmune-bristol-death-treasury-china-gilead-pepstar-zymeworks/833901/",
-        "published_at": "2026-10-26 13:59",
-        "category": "Mergers & Acquisitions"
     }
 ]
