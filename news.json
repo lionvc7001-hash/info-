@@ -1,5 +1,68 @@
 [
     {
+        "title": "Genmab soars to record highs after cancer drug succeeds in key trial",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/genmab-stock-soars-positive-head-neck-cancer-antibody-phase-3/873164/",
+        "published_at": "2026-10-29 16:06",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "UK lands £500M in biopharma pledges; Teva to shutter New Jersey site",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/uk-lands-500m-in-biopharma-pledges-teva-to-shutter-new-jersey-site/",
+        "published_at": "2026-10-29 15:31",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Ono's five failures; Lenz and Molecular Partners to lay off staff",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/onos-five-failures-lenz-and-molecular-partners-to-lay-off-staff/",
+        "published_at": "2026-10-29 15:08",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Genmab's stock rises on cancer data, while Iovance, Coherus tumble",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/genmabs-stock-rises-on-cancer-data-while-iovance-and-coherus-tumble/",
+        "published_at": "2026-10-29 15:06",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "HHS to allow compounders to make 6 unapproved peptides",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/hhs-peptides-rfk-fda-compounders/873141/",
+        "published_at": "2026-10-29 14:52",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Personal AI agents are coming to healthcare",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/personal-ai-agents-are-coming-to-healthcare/",
+        "published_at": "2026-10-29 14:49",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Anthropic pitches 'age of miracles,' gives biopharma research update",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/anthropic-pitches-age-of-miracles-gives-biopharma-research-update/",
+        "published_at": "2026-10-29 13:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Lilly again far surpasses revenue expectations",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/lilly-again-far-surpasses-revenue-expectations/",
+        "published_at": "2026-10-29 11:21",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Dren Bio raises $350M to get blood cancer drug onto market in 2027",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/dren-bio-raises-350m-to-get-blood-cancer-drug-onto-market-in-2027/",
+        "published_at": "2026-10-29 11:00",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
         "title": "Flagship Pioneering merges three of its companies for AI drug discovery",
         "source": "Endpoints News",
         "url": "https://endpoints.news/flagship-pioneering-merges-three-of-its-companies-for-ai-drug-discovery/",
@@ -14,7 +77,7 @@
         "category": "Clinical Trials & R&D"
     },
     {
-        "title": "Why Zocdoc is clearing the way for AI personal agents",
+        "title": "Why Zocdoc is clearing the way for personal AI agents",
         "source": "Endpoints News",
         "url": "https://endpoints.news/why-zocdoc-is-clearing-the-way-for-ai-personal-agents/",
         "published_at": "2026-10-28 19:16",
@@ -168,73 +231,10 @@
         "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "Artiva to wind down after two patient deaths in autoimmune cell therapy trials",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/artiva-to-wind-down-after-two-patient-deaths-in-autoimmune-cell-therapy-trials/",
-        "published_at": "2026-10-27 14:45",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Outpace ends an ovarian cancer trial; Incyte data impresses at ESMO",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/outpace-ends-an-ovarian-cancer-trial-incyte-data-impresses-at-esmo/",
-        "published_at": "2026-10-27 14:38",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "After Makary's FDA exit, biopharma exhales: Signal Survey",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/after-makarys-fda-exit-biopharma-exhales-signal-survey/",
-        "published_at": "2026-10-27 14:04",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Ferring to acquire ovary-in-a-dish startup Gameto for up to $1.38B",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/ferring-to-acquire-ovary-in-a-dish-startup-gameto-for-up-to-1-38b/",
-        "published_at": "2026-10-27 13:16",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "After $1.9B impairment hit, Novartis stands by $12B bet on Avidity",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/novartis-stands-by-12b-bet-on-avidity-after-1-9b-impairment-hit/",
-        "published_at": "2026-10-27 10:57",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Novartis considers bypassing European government payers due to MFN",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/novartis-considers-bypassing-european-government-payers-due-to-mfn/",
-        "published_at": "2026-10-27 10:34",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Employers accuse UnitedHealth of overpaying medical claims",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/employers-accuse-unitedhealth-of-overpaying-medical-claims/",
-        "published_at": "2026-10-26 20:50",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
         "title": "Corxel, an obesity drugmaker, to go public via SPAC deal",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/corxel-pharmaceuticals-spac-public-obesity-drugs/872772/",
         "published_at": "2026-10-26 19:17",
         "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "BioNTech, DualityBio say ADC had ‘modest’ benefit in breast cancer study",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/biontech-dualitybio-modest-results-adc-breast-cancer/839574/",
-        "published_at": "2026-10-26 16:06",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "ESMO ‘26: A cancer vaccine debate, Roche’s KRAS progress and Amgen’s ‘unprecedented’ data",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/esmo-2026-intismeran-melanoma-imdelltra-divarasib-kras-g12c/833921/",
-        "published_at": "2026-10-26 15:58",
-        "category": "Immunotherapy & Oncology"
     }
 ]
