@@ -1,5 +1,89 @@
 [
     {
+        "title": "Sanofi may seek higher European drug prices, not withhold launches, under Trump deal",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/sanofi-may-seek-higher-european-drug-prices-not-withhold-launches-under-trump-deal/",
+        "published_at": "2026-10-30 16:16",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "This week in charts: ESMO’s winners and losers",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/biotech-charts-esmo-2026-winners-losers/873281/",
+        "published_at": "2026-10-30 16:00",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Gilead CAR-T on partial clinical hold; Agios' PDUFA date pushed back",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/gilead-car-t-on-partial-clinical-hold-agios-pdufa-date-pushed-back/",
+        "published_at": "2026-10-30 15:47",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "AstraZeneca says reorg could mean R&D cuts and trials shifted to emerging markets",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/astrazeneca-says-reorg-could-mean-rd-cuts-and-trials-shifted-to-emerging-markets/",
+        "published_at": "2026-10-30 15:36",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Anthropic's Nathan Frey on biopharma partners, M&A and pipeline",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/anthropics-nathan-frey-on-biopharma-partners-ma-and-pipeline/",
+        "published_at": "2026-10-30 13:00",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Earnings roundup: Lilly’s unwavering momentum, Novartis’ rebound and GSK’s waiting game",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/biopharma-earnings-q3-2026-lilly-novartis-gsk/873167/",
+        "published_at": "2026-10-30 11:50",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Sanofi has no plans for a 'major' overhaul as Dupixent's patent cliff looms",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/sanofi-has-no-plans-for-a-major-overhaul-as-dupixents-patent-cliff-looms/",
+        "published_at": "2026-10-30 11:12",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "After Be Bio shutdown, its CEO heads to Orbis; Enanta's longtime chief Jay Luly to retire",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/after-be-bio-shutdown-its-ceo-heads-to-orbis-enantas-longtime-chief-jay-luly-to-retire/",
+        "published_at": "2026-10-30 11:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Setara gets $90M to continue rare disease pipeline spun out of Jazz's Actio deal",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/setara-gets-90m-to-continue-rare-disease-pipeline-spun-out-of-jazzs-actio-deal/",
+        "published_at": "2026-10-30 10:30",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "With Setara, the team behind Actio opens its second act",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/setara-actio-charcot-marie-tooth-ion-channel-drugs/873227/",
+        "published_at": "2026-10-30 10:30",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Post-Hoc Live: Is biotech’s future full of zero- and one- employee startups?",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/post-hoc-live-is-biotechs-future-full-of-zero-and-one-employee-startups/",
+        "published_at": "2026-10-30 10:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "AstraZeneca follows GSK with $1.5B annual savings push",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/astrazeneca-follows-gsk-with-1-5b-annual-savings-push/",
+        "published_at": "2026-10-30 09:49",
+        "category": "Mergers & Acquisitions"
+    },
+    {
         "title": "Aspen Neuroscience lands $141M IPO, while Bambusa secures $169M",
         "source": "Endpoints News",
         "url": "https://endpoints.news/aspen-neuroscience-lands-141m-ipo-while-bambusa-secures-169m/",
@@ -7,7 +91,7 @@
         "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "Aspen raises a $140M IPO in pursuit of a cell therapy for Parkinson’s",
+        "title": "Aspen raises a $141M IPO in pursuit of a cell therapy for Parkinson’s",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/aspen-neuroscience-parkinsons-ipo-pricing/873050/",
         "published_at": "2026-10-30 02:38",
@@ -140,20 +224,6 @@
         "category": "Gene Editing & CRISPR"
     },
     {
-        "title": "AstraZeneca’s bruising summer raises the stakes for 2027",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/astrazenecas-bruising-summer-raises-the-stakes-for-2027/",
-        "published_at": "2026-10-28 18:04",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Citing 'safety' and 'freedom,' HHS will allow compounding of certain wellness peptides",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/citing-safety-and-freedom-hhs-will-allow-compounding-of-certain-wellness-peptides/",
-        "published_at": "2026-10-28 17:04",
-        "category": "FDA & Regulatory"
-    },
-    {
         "title": "Lilly’s ‘triple-G’ drug tops Novo’s Ozempic in diabetes trial",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/retatrutide-ozempic-diabetes-trial-results-lilly-novo/873016/",
@@ -161,80 +231,10 @@
         "category": "Clinical Trials"
     },
     {
-        "title": "Analysts press Biogen on lupus drug litifilimab ahead of pivotal readouts",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/analysts-press-biogen-on-lupus-drug-litifilimab-ahead-of-pivotal-readouts/",
-        "published_at": "2026-10-28 15:25",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Pfizer India site closure risks exacerbating cancer drug shortages",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/pfizer-india-site-closure-risks-exacerbating-cancer-drug-shortages/",
-        "published_at": "2026-10-28 15:15",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
         "title": "FDA unveils guidance for ‘plug and play’ gene therapies",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/fda-personalized-gene-therapy-rare-disease-guidance/873004/",
         "published_at": "2026-10-28 15:15",
         "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Beijing-based BioGeometry gets $100M+ for AI drug R&D",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/beijing-based-biogeometry-gets-100m-for-ai-drug-rd/",
-        "published_at": "2026-10-28 14:08",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Lilly shuffles business structure; Novartis writes off part of Avidity deal",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/lilly-global-markets-novartis-avidity-astellas-talzenna-prana/872857/",
-        "published_at": "2026-10-28 13:27",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Now 78% of scientists say AI will speed drug discovery this year: Signal Survey",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/now-78-of-scientists-say-ai-will-speed-drug-discovery-this-year-signal-survey/",
-        "published_at": "2026-10-28 13:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Lilly's triple-G drug retatrutide outshines Novo's Ozempic in diabetes",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/lillys-triple-g-drug-retatrutide-outshines-novos-ozempic-in-diabetes/",
-        "published_at": "2026-10-28 10:45",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Astellas buys option on preclinical IL-12 cancer drug from Audax Biosciences",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/astellas-buys-option-to-preclinical-il-12-cancer-drug-from-audax-biosciences/",
-        "published_at": "2026-10-28 10:26",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Anthropic buys a single-person biotech startup backed by Atlas Venture",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/anthropic-buys-a-single-person-biotech-startup-backed-by-atlas-venture/",
-        "published_at": "2026-10-27 22:31",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Ferring to acquire next-gen IVF startup Gameto for up to $1.4B",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/ferring-gameto-acquire-ivf-fertilo-womens-health/872904/",
-        "published_at": "2026-10-27 20:53",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Court rejects Novo bid to block Lilly obesity drug ads",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/novo-lilly-lawsuit-ruling-false-advertising-wegovy-zepbound/872856/",
-        "published_at": "2026-10-27 16:03",
-        "category": "Clinical Trials & R&D"
     }
 ]
