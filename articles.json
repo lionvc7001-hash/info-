@@ -1,5 +1,19 @@
 [
     {
+        "title": "Aspen Neuroscience lands $141M IPO, while Bambusa secures $169M",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/aspen-neuroscience-lands-141m-ipo-while-bambusa-secures-169m/",
+        "published_at": "2026-10-30 06:11",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Aspen raises a $140M IPO in pursuit of a cell therapy for Parkinson’s",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/aspen-neuroscience-parkinsons-ipo-pricing/873050/",
+        "published_at": "2026-10-30 02:38",
+        "category": "Clinical Trials & R&D"
+    },
+    {
         "title": "Labor Department finalizes sweeping PBM disclosure rule",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/pbm-transparency-final-rule-labor-department-employer/873254/",
@@ -217,24 +231,10 @@
         "category": "Mergers & Acquisitions"
     },
     {
-        "title": "Backed by Amish and Mennonites, a new kind of gene therapy company takes shape",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/backed-by-amish-and-mennonites-a-new-kind-of-gene-therapy-company-takes-shape/",
-        "published_at": "2026-10-27 20:52",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
         "title": "Court rejects Novo bid to block Lilly obesity drug ads",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/novo-lilly-lawsuit-ruling-false-advertising-wegovy-zepbound/872856/",
         "published_at": "2026-10-27 16:03",
         "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Artiva to quit autoimmune cell therapy work, cut staff after patient deaths",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/artiva-discontinue-nk-cell-therapy-autoimmune-patient-death/872873/",
-        "published_at": "2026-10-27 15:44",
-        "category": "Clinical Trials"
     }
 ]
