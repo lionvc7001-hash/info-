@@ -1,5 +1,61 @@
 [
     {
+        "title": "Karyopharm, deep in debt, to sell itself in bankruptcy",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/karyopharm-bankruptcy-chapter-11-auction-ayrmid-gamida-cell/873415/",
+        "published_at": "2026-11-02 17:07",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "UniQure gets review date and adcomm; Inovia's stock surges after approval",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/uniqure-gets-review-date-and-adcomm-inovias-stock-surges-after-approval/",
+        "published_at": "2026-11-02 16:10",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Karyopharm plans to merge with Ayrmid, the company that tried buying bluebird",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/karyopharm-plans-to-merge-with-ayrmid-the-company-that-tried-buying-bluebird/",
+        "published_at": "2026-11-02 15:28",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "FDA puts Bright Minds drug on partial hold, stock tanks",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-puts-bright-minds-drug-on-partial-hold-stock-tanks/",
+        "published_at": "2026-11-02 15:11",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Keytruda biosimilars are coming — but they face an uphill battle",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/keytruda-biosimilars-fda-pbm-market-share-drug/873424/",
+        "published_at": "2026-11-02 14:34",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Earnings roundup: AstraZeneca’s cost cuts, Alnylam’s slump and Regeneron’s resilience",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/astrazeneca-alnylam-regeneron-3q26-earnings-analysis/873410/",
+        "published_at": "2026-11-02 14:00",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "CinRx teams with Sam Waksal's Graviton on ROCK2 for PAH, other cardio conditions",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/cinrx-teams-with-sam-waksals-graviton-on-rock2-for-pah-other-cardio-conditions/",
+        "published_at": "2026-11-02 12:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Breaking the silos: What effective scenario modeling looks like in 2026 and beyond",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/spons/breaking-the-silos-what-effective-scenario-modeling-looks-like-in-2026-and/872840/",
+        "published_at": "2026-11-02 10:00",
+        "category": "Clinical Trials & R&D"
+    },
+    {
         "title": "Anthropic’s one-person biotech buy; Jake Van Naarden’s dealmaking strategy; and more",
         "source": "Endpoints News",
         "url": "https://endpoints.news/anthropics-one-person-biotech-buy-jake-van-naardens-dealmaking-strategy-and-more/",
@@ -161,13 +217,6 @@
         "category": "Immunotherapy & Oncology"
     },
     {
-        "title": "HHS to allow compounders to make 6 unapproved peptides",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/hhs-peptides-rfk-fda-compounders/873141/",
-        "published_at": "2026-10-29 14:52",
-        "category": "FDA & Regulatory"
-    },
-    {
         "title": "Personal AI agents are coming to healthcare",
         "source": "Endpoints News",
         "url": "https://endpoints.news/personal-ai-agents-are-coming-to-healthcare/",
@@ -187,54 +236,5 @@
         "url": "https://endpoints.news/lilly-again-far-surpasses-revenue-expectations/",
         "published_at": "2026-10-29 11:21",
         "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Dren Bio raises $350M to get blood cancer drug onto market in 2027",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/dren-bio-raises-350m-to-get-blood-cancer-drug-onto-market-in-2027/",
-        "published_at": "2026-10-29 11:00",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Flagship Pioneering merges three of its companies for AI drug discovery",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/flagship-pioneering-merges-three-of-its-companies-for-ai-drug-discovery/",
-        "published_at": "2026-10-29 10:30",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Flagship blends three biotech startups to form Etcelera",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/flagship-etcelera-etiome-empress-cellarity-launch/872947/",
-        "published_at": "2026-10-29 10:30",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Why Zocdoc is clearing the way for personal AI agents",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/why-zocdoc-is-clearing-the-way-for-ai-personal-agents/",
-        "published_at": "2026-10-28 19:16",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Formation Bio unveils $600M fund tied to existing model",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/formation-bio-unveils-600m-fund-tied-to-existing-model/",
-        "published_at": "2026-10-28 18:40",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Lilly’s ‘triple-G’ drug tops Novo’s Ozempic in diabetes trial",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/retatrutide-ozempic-diabetes-trial-results-lilly-novo/873016/",
-        "published_at": "2026-10-28 15:53",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "FDA unveils guidance for ‘plug and play’ gene therapies",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/fda-personalized-gene-therapy-rare-disease-guidance/873004/",
-        "published_at": "2026-10-28 15:15",
-        "category": "FDA & Regulatory"
     }
 ]
