@@ -1,5 +1,47 @@
 [
     {
+        "title": "The biggest conversations in health tech",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/the-biggest-conversations-in-health-tech/",
+        "published_at": "2026-11-03 15:37",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Pfizer lifts 2026 guidance as cancer, migraine sales offset Covid slide",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/pfizer-lifts-2026-guidance-as-cancer-migraine-sales-offset-covid-slide/",
+        "published_at": "2026-11-03 15:04",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Novartis ends BioArctic pact; Two VC firms raise inaugural funds",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/novartis-ends-bioarctic-pact-two-vc-firms-raise-inaugural-funds/",
+        "published_at": "2026-11-03 14:56",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Medicare Part D premiums are spiking 50% on average next year, KFF finds",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/medicare-part-d-premiums-skyrocket-2027-kff/873552/",
+        "published_at": "2026-11-03 13:46",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Bayer CEO says company is ‘working on’ MFN in the US",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/bayer-signals-it-is-working-on-mfn-deal-in-the-us-ceo-says/",
+        "published_at": "2026-11-03 12:01",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Updated: Merck KGaA is selling its CDMO business in the US to Lonza",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/merck-kgaa-to-exit-cdmo-business-divesting-us-sites-to-lonza/",
+        "published_at": "2026-11-03 09:54",
+        "category": "Mergers & Acquisitions"
+    },
+    {
         "title": "AbbVie, Brise disclose deal for two preclinical migraine meds",
         "source": "Endpoints News",
         "url": "https://endpoints.news/abbvie-brise-disclose-deal-for-two-preclinical-migraine-meds/",
@@ -21,7 +63,7 @@
         "category": "Mergers & Acquisitions"
     },
     {
-        "title": "UniQure gets review date and adcomm; Inovia's stock surges after approval",
+        "title": "UniQure gets review date and adcomm; Inovio's stock surges after approval",
         "source": "Endpoints News",
         "url": "https://endpoints.news/uniqure-gets-review-date-and-adcomm-inovias-stock-surges-after-approval/",
         "published_at": "2026-11-02 16:10",
@@ -193,48 +235,6 @@
         "source": "Endpoints News",
         "url": "https://endpoints.news/bristol-myers-defends-pipeline-reinforces-later-stage-bd-interest/",
         "published_at": "2026-10-29 18:33",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "R&D chief Dean Li says Merck outflanked rivals with its sac-TMT cancer program",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/rd-chief-dean-li-says-merck-outflanked-rivals-with-its-sac-tmt-cancer-program/",
-        "published_at": "2026-10-29 18:00",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Genmab soars to record highs after cancer drug succeeds in key trial",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/genmab-stock-soars-positive-head-neck-cancer-antibody-phase-3/873164/",
-        "published_at": "2026-10-29 16:06",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "UK lands £500M in biopharma pledges; Teva to shutter New Jersey site",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/uk-lands-500m-in-biopharma-pledges-teva-to-shutter-new-jersey-site/",
-        "published_at": "2026-10-29 15:31",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Ono's five failures; Lenz and Molecular Partners to lay off staff",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/onos-five-failures-lenz-and-molecular-partners-to-lay-off-staff/",
-        "published_at": "2026-10-29 15:08",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Genmab's stock rises on cancer data, while Iovance, Coherus tumble",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/genmabs-stock-rises-on-cancer-data-while-iovance-and-coherus-tumble/",
-        "published_at": "2026-10-29 15:06",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Personal AI agents are coming to healthcare",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/personal-ai-agents-are-coming-to-healthcare/",
-        "published_at": "2026-10-29 14:49",
         "category": "Pharma & FDA Regulatory"
     }
 ]
