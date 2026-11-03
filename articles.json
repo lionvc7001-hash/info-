@@ -1,5 +1,33 @@
 [
     {
+        "title": "Servier's $1.5B bet on Edgewise drug fails five months in",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/serviers-1-5b-bet-on-edgewise-drug-fails-five-months-in/",
+        "published_at": "2026-11-03 19:27",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Bourla expects no changes to MFN deals after midterms",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/bourla-expects-no-changes-to-mfn-deals-after-midterms/",
+        "published_at": "2026-11-03 19:18",
+        "category": "Vaccines & mRNA"
+    },
+    {
+        "title": "Post-Hoc Live: What the US midterm elections mean for biopharma",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/post-hoc-live-what-the-us-midterm-elections-mean-for-biopharma/",
+        "published_at": "2026-11-03 18:44",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Vertex, ahead of FDA decision, calms fears surrounding kidney drug",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/vertex-earnings-q3-2026-povetacicept-iga-nephropathy-kidney/873600/",
+        "published_at": "2026-11-03 17:32",
+        "category": "FDA & Regulatory"
+    },
+    {
         "title": "The biggest conversations in health tech",
         "source": "Endpoints News",
         "url": "https://endpoints.news/the-biggest-conversations-in-health-tech/",
@@ -26,6 +54,13 @@
         "url": "https://www.biopharmadive.com/news/medicare-part-d-premiums-skyrocket-2027-kff/873552/",
         "published_at": "2026-11-03 13:46",
         "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "UniQure gets an FDA decision date; Teva scraps brain drug study",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/uniqure-fda-bright-minds-specific-teva-cinrock/873455/",
+        "published_at": "2026-11-03 13:41",
+        "category": "FDA & Regulatory"
     },
     {
         "title": "Bayer CEO says company is ‘working on’ MFN in the US",
@@ -201,40 +236,5 @@
         "url": "https://endpoints.news/astrazeneca-follows-gsk-with-1-5b-annual-savings-push/",
         "published_at": "2026-10-30 09:49",
         "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Aspen Neuroscience lands $141M IPO, while Bambusa secures $169M",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/aspen-neuroscience-lands-141m-ipo-while-bambusa-secures-169m/",
-        "published_at": "2026-10-30 06:11",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Aspen raises a $141M IPO in pursuit of a cell therapy for Parkinson’s",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/aspen-neuroscience-parkinsons-ipo-pricing/873050/",
-        "published_at": "2026-10-30 02:38",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Labor Department finalizes sweeping PBM disclosure rule",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/pbm-transparency-final-rule-labor-department-employer/873254/",
-        "published_at": "2026-10-29 20:30",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "For Lilly, cash-pay is key in the US and, increasingly, abroad",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/for-lilly-cash-pay-is-key-in-the-us-and-increasingly-abroad/",
-        "published_at": "2026-10-29 19:31",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Bristol Myers defends pipeline, reinforces later-stage BD interest",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/bristol-myers-defends-pipeline-reinforces-later-stage-bd-interest/",
-        "published_at": "2026-10-29 18:33",
-        "category": "Pharma & FDA Regulatory"
     }
 ]
