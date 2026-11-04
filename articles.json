@@ -1,5 +1,82 @@
 [
     {
+        "title": "Sanofi ends development of Nurix's STAT6 degrader",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/sanofi-ends-development-of-nurixs-stat6-degrader/",
+        "published_at": "2026-11-04 16:05",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "CVS to split into two companies in stunning strategic about-face",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/cvs-split-two-companies-strategic-about-face/873742/",
+        "published_at": "2026-11-04 15:47",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "CVS to break up, splitting pharmacy business from insurance",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/cvs-to-break-up-splitting-pharmacy-business-from-insurance/",
+        "published_at": "2026-11-04 15:38",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "China climbed biotech's worry list, while Big Pharma kept shopping",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/china-climbed-biotechs-worry-list-while-big-pharma-kept-shopping/",
+        "published_at": "2026-11-04 15:35",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Biopharma likely to climb higher after ‘blue wave,’ analysts say",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/biotech-pharma-midterm-elections-impact/873667/",
+        "published_at": "2026-11-04 15:28",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "First wave of #ASH26 abstracts is here, with data from J&J, Servier and AstraZeneca",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/first-wave-of-ash26-abstracts-is-here-with-data-from-jj-servier-and-astrazeneca/",
+        "published_at": "2026-11-04 14:42",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Spyre’s arthritis misses; Ideaya ends eye cancer trial",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/spyres-arthritis-misses-ideaya-ends-eye-cancer-trial/",
+        "published_at": "2026-11-04 14:39",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Boehringer Ingelheim strikes $7B backloaded ADC, TCE cancer deal with China's Sino",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/boehringer-ingelheim-strikes-7b-backloaded-adc-tce-cancer-deal-with-chinas-sino/",
+        "published_at": "2026-11-04 13:57",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Novo won't launch CagriSema in Europe for 'a couple of years,' CFO says",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/novo-wont-launch-cagrisema-in-europe-for-a-couple-of-years-cfo-says/",
+        "published_at": "2026-11-04 12:03",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "AbbVie bets up to $1.47B on Nxera's gut-targeting IBD program",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/abbvie-bets-up-to-1-47b-on-nxeras-gut-targeting-ibd-program/",
+        "published_at": "2026-11-04 11:47",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Novo forecasts flat 2026 sales as finance chief departs",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/novo-forecasts-flat-2026-sales-as-finance-chief-departs/",
+        "published_at": "2026-11-04 10:30",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
         "title": "China biotech Minghui does thyroid eye disease deal for $110M upfront",
         "source": "Endpoints News",
         "url": "https://endpoints.news/china-biotech-minghui-does-thyroid-eye-disease-deal-for-110m-upfront/",
@@ -147,13 +224,6 @@
         "category": "Clinical Trials & R&D"
     },
     {
-        "title": "CinRx teams with Sam Waksal's Graviton on ROCK2 for PAH, other cardio conditions",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/cinrx-teams-with-sam-waksals-graviton-on-rock2-for-pah-other-cardio-conditions/",
-        "published_at": "2026-11-02 12:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
         "title": "Breaking the silos: What effective scenario modeling looks like in 2026 and beyond",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/spons/breaking-the-silos-what-effective-scenario-modeling-looks-like-in-2026-and/872840/",
@@ -161,80 +231,10 @@
         "category": "Clinical Trials & R&D"
     },
     {
-        "title": "Anthropic’s one-person biotech buy; Jake Van Naarden’s dealmaking strategy; and more",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/anthropics-one-person-biotech-buy-jake-van-naardens-dealmaking-strategy-and-more/",
-        "published_at": "2026-10-31 10:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Sanofi may seek higher European drug prices, not withhold launches, under Trump deal",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/sanofi-may-seek-higher-european-drug-prices-not-withhold-launches-under-trump-deal/",
-        "published_at": "2026-10-30 16:16",
-        "category": "Mergers & Acquisitions"
-    },
-    {
         "title": "This week in charts: ESMO’s winners and losers",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/biotech-charts-esmo-2026-winners-losers/873281/",
         "published_at": "2026-10-30 16:00",
         "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Gilead CAR-T on partial clinical hold; Agios' PDUFA date pushed back",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/gilead-car-t-on-partial-clinical-hold-agios-pdufa-date-pushed-back/",
-        "published_at": "2026-10-30 15:47",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "AstraZeneca says reorg could mean R&D cuts and trials shifted to emerging markets",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/astrazeneca-says-reorg-could-mean-rd-cuts-and-trials-shifted-to-emerging-markets/",
-        "published_at": "2026-10-30 15:36",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Anthropic's Nathan Frey on biopharma partners, M&A and pipeline",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/anthropics-nathan-frey-on-biopharma-partners-ma-and-pipeline/",
-        "published_at": "2026-10-30 13:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Earnings roundup: Lilly’s unwavering momentum, Novartis’ rebound and GSK’s waiting game",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/biopharma-earnings-q3-2026-lilly-novartis-gsk/873167/",
-        "published_at": "2026-10-30 11:50",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Sanofi has no plans for 'major restructuring' as Dupixent's patent cliff looms",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/sanofi-has-no-plans-for-a-major-overhaul-as-dupixents-patent-cliff-looms/",
-        "published_at": "2026-10-30 11:12",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "After Be Bio shutdown, its CEO heads to Orbis; Enanta's longtime chief Jay Luly to retire",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/after-be-bio-shutdown-its-ceo-heads-to-orbis-enantas-longtime-chief-jay-luly-to-retire/",
-        "published_at": "2026-10-30 11:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Setara gets $90M to continue rare disease pipeline spun out of Jazz's Actio deal",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/setara-gets-90m-to-continue-rare-disease-pipeline-spun-out-of-jazzs-actio-deal/",
-        "published_at": "2026-10-30 10:30",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "With Setara, the team behind Actio opens its second act",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/setara-actio-charcot-marie-tooth-ion-channel-drugs/873227/",
-        "published_at": "2026-10-30 10:30",
-        "category": "Mergers & Acquisitions"
     }
 ]
