@@ -1,5 +1,61 @@
 [
     {
+        "title": "Head of family physician group seeks ACIP 'guardrails'",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/head-of-family-physician-group-seeks-acip-guardrails/",
+        "published_at": "2026-11-05 19:19",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "At ASH, drugmakers to showcase early data for three-pronged cancer therapies",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/ash-2026-trispecific-multiple-myeloma-johnson-johnson-abbvie/873852/",
+        "published_at": "2026-11-05 17:09",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Revolution’s Rasonque off to best cancer drug launch ‘in history’",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/revolution-rasonque-sales-3q-2026-pancreatic-cancer/873839/",
+        "published_at": "2026-11-05 16:21",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Rasonque sales drive RevMed's stock; whistleblower sues Madrigal over MASH",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/rasonque-sales-drive-up-revmeds-stock-whistleblower-sues-madrigal-over-mash/",
+        "published_at": "2026-11-05 15:59",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Caldera, Evommune sign China licensing deals for autoimmune drugs",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/caldera-evommune-sign-china-licensing-deals-for-autoimmune-drugs/",
+        "published_at": "2026-11-05 15:27",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "#AASLD26: Merck unwraps biopsy data for MASH drug it got from South Korea's Hanmi",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/aasld26-merck-unwraps-mash-biopsy-data-for-drug-it-got-from-south-koreas-hanmi/",
+        "published_at": "2026-11-05 15:00",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Ellipsis Health buys Kouper Health to act on AI voice calls",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/ellipsis-health-buys-kouper-health-to-act-on-ai-voice-calls/",
+        "published_at": "2026-11-05 14:00",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "T-Therapeutics reloads with a $133M megaround for bispecifics",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/t-therapeutics-series-b-tces-bispecifics-cancer-autoimmune/873786/",
+        "published_at": "2026-11-05 12:52",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
         "title": "Alethio clinches $90M to advance antibody for essential thrombocythemia",
         "source": "Endpoints News",
         "url": "https://endpoints.news/alethio-clinches-90m-to-advance-antibody-for-essential-thrombocythemia/",
@@ -175,66 +231,10 @@
         "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "Pfizer lifts 2026 guidance as cancer, migraine sales offset Covid slide",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/pfizer-lifts-2026-guidance-as-cancer-migraine-sales-offset-covid-slide/",
-        "published_at": "2026-11-03 15:04",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Novartis ends BioArctic pact; Two VC firms raise inaugural funds",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/novartis-ends-bioarctic-pact-two-vc-firms-raise-inaugural-funds/",
-        "published_at": "2026-11-03 14:56",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
         "title": "Medicare Part D premiums are spiking 50% on average next year, KFF finds",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/medicare-part-d-premiums-skyrocket-2027-kff/873552/",
         "published_at": "2026-11-03 13:46",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "UniQure gets an FDA decision date; Teva scraps brain drug study",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/uniqure-fda-bright-minds-specific-teva-cinrock/873455/",
-        "published_at": "2026-11-03 13:41",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Bayer CEO says company is ‘working on’ MFN in the US",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/bayer-signals-it-is-working-on-mfn-deal-in-the-us-ceo-says/",
-        "published_at": "2026-11-03 12:01",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Updated: Merck KGaA is selling its CDMO business in the US to Lonza",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/merck-kgaa-to-exit-cdmo-business-divesting-us-sites-to-lonza/",
-        "published_at": "2026-11-03 09:54",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "AbbVie, Brise disclose deal for two preclinical migraine meds",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/abbvie-brise-disclose-deal-for-two-preclinical-migraine-meds/",
-        "published_at": "2026-11-02 19:43",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Karyopharm, deep in debt, to sell itself in bankruptcy",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/karyopharm-bankruptcy-chapter-11-auction-ayrmid-gamida-cell/873415/",
-        "published_at": "2026-11-02 17:07",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Keytruda biosimilars are coming — but they face an uphill battle",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/keytruda-biosimilars-fda-pbm-market-share-drug/873424/",
-        "published_at": "2026-11-02 14:34",
         "category": "Clinical Trials & R&D"
     }
 ]
