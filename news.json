@@ -1,5 +1,26 @@
 [
     {
+        "title": "Seven new tumor cases reported in Zolgensma patients",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/seven-new-tumor-cases-reported-in-zolgensma-patients/",
+        "published_at": "2026-11-05 21:08",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Medicare will cut billions from 340B, expand site-neutral payments in 2027",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/medicare-will-cut-billions-from-340b-expand-site-neutral-payments-in-2027/873909/",
+        "published_at": "2026-11-05 21:06",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Preeclampsia almost took her life and her baby's. Drugs are finally underway",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/preeclampsia-almost-took-her-life-and-her-babys-drugs-are-finally-underway/",
+        "published_at": "2026-11-05 20:52",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
         "title": "Head of family physician group seeks ACIP 'guardrails'",
         "source": "Endpoints News",
         "url": "https://endpoints.news/head-of-family-physician-group-seeks-acip-guardrails/",
@@ -210,31 +231,10 @@
         "category": "Vaccines & mRNA"
     },
     {
-        "title": "Post-Hoc Live: What the US midterm elections mean for biopharma",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/post-hoc-live-what-the-us-midterm-elections-mean-for-biopharma/",
-        "published_at": "2026-11-03 18:44",
-        "category": "Mergers & Acquisitions"
-    },
-    {
         "title": "Vertex, ahead of FDA decision, calms fears surrounding kidney drug",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/vertex-earnings-q3-2026-povetacicept-iga-nephropathy-kidney/873600/",
         "published_at": "2026-11-03 17:32",
         "category": "FDA & Regulatory"
-    },
-    {
-        "title": "The biggest conversations in health tech",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/the-biggest-conversations-in-health-tech/",
-        "published_at": "2026-11-03 15:37",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Medicare Part D premiums are spiking 50% on average next year, KFF finds",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/medicare-part-d-premiums-skyrocket-2027-kff/873552/",
-        "published_at": "2026-11-03 13:46",
-        "category": "Clinical Trials & R&D"
     }
 ]
