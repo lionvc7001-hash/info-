@@ -1,6 +1,41 @@
 [
     {
-        "title": "Seven new tumor cases reported in Zolgensma patients",
+        "title": "Sarepta quits enrolling for confirmatory Phase 3 trial of Elevidys",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/sarepta-quits-enrolling-for-confirmatory-phase-3-trial-of-elevidys/",
+        "published_at": "2026-11-06 14:10",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Lilly, Hims reach GLP-1 deal; Alnylam sales chief to step down",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/lilly-hims-alnylam-boehringer-ultragenyx-sevasemten-ani-egetis/873843/",
+        "published_at": "2026-11-06 13:13",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Moderna notches small profit as it prioritizes work on cancer vaccines",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/moderna-notches-small-profit-as-it-prioritizes-work-on-cancer-vaccines/",
+        "published_at": "2026-11-06 13:02",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Novo, Pfizer make CFO hires; Alnylam's chief commercial officer exits as struggles continue",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/novo-pfizer-make-cfo-hires-alnylams-chief-commercial-officer-exits-as-struggles-continue/",
+        "published_at": "2026-11-06 12:00",
+        "category": "Vaccines & mRNA"
+    },
+    {
+        "title": "This week in charts: 3 drug launches Wall Street is watching",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/biotech-charts-drug-launches-sales-wegovy-rezdiffra-auvelity/873549/",
+        "published_at": "2026-11-06 12:00",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Seven new tumor cases reported among patients on Novartis' Zolgensma gene therapy",
         "source": "Endpoints News",
         "url": "https://endpoints.news/seven-new-tumor-cases-reported-in-zolgensma-patients/",
         "published_at": "2026-11-05 21:08",
@@ -154,13 +189,6 @@
         "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "Biopharma likely to climb higher after ‘blue wave,’ analysts say",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/biotech-pharma-midterm-elections-impact/873667/",
-        "published_at": "2026-11-04 15:28",
-        "category": "Clinical Trials & R&D"
-    },
-    {
         "title": "First wave of #ASH26 abstracts is here, with data from J&J, Servier and AstraZeneca",
         "source": "Endpoints News",
         "url": "https://endpoints.news/first-wave-of-ash26-abstracts-is-here-with-data-from-jj-servier-and-astrazeneca/",
@@ -208,33 +236,5 @@
         "url": "https://endpoints.news/china-biotech-minghui-does-thyroid-eye-disease-deal-for-110m-upfront/",
         "published_at": "2026-11-04 07:04",
         "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Ultragenyx to lay off 20% of employees, scrap a Wilson disease gene therapy",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/ultragenyx-to-lay-off-20-of-employees-scrap-a-wilson-disease-gene-therapy/",
-        "published_at": "2026-11-03 21:55",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Servier's $1.5B bet on Edgewise drug fails five months in",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/serviers-1-5b-bet-on-edgewise-drug-fails-five-months-in/",
-        "published_at": "2026-11-03 19:27",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Bourla expects no changes to MFN deals after midterms",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/bourla-expects-no-changes-to-mfn-deals-after-midterms/",
-        "published_at": "2026-11-03 19:18",
-        "category": "Vaccines & mRNA"
-    },
-    {
-        "title": "Vertex, ahead of FDA decision, calms fears surrounding kidney drug",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/vertex-earnings-q3-2026-povetacicept-iga-nephropathy-kidney/873600/",
-        "published_at": "2026-11-03 17:32",
-        "category": "FDA & Regulatory"
     }
 ]
