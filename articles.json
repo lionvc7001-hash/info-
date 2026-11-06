@@ -1,5 +1,33 @@
 [
     {
+        "title": "#SITC26: Immunocore reports early data for brenetafusp plus Kimmtrak in uveal melanoma",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/sitc26-immunocore-reports-early-data-for-brenetafusp-plus-kimmtrak-in-uveal-melanoma/",
+        "published_at": "2026-11-06 17:00",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "J&J’s Rybrevant nets FDA approval in head and neck cancer",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/jjs-rybrevant-nets-fda-approval-in-head-and-neck-cancer/",
+        "published_at": "2026-11-06 16:53",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Novartis reveals cancer cases possibly linked to gene therapy Zolgensma",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/zolgensma-tumor-report-novartis-sma-spinal-muscular-atrophy/873990/",
+        "published_at": "2026-11-06 16:51",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Satellos' new Duchenne study endpoint; Amgen's Repatha cuts heart attack risk",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/satellos-new-duchenne-study-endpoint-amgens-repatha-cuts-heart-attack-risk/",
+        "published_at": "2026-11-06 16:08",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
         "title": "Sarepta quits enrolling for confirmatory Phase 3 trial of Elevidys",
         "source": "Endpoints News",
         "url": "https://endpoints.news/sarepta-quits-enrolling-for-confirmatory-phase-3-trial-of-elevidys/",
@@ -168,13 +196,6 @@
         "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "CVS to split into two companies in stunning strategic about-face",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/cvs-split-two-companies-strategic-about-face/873742/",
-        "published_at": "2026-11-04 15:47",
-        "category": "FDA & Regulatory"
-    },
-    {
         "title": "CVS to break up, splitting pharmacy business from insurance",
         "source": "Endpoints News",
         "url": "https://endpoints.news/cvs-to-break-up-splitting-pharmacy-business-from-insurance/",
@@ -215,26 +236,5 @@
         "url": "https://endpoints.news/novo-wont-launch-cagrisema-in-europe-for-a-couple-of-years-cfo-says/",
         "published_at": "2026-11-04 12:03",
         "category": "FDA & Regulatory"
-    },
-    {
-        "title": "AbbVie bets up to $1.47B on Nxera's gut-targeting IBD program",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/abbvie-bets-up-to-1-47b-on-nxeras-gut-targeting-ibd-program/",
-        "published_at": "2026-11-04 11:47",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Novo forecasts flat 2026 sales as finance chief departs",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/novo-forecasts-flat-2026-sales-as-finance-chief-departs/",
-        "published_at": "2026-11-04 10:30",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "China biotech Minghui does thyroid eye disease deal for $110M upfront",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/china-biotech-minghui-does-thyroid-eye-disease-deal-for-110m-upfront/",
-        "published_at": "2026-11-04 07:04",
-        "category": "Mergers & Acquisitions"
     }
 ]
