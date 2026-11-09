@@ -1,5 +1,110 @@
 [
     {
+        "title": "US government removes WuXi AppTec from Chinese military list",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/us-government-removes-wuxi-apptec-from-chinese-military-list/",
+        "published_at": "2026-11-09 18:54",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Third Rock enters $2B partnership with AI-focused Chinese biotech",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/third-rock-enters-2b-partnership-with-ai-focused-chinese-biotech/",
+        "published_at": "2026-11-09 18:54",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Vir hepatitis D drug succeeds in first pivotal study",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/vir-chronic-hepatitis-d-drug-results-elebsiran-tobevibart/874089/",
+        "published_at": "2026-11-09 17:09",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Argenx to buy peptide platform in potentially billion-dollar deal",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/argenx-unnatural-products-acquisition-deal-peptides-protein-macrocyclic-immune/874119/",
+        "published_at": "2026-11-09 16:27",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Heron sells assets to CorMedix for $145M upfront; Faeth's stock tumbles",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/heron-sells-assets-to-cormedix-for-145m-upfront-faeths-stock-tumbles/",
+        "published_at": "2026-11-09 16:13",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Neuroplastogen biotech Delix raises $100M Series C",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/neuroplastogen-biotech-delix-raises-100m-series-c/",
+        "published_at": "2026-11-09 16:01",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "#AHA26: Boehringer to seek approval of obesity shot, but gaining market share could be tricky",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/aha26-boehringer-to-seek-approval-of-obesity-shot-but-gaining-market-share-could-be-tricky/",
+        "published_at": "2026-11-09 15:58",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Ramaswamy’s biotech baggage haunted his political run",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/vivek-ramaswamy-biotech-axovant-roivant-ohio/874093/",
+        "published_at": "2026-11-09 15:37",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "#AHA26: Lilly gets another sleep apnea win, this time with obesity pill",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/aha26-lilly-gets-another-sleep-apnea-win-this-time-with-obesity-pill/",
+        "published_at": "2026-11-09 14:30",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "#AHA26: Marea’s triglyceride candidate could have an edge in diabetic patients",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/aha26-mareas-triglyceride-candidate-could-have-an-edge-in-diabetic-patients/",
+        "published_at": "2026-11-09 14:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Zura reports Phase 2 flop in painful skin disorder, stock nosedives",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/zura-reports-phase-2-flop-in-painful-skin-disorder-stock-nosedives/",
+        "published_at": "2026-11-09 13:44",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Argenx to acquire Unnatural Products in deal worth up to $1.15B",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/argenx-to-acquire-unnatural-products-in-deal-worth-up-to-1-15b/",
+        "published_at": "2026-11-09 11:23",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "State incentives for commercial-stage life sciences companies",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/spons/state-incentives-for-commercial-stage-life-sciences-companies/873753/",
+        "published_at": "2026-11-09 10:00",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Translating Phase II success into Phase III readiness takes more than scale",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/spons/translating-phase-ii-success-into-phase-iii-readiness-takes-more-than-scale/833059/",
+        "published_at": "2026-11-09 10:00",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Making the ‘impossible’ executable in life sciences construction",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/spons/making-the-impossible-executable-in-life-sciences-construction/873537/",
+        "published_at": "2026-11-09 10:00",
+        "category": "Clinical Trials & R&D"
+    },
+    {
         "title": "Vir says hepatitis D drug combination succeeds in first pivotal study",
         "source": "Endpoints News",
         "url": "https://endpoints.news/virs-hepatitis-d-drug-succeeds-in-first-pivotal-study/",
@@ -53,7 +158,7 @@
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/zolgensma-tumor-report-novartis-sma-spinal-muscular-atrophy/873990/",
         "published_at": "2026-11-06 16:51",
-        "category": "Gene Editing & CRISPR"
+        "category": "Immunotherapy & Oncology"
     },
     {
         "title": "Satellos' new Duchenne study endpoint; Amgen's Repatha cuts heart attack risk",
@@ -126,115 +231,10 @@
         "category": "Gene Editing & CRISPR"
     },
     {
-        "title": "At ASH, drugmakers to showcase early data for three-pronged cancer therapies",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/ash-2026-trispecific-multiple-myeloma-johnson-johnson-abbvie/873852/",
-        "published_at": "2026-11-05 17:09",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Revolution’s Rasonque off to best cancer drug launch ‘in history’",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/revolution-rasonque-sales-3q-2026-pancreatic-cancer/873839/",
-        "published_at": "2026-11-05 16:21",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
         "title": "Rasonque sales drive RevMed's stock; whistleblower sues Madrigal over MASH",
         "source": "Endpoints News",
         "url": "https://endpoints.news/rasonque-sales-drive-up-revmeds-stock-whistleblower-sues-madrigal-over-mash/",
         "published_at": "2026-11-05 15:59",
         "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Caldera, Evommune sign China licensing deals for autoimmune drugs",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/caldera-evommune-sign-china-licensing-deals-for-autoimmune-drugs/",
-        "published_at": "2026-11-05 15:27",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "#AASLD26: Merck unwraps biopsy data for MASH drug it got from South Korea's Hanmi",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/aasld26-merck-unwraps-mash-biopsy-data-for-drug-it-got-from-south-koreas-hanmi/",
-        "published_at": "2026-11-05 15:00",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Ellipsis Health buys Kouper Health to act on AI voice calls",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/ellipsis-health-buys-kouper-health-to-act-on-ai-voice-calls/",
-        "published_at": "2026-11-05 14:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "T-Therapeutics reloads with a $133M megaround for bispecifics",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/t-therapeutics-series-b-tces-bispecifics-cancer-autoimmune/873786/",
-        "published_at": "2026-11-05 12:52",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Alethio clinches $90M to advance antibody for essential thrombocythemia",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/alethio-clinches-90m-to-advance-antibody-for-essential-thrombocythemia/",
-        "published_at": "2026-11-05 08:00",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Alethio raises $90M to target rare blood cancers",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/alethio-therapeutics-myeloproliferative-neoplasms-series-a/873775/",
-        "published_at": "2026-11-05 08:00",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "T-Therapeutics secures $133M for cancer, autoimmune TCRs",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/t-therapeutics-secures-133m-for-cancer-autoimmune-tcrs/",
-        "published_at": "2026-11-05 07:00",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "#ASH26: Kamau shares first data from revamped sickle cell gene editing therapy",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/kamau-shares-first-data-from-revamped-sickle-cell-gene-editing-therapy/",
-        "published_at": "2026-11-04 20:05",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Novo’s race to catch Eli Lilly may already be lost",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/novos-race-to-catch-eli-lilly-may-already-be-lost/",
-        "published_at": "2026-11-04 18:47",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Sanofi stops development of Nurix-partnered immune drug",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/sanofi-discontinue-development-nurix-stat6-degrader-eczema/873697/",
-        "published_at": "2026-11-04 17:18",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Novo gets much-needed lift as Wegovy pill tops Wall Street forecasts",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/novo-wegovy-pill-sales-3q-2026-earnings-cfo/873693/",
-        "published_at": "2026-11-04 16:13",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Sanofi ends development of Nurix's STAT6 degrader",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/sanofi-ends-development-of-nurixs-stat6-degrader/",
-        "published_at": "2026-11-04 16:05",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "CVS to break up, splitting pharmacy business from insurance",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/cvs-to-break-up-splitting-pharmacy-business-from-insurance/",
-        "published_at": "2026-11-04 15:38",
-        "category": "FDA & Regulatory"
     }
 ]
