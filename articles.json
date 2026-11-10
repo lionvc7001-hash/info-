@@ -1,5 +1,26 @@
 [
     {
+        "title": "London startup raises $60M for degraders aimed at Alzheimer’s protein tau",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/london-startup-raises-60m-for-degraders-aimed-at-alzheimers-protein-tau/",
+        "published_at": "2026-11-10 07:00",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "London biotech Oyster harvests $60M for tau-targeting brain drugs",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/oyster-venture-financing-tau-targeted-protein-degraders/874160/",
+        "published_at": "2026-11-10 07:00",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "BIO unveils plan for US to remain biotech’s ‘global leader’",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/bio-bioadvance-proposal-us-trial-competition-china/874162/",
+        "published_at": "2026-11-10 05:01",
+        "category": "FDA & Regulatory"
+    },
+    {
         "title": "Bayer wins FDA approval for stroke prevention drug Sunharbo",
         "source": "Endpoints News",
         "url": "https://endpoints.news/bayer-wins-fda-approval-for-stroke-prevention-drug-sunharbo/",
@@ -210,31 +231,10 @@
         "category": "Clinical Trials"
     },
     {
-        "title": "Lilly, Hims reach GLP-1 deal; Alnylam sales chief to step down",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/lilly-hims-alnylam-boehringer-ultragenyx-sevasemten-ani-egetis/873843/",
-        "published_at": "2026-11-06 13:13",
-        "category": "Mergers & Acquisitions"
-    },
-    {
         "title": "Moderna notches small profit as it prioritizes work on cancer vaccines",
         "source": "Endpoints News",
         "url": "https://endpoints.news/moderna-notches-small-profit-as-it-prioritizes-work-on-cancer-vaccines/",
         "published_at": "2026-11-06 13:02",
         "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Novo, Pfizer make CFO hires; Alnylam's chief commercial officer exits as struggles continue",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/novo-pfizer-make-cfo-hires-alnylams-chief-commercial-officer-exits-as-struggles-continue/",
-        "published_at": "2026-11-06 12:00",
-        "category": "Vaccines & mRNA"
-    },
-    {
-        "title": "This week in charts: 3 drug launches Wall Street is watching",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/biotech-charts-drug-launches-sales-wegovy-rezdiffra-auvelity/873549/",
-        "published_at": "2026-11-06 12:00",
-        "category": "Clinical Trials & R&D"
     }
 ]
