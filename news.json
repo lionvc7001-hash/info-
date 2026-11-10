@@ -1,5 +1,54 @@
 [
     {
+        "title": "Democrats ramp up oversight of MFN deals after midterm wins",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/democrats-ramp-up-oversight-of-mfn-deals-after-midterm-wins/",
+        "published_at": "2026-11-10 17:17",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Beam’s base editing therapy for sickle cell hits goal in pivotal trial",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/beam-sickle-cell-base-editing-risto-cel-results/874242/",
+        "published_at": "2026-11-10 17:06",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Beam says base-edited sickle cell therapy succeeds in Phase 1/2 study",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/beam-says-base-edited-sickle-cell-therapy-succeeds-in-phase-1-2-study/",
+        "published_at": "2026-11-10 16:23",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "PepGen's oligo succeeds in Phase 2; Ionis' and ImmunityBio's stocks sag",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/pepgens-oligo-succeeds-in-phase-2-ionis-and-immunitybios-stocks-sag/",
+        "published_at": "2026-11-10 16:09",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Employers vs. consumers: Who stands to disrupt healthcare?",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/employers-vs-consumers-who-stands-to-disrupt-healthcare/",
+        "published_at": "2026-11-10 15:46",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "White House sticks with Overton, works senators for votes",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/white-house-sticks-with-overton-works-senators-for-votes/",
+        "published_at": "2026-11-10 15:34",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "OpenAI's head of health talks helping patients take action",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/openais-head-of-health-talks-helping-patients-take-action/",
+        "published_at": "2026-11-10 14:08",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
         "title": "London startup raises $60M for degraders aimed at Alzheimer’s protein tau",
         "source": "Endpoints News",
         "url": "https://endpoints.news/london-startup-raises-60m-for-degraders-aimed-at-alzheimers-protein-tau/",
@@ -140,13 +189,6 @@
         "category": "Mergers & Acquisitions"
     },
     {
-        "title": "State incentives for commercial-stage life sciences companies",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/spons/state-incentives-for-commercial-stage-life-sciences-companies/873753/",
-        "published_at": "2026-11-09 10:00",
-        "category": "Clinical Trials & R&D"
-    },
-    {
         "title": "Translating Phase II success into Phase III readiness takes more than scale",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/spons/translating-phase-ii-success-into-phase-iii-readiness-takes-more-than-scale/833059/",
@@ -157,6 +199,13 @@
         "title": "Making the ‘impossible’ executable in life sciences construction",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/spons/making-the-impossible-executable-in-life-sciences-construction/873537/",
+        "published_at": "2026-11-09 10:00",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "State incentives for commercial-stage life sciences companies",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/spons/state-incentives-for-commercial-stage-life-sciences-companies/873753/",
         "published_at": "2026-11-09 10:00",
         "category": "Clinical Trials & R&D"
     },
@@ -187,54 +236,5 @@
         "url": "https://endpoints.news/novos-race-to-catch-lilly-q3-earnings-recap-and-more/",
         "published_at": "2026-11-07 11:00",
         "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Church quits role at AI startup Radical, claims ‘sleazy’ behavior stole credit from partner",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/church-quits-role-at-ai-startup-radical-claims-sleazy-behavior-stole-credit-from-partner/",
-        "published_at": "2026-11-07 00:52",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "#SITC26: Immunocore reports early data for brenetafusp plus Kimmtrak in uveal melanoma",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/sitc26-immunocore-reports-early-data-for-brenetafusp-plus-kimmtrak-in-uveal-melanoma/",
-        "published_at": "2026-11-06 17:00",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "J&J’s Rybrevant nets FDA approval in head and neck cancer",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/jjs-rybrevant-nets-fda-approval-in-head-and-neck-cancer/",
-        "published_at": "2026-11-06 16:53",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Novartis reveals cancer cases possibly linked to gene therapy Zolgensma",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/zolgensma-tumor-report-novartis-sma-spinal-muscular-atrophy/873990/",
-        "published_at": "2026-11-06 16:51",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Satellos' new Duchenne study endpoint; Amgen's Repatha cuts heart attack risk",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/satellos-new-duchenne-study-endpoint-amgens-repatha-cuts-heart-attack-risk/",
-        "published_at": "2026-11-06 16:08",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Sarepta quits enrolling for confirmatory Phase 3 trial of Elevidys",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/sarepta-quits-enrolling-for-confirmatory-phase-3-trial-of-elevidys/",
-        "published_at": "2026-11-06 14:10",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Moderna notches small profit as it prioritizes work on cancer vaccines",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/moderna-notches-small-profit-as-it-prioritizes-work-on-cancer-vaccines/",
-        "published_at": "2026-11-06 13:02",
-        "category": "Gene Editing & CRISPR"
     }
 ]
