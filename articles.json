@@ -1,5 +1,40 @@
 [
     {
+        "title": "Bayer wins FDA approval for stroke prevention drug Sunharbo",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/bayer-wins-fda-approval-for-stroke-prevention-drug-sunharbo/",
+        "published_at": "2026-11-10 00:12",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Bayer wins FDA nod for a new kind of blood thinner",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/bayer-sunharbo-asundexian-fda-approve-stroke-factor-xi/872837/",
+        "published_at": "2026-11-09 22:40",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "How early efforts to build autonomous clinical AI tools are approaching regulation",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/how-early-efforts-to-build-autonomous-clinical-ai-tools-are-approaching-regulation/",
+        "published_at": "2026-11-09 20:40",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Trump’s drug pricing deals force tough choices on launches",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/trumps-drug-pricing-deals-force-tough-choices-on-launches/",
+        "published_at": "2026-11-09 20:00",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "FDA orders GLP-1 drugmakers to warn of rare eye disease",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-orders-glp-1-drugmakers-to-warn-of-rare-eye-disease/",
+        "published_at": "2026-11-09 19:55",
+        "category": "FDA & Regulatory"
+    },
+    {
         "title": "US government removes WuXi AppTec from Chinese military list",
         "source": "Endpoints News",
         "url": "https://endpoints.news/us-government-removes-wuxi-apptec-from-chinese-military-list/",
@@ -201,40 +236,5 @@
         "url": "https://www.biopharmadive.com/news/biotech-charts-drug-launches-sales-wegovy-rezdiffra-auvelity/873549/",
         "published_at": "2026-11-06 12:00",
         "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Seven new tumor cases reported among patients on Novartis' Zolgensma gene therapy",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/seven-new-tumor-cases-reported-in-zolgensma-patients/",
-        "published_at": "2026-11-05 21:08",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Medicare will cut billions from 340B, expand site-neutral payments in 2027",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/medicare-will-cut-billions-from-340b-expand-site-neutral-payments-in-2027/873909/",
-        "published_at": "2026-11-05 21:06",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Preeclampsia almost took her life and her baby's. Drugs are finally underway",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/preeclampsia-almost-took-her-life-and-her-babys-drugs-are-finally-underway/",
-        "published_at": "2026-11-05 20:52",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Head of family physician group seeks ACIP 'guardrails'",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/head-of-family-physician-group-seeks-acip-guardrails/",
-        "published_at": "2026-11-05 19:19",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Rasonque sales drive RevMed's stock; whistleblower sues Madrigal over MASH",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/rasonque-sales-drive-up-revmeds-stock-whistleblower-sues-madrigal-over-mash/",
-        "published_at": "2026-11-05 15:59",
-        "category": "Immunotherapy & Oncology"
     }
 ]
