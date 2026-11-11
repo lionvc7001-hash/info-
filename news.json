@@ -1,5 +1,47 @@
 [
     {
+        "title": "Drug price hikes in Germany could push US costs higher, study says",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/germany-us-drug-price-study-healthcare-costs/874360/",
+        "published_at": "2026-11-11 16:11",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Flagship merges two startups; J&J scores a bipolar mania success",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/flagship-merges-two-startups-jj-scores-a-bipolar-mania-success/",
+        "published_at": "2026-11-11 15:44",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Beeline reveals Phase 2 lupus data from old Bristol Myers drug",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/beeline-reveals-phase-2-lupus-data-from-old-bristol-myers-drug/",
+        "published_at": "2026-11-11 14:00",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "UK science minister calls for more life sciences investment",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/uk-science-minister-calls-for-more-life-sciences-investment/",
+        "published_at": "2026-11-11 13:52",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "AstraZeneca buys vaccine startup; FDA issues GLP-1 safety warning",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/glp1-naion-compass-zura-abeona/874076/",
+        "published_at": "2026-11-11 13:42",
+        "category": "Vaccines & mRNA"
+    },
+    {
+        "title": "VectorY bags $83.5M for antibody gene therapies in neurodegenerative diseases",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/vectory-bags-83-5m-for-antibody-gene-therapies-in-neurodegenerative-diseases/",
+        "published_at": "2026-11-11 13:00",
+        "category": "Mergers & Acquisitions"
+    },
+    {
         "title": "Merck KGaA lands FDA nod for joint tumor drug it licensed from Abbisko",
         "source": "Endpoints News",
         "url": "https://endpoints.news/merck-kgaa-lands-fda-nod-for-joint-tumor-drug-it-licensed-from-abbisko/",
@@ -194,47 +236,5 @@
         "url": "https://www.biopharmadive.com/news/vivek-ramaswamy-biotech-axovant-roivant-ohio/874093/",
         "published_at": "2026-11-09 15:37",
         "category": "Clinical Trials"
-    },
-    {
-        "title": "#AHA26: Lilly gets another sleep apnea win, this time with obesity pill",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/aha26-lilly-gets-another-sleep-apnea-win-this-time-with-obesity-pill/",
-        "published_at": "2026-11-09 14:30",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "#AHA26: Marea’s triglyceride candidate could have an edge in diabetic patients",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/aha26-mareas-triglyceride-candidate-could-have-an-edge-in-diabetic-patients/",
-        "published_at": "2026-11-09 14:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Zura reports Phase 2 flop in painful skin disorder, stock nosedives",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/zura-reports-phase-2-flop-in-painful-skin-disorder-stock-nosedives/",
-        "published_at": "2026-11-09 13:44",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Argenx to acquire Unnatural Products in deal worth up to $1.15B",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/argenx-to-acquire-unnatural-products-in-deal-worth-up-to-1-15b/",
-        "published_at": "2026-11-09 11:23",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Translating Phase II success into Phase III readiness takes more than scale",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/spons/translating-phase-ii-success-into-phase-iii-readiness-takes-more-than-scale/833059/",
-        "published_at": "2026-11-09 10:00",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Making the ‘impossible’ executable in life sciences construction",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/spons/making-the-impossible-executable-in-life-sciences-construction/873537/",
-        "published_at": "2026-11-09 10:00",
-        "category": "Clinical Trials & R&D"
     }
 ]
