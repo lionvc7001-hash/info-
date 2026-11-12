@@ -1,5 +1,68 @@
 [
     {
+        "title": "Blackstone bets $1.5B on Pfizer’s obesity drug",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/blackstone-pfizer-berobenatide-deal/874483/",
+        "published_at": "2026-11-12 16:44",
+        "category": "Vaccines & mRNA"
+    },
+    {
+        "title": "EnGene seeks comeback from May bladder cancer crash",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/engene-seeks-comeback-from-may-bladder-cancer-crash/",
+        "published_at": "2026-11-12 16:15",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "BioNTech pays $205M for Scholar Rock voucher; J&J pulls back in Norway",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/biontech-pays-205m-for-scholar-rock-voucher-jj-pulls-back-in-norway/",
+        "published_at": "2026-11-12 16:03",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Bristol Myers research chief to depart in ‘evolution’ of company’s structure",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/bristol-myers-robert-plenge-cristian-massacesi-research-transition/874476/",
+        "published_at": "2026-11-12 16:03",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Merck KGaA's writedown over Lonza deal; PharmaLogic buys Lantheus' CDMO business",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/merck-kgaas-writedown-over-lonza-deal-pharmalogic-buys-lantheus-cdmo-business/",
+        "published_at": "2026-11-12 15:06",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "The FDA has over 1k open jobs — and the staffing shortage is hitting pharma",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/fda-staffing-shortages-drug-reviews-pharma/874480/",
+        "published_at": "2026-11-12 14:38",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Ira Mellman wants Parker Institute to restore cancer immunotherapy",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/ira-mellman-wants-parker-institute-to-restore-cancer-immunotherapy/",
+        "published_at": "2026-11-12 14:00",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Bristol Myers to merge R&D under Massacesi, research head to exit",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/bristol-myers-to-merge-rd-under-massacesi-research-head-to-exit/",
+        "published_at": "2026-11-12 12:29",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Blackstone commits up to $1.5B for R&D of Pfizer's ex-Metsera GLP-1",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/blackstone-commits-up-to-1-5b-for-rd-of-pfizers-ex-metsera-glp-1/",
+        "published_at": "2026-11-12 11:17",
+        "category": "Vaccines & mRNA"
+    },
+    {
         "title": "Neurosterix pulls in $105M for schizophrenia drug, taps Cobenfy vets",
         "source": "Endpoints News",
         "url": "https://endpoints.news/neurosterix-pulls-in-105m-for-schizophrenia-drug-recruits-cobenfy-vets/",
@@ -173,68 +236,5 @@
         "url": "https://www.biopharmadive.com/news/bayer-sunharbo-asundexian-fda-approve-stroke-factor-xi/872837/",
         "published_at": "2026-11-09 22:40",
         "category": "FDA & Regulatory"
-    },
-    {
-        "title": "How early efforts to build autonomous clinical AI tools are approaching regulation",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/how-early-efforts-to-build-autonomous-clinical-ai-tools-are-approaching-regulation/",
-        "published_at": "2026-11-09 20:40",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Trump’s drug pricing deals force tough choices on launches",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/trumps-drug-pricing-deals-force-tough-choices-on-launches/",
-        "published_at": "2026-11-09 20:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "FDA orders GLP-1 drugmakers to warn of rare eye disease",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-orders-glp-1-drugmakers-to-warn-of-rare-eye-disease/",
-        "published_at": "2026-11-09 19:55",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "US government removes WuXi AppTec from Chinese military list",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/us-government-removes-wuxi-apptec-from-chinese-military-list/",
-        "published_at": "2026-11-09 18:54",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Third Rock enters $2B partnership with AI-focused Chinese biotech",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/third-rock-enters-2b-partnership-with-ai-focused-chinese-biotech/",
-        "published_at": "2026-11-09 18:54",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Vir hepatitis D drug succeeds in first pivotal study",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/vir-chronic-hepatitis-d-drug-results-elebsiran-tobevibart/874089/",
-        "published_at": "2026-11-09 17:09",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Argenx to buy peptide platform in potentially billion-dollar deal",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/argenx-unnatural-products-acquisition-deal-peptides-protein-macrocyclic-immune/874119/",
-        "published_at": "2026-11-09 16:27",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Heron sells assets to CorMedix for $145M upfront; Faeth's stock tumbles",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/heron-sells-assets-to-cormedix-for-145m-upfront-faeths-stock-tumbles/",
-        "published_at": "2026-11-09 16:13",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Ramaswamy’s biotech baggage haunted his political run",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/vivek-ramaswamy-biotech-axovant-roivant-ohio/874093/",
-        "published_at": "2026-11-09 15:37",
-        "category": "Clinical Trials"
     }
 ]
