@@ -1,5 +1,61 @@
 [
     {
+        "title": "Argenx is spending billions to push beyond Vyvgart",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/argenx-is-spending-billions-to-push-beyond-vyvgart/",
+        "published_at": "2026-11-13 18:50",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "AstraZeneca pulls EU filing for antibody as CHMP backs Gazyvaro in lupus",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/astrazeneca-pulls-eu-filing-for-antibody-as-chmp-backs-gazyvaro-in-lupus/",
+        "published_at": "2026-11-13 18:01",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Windward Bio hits Nasdaq with $175M IPO, plus another $50M from Sanofi",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/windward-bio-hits-nasdaq-with-175m-ipo-plus-another-50m-from-sanofi/",
+        "published_at": "2026-11-13 16:30",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Moderna readies commercial cancer vaccine production ahead of FDA filing",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/moderna-readies-commercial-cancer-vaccine-production-ahead-of-fda-filing/",
+        "published_at": "2026-11-13 16:26",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Milestone cuts 20% of staff as Cardamyst sales hit $1M in Q3",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/milestone-cuts-20-of-staff-as-cardamyst-sales-hit-1m-in-q3/",
+        "published_at": "2026-11-13 16:19",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Regeneron posts mid-stage POTS data; Kyverna completes CAR-T filing",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/regeneron-posts-mid-stage-pots-data-kyverna-completes-car-t-filing/",
+        "published_at": "2026-11-13 16:12",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Novo submits sickle cell drug; Flagship, Gates Foundation deepen ties",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/novo-etavopivat-flagship-gates-ascidian-immuneering-neurosterix/874120/",
+        "published_at": "2026-11-13 14:36",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "This week in charts: Brain drugs are back on venture capitalists’ minds",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/charts-venture-neuroscience-oyster-vectory-acr-cell-therapy/874570/",
+        "published_at": "2026-11-13 14:00",
+        "category": "Mergers & Acquisitions"
+    },
+    {
         "title": "Gubra CEO gets the quick hook; Ex-HHS official Brett Giroir takes over at cancer biotech",
         "source": "Endpoints News",
         "url": "https://endpoints.news/gubra-ceo-gets-the-quick-hook-ex-hhs-official-brett-giroir-takes-over-at-cancer-biotech/",
@@ -11,7 +67,7 @@
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/windward-ipo-pricing-immune-drugs-china-deals-tezspire/874533/",
         "published_at": "2026-11-13 01:22",
-        "category": "Clinical Trials & R&D"
+        "category": "Mergers & Acquisitions"
     },
     {
         "title": "HHS directs new funds, research for psychedelics work",
@@ -168,13 +224,6 @@
         "category": "Immunotherapy & Oncology"
     },
     {
-        "title": "Despite midterm losses, RFK Jr. is bullish on MAHA's future",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/despite-midterm-losses-rfk-jr-is-bullish-on-mahas-future/",
-        "published_at": "2026-11-10 22:06",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
         "title": "PepGen soars on promising early data for muscular dystrophy drug",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/pepgen-myotonic-dystrophy-dm1-drug-results-freedom/874249/",
@@ -182,59 +231,10 @@
         "category": "Gene Editing & CRISPR"
     },
     {
-        "title": "Mirum plans FDA submission for hepatitis D treatment as competition brews",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/mirum-plans-fda-submission-for-hepatitis-d-treatment-as-competition-brews/",
-        "published_at": "2026-11-10 19:31",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Oura to buy AI care startup Counsel Health for $625M",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/oura-to-buy-ai-care-startup-counsel-health-for-625m/",
-        "published_at": "2026-11-10 19:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Democrats ramp up oversight of MFN deals after midterm wins",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/democrats-ramp-up-oversight-of-mfn-deals-after-midterm-wins/",
-        "published_at": "2026-11-10 17:17",
-        "category": "Mergers & Acquisitions"
-    },
-    {
         "title": "Beam’s base editing therapy for sickle cell hits goal in pivotal trial",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/beam-sickle-cell-base-editing-risto-cel-results/874242/",
         "published_at": "2026-11-10 17:06",
         "category": "Clinical Trials"
-    },
-    {
-        "title": "Beam says base-edited sickle cell therapy succeeds in Phase 1/2 study",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/beam-says-base-edited-sickle-cell-therapy-succeeds-in-phase-1-2-study/",
-        "published_at": "2026-11-10 16:23",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "PepGen's oligo succeeds in Phase 2; Ionis' and ImmunityBio's stocks sag",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/pepgens-oligo-succeeds-in-phase-2-ionis-and-immunitybios-stocks-sag/",
-        "published_at": "2026-11-10 16:09",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "London biotech Oyster harvests $60M for tau-targeting brain drugs",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/oyster-venture-financing-tau-targeted-protein-degraders/874160/",
-        "published_at": "2026-11-10 07:00",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "BIO unveils plan for US to remain biotech’s ‘global leader’",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/bio-bioadvance-proposal-us-trial-competition-china/874162/",
-        "published_at": "2026-11-10 05:01",
-        "category": "FDA & Regulatory"
     }
 ]
