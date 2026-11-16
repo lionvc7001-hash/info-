@@ -1,5 +1,19 @@
 [
     {
+        "title": "Sofinnova closes second crossover fund at €725M for late-stage European biotechs",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/sofinnova-closes-second-crossover-fund-at-e725m-for-late-stage-european-biotechs/",
+        "published_at": "2026-11-16 07:00",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "One of Europe’s leading VCs banks a €725M ‘crossover’ fund",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/sofinnova-crossover-fund-ii-european-investment/874656/",
+        "published_at": "2026-11-16 07:00",
+        "category": "Clinical Trials & R&D"
+    },
+    {
         "title": "FDA rejects Summit, Akeso's ivonescimab in narrow lung cancer setting",
         "source": "Endpoints News",
         "url": "https://endpoints.news/fda-rejects-summit-akesos-ivonescimab-in-narrow-lung-cancer-setting/",
@@ -210,13 +224,6 @@
         "category": "Clinical Trials"
     },
     {
-        "title": "UK science minister calls for more life sciences investment",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/uk-science-minister-calls-for-more-life-sciences-investment/",
-        "published_at": "2026-11-11 13:52",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
         "title": "AstraZeneca buys vaccine startup; FDA issues GLP-1 safety warning",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/glp1-naion-compass-zura-abeona/874076/",
@@ -229,12 +236,5 @@
         "url": "https://www.biopharmadive.com/news/pepgen-myotonic-dystrophy-dm1-drug-results-freedom/874249/",
         "published_at": "2026-11-10 21:48",
         "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Beam’s base editing therapy for sickle cell hits goal in pivotal trial",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/beam-sickle-cell-base-editing-risto-cel-results/874242/",
-        "published_at": "2026-11-10 17:06",
-        "category": "Clinical Trials"
     }
 ]
