@@ -1,5 +1,110 @@
 [
     {
+        "title": "Summit shares fall as FDA rejects closely watched PD-1/VEGF drug",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/summit-akeso-fda-ivonescimab-reject-egfr-lung-cancer/874745/",
+        "published_at": "2026-11-16 17:14",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "CG Oncology drug delivers ‘exceptional’ results in key bladder cancer trial",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/cg-oncology-cretostimogene-adjuvant-bladder-cancer-results-pivot/874740/",
+        "published_at": "2026-11-16 17:00",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "J&J bets $2.2B on Ollin’s vision loss drug",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/Johnson-johnson-ollin-acquire-ophthalmology-vegf-ang2-drugs/874728/",
+        "published_at": "2026-11-16 16:57",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "China's $40k CAR-T; Novartis and Biogen strike deals",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/car-t-costs-falling-in-china-novartis-and-biogen-strike-deals-obesityweek-readouts/",
+        "published_at": "2026-11-16 16:19",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Parker Institute's Karen Knudsen: Cancer research has a translation problem",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/parker-institutes-karen-knudsen-cancer-research-has-a-translation-problem/",
+        "published_at": "2026-11-16 15:57",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Lilly's 14th acquisition of the year is a little-known blood cancer biotech",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/lillys-14th-acquisition-of-the-year-is-a-little-known-blood-cancer-biotech/",
+        "published_at": "2026-11-16 14:37",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "J&J to buy eye disease biotech Ollin Biosciences for up to $3.3B",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/jj-to-buy-eye-disease-biotech-ollin-biosciences-for-up-to-3-3b/",
+        "published_at": "2026-11-16 13:52",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "CG Oncology's bladder cancer treatment beats expectations in Phase 3",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/cg-oncologys-bladder-cancer-treatment-beats-expectations-in-phase-3/",
+        "published_at": "2026-11-16 13:00",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Lilly adds to buyout streak with $1.5B purchase of startup Calytrix",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/lilly-calytrix-bio-acquire-deal-myelofibrosis-essential-thrombocythemiaenial-/874719/",
+        "published_at": "2026-11-16 12:44",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Flagship launches UK lab to build AI-driven biotechs with £100M investment",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/flagship-launches-uk-lab-to-build-ai-driven-biotechs-with-100m-investment/",
+        "published_at": "2026-11-16 12:04",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Seawolf launches with $100M to make non-viral gene therapies",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/seawolf-launches-with-100m-to-make-non-viral-gene-therapies/",
+        "published_at": "2026-11-16 10:00",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Big-name investors pour $100M into DNA therapeutics developer Seawolf",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/seawolf-therapeutics-dna-versant-startup-financing/874465/",
+        "published_at": "2026-11-16 10:00",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Completing the circle: the next evolution in sustainable pharmaceutical blister packaging",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/spons/completing-the-circle-the-next-evolution-in-sustainable-pharmaceutical-bli/874350/",
+        "published_at": "2026-11-16 10:00",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Your AI pilots aren’t stalling because of the AI – they’re stalling because of your environment",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/spons/your-ai-pilots-arent-stalling-because-of-the-ai-theyre-stalling-because/874345/",
+        "published_at": "2026-11-16 10:00",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "The infrastructure decisions that will enable tomorrow’s biggest breakthroughs",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/spons/the-infrastructure-decisions-that-will-enable-tomorrows-biggest-breakthrou/874507/",
+        "published_at": "2026-11-16 10:00",
+        "category": "Clinical Trials & R&D"
+    },
+    {
         "title": "Sofinnova closes second crossover fund at €725M for late-stage European biotechs",
         "source": "Endpoints News",
         "url": "https://endpoints.news/sofinnova-closes-second-crossover-fund-at-e725m-for-late-stage-european-biotechs/",
@@ -77,25 +182,11 @@
         "category": "Gene Editing & CRISPR"
     },
     {
-        "title": "This week in charts: Brain drugs are back on venture capitalists’ minds",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/charts-venture-neuroscience-oyster-vectory-acr-cell-therapy/874570/",
-        "published_at": "2026-11-13 14:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
         "title": "Gubra CEO gets the quick hook; Ex-HHS official Brett Giroir takes over at cancer biotech",
         "source": "Endpoints News",
         "url": "https://endpoints.news/gubra-ceo-gets-the-quick-hook-ex-hhs-official-brett-giroir-takes-over-at-cancer-biotech/",
         "published_at": "2026-11-13 12:00",
         "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Windward prices $175M IPO to advance China-licensed lung drugs",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/windward-ipo-pricing-immune-drugs-china-deals-tezspire/874533/",
-        "published_at": "2026-11-13 01:22",
-        "category": "Mergers & Acquisitions"
     },
     {
         "title": "HHS directs new funds, research for psychedelics work",
@@ -126,13 +217,6 @@
         "category": "FDA & Regulatory"
     },
     {
-        "title": "Blackstone bets $1.5B on Pfizer’s obesity drug",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/blackstone-pfizer-berobenatide-deal/874483/",
-        "published_at": "2026-11-12 16:44",
-        "category": "Vaccines & mRNA"
-    },
-    {
         "title": "EnGene seeks comeback from May bladder cancer crash",
         "source": "Endpoints News",
         "url": "https://endpoints.news/engene-seeks-comeback-from-may-bladder-cancer-crash/",
@@ -147,94 +231,10 @@
         "category": "Mergers & Acquisitions"
     },
     {
-        "title": "Bristol Myers research chief to depart in ‘evolution’ of company’s structure",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/bristol-myers-robert-plenge-cristian-massacesi-research-transition/874476/",
-        "published_at": "2026-11-12 16:03",
-        "category": "Clinical Trials & R&D"
-    },
-    {
         "title": "Merck KGaA's writedown over Lonza deal; PharmaLogic buys Lantheus' CDMO business",
         "source": "Endpoints News",
         "url": "https://endpoints.news/merck-kgaas-writedown-over-lonza-deal-pharmalogic-buys-lantheus-cdmo-business/",
         "published_at": "2026-11-12 15:06",
         "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "The FDA has over 1k open jobs — and the staffing shortage is hitting pharma",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/fda-staffing-shortages-drug-reviews-pharma/874480/",
-        "published_at": "2026-11-12 14:38",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Ira Mellman wants Parker Institute to restore cancer immunotherapy",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/ira-mellman-wants-parker-institute-to-restore-cancer-immunotherapy/",
-        "published_at": "2026-11-12 14:00",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Updated: Bristol Myers shakes up R&D leadership ahead of patent cliff",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/bristol-myers-to-merge-rd-under-massacesi-research-head-to-exit/",
-        "published_at": "2026-11-12 12:29",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Blackstone commits up to $1.5B for R&D of Pfizer's ex-Metsera GLP-1",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/blackstone-commits-up-to-1-5b-for-rd-of-pfizers-ex-metsera-glp-1/",
-        "published_at": "2026-11-12 11:17",
-        "category": "Vaccines & mRNA"
-    },
-    {
-        "title": "Neurosterix pulls in $105M for schizophrenia drug, taps Cobenfy vets",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/neurosterix-pulls-in-105m-for-schizophrenia-drug-recruits-cobenfy-vets/",
-        "published_at": "2026-11-11 21:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "How Hims plans to reinvigorate its business",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/how-hims-plans-to-revive-its-business-after-pivoting-to-branded-glp-1s/",
-        "published_at": "2026-11-11 20:20",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Drug price hikes in Germany could push US costs higher, study says",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/germany-us-drug-price-study-healthcare-costs/874360/",
-        "published_at": "2026-11-11 16:11",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Flagship merges two startups; J&J scores a bipolar mania success",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/flagship-merges-two-startups-jj-scores-a-bipolar-mania-success/",
-        "published_at": "2026-11-11 15:44",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Beeline reveals Phase 2 lupus data from old Bristol Myers drug",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/beeline-reveals-phase-2-lupus-data-from-old-bristol-myers-drug/",
-        "published_at": "2026-11-11 14:00",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "AstraZeneca buys vaccine startup; FDA issues GLP-1 safety warning",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/glp1-naion-compass-zura-abeona/874076/",
-        "published_at": "2026-11-11 13:42",
-        "category": "Vaccines & mRNA"
-    },
-    {
-        "title": "PepGen soars on promising early data for muscular dystrophy drug",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/pepgen-myotonic-dystrophy-dm1-drug-results-freedom/874249/",
-        "published_at": "2026-11-10 21:48",
-        "category": "Gene Editing & CRISPR"
     }
 ]
