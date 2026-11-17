@@ -1,5 +1,33 @@
 [
     {
+        "title": "AriBio’s repurposing of ED drug for Alzheimer’s yields tepid results",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/aribios-repurposing-of-ed-drug-for-alzheimers-yields-tepid-results/",
+        "published_at": "2026-11-16 22:22",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Lilly strikes up to $5.9B cancer deal with Stipple Bio",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/lilly-strikes-up-to-5-9b-cancer-deal-with-stipple-bio/",
+        "published_at": "2026-11-16 21:01",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "AstraZeneca, Alexion's mysathenia gravis treatment enters crowded market",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/astrazeneca-alexions-mysathenia-gravis-treatment-enters-crowded-market/",
+        "published_at": "2026-11-16 19:17",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Helus Pharma notches successful Phase 3 depression readout",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/helus-pharma-notches-successful-phase-3-depression-readout/",
+        "published_at": "2026-11-16 18:30",
+        "category": "Clinical Trials"
+    },
+    {
         "title": "Summit shares fall as FDA rejects closely watched PD-1/VEGF drug",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/summit-akeso-fda-ivonescimab-reject-egfr-lung-cancer/874745/",
@@ -208,33 +236,5 @@
         "url": "https://endpoints.news/gemini-getting-in-the-health-ai-game/",
         "published_at": "2026-11-12 19:39",
         "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "FDA's speedy voucher program is dead — report",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fdas-speedy-voucher-program-is-dead-report/",
-        "published_at": "2026-11-12 19:34",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "EnGene seeks comeback from May bladder cancer crash",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/engene-seeks-comeback-from-may-bladder-cancer-crash/",
-        "published_at": "2026-11-12 16:15",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "BioNTech pays $205M for Scholar Rock voucher; J&J pulls back in Norway",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/biontech-pays-205m-for-scholar-rock-voucher-jj-pulls-back-in-norway/",
-        "published_at": "2026-11-12 16:03",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Merck KGaA's writedown over Lonza deal; PharmaLogic buys Lantheus' CDMO business",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/merck-kgaas-writedown-over-lonza-deal-pharmalogic-buys-lantheus-cdmo-business/",
-        "published_at": "2026-11-12 15:06",
-        "category": "Mergers & Acquisitions"
     }
 ]
