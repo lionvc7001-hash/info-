@@ -1,5 +1,89 @@
 [
     {
+        "title": "Sellas claims Phase 3 win on AML cancer vaccine",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/sellas-claims-phase-3-win-on-aml-cancer-vaccine/",
+        "published_at": "2026-11-17 18:32",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Roche breast cancer pill cleared by FDA",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/roche-fda-approve-wilserdly-giredestrant-breast-cancer/874884/",
+        "published_at": "2026-11-17 17:18",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Analysis: 3 thoughts on Isomorphic's record $5B Series C for AI in bio",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/analysis-3-thoughts-on-isomorphics-record-5b-series-c-for-ai-in-bio/",
+        "published_at": "2026-11-17 16:34",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Health tech preps for a consumer-driven future",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/health-tech-preps-for-a-consumer-driven-future/",
+        "published_at": "2026-11-17 16:16",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "#CTAD26: Cognito plans FDA submission of light and sound therapy for Alzheimer’s",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/ctad26-cognito-plans-fda-submission-of-light-and-sound-therapy-for-alzheimers/",
+        "published_at": "2026-11-17 16:01",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "AI drugmaker Isomorphic restocks with $5B fundraise",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/isomorphic-labs-ai-drug-discovery-financing/874863/",
+        "published_at": "2026-11-17 15:51",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Novo revamps its direct-to-consumer platform; Roche drug Gazyva approved again",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/novo-revamps-its-direct-to-consumer-platform-roche-drug-gazyva-approved-again/",
+        "published_at": "2026-11-17 15:13",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "#CTAD26: Priavoid’s amyloid-detangling pill PRI-002 fails Phase 2 study in Alzheimer’s",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/priavoids-amyloid-detangling-pill-pri-002-fails-phase-2-study-in-alzheimers/",
+        "published_at": "2026-11-17 15:05",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Patient data startup b.well launches tools to make AI chatbots safer",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/patient-data-startup-b-well-launches-tools-to-make-ai-chatbots-safer/",
+        "published_at": "2026-11-17 14:00",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Marrow raises $173M for siRNA drug competing with CRISPR therapy for sickle cell",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/marrow-raises-173m-for-sirna-drug-competing-with-crispr-therapy-for-sickle-cell/",
+        "published_at": "2026-11-17 12:00",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Roche enters the SERD market with FDA approval in late-stage breast cancer",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/roche-enters-the-serd-market-with-fda-approval-in-late-stage-breast-cancer/",
+        "published_at": "2026-11-17 12:00",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Marrow sets out to challenge genetic medicines for severe blood diseases",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/marrow-therapeutics-sickle-cell-beta-thalassemia-drug/874789/",
+        "published_at": "2026-11-17 12:00",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
         "title": "#CTAD26: AriBio’s repurposing of ED drug for Alzheimer’s yields tepid results",
         "source": "Endpoints News",
         "url": "https://endpoints.news/aribios-repurposing-of-ed-drug-for-alzheimers-yields-tepid-results/",
@@ -14,7 +98,7 @@
         "category": "Immunotherapy & Oncology"
     },
     {
-        "title": "AstraZeneca, Alexion's mysathenia gravis treatment enters crowded market",
+        "title": "AstraZeneca, Alexion's myasthenia gravis treatment enters crowded market",
         "source": "Endpoints News",
         "url": "https://endpoints.news/astrazeneca-alexions-mysathenia-gravis-treatment-enters-crowded-market/",
         "published_at": "2026-11-16 19:17",
@@ -32,6 +116,13 @@
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/summit-akeso-fda-ivonescimab-reject-egfr-lung-cancer/874745/",
         "published_at": "2026-11-16 17:14",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "CG Oncology drug delivers ‘exceptional’ results in key bladder cancer trial",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/cg-oncology-cretostimogene-adjuvant-bladder-cancer-results-pivot/874740/",
+        "published_at": "2026-11-16 17:00",
         "category": "Immunotherapy & Oncology"
     },
     {
@@ -119,25 +210,11 @@
         "category": "Clinical Trials & R&D"
     },
     {
-        "title": "The infrastructure decisions that will enable tomorrow’s biggest breakthroughs",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/spons/the-infrastructure-decisions-that-will-enable-tomorrows-biggest-breakthrou/874507/",
-        "published_at": "2026-11-16 10:00",
-        "category": "Clinical Trials & R&D"
-    },
-    {
         "title": "Sofinnova closes second crossover fund at €725M for late-stage European biotechs",
         "source": "Endpoints News",
         "url": "https://endpoints.news/sofinnova-closes-second-crossover-fund-at-e725m-for-late-stage-european-biotechs/",
         "published_at": "2026-11-16 07:00",
         "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "One of Europe’s leading VCs banks a €725M ‘crossover’ fund",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/sofinnova-crossover-fund-ii-european-investment/874656/",
-        "published_at": "2026-11-16 07:00",
-        "category": "Clinical Trials & R&D"
     },
     {
         "title": "FDA rejects Summit, Akeso's ivonescimab in narrow lung cancer setting",
@@ -159,82 +236,5 @@
         "url": "https://endpoints.news/argenx-is-spending-billions-to-push-beyond-vyvgart/",
         "published_at": "2026-11-13 18:50",
         "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "AstraZeneca pulls EU filing for antibody as CHMP backs Gazyvaro in lupus",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/astrazeneca-pulls-eu-filing-for-antibody-as-chmp-backs-gazyvaro-in-lupus/",
-        "published_at": "2026-11-13 18:01",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Windward Bio hits Nasdaq with $175M IPO, plus another $50M from Sanofi",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/windward-bio-hits-nasdaq-with-175m-ipo-plus-another-50m-from-sanofi/",
-        "published_at": "2026-11-13 16:30",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Moderna readies commercial cancer vaccine production ahead of FDA filing",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/moderna-readies-commercial-cancer-vaccine-production-ahead-of-fda-filing/",
-        "published_at": "2026-11-13 16:26",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Milestone cuts 20% of staff as Cardamyst sales hit $1M in Q3",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/milestone-cuts-20-of-staff-as-cardamyst-sales-hit-1m-in-q3/",
-        "published_at": "2026-11-13 16:19",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Regeneron posts mid-stage POTS data; Kyverna completes CAR-T filing",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/regeneron-posts-mid-stage-pots-data-kyverna-completes-car-t-filing/",
-        "published_at": "2026-11-13 16:12",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Novo submits sickle cell drug; Flagship, Gates Foundation deepen ties",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/novo-etavopivat-flagship-gates-ascidian-immuneering-neurosterix/874120/",
-        "published_at": "2026-11-13 14:36",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "This week in charts: Brain drugs are back on venture capitalists’ minds",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/charts-venture-neuroscience-oyster-vectory-acr-cell-therapy/874570/",
-        "published_at": "2026-11-13 14:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Gubra CEO gets the quick hook; Ex-HHS official Brett Giroir takes over at cancer biotech",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/gubra-ceo-gets-the-quick-hook-ex-hhs-official-brett-giroir-takes-over-at-cancer-biotech/",
-        "published_at": "2026-11-13 12:00",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "HHS directs new funds, research for psychedelics work",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/hhs-directs-new-funds-research-for-psychedelics-work/",
-        "published_at": "2026-11-12 20:09",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Rezera postpones a planned $200M IPO shortly before expected debut",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/rezera-postpones-a-planned-200m-ipo-shortly-before-expected-debut/",
-        "published_at": "2026-11-12 19:52",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Google's Gemini is getting in the health AI game",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/gemini-getting-in-the-health-ai-game/",
-        "published_at": "2026-11-12 19:39",
-        "category": "Pharma & FDA Regulatory"
     }
 ]
