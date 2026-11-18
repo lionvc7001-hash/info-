@@ -1,5 +1,47 @@
 [
     {
+        "title": "#CTAD26: Biogen’s tau drug slows Alzheimer’s more after nearly two years",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/ctad26-biogens-tau-drug-slows-alzheimers-more-after-nearly-two-years/",
+        "published_at": "2026-11-18 01:10",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "White House pulls FDA nominee Overton amid uncertain Senate support",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/white-house-pulls-fda-nominee-overton-amid-uncertain-senate-support/",
+        "published_at": "2026-11-18 00:34",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "FDA flags potential VEGF-related safety concern in Summit rejection letter",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-flags-potential-vegf-related-safety-concern-in-summit-rejection-letter/",
+        "published_at": "2026-11-17 20:35",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Beren wins FDA approval for long-studied rare disease drug",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/beren-wins-fda-approval-for-long-studied-rare-disease-drug/",
+        "published_at": "2026-11-17 20:25",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "GSK’s Nuvalent buyout delivers again as FDA clears Nelkarmi for lung cancer",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/gsks-nuvalent-buyout-delivers-again-as-fda-clears-nelkarmi-for-lung-cancer/",
+        "published_at": "2026-11-17 19:50",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "On eve of Senate committee vote, Trump's FDA pick hasn't locked up confirmation",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/on-eve-of-senate-committee-vote-trumps-fda-pick-hasnt-locked-up-confirmation/",
+        "published_at": "2026-11-17 19:49",
+        "category": "FDA & Regulatory"
+    },
+    {
         "title": "Sellas claims Phase 3 win on AML cancer vaccine",
         "source": "Endpoints News",
         "url": "https://endpoints.news/sellas-claims-phase-3-win-on-aml-cancer-vaccine/",
@@ -175,20 +217,6 @@
         "category": "Mergers & Acquisitions"
     },
     {
-        "title": "Flagship launches UK lab to build AI-driven biotechs with £100M investment",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/flagship-launches-uk-lab-to-build-ai-driven-biotechs-with-100m-investment/",
-        "published_at": "2026-11-16 12:04",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Seawolf launches with $100M to make non-viral gene therapies",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/seawolf-launches-with-100m-to-make-non-viral-gene-therapies/",
-        "published_at": "2026-11-16 10:00",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
         "title": "Big-name investors pour $100M into DNA therapeutics developer Seawolf",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/seawolf-therapeutics-dna-versant-startup-financing/874465/",
@@ -208,33 +236,5 @@
         "url": "https://www.biopharmadive.com/spons/your-ai-pilots-arent-stalling-because-of-the-ai-theyre-stalling-because/874345/",
         "published_at": "2026-11-16 10:00",
         "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Sofinnova closes second crossover fund at €725M for late-stage European biotechs",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/sofinnova-closes-second-crossover-fund-at-e725m-for-late-stage-european-biotechs/",
-        "published_at": "2026-11-16 07:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "FDA rejects Summit, Akeso's ivonescimab in narrow lung cancer setting",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-rejects-summit-akesos-ivonescimab-in-narrow-lung-cancer-setting/",
-        "published_at": "2026-11-15 12:56",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "George Church quits AI startup; Ira Mellman’s immunotherapy fight; and more",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/george-church-quits-ai-startup-ira-mellmans-immunotherapy-fight-and-more/",
-        "published_at": "2026-11-14 11:00",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Argenx is spending billions to push beyond Vyvgart",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/argenx-is-spending-billions-to-push-beyond-vyvgart/",
-        "published_at": "2026-11-13 18:50",
-        "category": "Mergers & Acquisitions"
     }
 ]
