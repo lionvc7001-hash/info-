@@ -1,5 +1,68 @@
 [
     {
+        "title": "Novo’s consumer push gains momentum with Wegovy pill, CagriSema on deck",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/novos-consumer-push-gains-momentum-with-wegovy-pill-cagrisema-on-deck/",
+        "published_at": "2026-11-18 18:25",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "White House pulls nomination for FDA nominee Overton",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/white-house-withdraw-heidi-overton-fda-commissioner-nomination/874961/",
+        "published_at": "2026-11-18 17:00",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "#CTAD26: Lilly’s dopamine drug mevidalen fails Phase 2 study in Alzheimer’s",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/ctad26-lillys-dopamine-drug-mevidalen-fails-phase-2-study-in-alzheimers/",
+        "published_at": "2026-11-18 16:22",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "Pfizer leaps into ‘in vivo’ CAR-T with latest China deal",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/pfizer-starna-in-vivo-cell-therapy-autoimmune-disease-deal/875018/",
+        "published_at": "2026-11-18 15:55",
+        "category": "Vaccines & mRNA"
+    },
+    {
+        "title": "Dispatches from Jefferies: Latent Labs on AI, Relay’s PI3Kα ambitions and Biohaven’s protein degrader approach",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/dispatches-from-jefferies-latent-labs-on-ai-relays-pi3k%ce%b1-ambitions-and-biohavens-protein-degrader-approach/",
+        "published_at": "2026-11-18 15:29",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "FDA publishes rejection letter for Summit drug; Nuvalent buyout pays more dividends for GSK",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/summit-crl-sellas-data-nelkarmi-lilly-astrazeneca-biogen/874825/",
+        "published_at": "2026-11-18 14:21",
+        "category": "Vaccines & mRNA"
+    },
+    {
+        "title": "Pfizer gets into in vivo CAR-T through licensing deal with Starna Therapeutics",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/pfizer-gets-into-in-vivo-car-t-through-licensing-deal-with-starna-therapeutics/",
+        "published_at": "2026-11-18 12:23",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "AI bio startup Boltz raises $110M Series A",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/ai-bio-startup-boltz-raises-110m-series-a/",
+        "published_at": "2026-11-18 12:00",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Merck ends the sorry saga of BTK inhibitor it got from ArQule",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/merck-ends-the-sorry-saga-of-btk-inhibitor-it-got-from-arqule/",
+        "published_at": "2026-11-18 11:43",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
         "title": "#CTAD26: Biogen’s tau drug slows Alzheimer’s more after nearly two years",
         "source": "Endpoints News",
         "url": "https://endpoints.news/ctad26-biogens-tau-drug-slows-alzheimers-more-after-nearly-two-years/",
@@ -14,7 +77,7 @@
         "category": "FDA & Regulatory"
     },
     {
-        "title": "FDA flags potential VEGF-related safety concern in Summit rejection letter",
+        "title": "FDA letter rejecting Summit cancer drug cites ‘modest’ benefit in data compared with toxicity risk",
         "source": "Endpoints News",
         "url": "https://endpoints.news/fda-flags-potential-vegf-related-safety-concern-in-summit-rejection-letter/",
         "published_at": "2026-11-17 20:35",
@@ -147,13 +210,6 @@
         "category": "FDA & Regulatory"
     },
     {
-        "title": "Helus Pharma notches successful Phase 3 depression readout",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/helus-pharma-notches-successful-phase-3-depression-readout/",
-        "published_at": "2026-11-16 18:30",
-        "category": "Clinical Trials"
-    },
-    {
         "title": "Summit shares fall as FDA rejects closely watched PD-1/VEGF drug",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/summit-akeso-fda-ivonescimab-reject-egfr-lung-cancer/874745/",
@@ -175,66 +231,10 @@
         "category": "Mergers & Acquisitions"
     },
     {
-        "title": "China's $40k CAR-T; Novartis and Biogen strike deals",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/car-t-costs-falling-in-china-novartis-and-biogen-strike-deals-obesityweek-readouts/",
-        "published_at": "2026-11-16 16:19",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Parker Institute's Karen Knudsen: Cancer research has a translation problem",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/parker-institutes-karen-knudsen-cancer-research-has-a-translation-problem/",
-        "published_at": "2026-11-16 15:57",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Lilly's 14th acquisition of the year is a little-known blood cancer biotech",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/lillys-14th-acquisition-of-the-year-is-a-little-known-blood-cancer-biotech/",
-        "published_at": "2026-11-16 14:37",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "J&J to buy eye disease biotech Ollin Biosciences for up to $3.3B",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/jj-to-buy-eye-disease-biotech-ollin-biosciences-for-up-to-3-3b/",
-        "published_at": "2026-11-16 13:52",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "CG Oncology's bladder cancer treatment beats expectations in Phase 3",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/cg-oncologys-bladder-cancer-treatment-beats-expectations-in-phase-3/",
-        "published_at": "2026-11-16 13:00",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
         "title": "Lilly adds to buyout streak with $1.5B purchase of startup Calytrix",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/lilly-calytrix-bio-acquire-deal-myelofibrosis-essential-thrombocythemiaenial-/874719/",
         "published_at": "2026-11-16 12:44",
         "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "The infrastructure decisions that will enable tomorrow’s biggest breakthroughs",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/spons/the-infrastructure-decisions-that-will-enable-tomorrows-biggest-breakthrou/874507/",
-        "published_at": "2026-11-16 10:00",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Your AI pilots aren’t stalling because of the AI – they’re stalling because of your environment",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/spons/your-ai-pilots-arent-stalling-because-of-the-ai-theyre-stalling-because/874345/",
-        "published_at": "2026-11-16 10:00",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Completing the circle: the next evolution in sustainable pharmaceutical blister packaging",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/spons/completing-the-circle-the-next-evolution-in-sustainable-pharmaceutical-bli/874350/",
-        "published_at": "2026-11-16 10:00",
-        "category": "Clinical Trials & R&D"
     }
 ]
