@@ -1,5 +1,75 @@
 [
     {
+        "title": "Sanofi gains FDA clearance for Gaucher disease pill",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/sanofi-fda-infilbray-venglustat-approve-gaucher/875167/",
+        "published_at": "2026-11-19 17:17",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Lilly starts work on Pennsylvania obesity plant; ITM, AtomVie strike supply deal",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/lilly-starts-work-on-pennsylvania-obesity-plant-itm-atomvie-strike-supply-deal/",
+        "published_at": "2026-11-19 17:07",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "China could ‘corner’ biopharma sector with new plan, US panel warns",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/us-china-biotech-report-commission-supply-chain-2026/875170/",
+        "published_at": "2026-11-19 16:42",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Chinese AI lab MegaRobo raises nearly $200M; Isomorphic partners with Merck",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/chinese-ai-lab-megarobo-raises-nearly-200m-isomorphic-partners-with-merck/",
+        "published_at": "2026-11-19 16:41",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Sanofi considering a deal to acquire Insmed, according to report",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/sanofi-considering-a-deal-to-acquire-insmed-according-to-report/",
+        "published_at": "2026-11-19 16:36",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Why Oura is buying Counsel",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/why-oura-bought-counsel/",
+        "published_at": "2026-11-19 16:23",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Novartis details eczema win, autoimmune CAR-T efforts after rocky quarter",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/novartis-details-eczema-win-autoimmune-car-t-efforts-after-rocky-quarter/",
+        "published_at": "2026-11-19 15:34",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "With FDA nod, Regeneron brings an RNAi drug to autoimmune disease",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/regeneron-fda-approve-cemdisiran-livsayis-myasthenia-gravis-alnylam/875160/",
+        "published_at": "2026-11-19 15:10",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Regeneron enters neurology field as FDA approves siRNA for myasthenia gravis",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/regeneron-enters-neurology-field-as-fda-approves-sirna-for-myasthenia-gravis/",
+        "published_at": "2026-11-19 14:15",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Lilly adds General Medicine for Alzheimer's disease diagnosis",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/lillydirect-adds-general-medicine-for-alzheimers-disease-diagnosis/",
+        "published_at": "2026-11-19 14:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
         "title": "AbbVie and Disco strike deal worth up to $2.54B for solid tumor targets",
         "source": "Endpoints News",
         "url": "https://endpoints.news/abbvvie-and-disco-strike-deal-worth-more-than-2-5b-for-solid-tumor-targets/",
@@ -154,27 +224,6 @@
         "category": "Immunotherapy & Oncology"
     },
     {
-        "title": "Analysis: 3 thoughts on Isomorphic's record $5B Series C for AI in bio",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/analysis-3-thoughts-on-isomorphics-record-5b-series-c-for-ai-in-bio/",
-        "published_at": "2026-11-17 16:34",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Health tech preps for a consumer-driven future",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/health-tech-preps-for-a-consumer-driven-future/",
-        "published_at": "2026-11-17 16:16",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "#CTAD26: Cognito plans FDA submission of light and sound therapy for Alzheimer’s",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/ctad26-cognito-plans-fda-submission-of-light-and-sound-therapy-for-alzheimers/",
-        "published_at": "2026-11-17 16:01",
-        "category": "FDA & Regulatory"
-    },
-    {
         "title": "AI drugmaker Isomorphic restocks with $5B fundraise",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/isomorphic-labs-ai-drug-discovery-financing/874863/",
@@ -182,59 +231,10 @@
         "category": "Clinical Trials & R&D"
     },
     {
-        "title": "Novo revamps its direct-to-consumer platform; Roche drug Gazyva approved again",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/novo-revamps-its-direct-to-consumer-platform-roche-drug-gazyva-approved-again/",
-        "published_at": "2026-11-17 15:13",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "#CTAD26: Priavoid’s amyloid-detangling pill PRI-002 fails Phase 2 study in Alzheimer’s",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/priavoids-amyloid-detangling-pill-pri-002-fails-phase-2-study-in-alzheimers/",
-        "published_at": "2026-11-17 15:05",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "Patient data startup b.well launches tools to make AI chatbots safer",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/patient-data-startup-b-well-launches-tools-to-make-ai-chatbots-safer/",
-        "published_at": "2026-11-17 14:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Marrow raises $173M for siRNA drug competing with CRISPR therapy for sickle cell",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/marrow-raises-173m-for-sirna-drug-competing-with-crispr-therapy-for-sickle-cell/",
-        "published_at": "2026-11-17 12:00",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
         "title": "Marrow sets out to challenge genetic medicines for severe blood diseases",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/marrow-therapeutics-sickle-cell-beta-thalassemia-drug/874789/",
         "published_at": "2026-11-17 12:00",
         "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Summit shares fall as FDA rejects closely watched PD-1/VEGF drug",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/summit-akeso-fda-ivonescimab-reject-egfr-lung-cancer/874745/",
-        "published_at": "2026-11-16 17:14",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "CG Oncology drug delivers ‘exceptional’ results in key bladder cancer trial",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/cg-oncology-cretostimogene-adjuvant-bladder-cancer-results-pivot/874740/",
-        "published_at": "2026-11-16 17:00",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "J&J bets $2.2B on Ollin’s vision loss drug",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/Johnson-johnson-ollin-acquire-ophthalmology-vegf-ang2-drugs/874728/",
-        "published_at": "2026-11-16 16:57",
-        "category": "Mergers & Acquisitions"
     }
 ]
