@@ -1,5 +1,33 @@
 [
     {
+        "title": "How Trump FDA nominee Heidi Overton's confirmation failed",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/how-trump-fda-nominee-heidi-overtons-confirmation-failed/",
+        "published_at": "2026-11-18 22:29",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "nChroma Bio stops its only clinical study early, lays off 50%",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/nchroma-bio-stops-its-only-clinical-study-early-lays-off-50/",
+        "published_at": "2026-11-18 21:19",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Hims launches popular peptides and other longevity treatments",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/hims-launches-popular-peptides-and-other-longevity-treatments/",
+        "published_at": "2026-11-18 19:15",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "‘Selling and marketing snake oil’: The debate over compounded GLP-1s",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/compounded-glp-1s-telehealth-debate-snake-oil-fda/875065/",
+        "published_at": "2026-11-18 18:51",
+        "category": "Clinical Trials & R&D"
+    },
+    {
         "title": "Novo’s consumer push gains momentum with Wegovy pill, CagriSema on deck",
         "source": "Endpoints News",
         "url": "https://endpoints.news/novos-consumer-push-gains-momentum-with-wegovy-pill-cagrisema-on-deck/",
@@ -189,27 +217,6 @@
         "category": "Gene Editing & CRISPR"
     },
     {
-        "title": "#CTAD26: AriBio’s repurposing of ED drug for Alzheimer’s yields tepid results",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/aribios-repurposing-of-ed-drug-for-alzheimers-yields-tepid-results/",
-        "published_at": "2026-11-16 22:22",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Lilly strikes up to $5.9B cancer deal with Stipple Bio",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/lilly-strikes-up-to-5-9b-cancer-deal-with-stipple-bio/",
-        "published_at": "2026-11-16 21:01",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "AstraZeneca, Alexion's myasthenia gravis treatment enters crowded market",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/astrazeneca-alexions-mysathenia-gravis-treatment-enters-crowded-market/",
-        "published_at": "2026-11-16 19:17",
-        "category": "FDA & Regulatory"
-    },
-    {
         "title": "Summit shares fall as FDA rejects closely watched PD-1/VEGF drug",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/summit-akeso-fda-ivonescimab-reject-egfr-lung-cancer/874745/",
@@ -228,13 +235,6 @@
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/Johnson-johnson-ollin-acquire-ophthalmology-vegf-ang2-drugs/874728/",
         "published_at": "2026-11-16 16:57",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Lilly adds to buyout streak with $1.5B purchase of startup Calytrix",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/lilly-calytrix-bio-acquire-deal-myelofibrosis-essential-thrombocythemiaenial-/874719/",
-        "published_at": "2026-11-16 12:44",
         "category": "Mergers & Acquisitions"
     }
 ]
