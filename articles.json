@@ -1,5 +1,61 @@
 [
     {
+        "title": "Pharma layoffs continue in New Jersey; Bausch + Lomb drug misses endpoint",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/pharma-layoffs-continue-in-new-jersey-bausch-lomb-drug-misses-endpoint/",
+        "published_at": "2026-11-20 16:37",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "KRAS at Triple Meeting: Erasca wants to one-up RevMed, while Alterome tries a different approach",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/kras-at-triple-meeting-erasca-wants-to-one-up-revmed-while-alterome-tries-a-different-approach/",
+        "published_at": "2026-11-20 16:22",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Merck gets another Phase 3 win for sac-TMT, this time in gastric cancer",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/merck-gets-another-phase-3-win-for-sac-tmt-this-time-in-gastric-cancer/",
+        "published_at": "2026-11-20 15:31",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Celldex drug stumbles in eczema; Epigenetic editing startup cuts staff",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/celldex-eczema-nchroma-layoffs-isomorphic-merck-teva-vitrivax/875241/",
+        "published_at": "2026-11-20 13:03",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Celldex culls eczema study after Phase 2 failure",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/celldex-culls-eczema-drug-after-phase-2-failure/",
+        "published_at": "2026-11-20 12:36",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "CNS dispatches from Jefferies: Acadia’s search for deals, Alto’s psychiatry question and ProMIS’ Alzheimer’s ambitions",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/cns-dispatches-from-jefferies-acadias-search-for-deals-altos-psychiatry-question-and-promis-alzheimers-ambitions/",
+        "published_at": "2026-11-20 12:11",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Teva on the hunt for new R&D head; Summit's rejection came after commercial chief's exit",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/teva-on-the-hunt-for-new-r-summits-rejection-came-after-commercial-chiefs-exit/",
+        "published_at": "2026-11-20 12:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "This week in charts: Biotech investors’ China bets are already paying off",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/biotech-china-deals-venture-returns-summit-stock/874912/",
+        "published_at": "2026-11-20 12:00",
+        "category": "Mergers & Acquisitions"
+    },
+    {
         "title": "Congressional biotech commission warns of China deal flow",
         "source": "Endpoints News",
         "url": "https://endpoints.news/congressional-biotech-commission-warns-of-china-deal-flow/",
@@ -28,7 +84,7 @@
         "category": "Mergers & Acquisitions"
     },
     {
-        "title": "China could ‘corner’ biopharmaceutical sector with new plan, US panel warns",
+        "title": "China could ‘corner’ biopharma sector with new plan, US panel warns",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/us-china-biotech-report-commission-supply-chain-2026/875170/",
         "published_at": "2026-11-19 16:42",
@@ -175,66 +231,10 @@
         "category": "Mergers & Acquisitions"
     },
     {
-        "title": "Merck ends the sorry saga of BTK inhibitor it got from ArQule",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/merck-ends-the-sorry-saga-of-btk-inhibitor-it-got-from-arqule/",
-        "published_at": "2026-11-18 11:43",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "#CTAD26: Biogen’s tau drug slows Alzheimer’s more after nearly two years",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/ctad26-biogens-tau-drug-slows-alzheimers-more-after-nearly-two-years/",
-        "published_at": "2026-11-18 01:10",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "White House pulls FDA nominee Overton amid uncertain Senate support",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/white-house-pulls-fda-nominee-overton-amid-uncertain-senate-support/",
-        "published_at": "2026-11-18 00:34",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "FDA letter rejecting Summit cancer drug cites ‘modest’ benefit in data compared with toxicity risk",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/fda-flags-potential-vegf-related-safety-concern-in-summit-rejection-letter/",
-        "published_at": "2026-11-17 20:35",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "Beren wins FDA approval for long-studied rare disease drug",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/beren-wins-fda-approval-for-long-studied-rare-disease-drug/",
-        "published_at": "2026-11-17 20:25",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "GSK’s Nuvalent buyout delivers again as FDA clears Nelkarmi for lung cancer",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/gsks-nuvalent-buyout-delivers-again-as-fda-clears-nelkarmi-for-lung-cancer/",
-        "published_at": "2026-11-17 19:50",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
         "title": "Roche breast cancer pill cleared by FDA",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/roche-fda-approve-wilserdly-giredestrant-breast-cancer/874884/",
         "published_at": "2026-11-17 17:18",
         "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "AI drugmaker Isomorphic restocks with $5B fundraise",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/isomorphic-labs-ai-drug-discovery-financing/874863/",
-        "published_at": "2026-11-17 15:51",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Marrow sets out to challenge genetic medicines for severe blood diseases",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/marrow-therapeutics-sickle-cell-beta-thalassemia-drug/874789/",
-        "published_at": "2026-11-17 12:00",
-        "category": "Gene Editing & CRISPR"
     }
 ]
