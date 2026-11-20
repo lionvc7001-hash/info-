@@ -1,5 +1,26 @@
 [
     {
+        "title": "Will the first approved psychedelic become a blockbuster?",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/race-first-psilocybin-blockbuster-compass-usona/875369/",
+        "published_at": "2026-11-20 19:53",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "More lawmakers stake out stances on China biotech investment",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/more-lawmakers-stake-out-stances-on-china-biotech-investment/",
+        "published_at": "2026-11-20 19:52",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Erasca data add to pressure facing Revolution’s breakthrough cancer drug",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/erasca-kras-pancreatic-cancer-drug-results-revolution-rasonque/875314/",
+        "published_at": "2026-11-20 17:18",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
         "title": "Pharma layoffs continue in New Jersey; Bausch + Lomb drug misses endpoint",
         "source": "Endpoints News",
         "url": "https://endpoints.news/pharma-layoffs-continue-in-new-jersey-bausch-lomb-drug-misses-endpoint/",
@@ -210,31 +231,10 @@
         "category": "Pharma & FDA Regulatory"
     },
     {
-        "title": "FDA publishes rejection letter for Summit drug; Nuvalent buyout pays more dividends for GSK",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/summit-crl-sellas-data-nelkarmi-lilly-astrazeneca-biogen/874825/",
-        "published_at": "2026-11-18 14:21",
-        "category": "Vaccines & mRNA"
-    },
-    {
         "title": "Pfizer gets into in vivo CAR-T through licensing deal with Starna Therapeutics",
         "source": "Endpoints News",
         "url": "https://endpoints.news/pfizer-gets-into-in-vivo-car-t-through-licensing-deal-with-starna-therapeutics/",
         "published_at": "2026-11-18 12:23",
         "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "AI bio startup Boltz raises $110M Series A",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/ai-bio-startup-boltz-raises-110m-series-a/",
-        "published_at": "2026-11-18 12:00",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Roche breast cancer pill cleared by FDA",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/roche-fda-approve-wilserdly-giredestrant-breast-cancer/874884/",
-        "published_at": "2026-11-17 17:18",
-        "category": "Immunotherapy & Oncology"
     }
 ]
