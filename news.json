@@ -1,5 +1,12 @@
 [
     {
+        "title": "FDA again turns back Capricor Duchenne cell therapy",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/capricor-fda-duchenne-cell-therapy-deramiocel/875384/",
+        "published_at": "2026-11-21 20:46",
+        "category": "FDA & Regulatory"
+    },
+    {
         "title": "It’s Over-ton; Thoughts on Isomorphic’s latest haul; and more",
         "source": "Endpoints News",
         "url": "https://endpoints.news/its-over-ton-thoughts-on-isomorphics-latest-haul-and-more/",
@@ -229,12 +236,5 @@
         "url": "https://endpoints.news/ctad26-lillys-dopamine-drug-mevidalen-fails-phase-2-study-in-alzheimers/",
         "published_at": "2026-11-18 16:22",
         "category": "Clinical Trials"
-    },
-    {
-        "title": "Pfizer leaps into ‘in vivo’ CAR-T with latest China deal",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/pfizer-starna-in-vivo-cell-therapy-autoimmune-disease-deal/875018/",
-        "published_at": "2026-11-18 15:55",
-        "category": "Vaccines & mRNA"
     }
 ]
