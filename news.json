@@ -1,5 +1,19 @@
 [
     {
+        "title": "Why today’s leading drug developers are fine-tuning open models on their own data",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/spons/why-todays-leading-drug-developers-are-fine-tuning-open-models-on-their-ow/875153/",
+        "published_at": "2026-11-23 10:00",
+        "category": "Clinical Trials & R&D"
+    },
+    {
+        "title": "Lilly buys Huntington's startup LoQus23 for up to $725M",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/lilly-buys-huntingtons-startup-loqus23-for-up-to-725m/",
+        "published_at": "2026-11-23 09:37",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
         "title": "FDA again turns back Capricor Duchenne cell therapy",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/capricor-fda-duchenne-cell-therapy-deramiocel/875384/",
@@ -222,19 +236,5 @@
         "url": "https://endpoints.news/novos-consumer-push-gains-momentum-with-wegovy-pill-cagrisema-on-deck/",
         "published_at": "2026-11-18 18:25",
         "category": "FDA & Regulatory"
-    },
-    {
-        "title": "White House pulls nomination for FDA nominee Overton",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/white-house-withdraw-heidi-overton-fda-commissioner-nomination/874961/",
-        "published_at": "2026-11-18 17:00",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "#CTAD26: Lilly’s dopamine drug mevidalen fails Phase 2 study in Alzheimer’s",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/ctad26-lillys-dopamine-drug-mevidalen-fails-phase-2-study-in-alzheimers/",
-        "published_at": "2026-11-18 16:22",
-        "category": "Clinical Trials"
     }
 ]
