@@ -1,5 +1,82 @@
 [
     {
+        "title": "Capricor says it will challenge FDA's rejection of Duchenne therapy",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/capricor-says-it-will-challenge-fdas-rejection-of-duchenne-therapy/",
+        "published_at": "2026-11-23 19:50",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "FDA approves BridgeBio rare disease drug for muscular dystrophy",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/fda-approves-bridgebio-rare-disease-drug-for-muscular-dystrophy/",
+        "published_at": "2026-11-23 19:13",
+        "category": "FDA & Regulatory"
+    },
+    {
+        "title": "Optum Rx CEO bets people are ready to shop for their prescriptions",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/optum-rx-ceo-bets-people-are-ready-to-shop-for-their-prescriptions/",
+        "published_at": "2026-11-23 18:30",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Healthcare spending on AI surpasses other sectors, report says",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/healthcare-spending-on-ai-surpasses-other-sectors-report-says/",
+        "published_at": "2026-11-23 18:05",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Roche wins second FDA approval for breast cancer pill, opening up bigger market",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/roche-wins-second-fda-approval-for-breast-cancer-pill-opening-up-bigger-market/",
+        "published_at": "2026-11-23 17:44",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Lilly buys Huntington’s drug developer LoQus23 in potentially $725M deal",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/lilly-loqus-huntingtons-drug-acquisition-deal/875448/",
+        "published_at": "2026-11-23 16:17",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "House committee issues final report on US-China biotech race",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/house-committee-issues-final-report-on-us-china-biotech-race/",
+        "published_at": "2026-11-23 16:00",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Arcus stops Phase 3 study of CD73 inhibitor; Novartis' Leqvio eases heart event risk",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/arcus-stops-phase-3-study-of-cd73-inhibitor-novartis-leqvio-eases-heart-event-risk/",
+        "published_at": "2026-11-23 15:51",
+        "category": "Gene Editing & CRISPR"
+    },
+    {
+        "title": "Avenzo begins public life, seeks to rival Bristol Myers' EGFRxHER3 bispecific",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/avenzo-begins-public-life-seeks-to-rival-bristol-myers-egfrxher3-bispecific/",
+        "published_at": "2026-11-23 15:43",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Kymera’s STAT6 degrader clears mid-stage test in atopic dermatitis",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/kymeras-stat6-degrader-clears-mid-stage-test-in-atopic-dermatitis/",
+        "published_at": "2026-11-23 12:00",
+        "category": "Clinical Trials"
+    },
+    {
+        "title": "After $14B Intra-Cellular success, Sharon Mates returns with new biotech Ritzey Therapeutics",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/after-14b-intra-cellular-success-sharon-mates-returns-with-new-biotech-ritzey-therapeutics/",
+        "published_at": "2026-11-23 12:00",
+        "category": "Mergers & Acquisitions"
+    },
+    {
         "title": "Why today’s leading drug developers are fine-tuning open models on their own data",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/spons/why-todays-leading-drug-developers-are-fine-tuning-open-models-on-their-ow/875153/",
@@ -154,87 +231,10 @@
         "category": "Mergers & Acquisitions"
     },
     {
-        "title": "Sanofi considering a deal to acquire Insmed, according to report",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/sanofi-considering-a-deal-to-acquire-insmed-according-to-report/",
-        "published_at": "2026-11-19 16:36",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Why Oura is buying Counsel",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/why-oura-bought-counsel/",
-        "published_at": "2026-11-19 16:23",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Novartis details eczema win, autoimmune CAR-T efforts after rocky quarter",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/novartis-details-eczema-win-autoimmune-car-t-efforts-after-rocky-quarter/",
-        "published_at": "2026-11-19 15:34",
-        "category": "Clinical Trials"
-    },
-    {
         "title": "With FDA nod, Regeneron brings an RNAi drug to autoimmune disease",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/regeneron-fda-approve-cemdisiran-livsayis-myasthenia-gravis-alnylam/875160/",
         "published_at": "2026-11-19 15:10",
         "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Regeneron enters neurology field as FDA approves siRNA for myasthenia gravis",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/regeneron-enters-neurology-field-as-fda-approves-sirna-for-myasthenia-gravis/",
-        "published_at": "2026-11-19 14:15",
-        "category": "Gene Editing & CRISPR"
-    },
-    {
-        "title": "Lilly adds General Medicine for Alzheimer's disease diagnosis",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/lillydirect-adds-general-medicine-for-alzheimers-disease-diagnosis/",
-        "published_at": "2026-11-19 14:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "AbbVie and Disco strike deal worth up to $2.54B for solid tumor targets",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/abbvvie-and-disco-strike-deal-worth-more-than-2-5b-for-solid-tumor-targets/",
-        "published_at": "2026-11-19 07:00",
-        "category": "Immunotherapy & Oncology"
-    },
-    {
-        "title": "How Trump FDA nominee Heidi Overton's confirmation failed",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/how-trump-fda-nominee-heidi-overtons-confirmation-failed/",
-        "published_at": "2026-11-18 22:29",
-        "category": "FDA & Regulatory"
-    },
-    {
-        "title": "nChroma Bio stops its only clinical study early, lays off 50%",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/nchroma-bio-stops-its-only-clinical-study-early-lays-off-50/",
-        "published_at": "2026-11-18 21:19",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "Hims launches popular peptides and other longevity treatments",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/hims-launches-popular-peptides-and-other-longevity-treatments/",
-        "published_at": "2026-11-18 19:15",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
-        "title": "‘Selling and marketing snake oil’: The debate over compounded GLP-1s",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/compounded-glp-1s-telehealth-debate-snake-oil-fda/875065/",
-        "published_at": "2026-11-18 18:51",
-        "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Novo’s consumer push gains momentum with Wegovy pill, CagriSema on deck",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/novos-consumer-push-gains-momentum-with-wegovy-pill-cagrisema-on-deck/",
-        "published_at": "2026-11-18 18:25",
-        "category": "FDA & Regulatory"
     }
 ]
