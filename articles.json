@@ -1,5 +1,54 @@
 [
     {
+        "title": "Sanofi makes a huge bet on life after Dupixent",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/sanofi-makes-a-huge-bet-on-life-after-dupixent/",
+        "published_at": "2026-11-24 18:31",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "FDA approves BridgeBio muscular dystrophy drug",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/fda-bridgebio-welgemda-limb-girdle-muscle-disorder-approval/875610/",
+        "published_at": "2026-11-24 16:36",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Pharming eyes deals, awaits leniolisib readout as it looks for new CEO",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/pharming-eyes-deals-awaits-leniolisib-readout-as-it-looks-for-new-ceo/",
+        "published_at": "2026-11-24 16:20",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "Consumers’ changing relationships with blood testing",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/consumers-changing-relationships-with-blood-testing/",
+        "published_at": "2026-11-24 16:11",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Kymera's historic $1.75B offering; DiaMedica's fetal growth restriction data",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/kymeras-historica-1-75b-offering-diamedicas-fetal-growth-restriction-data/",
+        "published_at": "2026-11-24 16:11",
+        "category": "Mergers & Acquisitions"
+    },
+    {
+        "title": "#SABCS26: Novartis, J&J unveil breast cancer data from biotech buyouts",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/sabcs26-novartis-jj-unveil-breast-cancer-data-from-biotech-buyouts/",
+        "published_at": "2026-11-24 15:41",
+        "category": "Immunotherapy & Oncology"
+    },
+    {
+        "title": "Sanofi to buy Insmed for $41B in industry's largest acquisition in years",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/sanofi-to-buy-insmed-for-41b-in-industrys-largest-acquisition-in-years/",
+        "published_at": "2026-11-24 08:20",
+        "category": "Vaccines & mRNA"
+    },
+    {
         "title": "CMS reveals Medicare's negotiated drug prices for 2028",
         "source": "Endpoints News",
         "url": "https://endpoints.news/cms-reveals-medicares-negotiated-drug-prices-for-2028/",
@@ -175,27 +224,6 @@
         "category": "Immunotherapy & Oncology"
     },
     {
-        "title": "Celldex culls eczema study after Phase 2 failure",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/celldex-culls-eczema-drug-after-phase-2-failure/",
-        "published_at": "2026-11-20 12:36",
-        "category": "Clinical Trials"
-    },
-    {
-        "title": "CNS dispatches from Jefferies: Acadia’s search for deals, Alto’s psychiatry question and ProMIS’ Alzheimer’s ambitions",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/cns-dispatches-from-jefferies-acadias-search-for-deals-altos-psychiatry-question-and-promis-alzheimers-ambitions/",
-        "published_at": "2026-11-20 12:11",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Teva on the hunt for new R&D head; Summit's rejection came after commercial chief's exit",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/teva-on-the-hunt-for-new-r-summits-rejection-came-after-commercial-chiefs-exit/",
-        "published_at": "2026-11-20 12:00",
-        "category": "Pharma & FDA Regulatory"
-    },
-    {
         "title": "This week in charts: Biotech investors’ China bets are already paying off",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/biotech-china-deals-venture-returns-summit-stock/874912/",
@@ -203,38 +231,10 @@
         "category": "Mergers & Acquisitions"
     },
     {
-        "title": "Congressional biotech commission warns of China deal flow",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/congressional-biotech-commission-warns-of-china-deal-flow/",
-        "published_at": "2026-11-19 19:40",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "Sanofi's Infilbray wins first approval for neurological symptoms of Gaucher",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/sanofis-infilbray-wins-first-approval-for-neurological-symptoms-of-gaucher/",
-        "published_at": "2026-11-19 19:18",
-        "category": "FDA & Regulatory"
-    },
-    {
         "title": "Sanofi gains FDA clearance for Gaucher disease pill",
         "source": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/sanofi-fda-infilbray-venglustat-approve-gaucher/875167/",
         "published_at": "2026-11-19 17:17",
         "category": "FDA & Regulatory"
-    },
-    {
-        "title": "Lilly starts work on Pennsylvania obesity plant; ITM, AtomVie strike supply deal",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/lilly-starts-work-on-pennsylvania-obesity-plant-itm-atomvie-strike-supply-deal/",
-        "published_at": "2026-11-19 17:07",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "China could ‘corner’ biopharma sector with new plan, US panel warns",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/us-china-biotech-report-commission-supply-chain-2026/875170/",
-        "published_at": "2026-11-19 16:42",
-        "category": "Clinical Trials & R&D"
     }
 ]
