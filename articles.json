@@ -1,5 +1,12 @@
 [
     {
+        "title": "CMS reveals Medicare's negotiated drug prices for 2028",
+        "source": "Endpoints News",
+        "url": "https://endpoints.news/cms-reveals-medicares-negotiated-drug-prices-for-2028/",
+        "published_at": "2026-11-24 00:48",
+        "category": "Pharma & FDA Regulatory"
+    },
+    {
         "title": "Capricor says it will challenge FDA's rejection of Duchenne therapy",
         "source": "Endpoints News",
         "url": "https://endpoints.news/capricor-says-it-will-challenge-fdas-rejection-of-duchenne-therapy/",
@@ -61,6 +68,13 @@
         "url": "https://endpoints.news/avenzo-begins-public-life-seeks-to-rival-bristol-myers-egfrxher3-bispecific/",
         "published_at": "2026-11-23 15:43",
         "category": "Pharma & FDA Regulatory"
+    },
+    {
+        "title": "Kymera eczema pill meets goals in mid-stage trial",
+        "source": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/kymera-eczema-pill-phase2-data-protein-degrader-dupixent-ebglyss/875462/",
+        "published_at": "2026-11-23 14:53",
+        "category": "Clinical Trials"
     },
     {
         "title": "Kymera’s STAT6 degrader clears mid-stage test in atopic dermatitis",
@@ -222,19 +236,5 @@
         "url": "https://www.biopharmadive.com/news/us-china-biotech-report-commission-supply-chain-2026/875170/",
         "published_at": "2026-11-19 16:42",
         "category": "Clinical Trials & R&D"
-    },
-    {
-        "title": "Chinese AI lab MegaRobo raises nearly $200M; Isomorphic partners with Merck",
-        "source": "Endpoints News",
-        "url": "https://endpoints.news/chinese-ai-lab-megarobo-raises-nearly-200m-isomorphic-partners-with-merck/",
-        "published_at": "2026-11-19 16:41",
-        "category": "Mergers & Acquisitions"
-    },
-    {
-        "title": "With FDA nod, Regeneron brings an RNAi drug to autoimmune disease",
-        "source": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/news/regeneron-fda-approve-cemdisiran-livsayis-myasthenia-gravis-alnylam/875160/",
-        "published_at": "2026-11-19 15:10",
-        "category": "Gene Editing & CRISPR"
     }
 ]
